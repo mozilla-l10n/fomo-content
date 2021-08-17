@@ -1,0 +1,92 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-17 21:24:18.616127+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2b142d95-c9ff-4d29-8a85-5d030cfeffba\n"
+
+msgctxt "seo_title"
+msgid "Mozilla Explains: Why Did I Watch That?"
+msgstr ""
+
+msgctxt "search_description"
+msgid "A primer on YouTube's recommendation algorithm."
+msgstr ""
+
+msgctxt "body.ce834ddb-8811-45a1-b585-fca3833fd135.altText"
+msgid "Mozilla Explains: Why Did I Watch That?"
+msgstr ""
+
+msgctxt "body.f5f5a037-4d2a-4c32-a8ec-b5d6044e8fc6"
+msgid ""
+"YouTube’s video recommendations are a core feature of the system. In fact, <a id=\"a1\">70%</a> of viewing time on the platform is driven by YouTube’s recommendations. Sometimes the recommendations "
+"are just right, but sometimes, they send you down an unexpected rabbit hole. How does YouTube decide what to recommend to you?"
+msgstr ""
+
+msgctxt "body.f5f5a037-4d2a-4c32-a8ec-b5d6044e8fc6"
+msgid ""
+"The short answer is the site’s content recommendation engine. YouTube looks at three main things to determine what video it should serve you next: its content collection, the current context and "
+"information about you."
+msgstr ""
+
+msgctxt "body.f5f5a037-4d2a-4c32-a8ec-b5d6044e8fc6"
+msgid "Jesse McCrosky, Mozilla Foundation researcher and data scientist, has the info for you."
+msgstr ""
+
+msgctxt "body.102d2219-41dd-4e64-90a9-f55161feb6f6.url"
+msgid "https://www.youtube.com/embed/pt9YCVX7VOk"
+msgstr ""
+
+msgctxt "body.4c53ba86-479c-4d8a-9927-5b7af9a9b7cd"
+msgid ""
+"Let’s take the example of cat videos. Before you decide to go to YouTube and pull up funny cat videos, <a id=\"a1\">YouTube analyzes</a> numerous data points about its video collection: things like "
+"topic, length, production quality and more. With this at its disposal, YouTube takes in the second data point: current context. Not just finding out what a user just watched but also contextual "
+"data: time, location and anything else that speaks to the environment in which you’re watching funny cat videos."
+msgstr ""
+
+msgctxt "body.4c53ba86-479c-4d8a-9927-5b7af9a9b7cd"
+msgid ""
+"And then there’s the final piece: the information YouTube knows about you. In addition to the information you’ve given YouTube <a id=\"a1\">the site can also track</a> your <a id=\"a2\">watch "
+"time</a>, what you like, dislike, share with a friend, and it's possible that they're also tracking things like scroll speed, where you move your mouse, where you click, and which video thumbnails "
+"you hover over. Everything you do on the platform has the potential to offer up more information for YouTube to make an educated guess about your viewing habits. With all this information, YouTube "
+"can make an inference about you. “This person <b>definitely</b> wants more cat videos.”"
+msgstr ""
+
+msgctxt "body.4c53ba86-479c-4d8a-9927-5b7af9a9b7cd"
+msgid "Black Box?"
+msgstr ""
+
+msgctxt "body.4c53ba86-479c-4d8a-9927-5b7af9a9b7cd"
+msgid ""
+"While we have a general sense of how YouTube makes predictions, we’re not entirely sure how the algorithm makes decisions — and why (<a id=\"a1\">but we are investigating it!</a>). In fact, "
+"independent researchers like Mozilla fellow and <a id=\"a2\">AlgoTransparency</a> founder Guillaume Chaslot have been working to better understand how YouTube’s AI operates because YouTube, like "
+"other companies, does not disclose details about its algorithm. YouTube’s algorithms can be a black box of sorts, considering how hard it is to see inside and get a sense of the inner workings."
+msgstr ""
+
+msgctxt "body.76a34021-0813-4adb-ac12-6917c5f84bf9.url"
+msgid "https://www.youtube.com/embed/S0pE87hADUU"
+msgstr ""
+
+msgctxt "body.1874f5f8-92d0-45b9-8159-515525224648"
+msgid ""
+"Put simply, <a id=\"a1\">YouTube is optimized for two things</a>: engagement and user satisfaction. Engagement measures how much time you spend on the service, user satisfaction attempts to measure "
+"whether or not you liked what you saw, by giving the video a Like or sharing the video with friends. But, as McCrosky points out,YouTube’s incentives are <a id=\"a2\">better aligned with optimizing "
+"for engagement</a>. That can be troublesome when a video is misleading or engages a conspiracy theory, but is popular and leads to more users staying on YouTube longer."
+msgstr ""
+
+msgctxt "body.1874f5f8-92d0-45b9-8159-515525224648"
+msgid "Watch It, But Watch Out"
+msgstr ""
+
+msgctxt "body.1874f5f8-92d0-45b9-8159-515525224648"
+msgid ""
+"Ultimately, YouTube’s goal is to make us want to stay on the service for longer and longer — regardless of whether or not the video itself is worth watching. This may seem harmless when it results "
+"in you wasting time, but since so many people get their news on YouTube, the choices their algorithm makes can have serious social consequences, and we need to be critical of whether the platform is"
+" designed for the good of society. You can typically expect YouTube’s recommendation engine to serve you videos you’ll want to watch, but don’t expect it to always give you videos worth watching - "
+"only you can decide."
+msgstr ""
+
+msgctxt "title"
+msgid "Mozilla Explains: Why Did I Watch That?"
+msgstr ""

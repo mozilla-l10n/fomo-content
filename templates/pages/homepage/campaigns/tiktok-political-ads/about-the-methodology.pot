@@ -1,0 +1,35 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-17 21:24:15.694655+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "About the methodology"
+msgstr ""
+
+msgctxt "body.cfa15f1e-f308-442d-bcfb-d9e43788ae15"
+msgid ""
+"Our research was primarily conducted in February 2021. We used several different methods in our analysis, employing desk research, technical tools, and qualitative methods to identify paid political"
+" influence on TikTok."
+msgstr ""
+
+msgctxt "body.cfa15f1e-f308-442d-bcfb-d9e43788ae15"
+msgid ""
+"First, we analyzed TikTok's policies and public press statements to better understand the platform’s rules on advertising. Specifically, we looked at the platform’s ban on political advertising and "
+"its self-disclosure policies for content creators."
+msgstr ""
+
+msgctxt "body.cfa15f1e-f308-442d-bcfb-d9e43788ae15"
+msgid ""
+"We created a short list of popular political influencer TikTok accounts in the U.S. Using <a id=\"a1\">an API wrapper</a> created by <a id=\"a2\">David Teather</a>, we then queried the TikTok API to"
+" generate a list of related accounts based on our short list. Next, we reviewed individual TikTok posts from these accounts and identified related hashtags and users to continue adding to our list. "
+"We built a small dataset of accounts, users, and TikTok posts to analyze."
+msgstr ""
+
+msgctxt "body.cfa15f1e-f308-442d-bcfb-d9e43788ae15"
+msgid ""
+"From our dataset, we then analyzed each TikTok post’s content, including the video, the description, and the metadata. We chose to scrutinize posts that we determined contained political content and"
+" potential evidence of a paid partnership. We looked for language that implied the influencer was paid or received some form of compensation, as well as promotion of a political group or messaging."
+msgstr ""

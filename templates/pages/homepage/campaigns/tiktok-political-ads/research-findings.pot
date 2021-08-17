@@ -1,0 +1,217 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-17 21:24:14.317431+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Research findings"
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid ""
+"Our research found that several TikTok influencers in the United States who disseminate political messages on the platform are receiving payment or the promise of compensation from political "
+"organizations. In keeping with <a id=\"a1\">FTC guidelines</a>, we define payment as any form of material compensation – financial compensation, complimentary gifts, or trips. Some of this funding "
+"could be characterized as “dark money” – political spending that aimed at influencing voters, but where the source of the money and/or the donor is not fully disclosed."
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid ""
+"Furthermore, we found that TikTok doesn’t actively monitor and enforce its rule that influencers disclose paid partnerships, nor does the platform label sponsored posts as advertising. These "
+"inconsistent disclosure practices – paired with zero ad transparency tools or archives – makes it very difficult to monitor political influencer ads on TikTok."
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid "TikTok doesn’t seem to monitor influencer advertising"
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid "We started with several research questions, narrowing down to one:"
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid "Does TikTok allow influencers to post political content that reflects a paid or material relationship with political organizations?"
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid "Secondary questions we had:"
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid "How does TikTok enforce its ban on political advertising?"
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid "How does TikTok enforce its rules for influencer advertising? Are TikTok creators following platform/FTC rules for self-disclosure?"
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid "How does TikTok internally monitor or track influencer advertising?"
+msgstr ""
+
+msgctxt "body.23269787-1843-42b9-b489-8fa29c6a387b"
+msgid ""
+"To get a better understanding of how TikTok labels individual posts and ads, we queried the TikTok API to see the metadata associated with each TikTok post. We used <a id=\"a1\">an unofficial API "
+"wrappe</a>r created by <a id=\"a2\">David Teather</a>, since <a id=\"a3\">TikTok limits its API access</a>."
+msgstr ""
+
+msgctxt "body.34647535-7105-4c6a-b5b9-ef127852dd9a.caption"
+msgid "Example code (Date of query: 02/24/2021)"
+msgstr ""
+
+msgctxt "body.2db93f44-c57e-44a0-a7c3-85dd6131af01"
+msgid ""
+"Posts with advertiser-funded hashtag challenges (e.g. #CharliXDunkinContest) were marked as advertising in the metadata (“IsAd” = True), whereas influencer posts that used the hashtag #ad or "
+"#sponsored were not marked as advertising in the accompanying metadata (“IsAd” = False). The difference is that advertisers must go through TikTok’s ad system in order to run a hashtag challenge or "
+"run other kinds of ads, whereas influencer ads are negotiated and transacted off-platform."
+msgstr ""
+
+msgctxt "body.1fd04417-778a-4f78-be13-90d1dde70684.caption"
+msgid "Examples of TikTok posts using the #ad hashtag (Date of query: 02/24/2021)"
+msgstr ""
+
+msgctxt "body.7ad45e33-2617-4bb4-939b-0628b52c53f6"
+msgid ""
+"This is meaningful because it tells us that paid partnerships don’t seem to be marked as ads by TikTok, which makes them more difficult for the platform to monitor. Instead, these ads rely on self-"
+"disclosure, which, as our research below shows, isn't very effective. Without a strong system in place to monitor influencer ads on the platform, TikTok could be vulnerable to abuse by political "
+"groups and other malicious actors."
+msgstr ""
+
+msgctxt "body.7ad45e33-2617-4bb4-939b-0628b52c53f6"
+msgid "TikTok influencers are not disclosing paid relationships with political groups"
+msgstr ""
+
+msgctxt "body.7ad45e33-2617-4bb4-939b-0628b52c53f6"
+msgid "Our research found that TikTok influencers across the political spectrum had undisclosed paid relationships with various political organizations in the U.S."
+msgstr ""
+
+msgctxt "body.7ad45e33-2617-4bb4-939b-0628b52c53f6"
+msgid ""
+"Several right-wing TikTok influencers appear to be funded by conservative organizations like Turning Point USA, a tax-exempt nonprofit which has a dedicated influencer program specifically targeted "
+"at funding young conservative content creators on social media."
+msgstr ""
+
+msgctxt "body.7ad45e33-2617-4bb4-939b-0628b52c53f6"
+msgid ""
+"Turning Point USA’s <a id=\"a1\">website</a> states that it has 280 ambassadors and 11 contributors, with a goal to “saturate social and traditional media markets with the message of freedom and "
+"limited government through influencer-based and digital marketing initiatives.” The program provides ambassadors with “every available tool to successfully spread these ideas on college campuses and"
+" beyond.”"
+msgstr ""
+
+msgctxt "body.7ad45e33-2617-4bb4-939b-0628b52c53f6"
+msgid ""
+"We confirmed these details by looking into the organization’s financials: <a id=\"a1\">TPUSA’s 2018 tax filings</a> state that the organization spent $5.8 million in total on “Other program "
+"services,” which includes “Turning Point USA’s influencer media programs.”"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid ""
+"However, TPUSA’s relationship with content creators is not straightforward. While it runs a large network of micro-influencers, some of whom are paid to share or make content, TPUSA representatives "
+"<a id=\"a1\">have said</a> that the organization runs “very few official paid partnerships.”"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid ""
+"Our research tracks with a September 2020 <a id=\"a1\">investigation from the Washington Post</a> that found that TPUSA was recruiting and paying young people on social media to pump out false "
+"messages about voter fraud, the coronavirus, and Joe Biden in order to bolster Trump’s re-election campaign. In this case, young people were paid to engage in spam-like behavior, repeatedly posting "
+"the same messages on Twitter and Facebook. While many of those posts were eventually taken down because they violated platform policies on coordinated disinformation campaigns, TPUSA continues to "
+"support and fund political influencers."
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "Posts by creators with ties to right-wing political organizations"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid ""
+"We found evidence that paid contributors who have formal ties with organizations like Turning Point USA, Prager University, and Today is America post political messages without disclosing details of"
+" their financial compensation."
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @taylormjewett (67k followers)</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @thepoliticaldropout (5.5k followers) interviewing @theisabelbrown</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @theisabelbrown (1.6k followers)</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid ""
+"Our analysis of TikTok posts found that a number of conservative content creators were flown out to TPUSA-sponsored conferences and festivals, including a Student Action Summit in West Palm Beach, "
+"Florida on December 20, 2020."
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>The now-deleted account @therepublicangirlls (396.4k followers) reposted a @joie_mk_ (76.5k followers)</i> <a id=\"a1\"><i>post</i></a><i> from 12/20/2020.</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid ""
+"“Hi guys, welcome to a day in my life of a political influencer. So I’m an influencer for Turning Point USA and they’re flying me out to West Palm Beach, Florida for the Student Action Summit...Then"
+" we got ready for the Influencer reception which Turning Point threw on the roof just for us...”"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid ""
+"In the video, the creator identifies herself as a “political influencer for Turning Point USA” and says she was flown out to Florida for the conference. This post does not make clear whether she is "
+"receiving further financial support from TPUSA."
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @alynicolee1126 (234.3k followers).</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @itsthemandrew (31.1k followers).</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @cadencevaughan (31.1k followers).</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @mcken_leighh (27.7k followers).</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @kagchick (8.4k followers).</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @thepoliticaldropout (5.5k followers).</i>"
+msgstr ""
+
+msgctxt "body.ae3b9eb0-c227-409c-b9b9-632871eed21a"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @sophiabfisher (&lt;1k followers).</i>"
+msgstr ""
+
+msgctxt "body.b09678bb-5628-4585-8ebe-61f6792e81c0"
+msgid "Posts by creators with ties to left-wing political organizations"
+msgstr ""
+
+msgctxt "body.b09678bb-5628-4585-8ebe-61f6792e81c0"
+msgid ""
+"A <a id=\"a1\">2020 Reuters article</a> found that influencers were paid by another progressive PAC, The 99 Problems, to create pro-Biden TikTok posts without using disclaimers like #ad or "
+"#sponsored on the posts. While these examples should have violated TikTok’s policies, the fact that they weren’t detected suggests that TikTok’s self-disclosure rules for influencer advertising "
+"aren’t very effective."
+msgstr ""
+
+msgctxt "body.b09678bb-5628-4585-8ebe-61f6792e81c0"
+msgid ""
+"We found some evidence that progressive influencers supported by left-leaning political organizations were posting pro-Biden messages prior to the US presidential election. For instance, The 99 "
+"Problems created and funded the Hype House account <a id=\"a1\">House of US</a>, where influencers post political messaging."
+msgstr ""
+
+msgctxt "body.b09678bb-5628-4585-8ebe-61f6792e81c0"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @houseof_us (24.5k followers)</i>"
+msgstr ""
+
+msgctxt "body.b09678bb-5628-4585-8ebe-61f6792e81c0"
+msgid "<i>A</i> <a id=\"a1\"><i>POST</i></a><i> from @davedcomedy (100.1k followers)</i>"
+msgstr ""
