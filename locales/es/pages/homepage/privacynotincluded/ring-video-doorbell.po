@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-17 21:11:17.386227+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: cd22306a-a00b-4d5d-9a80-a267e5a58e2c\n"
+
+msgctxt "title"
+msgid "Ring Video Doorbell"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"These little HD video capturing, motion-detecting, two-way talking video doorbells let you be Big Brother in your own home. See who is at the door on your phone, tablet, or PC. Ask the UPS person to"
+" drop the package off behind the planter when you're still at the office. Or catch video of the neighborhood porch pirate to share with the cops. Just beware, even though Amazon Ring did address "
+"some of our privacy concerns with updates earlier in 2020 like adding mandatory two-factor authentication, these cameras still have some noted potential privacy issues that worry us. Ring gives law "
+"enforcement access to video captured through Ring cameras through its Neighbors Public Safety Service. This still raises a host of concerns around public safety and racism."
+msgstr ""
+
+msgctxt "price"
+msgid "99.99 - $349.99"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"This product raises a few red flags for us. Ring, owned by Amazon, has a history of not protecting users' privacy. At one point they stored customer data--including video recordings--unencrypted on "
+"an Amazon cloud server and employees could access any of this data. They have gotten more transparent in their privacy and data deletion practices, which we appreciate. And Ring, in response to the "
+"Black Lives Matter movement, has come out and stated they will not sell facial recognition technology to law enforcement. This past year Amazon's Ring has been pushed hard to change by Mozilla and "
+"others and we are happy to see them moving in the right direction. And while Amazon says they are distancing themselves from law enforcement access to users' video, they are still facilitating that "
+"access with this product and that leaves us concerned. All in all, this video doorbell camera still raise questions about public safety and racism, in our opinion and we feel could come with "
+"*Privacy Not Included."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"Local law enforcement has access to active Ring cameras in a neighborhood via the Neighbors app. Law enforcement can make a video request to ask the community to assist in an investigation. When you"
+" submit a video in response to a request, police will receive your email address along with your street address. Police who download videos from customer cameras can keep them as long as they want "
+"and share them with anyone."
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid "Videos are encrypted in storage and during transmission. Ring is offering end-to-end encryption."
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "Two-factor authentication is now mandatory after major pressure from Mozilla and other groups."
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "Amazon has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://hackerone.com/ring"
+msgstr ""
+
+msgctxt "privacy_policy_helptext"
+msgid "Ring has a webpage dedicated to explaining it's privacy pillars and answering frequently asked questions https://ring.com/privacy"
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Name, email, phone number, address"
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "Video and voice recordings"
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid "Neighbors app network"
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"You can delete your recordings in your account at any time. You can request that data be deleted. You can opt out of third party analytics services on Ring.com and in the Ring App from the Control "
+"Center."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"According to a Forbes article, Amazon's workers viewed video clips from one of its home CCTV services to improve its AI analytics. While Amazon said that the clips were offered voluntarily by the "
+"customers, a Bloomberg article mentioned that the clips in question are not the kind that homeowners would want to share. Some video clips included obscene content and private moments of homeowners."
+" Ring improved its security measures in January 2020 after reports of hackers accessing Ring cameras in December 2019 to harass people in their own homes."
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid ""
+"Ring cameras use camera-based motion detection to start recording. A leaked survey allowing Beta testers to rank features included \"face detection.\" Ring doesn't currenty use facial recognition "
+"technology, but things could always change."
+msgstr ""

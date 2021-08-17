@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-17 21:11:15.273510+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 07d361e8-57ea-48d1-8385-eec49f79f9d3\n"
+
+msgctxt "title"
+msgid "Apple iPad"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"Ah, the iPad. The tablet that changed how we watch TV in bed, how children eat dinner at restaurants, and how our parents take pictures. From the little iPad Mini to the 12.9 inch iPad Pro, there is"
+" likely no easier to use computer device known to the human race."
+msgstr ""
+
+msgctxt "price"
+msgid "329 - $999"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Apple does a good job with privacy and security. They don't share or sell your data and Apple takes special care to make sure your Siri requests aren't associated with you.However, say you set your "
+"iPad up with a passcode rather than fingerprint TouchID. Your kid could sneak and learn the passcode to your iPad, then login while you're not looking and watch enough YouTube videos to turn their "
+"brain to mush. Hey, don't tell us that's never happened!"
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"Apple does not share your data with third parties for commercial or marketing purposes. All of your Siri voice requests are associated to a random identifier, and if you have opted-in to allow Apple"
+" to have Voice recordings, Apple disassociates them after 6 months.  Apple does not share data with third parties for commercial or marketing purposes."
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid ""
+"Uses encryption in transit and at rest. After Apple recognizes the words “Hey Siri,” what you say is encrypted and associated with a random identifier without being tied to your Apple ID. Audio "
+"samples are only retained if you have opted-in."
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "Apple has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://developer.apple.com/security-bounty/"
+msgstr ""
+
+msgctxt "privacy_policy_helptext"
+msgid ""
+"Apple has a webpage highlighting its privacy principles and features. Apple begins its privacy policy with a statement of principles. While this statement is very long, it is clearly broken out into"
+" relevant topics."
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Name, email, phone number, address"
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "Fingerprint, Voice recordings if you opt-in"
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid "Contact list"
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid "You can request that data be deleted. You can go to https://privacy.apple.com/ to get a copy of your data, correct your data, or delete your account."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"They actually changed their Siri voice recording review practices—from an opt out to an opt-in—when people told them they were unhappy having contractors listen to the recordings. Good for them!"
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid ""
+"Apple employs machine learning in many different ways, from using it to to improve Siri to using it to sharpen the photos that you take. Apple states in its privacy policy, \"Apple does not take any"
+" decisions involving the use of algorithms or profiling that significantly affect you.\" Some of its research can be found at https://machinelearning.apple.com/"
+msgstr ""
