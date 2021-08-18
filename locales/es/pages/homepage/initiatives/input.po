@@ -1,10 +1,15 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-08-17 21:03:29.746770+00:00\n"
+"POT-Creation-Date: 2021-06-25 07:17:48.245982+00:00\n"
+"PO-Revision-Date: 2021-06-28 09:22+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 20efaf2c-c746-42d4-86b0-3c75ea91b2ac\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
 msgctxt "title"
 msgid "Thank you!"
@@ -12,8 +17,8 @@ msgstr ""
 
 msgctxt "header"
 msgid "Thanks, your input has been recorded."
-msgstr ""
+msgstr "Gracias, se ha registrado tu aportación."
 
 msgctxt "body.f45ccb62-7a05-4b26-b67a-d77070594769"
 msgid "We appreciate your time. Have a great day!"
-msgstr ""
+msgstr "Muchas gracias por tu tiempo. ¡Que tengas un gran día!"
