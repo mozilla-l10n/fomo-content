@@ -1,14 +1,19 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-08-17 21:03:33.658975+00:00\n"
+"POT-Creation-Date: 2021-06-23 12:38:50.704015+00:00\n"
+"PO-Revision-Date: 2021-06-24 12:56+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: cc6c7109-84ac-4383-9d61-126ae5fcc994\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 
 msgctxt "header"
 msgid "Thanks for signing! While you're here, we need your help."
-msgstr ""
+msgstr "Obrigado por se cadastrar! Já que está aqui, precisamos de sua ajuda."
 
 msgctxt "body"
 msgid ""
@@ -18,8 +23,8 @@ msgstr ""
 
 msgctxt "donate_text"
 msgid "Yes, I’ll chip in"
-msgstr ""
+msgstr "Sim, eu vou contribuir"
 
 msgctxt "dismiss_text"
 msgid "No, I’ll share instead"
-msgstr ""
+msgstr "Não, em vez disso vou compartilhar"
