@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:05:04.119455+00:00\n"
-"PO-Revision-Date: 2021-06-30 07:51+0000\n"
+"PO-Revision-Date: 2021-08-21 14:15+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -169,13 +169,13 @@ msgid ""
 "toolbar.<br/><br/>You should know that once a video is “stopped,” a host does not have the ability to restart the video – that is, a host can revoke permission for a participant to share video, but "
 "cannot start video for another person – they can simply send a prompt requesting them to use video."
 msgstr ""
-"Vous pouvez empêcher les participants de partager leur écran, ou, si nécessaire, désactiver leur vidéo. Cette fonctionnalité est particulièrement utile si vous invitez de nombreuses personnes que vous ne connaissez pas forcément, car elle permet de les empêcher de vous harceler, vous ou vos participants (ce qu’on appelle maintenant le « <a id=\"a1\">Zoombombing</a> »). Vous pouvez contrôler les autorisations de partage d’écran en cliquant sur le bouton Sécurité ou l’icône « Partager l’écran » dans la barre d’outils de l’hôte.<br/><br/>\n"
+"Vous pouvez empêcher les participants de partager leur écran, ou, si nécessaire, désactiver leur vidéo. Cette fonctionnalité est particulièrement utile si vous invitez de nombreuses personnes que vous ne connaissez pas forcément, car elle permet de les empêcher de vous harceler, vous ou vos participants (ce qu’on appelle maintenant le « <a id=\"a1\">Zoombombing</a> »). Vous pouvez contrôler les autorisations de partage d’écran en cliquant sur le bouton Sécurité ou l’icône « Partager l’écran » dans la barre d’outils de l’hôte.<br/><br/>\n"
 "\n"
 "Si l’hôte désactive la vidéo d’un participant, il ne peut pas la réactiver : il est possible d’empêcher un participant de partager sa vidéo, mais pas d’activer la vidéo de quelqu’un d’autre. Pour cela, l’hôte devra envoyer une demande d’activation de la vidéo au participant."
 
 msgctxt "body.f3cd3f00-8774-463d-a1c6-b05c37ab3c7e"
 msgid "In a similar vein, you can turn off “annotation,” which allows participants to draw on shared screens."
-msgstr "Dans le même esprit, vous pouvez désactiver la fonctionnalité « annotation », qui permet aux participant·e·s de dessiner sur les écrans partagés."
+msgstr "Dans le même esprit, vous pouvez désactiver la fonctionnalité « annotation », qui permet aux participant·e·s de dessiner sur les écrans partagés."
 
 msgctxt "body.f3cd3f00-8774-463d-a1c6-b05c37ab3c7e"
 msgid "Consider if you should allow participants to rename themselves during the call."
