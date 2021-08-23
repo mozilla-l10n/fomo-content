@@ -670,6 +670,41 @@ l10n = "locales/{locale}/pages/homepage/blog/mozilla-explains-what-does-ai-know-
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
+reference = "templates/snippets/highlights.Highlight/7-privacy-not-included.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/7-privacy-not-included.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/10-venmo-put-our-privacy-first.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/10-venmo-put-our-privacy-first.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/22-with-great-tech-comes-great.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/22-with-great-tech-comes-great.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/64-untrendtwitter.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/64-untrendtwitter.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-you-can-do.pot"
+l10n = "locales/{locale}/pages/homepage/what-you-can-do.po"
+locales = [ "de", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -687,41 +722,6 @@ locales = [ "es",]
 [[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/highlights.Highlight/7-privacy-not-included.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/7-privacy-not-included.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/highlights.Highlight/10-venmo-put-our-privacy-first.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/10-venmo-put-our-privacy-first.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/highlights.Highlight/22-with-great-tech-comes-great.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/22-with-great-tech-comes-great.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/highlights.Highlight/64-untrendtwitter.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/64-untrendtwitter.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-you-can-do.pot"
-l10n = "locales/{locale}/pages/homepage/what-you-can-do.po"
 locales = [ "fr",]
 
 [[paths]]
