@@ -705,6 +705,16 @@ l10n = "locales/{locale}/pages/homepage/what-you-can-do.po"
 locales = [ "de", "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Petition/12-facebook-and-european-parliament.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/12-facebook-and-european-parliament.po"
+locales = [ "de", "es", "fr", "pl",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/facebook-and-european-parliament.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/facebook-and-european-parliament.po"
+locales = [ "de", "es", "fr", "pl",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
