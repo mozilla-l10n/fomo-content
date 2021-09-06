@@ -82,7 +82,7 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/blog.pot"
 l10n = "locales/{locale}/pages/homepage/blog.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.pot"
@@ -672,37 +672,37 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/7-privacy-not-included.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/7-privacy-not-included.po"
-locales = [ "de", "fr",]
+locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/10-venmo-put-our-privacy-first.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/10-venmo-put-our-privacy-first.po"
-locales = [ "de", "fr",]
+locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/67-read-the-2020-internet-health-report.po"
-locales = [ "de", "fr",]
+locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/22-with-great-tech-comes-great.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/22-with-great-tech-comes-great.po"
-locales = [ "de", "fr",]
+locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/64-untrendtwitter.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/64-untrendtwitter.po"
-locales = [ "de", "fr",]
+locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.po"
-locales = [ "de", "fr",]
+locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/what-you-can-do.pot"
 l10n = "locales/{locale}/pages/homepage/what-you-can-do.po"
-locales = [ "de", "fr",]
+locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Petition/12-facebook-and-european-parliament.pot"
