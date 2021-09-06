@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-09-06 16:06:09.474758+00:00\n"
+"PO-Revision-Date: 2021-09-06 16:50+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 208ad4ed-47d5-4ff6-8bf7-80d21a065328\n"
 
 msgctxt "title"
 msgid "#UnTrendTwitter"
-msgstr ""
+msgstr "#UnTrendTwitter"
 
 msgctxt "description"
 msgid ""
@@ -18,7 +23,7 @@ msgstr ""
 
 msgctxt "link_label"
 msgid "#UnTrendTwitter"
-msgstr ""
+msgstr "#UnTrendTwitter"
 
 msgctxt "footer"
 msgid "Tell Twitter: Pause ‘Trends' until election results are certified"
