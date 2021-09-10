@@ -739,3 +739,8 @@ reference = "templates/pages/homepage/blog/misinfo-monday-are-algorithms-feeding
 l10n = "locales/{locale}/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.po"
 locales = [ "fr",]
 
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.po"
+locales = [ "fr",]
+
