@@ -180,11 +180,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.Petition/83-facebook-stop-group-r
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.DonationModal/2-facebook_donate_modal.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/2-facebook_donate_modal.po"
-locales = [ "de", "es", "fr", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/homepage/campaigns/facebook-stop-group-recommendations.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/facebook-stop-group-recommendations.po"
 locales = [ "de", "es", "fr", "pt-BR",]
@@ -203,6 +198,11 @@ locales = [ "de", "es", "fr",]
 reference = "templates/snippets/wagtailpages.Petition/75-zoom-end-to-end-encryption-for-everyone.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Petition/75-zoom-end-to-end-encryption-for-everyone.po"
 locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.DonationModal/2-facebook_donate_modal.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/2-facebook_donate_modal.po"
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/tell-zoom-end-end-encryption-everyone.pot"
@@ -717,6 +717,21 @@ locales = [ "de", "es", "fr", "pl",]
 [[paths]]
 reference = "templates/pages/homepage/campaigns/tiktok-german-election-2021.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-german-election-2021.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/social-media-platforms-and-the-german-elections-a-status-report.pot"
+l10n = "locales/{locale}/pages/homepage/blog/social-media-platforms-and-the-german-elections-a-status-report.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Petition/176-germany-elections-tiktok.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/176-germany-elections-tiktok.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/call-on-tiktok-to-follow-through-on-its-election-promises.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/call-on-tiktok-to-follow-through-on-its-election-promises.po"
 locales = [ "de",]
 
 [[paths]]
