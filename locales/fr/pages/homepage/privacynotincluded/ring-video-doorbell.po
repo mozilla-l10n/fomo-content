@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.740006+00:00\n"
-"PO-Revision-Date: 2021-07-21 12:53+0000\n"
+"PO-Revision-Date: 2021-09-16 19:57+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -56,8 +56,8 @@ msgid ""
 "and share them with anyone."
 msgstr ""
 "Les autorités locales peuvent accéder aux caméras Ring actives dans un secteur donné avec l’application Neighbors. La police peut demander à la communauté de fournir des vidéos pour participer à une"
-" enquête. Quand vous fournissez une vidéo sur demande, les autorités recevront vos adresses électronique et postale. Les agents de police qui téléchargent des vidéos provenant des caméras des "
-"client·e·s peuvent les conserver indéfiniment et les partager avec n’importe qui."
+" enquête. Quand vous fournissez une vidéo sur demande, les autorités recevront vos adresses e-mail et postale. Les agents de police qui téléchargent des vidéos provenant des caméras des client·e·s "
+"peuvent les conserver indéfiniment et les partager avec n’importe qui."
 
 msgctxt "uses_encryption_helptext"
 msgid "Videos are encrypted in storage and during transmission. Ring is offering end-to-end encryption."
@@ -79,7 +79,7 @@ msgstr "Ring dispose d’une page web qui détaille ses principes directeurs en 
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr "Nom, adresse électronique, numéro de téléphone, adresse postale"
+msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
 
 msgctxt "biometric_data_collected"
 msgid "Video and voice recordings"
