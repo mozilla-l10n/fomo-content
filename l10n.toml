@@ -764,3 +764,8 @@ reference = "templates/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains
 l10n = "locales/{locale}/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.po"
 locales = [ "fr",]
 
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/webex.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/webex.po"
+locales = [ "fr",]
+
