@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-09-21 07:05:03.241164+00:00\n"
+"PO-Revision-Date: 2021-09-21 07:27+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 0d09518b-b547-46f8-9b21-be5684930b93\n"
 
 msgctxt "search_description"
 msgid "Chat platform Slack fails to protect its users from harassment and abusive messages"
-msgstr ""
+msgstr "La plateforme de discussion Slack ne protège pas ses utilisateurs et utilisatrices contre le harcèlement et les messages abusifs"
 
 msgctxt "title"
 msgid "Tell Slack: #BlockAbuse"
-msgstr ""
+msgstr "Dites-le à Slack : #BloquezLesAbus"
 
 msgctxt "body.9793d881-cee4-42a4-b16e-34fe11d07909"
 msgid "Unsolicited, harmful messages landing on your screen that you have no way of preventing or stopping? It's unacceptable."
