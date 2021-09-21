@@ -715,6 +715,11 @@ l10n = "locales/{locale}/pages/homepage/campaigns/facebook-and-european-parliame
 locales = [ "de", "es", "fr", "pl",]
 
 [[paths]]
+reference = "templates/pages/homepage/campaigns/tell-slack-block-abuse.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tell-slack-block-abuse.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/campaigns/tiktok-german-election-2021.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-german-election-2021.po"
 locales = [ "de",]
