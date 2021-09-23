@@ -737,7 +737,7 @@ locales = [ "de",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.Petition/178-tell-slack-blockabuse.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Petition/178-tell-slack-blockabuse.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/1-privacy_donate_modal.pot"
@@ -747,7 +747,7 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/campaigns/petition-slack-block-abuse.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/petition-slack-block-abuse.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/slack.pot"
