@@ -712,7 +712,7 @@ locales = [ "de", "es", "fr", "pl",]
 [[paths]]
 reference = "templates/pages/homepage/campaigns/tell-slack-block-abuse.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/tell-slack-block-abuse.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/tiktok-german-election-2021.pot"
