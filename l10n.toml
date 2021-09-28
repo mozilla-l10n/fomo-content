@@ -1,4 +1,4 @@
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-do.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-do.po"
