@@ -790,11 +790,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.BlogPageCategory/9-mozilla-explai
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/bluejeans.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/bluejeans.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.pot"
 l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.po"
 locales = [ "sw",]
