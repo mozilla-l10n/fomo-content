@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-01 07:07:30.135310+00:00\n"
-"PO-Revision-Date: 2021-10-01 07:40+0000\n"
+"PO-Revision-Date: 2021-10-01 10:59+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -21,10 +21,13 @@ msgid ""
 "for up to 32 participants. Google Hangouts is free and allows for video calls up to 10 participants, as well as phone calls and text chats. Google Meet is their business-grade video conferencing "
 "option for up to 250 participants, built into the paid version of G Suite. There you have it."
 msgstr ""
+"¿Google Duo, Google Hangouts o Google Meet? Para que no te confundas entre estas opciones, te explicamos las diferencias básicas: Duo es una simple aplicación de videollamadas con un límite de 32 "
+"participantes; Hangouts ofrece videollamadas con hasta 10 participantes, llamadas de teléfono y chats de texto; y Meet es una solución de videoconferencias de grado empresarial con un máximo de 250 "
+"participantes integrada en la versión de pago de Google Workspace."
 
 msgctxt "price"
 msgid "Google Duo and Hangout are Free, Meet offers a free version and paid versions starting at $6 per mon"
-msgstr ""
+msgstr "Google Duo y Google Hangouts son gratis, Google Meet ofrece una versión gratuita y versiones de pago"
 
 msgctxt "worst_case"
 msgid ""
@@ -56,7 +59,7 @@ msgstr ""
 
 msgctxt "security_updates_helptext"
 msgid "Google updates the services a few times a year"
-msgstr ""
+msgstr "Google actualiza sus servicios unas cuantas veces al año."
 
 msgctxt "strong_password_helptext"
 msgid ""
