@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-01 07:07:36.583967+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4193c745-3438-4416-82be-62b3ef91c37a\n"
+
+msgctxt "title"
+msgid "BlueJeans"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"BlueJeans is a video call app aimed at business users. It works on desktop and mobile apps and within most browsers. This video call app claims a list of features like high-quality video, screen "
+"sharing, recording, and integration with various other business apps like Trello and Slack. BlueJeans even touts that it comes with “Dolby Voice,” so now you can listen to your boss yell at you in "
+"super clear audio. In May, 2020 Verizon closed their deal to buy BlueJeans. Can you hear us now?  Hopefully."
+msgstr ""
+
+msgctxt "price"
+msgid "Free trial, paid plans start at $9.99 per month"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"BlueJeans seems to do an OK job with security and privacy. A month after they were acquired by Verizon in 2020 they rolled out a number of enhanced security measures including stronger encryption "
+"and one-click meeting lock capabilities. Bluejeans doesn't use end-to-end encryption (data encrypted from the moment it is created to the moment it is used), which is the most secure way to conduct "
+"video calls. But it still uses strong encryption at transit (along the tubes of the internet) and at rest (where it is stored). It does collect some personal information about users like your name, "
+"who you work for, your job, where you live, your phone number and email address, and potentially shares that data with third parties, which we don't love, but also isn’t uncommon. Bluejeans rolled "
+"out Bluejeans Telehealth earlier in 2021 that can be HIPAA compliant. All in all, Bluejeans is a fine video call app for business, even if it does have a weird name that makes you sing Neil Diamond "
+"songs."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"BlueJeans does not sell personal information to any third parties. The company also claims that \"the Services are not intended to be used for profiling, automated processing, personal data relating to criminal convictions or offenses, other systematic monitoring of a public area, or any other operations which may result in a high risk of significantly affecting you or your legal rights.\".\r"
+"<br/> <br/>BlueJeans combines your data with third-party data, for purposes including for advertisement: \"information about you from third parties including other Service users, third-party service providers which you have linked to your use of our Services (including social media accounts, single-sign-on services, and scheduling applications), resellers, distributors, your employer, your administrator, publicly available sources, data enrichment vendors, payment and delivery service vendors, advertising networks, analytics providers, and our business partners.\""
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "Privacy policy is written in legal language"
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid "Standards-based encryption is used in transit and at rest. Bluejeans does not offer end-to-end encryption."
+msgstr ""
+
+msgctxt "security_updates_helptext"
+msgid "BlueJeans updates its desktop application about five times a year, and the mobile app is updated multiple times a month."
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "A strong password is required to create an account. Also, a participant passcode is required for a scheduled one-time meeting."
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "BlueJeans has a bug bounty program"
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid ""
+"Name, work place, address, phone number, email address or other contact details, geolocation data, IP address. When you use their services for telehealth, medical data is shared in the context of a "
+"patient visit."
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid "Who you work for, and your job function or department. Content that you generate or upload via the Services."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"BlueJeans website uses cookies on its product, and does not respond to 'Do not track': \r"
+"<br/>'Because no formal “Do Not Track” standard has been adopted, we currently do not respond to “Do Not Track” web browsers signals or other mechanisms regarding the collection of your information.\"\"\r"
+"<br/> <br/>Following the end of your subscription to the Services, your information will generally be deleted or obfuscated within six months of the end of your subscription. If the Services are made available to you through an organization (e.g., your employer), BlueJeans retain your information per your organization’s instructions."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "No known track record of public data breaches or leaks found"
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid "BlueJeans integrates an automated transcription technology."
+msgstr ""

@@ -710,6 +710,16 @@ l10n = "locales/{locale}/pages/homepage/campaigns/facebook-and-european-parliame
 locales = [ "de", "es", "fr", "pl",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/zoom.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/zoom.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/teams.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/teams.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/campaigns/tell-slack-block-abuse.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/tell-slack-block-abuse.po"
 locales = [ "de", "es", "fr", "pt-BR",]
@@ -735,9 +745,54 @@ l10n = "locales/{locale}/pages/homepage/campaigns/call-on-tiktok-to-follow-throu
 locales = [ "de",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/skype.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/skype.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/webex.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/webex.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/facebook-messenger-and-facebook-messenger-kids.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/facebook-messenger-and-facebook-messenger-kids.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/google-duogoogle-hangoutsgoogle-meet.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-duogoogle-hangoutsgoogle-meet.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/signal.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/signal.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/telegram.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/telegram.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/wechat.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/wechat.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/snippets/wagtailpages.Petition/178-tell-slack-blockabuse.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Petition/178-tell-slack-blockabuse.po"
 locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/jitsimeet.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/jitsimeet.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/whatsapp.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/whatsapp.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/1-privacy_donate_modal.pot"
@@ -758,6 +813,26 @@ locales = [ "de", "es", "fr",]
 reference = "templates/pages/homepage/blog/mozilla-explains-bias-in-ai-training-sets.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozilla-explains-bias-in-ai-training-sets.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/bluejeans.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/bluejeans.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/gotomeeting.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/gotomeeting.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/facetime.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/facetime.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/discord.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/discord.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"

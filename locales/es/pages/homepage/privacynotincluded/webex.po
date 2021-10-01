@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-01 07:07:29.719410+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d1ba9f52-725a-4e2e-b3f5-e7db7a533100\n"
+
+msgctxt "title"
+msgid "Webex"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"Webex is a video call app made by Cisco targeted at business users. It did beef up its free version when the pandemic hit in 2020. The free version offers up to 100 participants per call and "
+"meetings as long as 50 minutes. Webex offers the standard fare of video call app features – high quality video and audio, downloads on desktop or mobile app or access through a browser, screen "
+"sharing and recording, and the like. Webex is used by many healthcare businesses as it can be compliant with US HIPAA medical privacy laws. Cisco Webex also touts their pioneering use of artificial "
+"intelligence in their video conferencing product to do things like facial recognition, meeting transcription, and an in-meeting AI personal assistant."
+msgstr ""
+
+msgctxt "price"
+msgid "Free version, paid plans start at $15 per month"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Webex by Cisco seems to put a strong emphasis on security with its products. For a product that's used frequently by financial and healthcare providers and can be HIPAA compliant, that is a good "
+"thing. End-to-end encryption isn’t enabled by default, so good to enable that, even though it will cause some features to not work. Webex has had a few known security vulnerabilities pop up. "
+"Fortunately, it looks like the company was responsive when these vulnerabilities were discovered and quick to push a fix out to their users. They do say they can collect a fair amount of data, as "
+"most of these video call apps outside of the privacy focused apps seem to do. They say they won’t sell this data but they can share it with other Cisco businesses as well as third-parties and "
+"contractors. And we found the password requirement for free users is weaker than for business users, so if you're using the free version of WebEx, it's probably still wise to make your password "
+"something really long and complicated like \"iMNotW3aringpAnyPanTsiNThisM33ting!\" or something like that."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"Cisco claims to not sell data nor to serve ads on its app. They also promise to not track your usage or content for advertising purposes. However, the data may be shared with numerous Cisco's "
+"business partners, service vendors, authorized third-party agents, contractors, etc."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "Privacy policy could be simplified"
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid "No end-to-end encryption by default. End-to-end encryption can be enabled at the cost of some features not working."
+msgstr ""
+
+msgctxt "security_updates_helptext"
+msgid "Webex updates its mobile apps at least once a month."
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid ""
+"Password requirements could be stronger for free users. Business users are required to create a passphrase with \"at least 8 characters, at least one number, at least one lower case letter, at least"
+" one upper case letter, at least one special character.\"  For free users, password requirements are only six characters minimum, with at least one number and one letter."
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "Webex parent company Cisco has a bug bounty program and there is a successful track record of its implementation."
+msgstr ""
+
+msgctxt "privacy_policy_helptext"
+msgid "https://www.cisco.com/c/en/us/about/legal/privacy-full.html"
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid ""
+"Contact, subscription, registration, online identifiers, social media and discussion forum or communications details, financial information, voice collected as part of audio\r"
+"<br/> <br/>Cisco does not provide a product-specific privacy statement for Webex, so we have relied on their privacy data sheet for this information. We cannot verify which of the items listed for this specific product may or may not be collected."
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid "Communications (i.e., audio, video, text) content"
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"The retention rights are stated, but the retention periods are missing in Cisco's privacy policy. The method of data retention is data being either destroyed, deleted, anonymized, and/or removed "
+"from their systems. It's great to know they have a method to destroy data. We want to how long they retain data and we could find no mention of that."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"In November 2020, a flaw was discovered in Cisco Webex Windows application, with the help of their bug bounty program. With this flaw, a ghost could stay in a meeting while not being seen by others,"
+" even after being expelled by the host. Cisco addressed this vulnerability, and the company is not aware of malicious use of the vulnerability that is described in this advisory."
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid ""
+"Cisco is involved in the application of a range of AI-based technologies including natural language processing, speech technology, speech to text (STT) and text to speech (TTS), speech transcription"
+" and translation, noise detection and removal, face recognition, people insights."
+msgstr ""

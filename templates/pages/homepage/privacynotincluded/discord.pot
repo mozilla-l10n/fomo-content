@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-01 07:07:36.763930+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Discord"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"Discord is more of a community with video call features built in, than a stand-alone video call app. Initially a place for gamers to meet, chat and share, Discord has grown to over 150 million users"
+" and its communities now include everything from book clubs, dance classes, study groups, anime, music, and more. Discord features text and voice chats as well as video call. The app is available on"
+" Android and iOS, as well as a download on Mac, Windows, and Linux. Users can also login through their browser. Discord has had problems with toxic content harming its users, ranging from "
+"harassment, human trafficking, and other online crimes. So if this is something your kids are using (it probably is), it's good to keep an eye out"
+msgstr ""
+
+msgctxt "price"
+msgid "Free"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Last year we found Discord didn’t require a strong password to login. When our research came out, Discord, to their credit, immediately changed their login process to require a strong password. Yay!"
+" We love to see companies step up and make change for the better. Good work Discord! Discord does collect a fair amount of data on its users and says it can share that data with third-parties. "
+"Discord says they do not monetize this data -- their business model is based on subscriptions to premium services rather than monetizing data for advertising. However, we found their privacy policy "
+"to be pretty vaguely worded, which is a concern. They may not sell users’ data, however, it appears they can and likely do share data with many third-parties for only vaguely defined purposes. "
+"Discord did let us know they are in the process of updating their privacy policy to make it easier to understand for users, which is good to hear. One final concern with Discord is its history of "
+"malware and toxic communities. Discord users have reported experiencing harassment, abuse, and predators. Getting targeted with hate speech, getting harassed by misogynistic gamers, or accidentally "
+"stumbling across a porn ring are all real concerns for people on Discord who aren't careful. Discord recently acquired a start-up that makes AI-powered software to detect and remove online "
+"harassment, which could be a good step forward. However, other instances of AI content moderation in use in recent years have a questionable track record, so stay tuned."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"Discord states it is 'not in the business of selling your information,\" which is great. That said, the way Discord manages data is currently largely vaguely defined. One of numerous confusing "
+"clauses is, 'We may also share aggregated or non-personally identifiable information with our partners or others for business purposes.' Discord says the do share data with third parties, including "
+"service providers like Google, Stripe, and Paypal. Discord also let us know they are in the process of updating their privacy policy to make it easier to understand for users. This is good to hear "
+"and will hopefully clarify some of the questions we found to be vaguely addressed in their current privacy policy."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "The policy is short and vague."
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid "Discord uses encryption at rest and encryption in transit for all data."
+msgstr ""
+
+msgctxt "security_updates_helptext"
+msgid "Discord pushes regular security update as necessary."
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "A strong password is required to login"
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "https://discord.com/security"
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Username, email address, IP address, device ID, and your activities within the services"
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "No"
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid ""
+"Messages, images, transient VOIP data.\r"
+"<br/>Optional: social network services data (Twitter, Facebook)."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"Discord claims users can delete any message they have ever sent. Once a message is deleted, it is permanently deleted from their servers. If a channel, a server or a user account is deleted, all personal information is deleted too. However, we found the data retention section of their privacy policy a wonderful example of how a privacy policy can be made unspecific and confusing. Leaving it here in full: 'We generally retain personal data for so long as it may be relevant to the purposes identified herein. To dispose of personal data, we may anonymize it, delete it or take other appropriate steps. Data may persist in copies made for backup and business continuity purposes for additional time.\" \r"
+"<br/> <br/>While this may be rather standard privacy policy language, the vagueness leaves us with questions like, what purposes are relevant?, how is anonymizing data disposing of it?, and that last sentence seems to negate the first two. Vague privacy policies leave us scratching out head."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"In June 2020, Discord was identified as a favorable place to steal accounts. Discord also has a dubious track record of hate speech, abuse, and toxic behaviors on the platform. The company says they"
+" are in the process of enhancing their processes to make it easier to report these types of issues. Hopefully this will be a good step forward to help improve their track record at protecting users "
+"and their data."
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid "Discord allows AI chatbots. Discord recently bought Sentropy, a start-up that makes AI-powered software to detect and remove online harassment."
+msgstr ""

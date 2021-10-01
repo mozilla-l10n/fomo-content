@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-01 07:07:30.328674+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1ed8432f-23fb-4197-908c-1ae4fdbcc94d\n"
+
+msgctxt "title"
+msgid "GoToMeeting"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"GoToMeeting has been around since 2004, making it one of the old-school video call apps available. Primarily targeted as a business video call platform, GoToMeeting has pricing plans that allow for "
+"up to 3000 people in a video meeting. It can also be made HIPAA compliant to meet US healthcare privacy laws. It's probably not going to be the video call app you use for your family gatherings or "
+"virtual happy hours, which means most of the people using this app will be able to rely on their company's tech team for support and privacy. Which is good because while it's not NOT user-friendly "
+"(although its privacy policy is certainly not user-friendly), it is a more advanced video call app than most people probably need for calls home to Mom. And they did improve their user interface "
+"over the last year in an effort to keep up with Zoom and Microsoft Teams."
+msgstr ""
+
+msgctxt "price"
+msgid "Free trial, Paid plans start at $12 per month"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Probably (hopefully) not too much will go wrong given this is a video call app targeted to business rather than folks calling family. It is likely many of the companies using this software will have"
+" admins to help run it. We like that it uses end-to-end encryption, has the option to password protect meetings and – with some extra work – make calls HIPAA compliant. That being said, video calls "
+"can be transcribed by a \"smart AI meeting assistant\" at the request of the host, so it's always good to follow the general rule of thumb and be careful what you say as you never know who could be "
+"listening (or reading). The company does share data with third-parties for marketing purposes, as do many of the apps we review. A few other tips if you want to be extra safe: Password protect your "
+"meetings, lock your meeting once you're in a session, and set an expiration date on your recording."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid "LogMeIn, the parent company, shares data with third parties for service and marketing purposes, including, in certain cases, with Google Inc."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "Privacy policy is written in legal language."
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid ""
+"GoToMeeting utilizes encryption in transit and at rest for cloud recordings, transcripts, and uploaded content. Additionally, it offers end-to-end encryption capabilities for password-protected "
+"meetings."
+msgstr ""
+
+msgctxt "security_updates_helptext"
+msgid "GoToMeeting updates its mobile app at least once a month"
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "A strong password is required to login. Meetings can optionally be password-protected."
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "The company operates a closed/private Bug Bounty Program, where selected researchers are invited to participate."
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "First and last name, billing data, valid email address, IP addresses, location"
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid "Connections made"
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"On a rolling basis, cloud recordings are deleted after one (1) year of storage. Ad-hoc data requests can be submitted via customer care at anytime and LogMeIn shall delete data based on those "
+"requests within thirty days."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "No known track record of public data breaches or leaks found"
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid "GoToMeeting does use machine learning to improve certain features, such as its in-house transcription capabilities for cloud recorded meetings."
+msgstr ""

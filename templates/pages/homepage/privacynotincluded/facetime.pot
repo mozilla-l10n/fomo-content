@@ -1,0 +1,90 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-01 07:07:36.419393+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "FaceTime"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"If you've ever video chatted iPhone-to-iPhone, chances are you used FaceTime. Apple's video call app comes installed on its devices by default, meaning FaceTime options get prime placement. FaceTime"
+" is super simple, making it easy to access features like mute and flip camera. The biggest downside? The FaceTime club is an exclusive one — if you don't have an Apple device, you can't join. "
+"However, that will change soon when the iOS 15 release happens in Fall, 2021. That Apple software update will allow Android and Windows users to open a Facetime link in a browser. Maybe not the best"
+" video call experience, but, you know, Apple likes to keep things in their own ecosystem."
+msgstr ""
+
+msgctxt "price"
+msgid "Free"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Not too much, we think (hope!). Apple is known for having a pretty strong security and privacy track record, at least compared to many of the other Big Tech companies. FaceTime is end-to-end "
+"encrypted, which is the best case scenario for a video chat app. And Apple doesn't share your data with third-parties, which is nice. There was a pretty nasty Facetime bug found back in 2019 that "
+"let users call somebody through FaceTime and listen in on the phone’s microphone whether or not the person answered the call. Apple fixed that bug quickly. FaceTime makes a fine video call option "
+"(if all your friends own Apple products)."
+msgstr ""
+
+msgctxt "signup_requirement_explanation"
+msgid "FaceTime requires email or phone number by choice of a user."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"Apple uses personal data to improve its services, to process your transactions, to communicate with you, for security and fraud prevention, and to comply with law. It may also use personal data for "
+"other purposes with your consent. Apple does not share personal data with third parties for their own marketing purposes."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "Simplified privacy information available"
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid "End-to-end encryption by default. The app uses AES-256 encryption, which is an industry standard."
+msgstr ""
+
+msgctxt "security_updates_helptext"
+msgid "Apple regularly updates the service"
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "FaceTime requires Apple ID password when logging in for the first time"
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "Apple has a bug bounty program"
+msgstr ""
+
+msgctxt "privacy_policy_helptext"
+msgid "User-friendly privacy policy in Q&amp;A format."
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid ""
+"Email address, age, name, email address, physical address, phone number, or other contact information.\r"
+"<br/> <br/>Apple does not provide a product-specific privacy notice for FaceTime, so we have relied on their privacy policy for this information. We cannot verify which of the items listed for this specific product may or may not be collected."
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid "Metadata about who invited you on a call."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"Apple retains personal data only for so long as necessary to fulfill the purposes for which it was collected, including as described in this Privacy Policy or in their service-specific privacy notices, or as required by law. No specific data retention periods are provided.\r"
+"<br/> <br/>Hosts and participants all have the same level of control, from muting their own mic to switching from their phone's front-facing camera to the rear. FaceTime centers video conference calls around group chats within the iPhone's Messages app. Anyone within a specific group chat can join the group FaceTime call at any time."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"The bug, discovered in January 2019, allowed eavesdropping of the calls and videos. It transmitted audio to a caller despite the recipient not having accepted the call. It was triggered when the initial caller added a third person to a FaceTime call. If the person being called pressed the power button on their lock screen as a call came in, video from their phone would also be sent to the caller without the user’s knowledge.\r"
+"<br/> <br/>Apple has quickly fixed the bug, and disabled group calling feature before it was fixed."
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid "FaceTime uses AI for its 'Eye contact' feature."
+msgstr ""

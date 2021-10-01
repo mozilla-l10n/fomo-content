@@ -1,0 +1,94 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-01 07:07:30.103095+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 40627691-1406-4402-811b-febe6c66879b\n"
+
+msgctxt "title"
+msgid "Jitsi Meet"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"Jitsi Meet is a free, open-source, video call app that doesn't require you to create an account to use it. The privacy conscious folks at the Tor Project recently recommended Jitsi Meet as a good "
+"alternative to Zoom. Jitsi Meet works on desktop, Android and iOS devices, has pretty high-quality video and audio, allows for password protected video calls, and has no limit on participants "
+"(although your internet bandwidth might set limits for you). And for those more techie folks out there, because Jitsi Meet is open-source, people with the interest and ability can install and run "
+"their own version of Jitsi Meet on their own servers. (Note: The review below is for the public version of Jitsi Meet. People who install and run their own versions of Jitsi Meet might not meet all "
+"these criteria.)."
+msgstr ""
+
+msgctxt "price"
+msgid "Free and open source"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Jitsi Meet and the open-source community behind it appear to value and prioritize privacy and security as part of their mission in making this product. It’s a little hard for us to tell exactly how "
+"they are doing in 2021 though because we found the email address they recommend in their privacy policy for questions of their data protection officer no longer works. That’s not good.  Jitsi.Meet "
+"uses encryption, but it is not quite there yet in terms of full end-to-end encryption by default. Right now, you can only turn on end-to-end encryption if you are using Jitsi Meet on certain "
+"browsers (but not on Firefox, boo!). 8x8, the parent company of Jitsi Meet, does collect and share (but not sell) data to third-parties. This is common for many products out there, so it’s not "
+"unusual,"
+msgstr ""
+
+msgctxt "signup_requirement_explanation"
+msgid "Jitsi Meet does not require users create accounts."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid "8x8, the parent company, claims to not sell data. However, they can share data with group companies, third party services providers and partners. This data include IP addresses."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid ""
+"We can see a transparent and detailed communication of all privacy &amp; security aspects of Jitsi. The target audience are rather privacy-oriented folks, but still there is some effort to make the "
+"information simpler - which is a challenging task in the security space. We especially appreciate the existence of both detailed technical security architecture whitepaper and the educational paper "
+"with an explanation what it means, for people without a degree in InfoSec."
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid ""
+"Jitsi Meet uses encryption, but it is not quite there yet in terms of full end-to-end encryption by default. Right now, you can only turn on end-to-end encryption if you are using Jitsi Meet on "
+"certain browsers (unfortunately, Jitsi Meet does not support end-to-end encryption on Firefox)."
+msgstr ""
+
+msgctxt "security_updates_helptext"
+msgid "Jitsi also provides blog posts detailing what is new in terms of security."
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "Both meetings and accounts can be password-protected"
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "Jitsi operates a security response center."
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Username, IP address"
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "No"
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid "No. Chats and speaker's stats are destroyed directly at the end of the meeting."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"If you are a resident of Europe, you can exercise a data for data deletion without further questions ('the right to be forgotten'). If you are not lucky enough to be a European, things are a bit "
+"more difficult. The company's privacy policy states that 'if we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is "
+"not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing "
+"until deletion is possible'. However, as stated above, Jitsi Meet does not require a sign up or any personal data."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "We could find no history of data breaches or leaks"
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid "Jitsi use machine learning to improve WebRTC Call Quality"
+msgstr ""

@@ -1,0 +1,82 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-01 07:07:36.539146+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Signal"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"We love Signal! Signal is owned by a non-profit. Their mission is to \"develop open source privacy technology that protects free expression and enables secure global communication.\" What’s that "
+"mean? It means Signal is a free, open source, privacy-focused messaging and video chat app that totally rocks. They even added support for group video calls at the end of 2020. Signal isn't pushing "
+"ads or tracking your data to try and make money off you in any way. They rely on donations from generous users to keep their app open and free for all. Nonprofits that embrace privacy for all are "
+"the bomb (ahem, Mozilla is also a non-profit that embraces privacy and relies on donations from generous users to do our work)."
+msgstr ""
+
+msgctxt "price"
+msgid "Free and open source"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Earlier in 2021 when WhatsApp (owned by Facebook) announced a change to their privacy policy, many privacy conscious users made the switch to Signal (I remember well because Signal struggled to up "
+"their server capacity to handle all the new users for a while. I dropped a couple of bucks in their donation bin to help them out then). Users who jumped from WhatsApp to Signal made a good move. "
+"Signal's open-source end-to-end encryption is lauded by many security professionals. And Signal won't track you or sell your data to strangers who could use it to target you with weird ads. Shoot, "
+"it was even recently reported that Facebook CEO Mark Zuckerberg himself uses Signal. That says a lot. What could happen if something goes wrong? Well, we suppose you could always show up in Mark "
+"Zuckerberg’s contacts and he could get one of those annoying “your contact is now on Signal '' texts. Fortunately, you can turn those notifications off in Signal’s settings."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"According to Signal, it \"does not sell, rent or monetize your personal data or content in any way – ever\". Signal implements the principles of data minimization - only the phone number is used as "
+"the data source - and of data protection by default &amp; by design."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid ""
+"Signal's privacy policy and terms of use are an example of how concise a these policies can get when a product is built based on strong security principles. Lengthy policies can be a sign of "
+"questionable data practices. In addition, there is FAQ with insights into security features, GDPR rights, etc."
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid ""
+"Signal uses full end-to-end encryption. Also, Signal uses the great practice of end-to-end encrypting profile data. It means that even if you decide to provide your profile information, Signal will not have access to it - it will be only shared with your contacts / with whom you chose.\r"
+"<br/> <br/>Another good practice is a secure discovery who among your contacts uses the service (again, optional). For this, information from the contacts on your device may be cryptographically hashed and transmitted to the server in order to determine which of your contacts are registered."
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "You can lock your Signal app with a passcode"
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "Anyone can report a vulnerability"
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Phone number. Name and photo are optional and end-to-end encrypted meaning Signal can not retrieve them."
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "No"
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid "No"
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"You can unregister your phone number - but you will need access to it, and you can do it through the app only. You also have controls over deleting messages &amp; chats, so that other users do not "
+"have access to them any more ."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"There were no data breaches associated with Signal. \r"
+"<br/> <br/>In January 2021, Google Project Zero security researcher Natalie Silvanovich discovered a bug in Signal that would allow audio to be transmitted without user consent. The bug was promptly fixed. \r"
+"<br/> <br/>Signal does reveal if someone uses their service, once you know their phone number. For example, it is known that Mark Zuckerberg himself is on Signal. Once someone in your contacts joins a service, you can see it, if you are a user, too. It is a useful feature if you want to know who is around to chat with in the app, but can be annoying (and potentially dangerous) if you want to be there secretly, or if your government has banned Signal."
+msgstr ""
