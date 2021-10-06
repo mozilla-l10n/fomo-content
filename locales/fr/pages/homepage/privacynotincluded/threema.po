@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-06 12:08:03.917132+00:00\n"
-"PO-Revision-Date: 2021-10-06 13:00+0000\n"
+"PO-Revision-Date: 2021-10-06 13:17+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -40,18 +40,27 @@ msgid ""
 "for their artificial intelligence features like face detection. We absolutely love to see transparency when it comes to the use of AI! Good work Threema! We’d say Threema is well worth the $2.99 "
 "price (however, this shows once again that good privacy is rarely ever free)."
 msgstr ""
+"Nous aimons beaucoup voir une application centrée sur la protection de la vie privée comme Threema où la réponse à la question « Que pourrait-il se passer en cas de problème ? » est vraiment "
+"« Probablement, pas grand-chose ». Chiffrement de bout en bout : c’est bon. Pas besoin de s’inscrire avec quoi que ce soit qui puisse être lié à vous, comme un numéro de téléphone ou une adresse "
+"e-mail : c’est bon aussi. Ne pas collecter les données des utilisateurs. Ne pas cibler les publicités de quelque manière que ce soit. Tout est bon ! Les quelques données qui passent par les serveurs"
+" situés en Suisse sont supprimées très rapidement. Parfait. Aucune faille de sécurité connue. Par-fait. Threema répond vraiment à toutes les exigences en matière de protection de la vie privée. "
+"L’entreprise a même ouvert le code source de ses fonctionnalités d’intelligence artificielle, comme la détection des visages. Nous apprécions beaucoup la transparence pour ce qui est de "
+"l’utilisation d’une IA ! Bien joué Threema ! Nous pensons que Threema vaut bien le prix de 3,99 € (cependant, cela montre une fois de plus qu’une bonne protection de la vie privée est rarement "
+"gratuite)."
 
 msgctxt "signup_requirement_explanation"
 msgid "Threema sets up an 8-digit Threema ID for all users"
-msgstr ""
+msgstr "Threema crée un identifiant Threema à 8 chiffres pour tous les utilisateurs et utilisatrices"
 
 msgctxt "how_does_it_use_data_collected"
 msgid "According to Threema, the data is processed exclusively by Threema on its own server infrastructure in Switzerland and is not passed on to third parties."
-msgstr ""
+msgstr "D’après Threema, les données sont traitées exclusivement par Threema sur sa propre infrastructure de serveurs en Suisse et ne sont pas transmises à des tiers."
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "A good example of a short and concise privacy policy, accompanied by detailed transparent papers on everything from encryption to FAQ addressing numerous possible concerns."
 msgstr ""
+"Voici un bon exemple de politique de confidentialité courte et concise, accompagnée d’articles transparents et détaillés sur une grande variété de sujets, allant du chiffrement à la FAQ répondant à "
+"de nombreuses préoccupations possibles."
 
 msgctxt "uses_encryption_helptext"
 msgid "Full end to end encryption of chats &amp; calls, by default."
@@ -63,7 +72,7 @@ msgstr "Mises à jour automatiques depuis les magasins d’applications ou via l
 
 msgctxt "strong_password_helptext"
 msgid "Threema allows various security passwords, namely PIN codes to log in, passphrases and lock codes to protect chats."
-msgstr ""
+msgstr "Threema autorise divers mots de passe de sécurité, à savoir des codes PIN pour se connecter, des phrases secrètes et des codes de verrouillage pour protéger les discussions."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid ""
@@ -91,10 +100,12 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known history of data breaches or leaks."
-msgstr ""
+msgstr "Aucune fuite de données ou faille découvertes."
 
 msgctxt "ai_helptext"
 msgid ""
 "Some features such as face detection for photos are AI-based. Threema uses this AI facial recognition to find faces in images to blur them out for privacy. Good work Threema! And their AI code is "
 "open source. Anyone who is interested can look at the code."
 msgstr ""
+"Certaines fonctionnalités telles que la détection des visages pour les photos ont recours à une IA. Threema utilise cette IA de reconnaissance faciale pour détecter des visages dans les images afin "
+"de les flouter pour plus de confidentialité. Bien joué Threema ! Et le code de leur IA est open source. Toute personne intéressée peut consulter ce code."
