@@ -835,6 +835,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/discord.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/threema.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/threema.po"
+locales = [ "de", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -862,11 +867,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/threema.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/threema.po"
 locales = [ "fr",]
 
 [[paths]]
