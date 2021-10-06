@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-10-06 12:08:03.917132+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8353d509-9c3f-4da2-b957-ffb784d2b88b\n"
+
+msgctxt "title"
+msgid "Threema"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"This Swiss-made, privacy-focused text and video call app is open-sourced, based on privacy by design principles and saw it’s downloads take off earlier in 2021 when WhatsApp announced controversial "
+"change to their privacy policies. Threema touts it’s $2.99 app as a service that can be used completely anonymously (which, yay!, but we always caution about things being completely anonymous, it’s "
+"really hard to make anything completely anonymous). Threema is one of the best privacy-focused messaging apps we have seen, with its end-to-end encryption, no phone number required to sign up, and "
+"its commitment to not collect user data. Yay for privacy-focused apps!"
+msgstr ""
+
+msgctxt "price"
+msgid "$2.99 to purchase"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"You love to see a privacy focused app like Threema where the answer to the question, “What could happen if something goes wrong?” is truly, “Likely, not much.”  End-to-end encryption. Check. No need"
+" to sign up with anything that could be linked to you like a phone number or email address. Check. Does not collect user data. Does not target ads in any way. Check and check! What little data does "
+"pass through the Swiss-based servers is deleted very quickly. Check. No known security breaches. Check! Threema really does check all the privacy-focused boxes. They even opened up the source code "
+"for their artificial intelligence features like face detection. We absolutely love to see transparency when it comes to the use of AI! Good work Threema! We’d say Threema is well worth the $2.99 "
+"price (however, this shows once again that good privacy is rarely ever free)."
+msgstr ""
+
+msgctxt "signup_requirement_explanation"
+msgid "Threema sets up an 8-digit Threema ID for all users"
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid "According to Threema, the data is processed exclusively by Threema on its own server infrastructure in Switzerland and is not passed on to third parties."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "A good example of a short and concise privacy policy, accompanied by detailed transparent papers on everything from encryption to FAQ addressing numerous possible concerns."
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid "Full end to end encryption of chats &amp; calls, by default."
+msgstr ""
+
+msgctxt "security_updates_helptext"
+msgid "Automatic updates from the respective app store or with a built-in updater."
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "Threema allows various security passwords, namely PIN codes to log in, passphrases and lock codes to protect chats."
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid ""
+"Dedicated contacts for security issues are provided. \r"
+"<br/>On top of that, external security experts are commissioned to conduct security audits on a regular basis."
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid ""
+"No personal data is collected by default.\r"
+"<br/>Optional: phone number and email (encrypted)."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"All data is only stored until deleted by the user. Once the information is deleted, it cannot be restored.\r"
+"<br/> <br/>In case of loss of the end-user device, mobile phone numbers and email addresses linked to a Threema ID can be deleted via the following link: https://myid.threema.ch/unlink"
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "No known history of data breaches or leaks."
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid ""
+"Some features such as face detection for photos are AI-based. Threema uses this AI facial recognition to find faces in images to blur them out for privacy. Good work Threema! And their AI code is "
+"open source. Anyone who is interested can look at the code."
+msgstr ""
