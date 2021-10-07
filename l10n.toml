@@ -840,6 +840,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/threema.po"
 locales = [ "de", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/who-we-are/strategy.pot"
+l10n = "locales/{locale}/pages/homepage/who-we-are/strategy.po"
+locales = [ "de", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -867,6 +872,26 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/13-web-literacy.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/13-web-literacy.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/14-open-leadership.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/14-open-leadership.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/19-responsible-computer-science-challenge.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/19-responsible-computer-science-challenge.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/initiatives.pot"
+l10n = "locales/{locale}/pages/homepage/initiatives.po"
 locales = [ "fr",]
 
 [[paths]]
