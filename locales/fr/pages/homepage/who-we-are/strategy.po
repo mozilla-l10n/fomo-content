@@ -1,48 +1,57 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-07 12:06:49.449409+00:00\n"
+"PO-Revision-Date: 2021-10-07 13:04+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 13d740e9-7d41-41a5-b0ed-c31c45fababe\n"
 
 msgctxt "title"
 msgid "Strategy"
-msgstr ""
+msgstr "Stratégie"
 
 msgctxt "intro"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
-msgstr ""
+msgstr "La Fondation Mozilla est à pied d’œuvre pour s’assurer qu’Internet demeure un bien commun ouvert et accessible à tout le monde."
 
 msgctxt "body.60af3edf-b68a-408c-8154-0649e42e1aae"
 msgid "Internet Health"
-msgstr ""
+msgstr "La santé d’Internet"
 
 msgctxt "body.60af3edf-b68a-408c-8154-0649e42e1aae"
 msgid "A healthy internet is one in which privacy, openness and inclusion are the norms. These are values Mozilla has championed from the beginning in our<a id=\"a1\"> Mozilla Manifesto</a>."
 msgstr ""
+"Un Internet en bonne santé est un espace où le respect de la vie privée, l’ouverture et l’inclusion sont la norme. Ce sont des valeurs que Mozilla défend depuis sa création et qui sont inscrites "
+"dans le <a id=\"a1\">Manifeste de Mozilla</a>."
 
 msgctxt "body.9a207545-47f9-47c2-9106-90348085b989.altText"
 msgid "Picture of the Mozilla Manifesto"
-msgstr ""
+msgstr "Image du Manifeste de Mozilla"
 
 msgctxt "body.9a207545-47f9-47c2-9106-90348085b989.caption"
 msgid "The Mozilla Manifesto"
-msgstr ""
+msgstr "Le Manifeste Mozilla"
 
 msgctxt "body.9a207545-47f9-47c2-9106-90348085b989.captionURL"
 msgid "https://www.mozilla.org/about/manifesto/"
-msgstr ""
+msgstr "https://www.mozilla.org/about/manifesto/"
 
 msgctxt "body.86325822-b7c4-47ed-8dc9-6f71d3ccbee0"
 msgid ""
 "Mozilla believes that we all have a stake in understanding and protecting the health of the internet. For this reason, the Mozilla Foundation is primarily focused on <b>fueling an emerging movement "
 "of internet users, technologists, researchers and activists who are standing and fighting for a healthy internet for generations to come.</b>"
 msgstr ""
+"Mozilla considère que notre intérêt commun consiste à comprendre et protéger la santé d’Internet. C’est pour cela que la Fondation Mozilla s’applique principalement à <b>initier un grand mouvement "
+"d’internautes, d’universitaires, de leaders d’opinion et de militants qui luttent pour un Internet en bonne santé pour les générations futures.</b>"
 
 msgctxt "body.ebf91adc-c514-48a2-85ae-2383fd42573c.altText"
 msgid "icon with 4 arrows going to different directions"
-msgstr ""
+msgstr "icône avec 4 flèches allant dans différentes directions"
 
 msgctxt "body.ebf91adc-c514-48a2-85ae-2383fd42573c.text"
 msgid "Read more about our movement building strategy <a id=\"a1\">here</a>."
@@ -50,15 +59,15 @@ msgstr ""
 
 msgctxt "body.fcea9a80-4a01-4fcf-a567-1ff18784d75f.altText"
 msgid "Image with purple background, 2 discs and the words \"Artificial Intelligence\""
-msgstr ""
+msgstr "Image avec fond violet, 2 disques et les mots « Intelligence artificielle »"
 
 msgctxt "body.7602990b-ee77-4a88-9da4-cafba977b9e7"
 msgid "Trustworthy AI"
-msgstr ""
+msgstr "IA digne de confiance"
 
 msgctxt "body.7602990b-ee77-4a88-9da4-cafba977b9e7"
 msgid "A majority of Mozilla’s movement building work is focused on developing trustworthy AI."
-msgstr ""
+msgstr "La majorité des efforts de Mozilla pour donner de l’élan au mouvement sont orientés vers le développement d’une IA digne de confiance."
 
 msgctxt "body.7602990b-ee77-4a88-9da4-cafba977b9e7"
 msgid ""
@@ -81,7 +90,7 @@ msgstr ""
 
 msgctxt "body.dd7a3920-682d-4d5d-aac5-b5370bd9b75e.altText"
 msgid "icon with 4 arrows going to different directions"
-msgstr ""
+msgstr "icône avec 4 flèches allant dans différentes directions"
 
 msgctxt "body.dd7a3920-682d-4d5d-aac5-b5370bd9b75e.text"
 msgid "Read more about our AI theory of change <a id=\"a1\">here</a>."
