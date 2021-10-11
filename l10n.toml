@@ -845,6 +845,16 @@ l10n = "locales/{locale}/pages/homepage/who-we-are/strategy.po"
 locales = [ "de", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/can-my-boss-read-my-slack-dmsand-other-workplace-wonderings.pot"
+l10n = "locales/{locale}/pages/homepage/blog/can-my-boss-read-my-slack-dmsand-other-workplace-wonderings.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/is-my-facebook-activity-fcking-my-finances-mozilla-explains-data-brokers.pot"
+l10n = "locales/{locale}/pages/homepage/blog/is-my-facebook-activity-fcking-my-finances-mozilla-explains-data-brokers.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
