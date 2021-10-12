@@ -919,3 +919,8 @@ reference = "templates/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-r
 l10n = "locales/{locale}/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.pot"
+l10n = "locales/{locale}/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.po"
+locales = [ "sw",]
+
