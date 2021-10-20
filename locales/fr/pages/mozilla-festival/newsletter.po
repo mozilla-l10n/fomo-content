@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-20 14:07:09.671010+00:00\n"
+"PO-Revision-Date: 2021-10-20 14:35+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8e4bc593-ddc0-4072-8660-a6332cc861c2\n"
 
 msgctxt "title"
@@ -12,11 +17,11 @@ msgstr ""
 
 msgctxt "slug"
 msgid "newsletter"
-msgstr ""
+msgstr "newsletter"
 
 msgctxt "seo_title"
 msgid "Mozilla Festival - News and Updates"
-msgstr ""
+msgstr "Mozilla Festival - Actualités et informations"
 
 msgctxt "intro"
 msgid "Are you ready to join the Mozilla Festival community online?"
