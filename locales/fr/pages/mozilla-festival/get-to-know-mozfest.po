@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-20 14:07:09.698077+00:00\n"
+"PO-Revision-Date: 2021-10-20 15:49+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: e5061ec9-657f-4467-9cc3-20188ec2101a\n"
 
 msgctxt "title"
@@ -16,13 +21,15 @@ msgstr ""
 
 msgctxt "header"
 msgid "Uniquely MozFest"
-msgstr ""
+msgstr "Originalité du MozFest"
 
 msgctxt "intro"
 msgid ""
 "MozFest is no ordinary tech conference. It is a whirl of people and ideas, sparks of curiosity and connection, and a vibe that is buzzing, dynamic and full of positive energy. The festival is one of"
 " a kind."
 msgstr ""
+"Le MozFest n’est pas une conférence technique ordinaire. C’est un brassage de personnes et d’idées qui pique la curiosité, favorise les rencontres, et une ambiance vibrante, dynamique et pleine "
+"d’énergie positive. Le festival est unique en son genre."
 
 msgctxt "body.f7593533-4f52-49b9-89df-361f3be378bc"
 msgid ""
