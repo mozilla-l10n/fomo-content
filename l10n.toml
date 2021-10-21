@@ -895,6 +895,11 @@ l10n = "locales/{locale}/pages/mozilla-festival/proposals/timeline.po"
 locales = [ "de", "fr",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/slack.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/slack.po"
+locales = [ "de", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
