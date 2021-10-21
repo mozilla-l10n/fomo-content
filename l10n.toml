@@ -860,11 +860,6 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-lush-2.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Signup/73-mozfest-home.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Signup/73-mozfest-home.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl",]
-
-[[paths]]
 reference = "templates/pages/mozilla-festival/proposals.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/proposals.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl",]
@@ -883,6 +878,21 @@ locales = [ "de", "es", "fr", "fy-NL", "nl",]
 reference = "templates/pages/mozilla-festival/get-to-know-mozfest.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/get-to-know-mozfest.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Signup/73-mozfest-home.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/73-mozfest-home.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/proposals/support.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/proposals/support.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/proposals/timeline.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/proposals/timeline.po"
+locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
