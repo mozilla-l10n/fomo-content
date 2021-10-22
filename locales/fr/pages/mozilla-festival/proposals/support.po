@@ -11,14 +11,6 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 270b33a8-3e7c-4188-b008-b0d47725df17\n"
 
-msgctxt "title"
-msgid "Support"
-msgstr "Aide"
-
-msgctxt "slug"
-msgid "support"
-msgstr "support"
-
 msgctxt "seo_title"
 msgid "MozFest Call for Proposals Support"
 msgstr "Aide pour l’appel à propositions du MozFest"
@@ -228,3 +220,11 @@ msgid "Email Facilitator coach Chad Sansing, message him on <a id=\"a1\">Slack</
 msgstr ""
 "Envoyez un e-mail au coach des animateurs Chad Sansing, envoyez-lui un message sur <a id=\"a1\">Slack</a> (chadsansing), ou <a id=\"a2\">inscrivez-vous sur son agenda</a> pour planifier une session "
 "individuelle de coaching."
+
+#~ msgctxt "title"
+#~ msgid "Support"
+#~ msgstr "Aide"
+
+#~ msgctxt "slug"
+#~ msgid "support"
+#~ msgstr "support"

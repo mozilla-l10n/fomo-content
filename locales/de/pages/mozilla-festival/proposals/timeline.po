@@ -11,14 +11,6 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8c434338-98fe-45c9-aaf8-b23af69c8374\n"
 
-msgctxt "title"
-msgid "Timeline"
-msgstr "Zeitverlauf"
-
-msgctxt "slug"
-msgid "timeline"
-msgstr "timeline"
-
 msgctxt "seo_title"
 msgid "MozFest Call for Proposals Timeline"
 msgstr "Zeitverlauf zur Einreichung von Vorschlägen für das MozFest"
@@ -152,3 +144,11 @@ msgstr "Das virtuelle MozFest beginnt am 7. März 2022 und endet am 10. März 20
 msgctxt "body.fa6b345b-4526-453f-8d30-4c45a20a0a4f"
 msgid "An on-the-ground MozFest event is currently planned for 25 March 2022 through 27 March 2022."
 msgstr "Eine MozFest-Veranstaltung vor Ort ist derzeit für den 25. März 2022 bis 27. März 2022 geplant."
+
+#~ msgctxt "title"
+#~ msgid "Timeline"
+#~ msgstr "Zeitverlauf"
+
+#~ msgctxt "slug"
+#~ msgid "timeline"
+#~ msgstr "timeline"

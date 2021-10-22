@@ -880,11 +880,6 @@ l10n = "locales/{locale}/pages/mozilla-festival/get-to-know-mozfest.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Signup/73-mozfest-home.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Signup/73-mozfest-home.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl",]
-
-[[paths]]
 reference = "templates/pages/mozilla-festival/proposals/support.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/proposals/support.po"
 locales = [ "de", "fr",]
@@ -897,6 +892,16 @@ locales = [ "de", "fr",]
 [[paths]]
 reference = "templates/pages/mozilla-festival/slack.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/slack.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Signup/73-mozfest-home.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/73-mozfest-home.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/proposals/guide.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/proposals/guide.po"
 locales = [ "de", "fr",]
 
 [[paths]]

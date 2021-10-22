@@ -11,14 +11,6 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8e4bc593-ddc0-4072-8660-a6332cc861c2\n"
 
-msgctxt "title"
-msgid "Updates"
-msgstr "Actualités"
-
-msgctxt "slug"
-msgid "newsletter"
-msgstr "newsletter"
-
 msgctxt "seo_title"
 msgid "Mozilla Festival - News and Updates"
 msgstr "Mozilla Festival - Actualités et informations"
@@ -66,3 +58,11 @@ msgstr "Nous espérons que vous vous joindrez à nous pour lancer un grand mouve
 msgctxt "body.855b42f2-db3a-4ba1-8f28-7abe9cabed5e.title"
 msgid "Latest Festival News"
 msgstr "Dernières actualités du festival"
+
+#~ msgctxt "title"
+#~ msgid "Updates"
+#~ msgstr "Actualités"
+
+#~ msgctxt "slug"
+#~ msgid "newsletter"
+#~ msgstr "newsletter"

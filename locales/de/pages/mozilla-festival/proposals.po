@@ -11,14 +11,6 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 477536a0-be1e-4dd7-9b4d-28db88e64ac6\n"
 
-msgctxt "title"
-msgid "Call For Proposals"
-msgstr "Aufruf für Vorschläge"
-
-msgctxt "slug"
-msgid "proposals"
-msgstr "proposals"
-
 msgctxt "seo_title"
 msgid "MozFest Call For Proposals"
 msgstr "Aufruf für Vorschläge zum MozFest"
@@ -280,3 +272,11 @@ msgstr "Ihren Vorschlag einreichen"
 msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.URL"
 msgid "https://www.pretalx.com/mozfest-2022/cfp"
 msgstr "https://www.pretalx.com/mozfest-2022/cfp"
+
+#~ msgctxt "title"
+#~ msgid "Call For Proposals"
+#~ msgstr "Aufruf für Vorschläge"
+
+#~ msgctxt "slug"
+#~ msgid "proposals"
+#~ msgstr "proposals"

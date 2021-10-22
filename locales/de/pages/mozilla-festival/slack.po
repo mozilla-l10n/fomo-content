@@ -11,14 +11,6 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 5cdaf9a2-bc7a-4470-ac2a-bf8f29a66639\n"
 
-msgctxt "title"
-msgid "Join the MozFest Slack"
-msgstr "Treten Sie dem MozFest-Slack bei"
-
-msgctxt "slug"
-msgid "slack"
-msgstr "slack"
-
 msgctxt "body.efe7adbd-540c-424d-87f7-a1dc22b185ca"
 msgid "Click the button below to create your account on the MozFest Slack."
 msgstr "Klicken Sie auf die folgende Schaltfläche, um Ihr Konto im MozFest-Slack zu erstellen."
@@ -34,3 +26,11 @@ msgstr "Treten Sie dem MozFest-Slack bei"
 msgctxt "body.46e4c26b-92f9-48d2-a74c-8d768469fc14.URL"
 msgid "https://join.slack.com/t/mozfest/shared_invite/zt-njcw4pcz-RvzcQLbenvqozrFmor0zCA"
 msgstr "https://join.slack.com/t/mozfest/shared_invite/zt-njcw4pcz-RvzcQLbenvqozrFmor0zCA"
+
+#~ msgctxt "title"
+#~ msgid "Join the MozFest Slack"
+#~ msgstr "Treten Sie dem MozFest-Slack bei"
+
+#~ msgctxt "slug"
+#~ msgid "slack"
+#~ msgstr "slack"
