@@ -1,30 +1,37 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-25 09:04:27.610219+00:00\n"
+"PO-Revision-Date: 2021-10-25 10:06+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 66dd151f-019b-4f77-a5fe-19a7767a7d41\n"
 
 msgctxt "seo_title"
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Mozilla Festival"
 
 msgctxt "search_description"
 msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us?"
 msgstr ""
+"Les militants du mouvement pour la santé d’Internet se réuniront au MozFest pour faire avancer les choses dans les domaines de la technologie, de l’art, de la responsabilité sociale, de l’éthique et"
+" de l’IA. Vous nous rejoignez ?"
 
 msgctxt "title"
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
 msgid "Submit a Proposal"
-msgstr ""
+msgstr "Envoyer une proposition"
 
 msgctxt "banner_heading"
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Mozilla Festival"
 
 msgctxt "banner_guide_text"
 msgid ""
@@ -54,6 +61,8 @@ msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
 msgid ""
 "MozFest is a unique hybrid: part art, tech and society convening, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world."
 msgstr ""
+"Le MozFest est un concept unique : c’est en partie un rassemblement artistique, technologique et sociétal, en partie un festival de créateurs et également le premier rassemblement pour les militants"
+" de divers mouvements internationaux qui luttent pour un monde numérique plus humain."
 
 msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.altText"
 msgid "A photograph of the MozFest Opening Circle, with a large group of participants all with their hands raised in the air cheering on a video conferencing platform."
@@ -131,7 +140,7 @@ msgstr ""
 
 msgctxt "body.ffb911be-b5ff-4cfe-8e65-ea01aab02010.URL"
 msgid "https://www.mozillafestival.org/working-groups/"
-msgstr ""
+msgstr "https://www.mozillafestival.org/working-groups/"
 
 msgctxt "body.bef1ea3c-057c-4cf8-8947-2cd157f97451"
 msgid "On-Demand"
@@ -149,7 +158,7 @@ msgstr ""
 
 msgctxt "body.53cfd0a5-5d7f-46a3-8fb1-619089662b65.URL"
 msgid "https://www.mozillafestival.org/on-demand"
-msgstr ""
+msgstr "https://www.mozillafestival.org/on-demand"
 
 msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.label"
 msgid "Catch up on MozFest 2021 Sessions"
@@ -157,4 +166,4 @@ msgstr ""
 
 msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.URL"
 msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
-msgstr ""
+msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
