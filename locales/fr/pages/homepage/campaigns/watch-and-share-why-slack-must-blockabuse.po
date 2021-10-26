@@ -1,26 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-25 18:06:00.845003+00:00\n"
+"PO-Revision-Date: 2021-10-26 09:21+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: bdbc79b7-fcaf-41d2-9a92-472c0e5de9bf\n"
 
 msgctxt "search_description"
 msgid "Slack fails to protect its users from harassment and abusive messages. Hear why Mozilla is calling for a block feature."
-msgstr ""
+msgstr "Slack ne protège pas ses utilisateurs et utilisatrices contre le harcèlement et les messages insultants. Découvrez pourquoi Mozilla demande une fonctionnalité de blocage."
 
 msgctxt "title"
 msgid "Watch and share: Why Slack must #BlockAbuse"
-msgstr ""
+msgstr "Regardez et partagez : Pourquoi Slack doit bloquer les abus"
 
 msgctxt "body.1e7ce56c-0e5c-4a00-8b2b-58f9371c2d08.url"
 msgid "https://www.youtube.com/embed/vgdmnl8jpjU?rel=0"
-msgstr ""
+msgstr "https://www.youtube.com/embed/vgdmnl8jpjU?rel=0&cc_load_policy=1&cc_lang_pref=fr"
 
 msgctxt "body.ce4013f0-8b24-4600-ae03-f5a369d94900.label"
 msgid "Share on Twitter"
-msgstr ""
+msgstr "Partager sur Twitter"
 
 msgctxt "body.ce4013f0-8b24-4600-ae03-f5a369d94900.URL"
 msgid "http://share.mozilla.org/352/220997/twitter"
@@ -28,7 +33,7 @@ msgstr ""
 
 msgctxt "body.d8fce5c2-073c-453a-95f4-1eda1496b25a.label"
 msgid "Share on Facebook"
-msgstr ""
+msgstr "Partager sur Facebook"
 
 msgctxt "body.d8fce5c2-073c-453a-95f4-1eda1496b25a.URL"
 msgid "http://share.mozilla.org/352/220998/facebook"
@@ -36,7 +41,7 @@ msgstr ""
 
 msgctxt "body.a2a6d11e-53cd-46a3-aca9-44f0b244ac24"
 msgid "Have a story of your own to share?"
-msgstr ""
+msgstr "Vous avez un témoignage à partager ?"
 
 msgctxt "body.73d38371-0b49-4daa-9ecd-6ca4db8ee03d.embed_id"
 msgid "lPGtWjlz"
@@ -44,4 +49,4 @@ msgstr ""
 
 msgctxt "body.73d38371-0b49-4daa-9ecd-6ca4db8ee03d.button_text"
 msgid "Share your story"
-msgstr ""
+msgstr "Partagez un témoignage"
