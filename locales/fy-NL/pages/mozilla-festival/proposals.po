@@ -1,22 +1,27 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-20 19:06:18.546403+00:00\n"
+"PO-Revision-Date: 2021-10-29 10:09+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: b170639b-a7a6-4891-b4b3-f9e4a5eb0a1e\n"
 
 msgctxt "seo_title"
 msgid "MozFest Call For Proposals"
-msgstr ""
+msgstr "MozFest-oprop foar foarstellen"
 
 msgctxt "title"
 msgid "Call For Proposals"
-msgstr ""
+msgstr "Oprop om foarstellen yn te tsjinjen"
 
 msgctxt "header"
 msgid "Call for Proposals"
-msgstr ""
+msgstr "Oprop om foarstellen yn te tsjinjen"
 
 msgctxt "intro"
 msgid "Whether you are an expert in your field or just becoming interested in making the internet a better place, we welcome your voice in this critical, community-driven experience."
@@ -28,11 +33,11 @@ msgstr ""
 
 msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.label"
 msgid "Submit your proposal"
-msgstr ""
+msgstr "Jo foarstel yntsjinje"
 
 msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.URL"
 msgid "https://www.pretalx.com/mozfest-2022/cfp"
-msgstr ""
+msgstr "https://www.pretalx.com/mozfest-2022/cfp"
 
 msgctxt "body.394a639f-621b-4f3e-a2d3-562dca1e3cf2.altText"
 msgid "A group of people sitting around a table taking part in a session, where two people are stood either side of a large presentation screen."
@@ -40,7 +45,7 @@ msgstr ""
 
 msgctxt "body.77cf318b-5b84-4b07-8a41-80d0fe02ed4b"
 msgid "About MozFest Sessions and FAQ"
-msgstr ""
+msgstr "Oer MozFest-sesjes en FAQ"
 
 msgctxt "body.77cf318b-5b84-4b07-8a41-80d0fe02ed4b"
 msgid ""
@@ -50,7 +55,7 @@ msgstr ""
 
 msgctxt "body.9903b0a6-9004-41b4-95ec-991f26b5a97c.altText"
 msgid "information icon"
-msgstr ""
+msgstr "ynformaasjepiktogram"
 
 msgctxt "body.9903b0a6-9004-41b4-95ec-991f26b5a97c.text"
 msgid "Is this your first time submitting a proposal to MozFest? Learn more in our <a id=\"a1\">MozFest 101</a>"
@@ -68,7 +73,7 @@ msgstr ""
 
 msgctxt "body.df3e5628-151c-48e4-a529-01720c6e4937"
 msgid "Who can submit?"
-msgstr ""
+msgstr "Wa kin yntsjinje?"
 
 msgctxt "body.df3e5628-151c-48e4-a529-01720c6e4937"
 msgid ""
@@ -78,7 +83,7 @@ msgstr ""
 
 msgctxt "body.df3e5628-151c-48e4-a529-01720c6e4937"
 msgid "Are there other ways to submit my session idea?"
-msgstr ""
+msgstr "Binne der oare manieren om myn sesje-idee yn te tsjinjen?"
 
 msgctxt "body.df3e5628-151c-48e4-a529-01720c6e4937"
 msgid "Yes, for anyone who would like to submit using an audio or video recording, please email us at <a id=\"a1\">festival@mozilla.org</a> and we will send you the full list of questions to answer."
@@ -102,7 +107,7 @@ msgstr ""
 
 msgctxt "body.1aa471c5-ba4b-4247-8cd3-0944ebca7627.altText"
 msgid "help button"
-msgstr ""
+msgstr "helpknop"
 
 msgctxt "body.1aa471c5-ba4b-4247-8cd3-0944ebca7627.text"
 msgid "To help potential facilitators submit their best possible session proposals we provide <a id=\"a1\">support opportunities</a> for everyone submitting a proposal."
@@ -119,7 +124,7 @@ msgstr ""
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid "Art, Films and Podcasts"
-msgstr ""
+msgstr "Keunst, films en podcasts"
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid "Includes art exhibits, interactive &amp; immersive media, film &amp; video, game or podcasts.<br/>No time limit."
@@ -127,7 +132,7 @@ msgstr ""
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid "Social Moments"
-msgstr ""
+msgstr "Sosjale mominten"
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid "Sessions focused on bringing the MozFest community together in a social format. This could include a meetup, yoga session, baking classes or a games evening.<br/>No time limit."
@@ -135,7 +140,7 @@ msgstr ""
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid "Discussions"
-msgstr ""
+msgstr "Diskusjes"
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid ""
@@ -145,7 +150,7 @@ msgstr ""
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid "Skill Shares / Lightning Talks"
-msgstr ""
+msgstr "Feardichheden diele / bliksempetearen"
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid "Pre-recorded learning sessions or lightning talks focused on sharing skill, research or methodology.<br/>Time limit: 7 mins"
@@ -153,7 +158,7 @@ msgstr ""
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid "Workshops"
-msgstr ""
+msgstr "Workshops"
 
 msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 msgid ""
@@ -171,7 +176,7 @@ msgstr ""
 
 msgctxt "body.068fd39f-3c17-430d-aeab-13e09eb863d3.altText"
 msgid "an icon of a person talking"
-msgstr ""
+msgstr "in piktogram fan in pratend persoan"
 
 msgctxt "body.068fd39f-3c17-430d-aeab-13e09eb863d3.text"
 msgid "The festival team have put together a list of <a id=\"a1\">5 tips for designing engaging and inclusive session</a> that will bring you and your work success."
@@ -215,7 +220,7 @@ msgstr ""
 
 msgctxt "body.6a359d4a-9a1a-4900-b4ee-bd2bde79d920"
 msgid "Who will come to my session?"
-msgstr ""
+msgstr "Wa komt der nei myn sesje?"
 
 msgctxt "body.6a359d4a-9a1a-4900-b4ee-bd2bde79d920"
 msgid ""
@@ -225,8 +230,8 @@ msgstr ""
 
 msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.label"
 msgid "Submit your proposal"
-msgstr ""
+msgstr "Jo foarstel yntsjinje"
 
 msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.URL"
 msgid "https://www.pretalx.com/mozfest-2022/cfp"
-msgstr ""
+msgstr "https://www.pretalx.com/mozfest-2022/cfp"
