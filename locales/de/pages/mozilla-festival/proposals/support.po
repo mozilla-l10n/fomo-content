@@ -144,12 +144,12 @@ msgid "<a id=\"a1\">Call 8</a> - Wednesday, 27 October 2021, at 1 PM PT / 4 PM E
 msgstr "<a id=\"a1\">8. Anruf</a> – Mittwoch, 27. Oktober 2021 um 13:00 Uhr PT / 16 Uhr ET / 21 Uhr BST / 22 Uhr MESZ / 1:30 Uhr IST (nächster Tag)"
 
 msgctxt "body.a53fad0b-29a2-4b42-902e-3e35f40af563"
-msgid "<a id=\"a1\">Call 9</a> - Thursday, 4 November 2021, at 5 AM PT / 8 AM ET / 1 PM BST / 2 PM CEST / 5:30 PM"
-msgstr "<a id=\"a1\">9. Anruf</a> – Donnerstag, 4. November 2021, um 5:00 Uhr PT / 8:00 Uhr ET / 13:00 Uhr BST / 14:00 Uhr MESZ / 17:30 Uhr"
+msgid "<a id=\"a1\">Call 9</a> - Thursday, 4 November 2021, at 5 AM PT / 8 AM ET / 12 PM GMT / 1 PM CET / 5:30 PM IST"
+msgstr ""
 
 msgctxt "body.a53fad0b-29a2-4b42-902e-3e35f40af563"
-msgid "<a id=\"a1\">Call 10</a> - Thursday, 4 November, 2021 at 12 PM PT / 3 PM ET / 8 PM BST / 9 PM CEST / 00:30 PM IST (next day)"
-msgstr "<a id=\"a1\">10. Ruf</a> – Donnerstag, 4. November 2021 um 12:00 Uhr PT / 15:00 Uhr ET / 20:00 Uhr BST / 21:00 Uhr MESZ / 20:30 Uhr IST (nächster Tag)"
+msgid "<a id=\"a1\">Call 10</a> - Thursday, 4 November, 2021 at 12 PM PT / 3 PM ET / 7 PM GMT / 8 PM CET / 00:30 AM IST (next day)"
+msgstr ""
 
 msgctxt "body.a53fad0b-29a2-4b42-902e-3e35f40af563"
 msgid "January - February 2022:"
@@ -229,3 +229,11 @@ msgstr ""
 #~ msgctxt "slug"
 #~ msgid "support"
 #~ msgstr "support"
+
+#~ msgctxt "body.a53fad0b-29a2-4b42-902e-3e35f40af563"
+#~ msgid "<a id=\"a1\">Call 9</a> - Thursday, 4 November 2021, at 5 AM PT / 8 AM ET / 1 PM BST / 2 PM CEST / 5:30 PM"
+#~ msgstr "<a id=\"a1\">9. Anruf</a> – Donnerstag, 4. November 2021, um 5:00 Uhr PT / 8:00 Uhr ET / 13:00 Uhr BST / 14:00 Uhr MESZ / 17:30 Uhr"
+
+#~ msgctxt "body.a53fad0b-29a2-4b42-902e-3e35f40af563"
+#~ msgid "<a id=\"a1\">Call 10</a> - Thursday, 4 November, 2021 at 12 PM PT / 3 PM ET / 8 PM BST / 9 PM CEST / 00:30 PM IST (next day)"
+#~ msgstr "<a id=\"a1\">10. Ruf</a> – Donnerstag, 4. November 2021 um 12:00 Uhr PT / 15:00 Uhr ET / 20:00 Uhr BST / 21:00 Uhr MESZ / 20:30 Uhr IST (nächster Tag)"
