@@ -920,6 +920,16 @@ l10n = "locales/{locale}/snippets/wagtailpages.Signup/73-mozfest-home.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/campaigns/platforms-failed-to-curb-disinfo-german-election.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/platforms-failed-to-curb-disinfo-german-election.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/minimum-election-standards.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/minimum-election-standards.po"
+locales = [ "de",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
