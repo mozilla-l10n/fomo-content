@@ -930,6 +930,146 @@ l10n = "locales/{locale}/pages/homepage/campaigns/minimum-election-standards.po"
 locales = [ "de",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/106-smart-home-smart-display-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/106-smart-home-smart-display-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/107-smart-home-security-cams-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/107-smart-home-security-cams-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/111-smart-home-robot-vacuums-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/111-smart-home-robot-vacuums-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/132-pets-smart-litter-boxes-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/132-pets-smart-litter-boxes-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/129-pets-pet-trackers-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/129-pets-pet-trackers-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/131-pets-pet-feeders-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/131-pets-pet-feeders-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/130-pets-pet-cams-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/130-pets-pet-cams-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/121-health-exercise-smart-thermometers-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/121-health-exercise-smart-thermometers-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/122-health-exercise-smart-scales-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/122-health-exercise-smart-scales-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/120-health-exercise-exercise-equipment-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/120-health-exercise-exercise-equipment-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/119-wearables-trackers-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/119-wearables-trackers-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/117-wearables-smart-glasses-ar-headsets-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/117-wearables-smart-glasses-ar-headsets-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/118-wearables-headphones-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/118-wearables-headphones-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/116-wearables-fitness-trackers-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/116-wearables-fitness-trackers-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/115-entertainment-tablets-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/115-entertainment-tablets-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/113-entertainment-streaming-players-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/113-entertainment-streaming-players-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/112-entertainment-gaming-platforms-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/112-entertainment-gaming-platforms-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/114-entertainment-ereaders-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/114-entertainment-ereaders-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/126-toys-games-toys-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/126-toys-games-toys-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/123-toys-games-tablets-for-kids-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/123-toys-games-tablets-for-kids-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/127-toys-games-stemcoding-learning-kits-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/127-toys-games-stemcoding-learning-kits-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/125-toys-games-fitness-trackers-for-kids-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/125-toys-games-fitness-trackers-for-kids-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/124-toys-games-ereaders-for-kids-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/124-toys-games-ereaders-for-kids-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/128-toys-games-drones-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/128-toys-games-drones-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/108-smart-home-video-doorbells-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/108-smart-home-video-doorbells-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/110-smart-home-smart-thermostats-smoke-detectors-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/110-smart-home-smart-thermostats-smoke-detectors-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/105-smart-home-smart-speakers-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/105-smart-home-smart-speakers-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/109-smart-home-smart-locks-sort-order-1.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/109-smart-home-smart-locks-sort-order-1.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
