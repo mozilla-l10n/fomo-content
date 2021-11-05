@@ -600,11 +600,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/10-bes
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/13-fitness-trackers.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/13-fitness-trackers.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/8-video-call-apps.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/8-video-call-apps.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
