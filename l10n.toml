@@ -1070,6 +1070,11 @@ l10n = "locales/{locale}/pages/homepage/campaigns/strategies-for-studying-tiktok
 locales = [ "de",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/can-you-negotiate-with-a-computer-mozilla-explains-the-future-of-personal-ais-part-two.pot"
+l10n = "locales/{locale}/pages/homepage/blog/can-you-negotiate-with-a-computer-mozilla-explains-the-future-of-personal-ais-part-two.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
