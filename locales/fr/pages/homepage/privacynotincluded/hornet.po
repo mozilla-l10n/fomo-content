@@ -31,10 +31,6 @@ msgstr ""
 "profils et de télécharger des photos publiques et privées. En revanche, il vous faudra un abonnement premium pour voir qui a consulté votre profil ou encore rechercher des profils à l’aide de "
 "filtres."
 
-msgctxt "price"
-msgid "Free - $9.99/mo for premium features"
-msgstr "Inscription gratuite, 9,99 € par mois pour des fonctionnalités premium"
-
 msgctxt "worst_case"
 msgid ""
 "Hornet bills itself the better privacy alternative to Grindr for gay and bisexual men looking for hookups and dates. How does it do? Well, to be honest, it's not hard to be better than Grindr when "
@@ -111,3 +107,7 @@ msgstr "Aucun incident connu au cours des 2 dernières années."
 msgctxt "ai_helptext"
 msgid "Hornet's Privacy Policy states that they use automated decisions for two purposes: 1. Content and user suggestions; 2. Moderation of images."
 msgstr "La politique de confidentialité de Hornet stipule qu’ils automatisent leurs décisions dans deux cas de figure : 1. Pour suggérer des contenus et des utilisateurs ; 2. Pour modérer des images."
+
+#~ msgctxt "price"
+#~ msgid "Free - $9.99/mo for premium features"
+#~ msgstr "Inscription gratuite, 9,99 € par mois pour des fonctionnalités premium"

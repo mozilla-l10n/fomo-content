@@ -31,10 +31,6 @@ msgstr ""
 "utilisateurs et utilisatrices peuvent choisir de connecter leur compte Instagram à l’application ou de ne publier aucune photo. Somme toute, Lex est une application de rencontre différente des "
 "autres, qui évoque moins un supermarché et davantage une invitation à rencontrer qui vous voulez et voir ce que ça donne."
 
-msgctxt "price"
-msgid "Free"
-msgstr "Gratuit"
-
 msgctxt "worst_case"
 msgid ""
 "We love Lex because they seem to collect as little data on their users as possible. We also love that any data they do collect they won't sell or provide to third parties for marketing purposes. Yay"
@@ -127,3 +123,7 @@ msgstr "Aucun incident connu au cours des 2 dernières années."
 msgctxt "ai_helptext"
 msgid "We think no algorithm could be as good as matching people on this dating app than the people on the site themselves."
 msgstr "Selon nous, les utilisateurs et utilisatrices de cette application sont plus à même que n’importe quel algorithme de trouver la personne qui leur correspond."
+
+#~ msgctxt "price"
+#~ msgid "Free"
+#~ msgstr "Gratuit"
