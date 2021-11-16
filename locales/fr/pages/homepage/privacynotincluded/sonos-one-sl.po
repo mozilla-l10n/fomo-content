@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.800487+00:00\n"
-"PO-Revision-Date: 2021-09-16 19:57+0000\n"
+"PO-Revision-Date: 2021-11-16 09:23+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr ""
+msgstr "Utilisation du chiffrement en transit et au repos."
 
 msgctxt "security_updates_helptext"
 msgid "Automatic updates are enabled by default."
@@ -49,7 +49,7 @@ msgstr "Mises à jour automatiques autorisées par défaut."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Sonos does not have an official bug bounty program, but invites disclosure of security bugs."
-msgstr ""
+msgstr "Sonos ne dispose pas d’un programme de prime aux bugs, mais encourage le signalement des bugs en matière de sécurité."
 
 msgctxt "privacy_policy_helptext"
 msgid "Sonos does provide an intro to the privacy policy that contains its guiding principles."
@@ -57,7 +57,7 @@ msgstr "Sonos fournit une introduction à sa politique de confidentialité qui d
 
 msgctxt "tips_to_protect_yourself"
 msgid "Nothing to do really except enjoy your speaker!"
-msgstr ""
+msgstr "Rien à faire à part profiter de votre enceinte !"
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, password"
@@ -74,6 +74,8 @@ msgid ""
 "An email sent by Sonos to 450 customers <a id=\"a1\">revealed all of their email addresses</a> to each other in January 2020. In 2017, a <a id=\"a2\">security vulnerability</a> left some Sonos "
 "speakers vulnerable."
 msgstr ""
+"En janvier 2020, un courriel envoyé par Sonos à 450 client·e·s <a id=\"a1\">a exposé leurs adresses e-mail</a> à tou·te·s les destinataires. En 2017, une <a id=\"a2\">vulnérabilité de sécurité</a> a"
+" rendu certains haut-parleurs Sonos vulnérables."
 
 #~ msgctxt "price"
 #~ msgid "179"
