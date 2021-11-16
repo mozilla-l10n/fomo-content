@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:28.550675+00:00\n"
-"PO-Revision-Date: 2021-07-19 08:20+0000\n"
+"PO-Revision-Date: 2021-11-16 12:30+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr ""
+msgstr "Nutzt in Transit und Ruhezustand Verschlüsselung."
 
 msgctxt "security_updates_helptext"
 msgid "Automatic updates are enabled by default."
