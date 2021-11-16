@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.740006+00:00\n"
-"PO-Revision-Date: 2021-09-16 19:57+0000\n"
+"PO-Revision-Date: 2021-11-16 11:23+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Amazon Ring Video Doorbell"
-msgstr ""
+msgstr "Sonnette Amazon Ring Video Doorbell"
 
 msgctxt "blurb"
 msgid ""
@@ -21,6 +21,10 @@ msgid ""
 " drop the package off behind the planter when you're still at the office. Or catch video of the neighborhood porch pirate to share with the cops. Just beware, even though Amazon Ring did address "
 "some of our privacy concerns with updates earlier in 2020 like adding mandatory two-factor authentication, these cameras still have some noted potential privacy issues that worry us."
 msgstr ""
+"Ces petites sonnettes avec capture vidéo HD, détection de mouvement et interphone vous permettent de vous sentir comme Big Brother chez vous. Regardez qui est à la porte depuis votre téléphone, "
+"tablette ou PC. Demandez au facteur de laisser votre colis derrière la jardinière alors que vous êtes au bureau. Ou encore, capturez une vidéo du voleur de colis du coin, que vous pourrez "
+"transmettre à la police. Mais attention : même si Amazon Ring a répondu à certaines de nos inquiétudes en 2020 en effectuant des mises à jour, comme l’ajout de l’authentification à deux facteurs, "
+"ces caméras présentent toujours des problèmes de confidentialité potentiels qui nous préoccupent."
 
 msgctxt "worst_case"
 msgid ""
@@ -66,13 +70,15 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Ring has a webpage dedicated to explaining its privacy pillars and answering frequently asked questions"
-msgstr ""
+msgstr "Ring dispose d’une page web qui détaille ses principes directeurs en matière de confidentialité et répond aux questions fréquemment posées."
 
 msgctxt "uses_encryption_helptext"
 msgid ""
 "Videos are encrypted in storage and during transmission. Ring is offering end-to-end encryption. https://blog.ring.com/2020/09/24/ring-announces-end-to-end-encryption-privacy-security-and-user-"
 "control-updates/"
 msgstr ""
+"Les vidéos sont chiffrées durant leur stockage et leur transmission. Ring propose un chiffrement de bout en bout. https://blog.ring.com/2020/09/24/ring-announces-end-to-end-encryption-privacy-"
+"security-and-user-control-updates/"
 
 msgctxt "strong_password_helptext"
 msgid "Two-factor authentication is now mandatory after major pressure from Mozilla and other groups."
@@ -81,42 +87,46 @@ msgstr "L’authentification à deux facteurs est désormais obligatoire suite �
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Amazon has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
 msgstr ""
+"Amazon dispose d’un <a id=\"a1\">programme de prime aux bugs</a> (« bug bounty »), ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut être"
+" payée."
 
 msgctxt "privacy_policy_helptext"
 msgid "Ring has a webpage dedicated to explaining it's privacy pillars and answering frequently asked questions"
-msgstr ""
+msgstr "Ring dispose d’une page web qui détaille ses principes directeurs en matière de confidentialité et répond aux questions fréquemment posées."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn on <a id=\"a1\">Two-factor Authentication</a>"
-msgstr ""
+msgstr "Activez l’<a id=\"a1\">authentification à deux facteurs</a>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Check</a> if your address is exposed through the Neighbor app"
-msgstr ""
+msgstr "<a id=\"a1\">Vérifiez</a> si votre adresse est exposée via l’application Neighbor"
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Don't share</a> your login-in information"
-msgstr ""
+msgstr "<a id=\"a1\">Ne partagez pas</a> vos informations de connexion"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review sharing options for your data, if you have multiple people in the neighborhood"
-msgstr ""
+msgstr "Passez en revue les options de partage de vos données, s’il y a plusieurs personnes dans votre quartier"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Make sure you are comfortable with the fact that local police may require the footage. Think about all of the personal events cameras inside and outside of your home will capture."
 msgstr ""
+"Assurez-vous que vous êtes à l’aise avec le fait que la police locale peut exiger les images. Pensez à tous les évènements personnels que les caméras à l’intérieur et à l’extérieur de votre maison "
+"vont capturer."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use strong passwords &amp; unique usernames"
-msgstr ""
+msgstr "Utilisez des mots de passe forts et des noms d’utilisateur uniques"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete footage as often as you can"
-msgstr ""
+msgstr "Supprimez les images aussi souvent que vous le pouvez"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Limit third-party trackers in the Ring app"
-msgstr ""
+msgstr "Limitez les traqueurs tiers dans l’application Ring"
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
@@ -178,7 +188,7 @@ msgstr ""
 
 msgctxt "ai_what_can_it_do"
 msgid "Ring cameras use camera-based motion detection to start recording."
-msgstr ""
+msgstr "Les caméras Ring utilisent la détection de mouvement par caméra pour démarrer l’enregistrement."
 
 #~ msgctxt "title"
 #~ msgid "Ring Video Doorbell"
