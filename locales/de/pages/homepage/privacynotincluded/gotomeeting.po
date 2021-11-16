@@ -30,10 +30,6 @@ msgstr ""
 " komplexer als nötig, wenn man mal eben seine Mutter anrufen möchte. Innerhalb des letzten Jahres wurde allerdings versucht, das Interface zu verbessern und auf eine Höhe mit Zoom und Microsoft "
 "Teams zu kommen."
 
-msgctxt "price"
-msgid "Free trial, Paid plans start at $12 per month"
-msgstr "Gratis-Probeabo, Bezahlabonnements ab 12 €/Monat"
-
 msgctxt "worst_case"
 msgid ""
 "Probably (hopefully) not too much will go wrong given this is a video call app targeted to business rather than folks calling family. It is likely many of the companies using this software will have"
@@ -100,3 +96,7 @@ msgstr "Es sind keine Datenschutzverletzungen oder Leaks öffentlich bekannt."
 msgctxt "ai_helptext"
 msgid "GoToMeeting does use machine learning to improve certain features, such as its in-house transcription capabilities for cloud recorded meetings."
 msgstr "GoToMeeting nutzt maschinelles Lernen, um bestimmte Funktionen zu verbessern, z. B. die interne Transkriptionsfunktion für in der Cloud aufgezeichnete Meetings."
+
+#~ msgctxt "price"
+#~ msgid "Free trial, Paid plans start at $12 per month"
+#~ msgstr "Gratis-Probeabo, Bezahlabonnements ab 12 €/Monat"

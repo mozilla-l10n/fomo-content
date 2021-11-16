@@ -29,10 +29,6 @@ msgstr ""
 "que la mayoría de usuarios podrán recurrir al equipo técnico de su empresa cuando necesiten asistencia. Y es mejor así, pues se trata de una aplicación de videollamadas bastante avanzada con una "
 "política de privacidad nada fácil de entender (si bien no es tan difícil de usar). Durante el último año ha mejorado su interfaz de usuario para poder seguir compitiendo con Zoom y Microsoft Teams."
 
-msgctxt "price"
-msgid "Free trial, Paid plans start at $12 per month"
-msgstr "Prueba gratis, planes de pago a partir de 12 $ al mes"
-
 msgctxt "worst_case"
 msgid ""
 "Probably (hopefully) not too much will go wrong given this is a video call app targeted to business rather than folks calling family. It is likely many of the companies using this software will have"
@@ -99,3 +95,7 @@ msgstr "No hay constancia de filtraciones de datos."
 msgctxt "ai_helptext"
 msgid "GoToMeeting does use machine learning to improve certain features, such as its in-house transcription capabilities for cloud recorded meetings."
 msgstr "GoToMeeting usa el aprendizaje automático con tal de optimizar determinadas funciones, como su sistema interno para la transcripción de las reuniones grabadas en la nube."
+
+#~ msgctxt "price"
+#~ msgid "Free trial, Paid plans start at $12 per month"
+#~ msgstr "Prueba gratis, planes de pago a partir de 12 $ al mes"

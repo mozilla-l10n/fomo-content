@@ -162,10 +162,6 @@ msgstr "La détection du sommeil peut être activée et désactivée à tout mom
 #~ msgid "All things Nest have been moved over to the Google Store. Google has a page detailing their privacy principles for Nest products."
 #~ msgstr "Tout ce qui concerne Nest a été déplacé vers le Google Store. Google dispose d’une page détaillant ses principes de confidentialité en ce qui concerne les produits Nest."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number"
-#~ msgstr "Nom, adresse e-mail, numéro de téléphone"
-
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "You can review and delete your data in the Nest app or via the Google Privacy Dashboard."
 #~ msgstr "Vous pouvez consulter et supprimer vos données dans l’application Nest ou avec le tableau de bord de confidentialité Google."
@@ -181,3 +177,7 @@ msgstr "La détection du sommeil peut être activée et désactivée à tout mom
 #~ msgctxt "ai_helptext"
 #~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
 #~ msgstr "Google publie ses travaux de recherche en matière d’IA (https://ai.google/) et propose plusieurs outils open source. https://ai.google/tools/"
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number"
+#~ msgstr "Nom, adresse e-mail, numéro de téléphone"
