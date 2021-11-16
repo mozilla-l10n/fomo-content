@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-01 07:07:22.320945+00:00\n"
-"PO-Revision-Date: 2021-10-01 07:35+0000\n"
+"PO-Revision-Date: 2021-11-16 13:37+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -37,6 +37,11 @@ msgid ""
 "browsers (but not on Firefox, boo!). 8x8, the parent company of Jitsi Meet, does collect and share (but not sell) data to third-parties. This is common for many products out there, so it’s not "
 "unusual,"
 msgstr ""
+"Jitsi Meet und die Open-Source-Community, die dahinter steht, scheinen den Datenschutz und die Sicherheit als Teil ihrer Mission bei der Entwicklung dieses Produkts zu schätzen und zu priorisieren. "
+"Es ist für uns allerdings etwas schwierig, genau zu sagen, wie es um das Jahr 2021 bestellt ist, denn wir haben festgestellt, dass die in den Datenschutzrichtlinien empfohlene E-Mail-Adresse für "
+"Fragen an die:den Datenschutzbeauftragte:n leider nicht mehr funktioniert. Jitsi Meet verwendet Verschlüsselung, ist aber noch nicht ganz so weit, dass standardmäßig eine vollständige Ende-zu-Ende-"
+"Verschlüsselung erfolgt. Im Moment können Sie die Ende-zu-Ende-Verschlüsselung nur aktivieren, wenn Sie Jitsi Meet in bestimmten Browsern verwenden (aber nicht in Firefox, buh!). 8x8, die "
+"Muttergesellschaft von Jitsi Meet, sammelt Daten und gibt sie an Dritte weiter (verkauft sie aber nicht). Dies ist bei vielen Produkten üblich und daher nicht ungewöhnlich."
 
 msgctxt "signup_requirement_explanation"
 msgid "Jitsi Meet does not require users create accounts."

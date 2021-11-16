@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-01 07:07:22.894510+00:00\n"
-"PO-Revision-Date: 2021-10-01 07:34+0000\n"
+"PO-Revision-Date: 2021-11-16 13:36+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -95,6 +95,8 @@ msgid ""
 "front-facing camera to the rear. FaceTime centers video conference calls around group chats within the iPhone's Messages app. Anyone within a specific group chat can join the group FaceTime call at "
 "any time."
 msgstr ""
+"Apple bewahrt personenbezogene Daten nur so lange auf, wie es für die Erfüllung der Zwecke, für die sie erhoben wurden, erforderlich ist, einschließlich der in dieser Datenschutzrichtlinie oder in den dienstespezifischen Datenschutzhinweisen beschrieben oder gesetzlich vorgeschrieben ist. Es werden keine spezifischen Datenaufbewahrungsfristen angegeben.\n"
+"Gastgeber:innen und Teilnehmer:innen haben den gleichen Grad an Kontrolle, vom Stummschalten des eigenen Mikrofons bis zum Umschalten von der Frontkamera des Telefons auf die Rückkamera. FaceTime konzentriert Videocalls auf Gruppenchats in der Nachrichten-App des iPhone. Jede:r, der:die sich in einem bestimmten Gruppenchat befindet, kann jederzeit an dem FaceTime Gruppenanruf teilnehmen."
 
 msgctxt "track_record_details"
 msgid ""
@@ -102,6 +104,8 @@ msgid ""
 "initial caller added a third person to a FaceTime call. If the person being called pressed the power button on their lock screen as a call came in, video from their phone would also be sent to the "
 "caller without the user’s knowledge. Apple has quickly fixed the bug, and disabled group calling feature before it was fixed."
 msgstr ""
+"Der Bug, der im Januar 2019 entdeckt wurde, ermöglichte das Mithören bei Anrufen und Videocalls. Dabei wurde dem:der Anrufenden Audio übermittelt, obwohl der:die Angerufene den Anruf nicht entgegengenommen hatte. Der Bug wurde ausgelöst, wenn der Anrufer eine dritte Person zu dem FaceTime Anruf hinzufügte. Falls der:die Angerufene auf dem Sperrbildschirm die Einschalttaste drückte, wurde außerdem ohne sein:ihr Wissen Video übertragen.\n"
+"Apple behob diesen Bug schnell und deaktivierte die Gruppen-Call-Funktion, bis die Lösung gefunden war."
 
 msgctxt "ai_helptext"
 msgid "FaceTime uses AI for its 'Eye contact' feature."
