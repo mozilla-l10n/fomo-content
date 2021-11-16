@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-01 07:07:36.435173+00:00\n"
-"PO-Revision-Date: 2021-10-01 07:29+0000\n"
+"PO-Revision-Date: 2021-11-16 13:27+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -95,6 +95,8 @@ msgid ""
 "front-facing camera to the rear. FaceTime centers video conference calls around group chats within the iPhone's Messages app. Anyone within a specific group chat can join the group FaceTime call at "
 "any time."
 msgstr ""
+"Apple conserve les données personnelles « uniquement pendant la durée nécessaire aux finalités pour lesquelles elles ont été collectées, notamment tel que décrit dans la présente politique de confidentialité ou dans nos avis de confidentialité spécifiques au service, ou tel que requis par la loi ». Aucune période de conservation spécifique n’est mentionnée. \n"
+"Les hôtes et les personnes participant à un appel disposent du même niveau de contrôle et peuvent se mettre en mode muet ou passer de la caméra avant de leur téléphone à la caméra arrière. Les appels vidéo FaceTime utilisent les discussions de groupe de l’application Messages de l’iPhone. Toute personne participant à une discussion de groupe spécifique peut rejoindre l’appel FaceTime associé à tout moment."
 
 msgctxt "track_record_details"
 msgid ""
@@ -102,6 +104,8 @@ msgid ""
 "initial caller added a third person to a FaceTime call. If the person being called pressed the power button on their lock screen as a call came in, video from their phone would also be sent to the "
 "caller without the user’s knowledge. Apple has quickly fixed the bug, and disabled group calling feature before it was fixed."
 msgstr ""
+"Le bug découvert en janvier 2019 permettait d’espionner les appels et les vidéos. Il transmettait l’audio à une personne passant un appel, même si le ou la destinataire n’avait pas répondu. Il était déclenché lorsque la personne ayant initié l’appel ajoutait une troisième personne à un appel FaceTime. Si la personne appelée appuyait sur le bouton d’allumage sur son écran de verrouillage au moment de l’appel, son flux vidéo était envoyé sans qu’elle en ait connaissance à la personne passant l’appel.\n"
+"Apple a désactivé la fonctionnalité d’appel de groupe le temps de résoudre ce problème, ce qui a été fait rapidement."
 
 msgctxt "ai_helptext"
 msgid "FaceTime uses AI for its 'Eye contact' feature."
