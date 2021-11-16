@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.926307+00:00\n"
-"PO-Revision-Date: 2021-09-16 19:54+0000\n"
+"PO-Revision-Date: 2021-11-16 09:18+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -20,6 +20,8 @@ msgid ""
 "\"Hey Google!\" will become your new favorite greeting. Hey Google, turn on the lights. Hey Google, play Bohemian Rhapsody. Hey Google, what are the symptoms of toe fungus? Hey Google, are you still"
 " listening to me? With three built in microphones, it just could be. This little smart speaker (smart microphone?) is fun and useful...and maybe just a bit creepy?"
 msgstr ""
+"« Ok Google » va devenir votre nouvelle expression préférée. Ok Google, allume la lumière. Ok Google, fais jouer Bohemian Rhapsody. Ok Google, quels sont les symptômes d’une mycose plantaire ? Ok "
+"Google, tu m'écoutes toujours ? Avec trois microphones intégrés, c'est bien possible. Cette petite enceinte connectée (ou micro connecté ?) est sympa, utile… et peut-être un peu flippante ?"
 
 msgctxt "worst_case"
 msgid ""
@@ -48,6 +50,8 @@ msgid ""
 "While voice recordings and home environment sensor readings won't be used for ad personalization, transcripts of your voice interactions may be. Non-personally identifiable information may be shared"
 " with partners. Google says that your personal data is never sold to third parties."
 msgstr ""
+"Bien que les enregistrements vocaux et les données du capteur sur votre logement ne soient pas utilisés pour le ciblage publicitaire, les transcriptions de vos interactions vocales peuvent l’être. "
+"Des informations ne permettant pas de vous identifier personnellement peuvent être partagées avec des partenaires. Google affirme que vos données personnelles ne sont jamais vendues à des tiers."
 
 msgctxt "how_does_it_use_data_collected"
 msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization"
@@ -73,7 +77,7 @@ msgstr "Utilisation du chiffrement en transit et au repos."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Google has a <a id=\"a1\">Security Rewards program</a>."
-msgstr ""
+msgstr "Google dispose d’un <a id=\"a1\">programme de récompenses de sécurité</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Visit privacy controls to adjust the amount of data collected"
@@ -97,7 +101,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr ""
+msgstr "Nom, adresse électronique, numéro de téléphone, adresse postale"
 
 msgctxt "biometric_data_collected"
 msgid "Voice recordings"
