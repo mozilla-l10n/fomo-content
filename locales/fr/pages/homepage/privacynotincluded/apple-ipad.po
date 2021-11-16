@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.567401+00:00\n"
-"PO-Revision-Date: 2021-09-16 19:53+0000\n"
+"PO-Revision-Date: 2021-11-16 09:41+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -55,6 +55,8 @@ msgid ""
 "Apple has a webpage highlighting its privacy principles and features. Apple begins its privacy policy with a statement of principles. While this statement is very long, it is clearly broken out into"
 " relevant topics."
 msgstr ""
+"Apple dispose d’une page web qui décrit ses principes de confidentialité et les fonctionnalités disponibles en la matière. La politique de confidentialité d’Apple débute par une déclaration de "
+"principes. Bien qu’elle soit très longue, elle est clairement divisée en plusieurs sections pertinentes."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Apple has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://developer.apple.com/security-bounty/"
@@ -72,15 +74,15 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set a strong passcode on your iPad"
-msgstr ""
+msgstr "Définissez un code d’accès fort sur votre iPad"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Follow Apple's own <a id=\"a1\">guidelines</a> for privacy and security"
-msgstr ""
+msgstr "Suivez les <a id=\"a1\">directives d’Apple</a> en matière de confidentialité et de sécurité"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Be careful what apps you install on your device as some apps can be privacy invasive"
-msgstr ""
+msgstr "Faites attention aux applications que vous installez sur votre appareil, car certaines applications peuvent porter atteinte à la vie privée"
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
@@ -88,7 +90,7 @@ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
 
 msgctxt "biometric_data_collected"
 msgid "If you opt-in: Fingerprint, Voice recordings"
-msgstr ""
+msgstr "Si vous l’acceptez : empreintes digitales, enregistrements vocaux"
 
 msgctxt "social_data_collected"
 msgid "Contact list"
@@ -111,7 +113,7 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "Some of Apple's AI research can be found at <a id=\"a1\">https://machinelearning.apple.com/</a>."
-msgstr ""
+msgstr "Certaines des recherches d’Apple sur l’IA sont disponibles sur <a id=\"a1\">https://machinelearning.apple.com/</a>."
 
 msgctxt "ai_what_can_it_do"
 msgid ""

@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.472008+00:00\n"
-"PO-Revision-Date: 2021-09-16 19:21+0000\n"
+"PO-Revision-Date: 2021-11-16 09:39+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Apple Watch"
-msgstr ""
+msgstr "Apple Watch"
 
 msgctxt "blurb"
 msgid ""
@@ -63,6 +63,8 @@ msgstr ""
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Apple has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
 msgstr ""
+"Apple dispose d’un <a id=\"a1\">programme de prime aux bugs</a> (« bug bounty »), ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut être "
+"payée."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Restrict the amount of personal information like heart rate data is shared by going to the Apple Watch app on your iPhone under: Privacy &gt; Health"
@@ -102,7 +104,7 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "Some of Apple's AI research can be found at <a id=\"a1\">https://machinelearning.apple.com/</a>."
-msgstr ""
+msgstr "Certaines des recherches d’Apple sur l’IA sont disponibles sur <a id=\"a1\">https://machinelearning.apple.com/</a>."
 
 msgctxt "ai_what_can_it_do"
 msgid ""
