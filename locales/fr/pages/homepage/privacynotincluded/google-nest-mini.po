@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.926307+00:00\n"
-"PO-Revision-Date: 2021-11-16 09:18+0000\n"
+"PO-Revision-Date: 2021-11-16 17:02+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Google provides a page with privacy information about Nest."
-msgstr ""
+msgstr "Google fournit une page avec des informations de confidentialité sur Nest."
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
@@ -81,7 +81,7 @@ msgstr "Google dispose d’un <a id=\"a1\">programme de récompenses de sécurit
 
 msgctxt "tips_to_protect_yourself"
 msgid "Visit privacy controls to adjust the amount of data collected"
-msgstr ""
+msgstr "Consultez les paramètres de confidentialité pour ajuster la quantité de données collectées."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said."
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Visit privacy &amp; security controls to adjust the amount of data collected"
-msgstr ""
+msgstr "Consultez les paramètres de confidentialité et de vie privée pour ajuster la quantité de données collectées"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time"
@@ -97,7 +97,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review Nest <a id=\"a1\">privacy tips</a>"
-msgstr ""
+msgstr "Consultez les <a id=\"a1\">Conseils de confidentialité de Nest</a>."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
@@ -116,16 +116,22 @@ msgid ""
 "Google provides various privacy controls, accessible via Google Privacy tools. There are several clearly defined ways to delete personal data, incl. deleting data from Nest app or deleting a whole "
 "Google Account. An autotimer can be set up for 3 or 18 month. The retention details are also listed in the Policy."
 msgstr ""
+"Google fournit divers contrôles de confidentialité, accessibles via les outils de confidentialité de Google. Il existe plusieurs manières clairement définies de supprimer des données personnelles, y"
+" compris en supprimant des données de l’application Nest ou en supprimant l’intégralité d’un compte Google. Une minuterie automatique peut être configurée pour 3 ou 18 mois. Les détails de "
+"conservation des données sont également répertoriés dans la Politique."
 
 msgctxt "track_record_details"
 msgid ""
 "In August 2019, the company <a id=\"a1\">admitted</a> that partners who work to analyze voice snippets from the Assistant leaked the voice snippets of some Dutch users. More than 1,000 private "
 "conversations were sent to a Belgian news outlet, some of the messages reportedly revealed sensitive information such as medical conditions and customer addresses."
 msgstr ""
+"En août 2019, la société a <a id=\"a1\">admis</a> que des partenaires qui travaillent à l’analyse des extraits vocaux de l’Assistant ont divulgué les extraits vocaux de certains utilisateurs "
+"néerlandais. Plus de 1 000 conversations privées ont été envoyées à un média belge, certains des messages auraient révélé des informations sensibles telles que des conditions médicales et des "
+"adresses de clients."
 
 msgctxt "track_record_details"
 msgid "In December 2018,  <a id=\"a1\">a bug exposed</a> the data of 52.5 million Google+ users."
-msgstr ""
+msgstr "En décembre 2018, <a id=\"a1\">un bug a révélé</a> les données de 52,5 millions d’utilisateurs de Google+."
 
 msgctxt "ai_helptext"
 msgid "Google publishes academic papers about its AI research (<a id=\"a1\">https://ai.google/</a>) and makes several tools available via open source. <a id=\"a2\">https://ai.google/tools/</a>"
@@ -133,7 +139,7 @@ msgstr "Google publie ses travaux de recherche en matière d’IA (<a id=\"a1\">
 
 msgctxt "ai_what_can_it_do"
 msgid "Google uses natural language processing to understand you and to generate answers to your requests."
-msgstr ""
+msgstr "Google utilise le traitement du langage naturel pour vous comprendre et générer des réponses à vos demandes."
 
 #~ msgctxt "ai_helptext"
 #~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"

@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 12:41:26.338669+00:00\n"
-"PO-Revision-Date: 2021-11-16 08:39+0000\n"
+"PO-Revision-Date: 2021-11-16 17:01+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -60,6 +60,7 @@ msgstr "Utilisation du chiffrement en transit et au repos."
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Google has a <a id=\"a1\">Security Rewards program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
 msgstr ""
+"Google dispose d’un <a id=\"a1\">programme de récompenses de sécurité</a>, ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut être payée."
 
 msgctxt "privacy_policy_helptext"
 msgid "Google has several privacy pages explaining its approach to privacy in simple language."
@@ -67,19 +68,19 @@ msgstr "Google dispose de plusieurs pages au sujet de la confidentialité, qui d
 
 msgctxt "tips_to_protect_yourself"
 msgid "Check <a id=\"a1\">Chromecast privacy settings</a>"
-msgstr ""
+msgstr "Vérifiez les <a id=\"a1\">paramètres de confidentialité du Chromecast</a>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Hide <a id=\"a1\">personal recommendations</a> on Google TV"
-msgstr ""
+msgstr "Masquez les <a id=\"a1\">recommandations personnelles</a> sur Google TV"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set up <a id=\"a1\">parental controls</a> if you have kids"
-msgstr ""
+msgstr "Configurez le <a id=\"a1\">contrôle parental</a> si vous avez des enfants"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set up a passcode for payment authentication"
-msgstr ""
+msgstr "Configurez un mot de passe pour l’authentification des paiements"
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number"
@@ -94,24 +95,30 @@ msgid ""
 "Google provides various privacy controls, accessible via Google Privacy tools. There are several clearly defined ways to delete personal data, incl. deleting data from Nest app or deleting a whole "
 "Google Account. An autotimer can be set up for 3 or 18 month. The retention details are also listed in the Policy."
 msgstr ""
+"Google fournit divers contrôles de confidentialité, accessibles via les outils de confidentialité de Google. Il existe plusieurs manières clairement définies de supprimer des données personnelles, y"
+" compris en supprimant des données de l’application Nest ou en supprimant l’intégralité d’un compte Google. Une minuterie automatique peut être configurée pour 3 ou 18 mois. Les détails de "
+"conservation des données sont également répertoriés dans la Politique."
 
 msgctxt "track_record_details"
 msgid ""
 "In August 2019, the company <a id=\"a1\">admitted</a> that partners who work to analyze voice snippets from the Assistant leaked the voice snippets of some Dutch users. More than 1,000 private "
 "conversations were sent to a Belgian news outlet, some of the messages reportedly revealed sensitive information such as medical conditions and customer addresses."
 msgstr ""
+"En août 2019, la société a <a id=\"a1\">admis</a> que des partenaires qui travaillent à l’analyse des extraits vocaux de l’Assistant ont divulgué les extraits vocaux de certains utilisateurs "
+"néerlandais. Plus de 1 000 conversations privées ont été envoyées à un média belge, certains des messages auraient révélé des informations sensibles telles que des conditions médicales et des "
+"adresses de clients."
 
 msgctxt "track_record_details"
 msgid "In December 2018, <a id=\"a1\">a bug exposed</a> the data of 52.5 million Google+ users"
-msgstr ""
+msgstr "En décembre 2018, <a id=\"a1\">un bug a révélé</a> les données de 52,5 millions d’utilisateurs de Google+."
 
 msgctxt "ai_helptext"
 msgid "Google publishes academic papers about its <a id=\"a1\">AI research</a> and makes several <a id=\"a2\">tools</a> available via open source."
-msgstr ""
+msgstr "Google publie ses <a id=\"a1\">travaux de recherche en matière d’IA</a> et propose plusieurs <a id=\"a2\">outils</a> open source."
 
 msgctxt "ai_what_can_it_do"
 msgid "Google uses natural language processing to understand you and to generate answers to your requests."
-msgstr ""
+msgstr "Google utilise le traitement du langage naturel pour vous comprendre et générer des réponses à vos demandes."
 
 #~ msgctxt "blurb"
 #~ msgid ""

@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.854141+00:00\n"
-"PO-Revision-Date: 2021-11-16 09:53+0000\n"
+"PO-Revision-Date: 2021-11-16 17:08+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -87,35 +87,37 @@ msgstr "Le Portal nécessite une connexion avec un compte Facebook et un mot de 
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Facebook has a bug bounty program."
-msgstr ""
+msgstr "Facebook dispose d’un programme de prime aux bugs."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Check Facebook Portal <a id=\"a1\">privacy settings</a>."
-msgstr ""
+msgstr "Vérifiez les <a id=\"a1\">paramètres de confidentialité</a> de Facebook Portal</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your location data private"
-msgstr ""
+msgstr "Gardez vos données de localisation privées"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Stop data collection by Facebook’s partners"
-msgstr ""
+msgstr "Désactivez la collecte de données par les partenaires de Facebook"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Note that when sharing data with third-parties services, the third-party privacy policy applies."
-msgstr ""
+msgstr "Notez que lors du partage de données avec des services tiers, la politique de confidentialité des tiers s’applique."
 
 msgctxt "tips_to_protect_yourself"
 msgid "You can disable the camera and built-in microphone on Portal with a single tap or with a sliding switch. A red light next to the lens indicates the camera and microphone are off."
 msgstr ""
+"Vous pouvez désactiver la caméra et le microphone intégré du Portal d’une simple pression ou avec un bouton coulissant. Une lumière rouge à côté de l’objectif indique que la caméra et le microphone "
+"sont éteints."
 
 msgctxt "personal_data_collected"
 msgid "Name, email address, password, messages, photos"
-msgstr ""
+msgstr "Nom, adresse électronique, mot de passe, messages, photos"
 
 msgctxt "biometric_data_collected"
 msgid "Voice clips are recorded and sent back to Facebook when you say \"Hey Portal.\""
-msgstr ""
+msgstr "Des échantillons vocaux sont enregistrés et envoyés à Facebook lorsque vous dites « Hey Portal »."
 
 msgctxt "social_data_collected"
 msgid "Contacts"
@@ -133,6 +135,8 @@ msgctxt "how_can_you_control_your_data"
 msgid ""
 "You can view, hear, and delete your Portal’s voice interactions in Portal Settings or on your Facebook Activity Log. You can also turn off storage of Portal voice interactions in Portal settings."
 msgstr ""
+"Vous pouvez afficher, écouter et supprimer les interactions vocales de votre Portal depuis les paramètres du Portal ou sur votre journal d’activité Facebook. Vous pouvez également désactiver le "
+"stockage des interactions vocales du Portal dans les paramètres du Portal."
 
 msgctxt "track_record_details"
 msgid ""
