@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.701174+00:00\n"
-"PO-Revision-Date: 2021-09-16 19:54+0000\n"
+"PO-Revision-Date: 2021-11-16 11:29+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -21,6 +21,10 @@ msgid ""
 " lets you control the temperature in your home from anywhere and sends alerts when things don't look quite right. It'll even let you know when it's time to change your furnace filter. Best of all, "
 "that learning can help save energy and money. The big question is, can it learn who’s side to pick when you like it hot and your partner likes it cold?"
 msgstr ""
+"La connaissance, c’est chouette ! Et avoir un thermostat qui connaît tout de vos préférences de chauffage, c’est chouette aussi ? Selon Google, si vous utilisez ce thermostat pendant une semaine, il"
+" s’adaptera à vous. L’application vous permet de contrôler la température de votre logement où que vous soyez et vous envoie des alertes si quelque chose semble anormal.  Il vous préviendra même "
+"lorsqu’il est temps de changer le filtre de votre chaudière. Mieux encore, cette adaptation à vos préférences peut vous aider à économiser de l’énergie et à réduire votre facture. Mais il reste une "
+"question cruciale : cet appareil peut-il apprendre à choisir son camp quand vous voulez faire monter la température, et pas votre partenaire ?"
 
 msgctxt "worst_case"
 msgid ""
@@ -50,10 +54,11 @@ msgstr ""
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Google has a <a id=\"a1\">Security Rewards program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
 msgstr ""
+"Google dispose d’un <a id=\"a1\">programme de récompenses de sécurité</a>, ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut être payée."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Visit privacy controls to adjust the amount of data collected."
-msgstr ""
+msgstr "Consultez les paramètres de confidentialité pour ajuster la quantité de données collectées."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time."
@@ -61,11 +66,11 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review <a id=\"a1\">Nest privacy tips</a>."
-msgstr ""
+msgstr "Consultez les <a id=\"a1\">Conseils de confidentialité de Nest</a>."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address."
-msgstr ""
+msgstr "Nom, adresse électronique, numéro de téléphone, adresse postale"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
@@ -85,11 +90,11 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "Google publishes academic papers about it's <a id=\"a1\">AI research</a> and makes several tools available via open source."
-msgstr ""
+msgstr "Google publie ses <a id=\"a1\">travaux de recherche en matière d’IA</a> et propose plusieurs outils open source."
 
 msgctxt "ai_what_can_it_do"
 msgid "With Auto-Schedule, your Nest thermostat learns what temperatures you like at different times of the day."
-msgstr ""
+msgstr "Avec la programmation automatique, votre thermostat Nest mémorise les températures que vous aimez à différents moments de la journée."
 
 #~ msgctxt "blurb"
 #~ msgid ""
