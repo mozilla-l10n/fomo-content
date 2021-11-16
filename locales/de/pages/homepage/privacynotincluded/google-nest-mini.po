@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:24.888313+00:00\n"
-"PO-Revision-Date: 2021-07-19 12:22+0000\n"
+"PO-Revision-Date: 2021-11-16 12:23+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -20,6 +20,9 @@ msgid ""
 "\"Hey Google!\" will become your new favorite greeting. Hey Google, turn on the lights. Hey Google, play Bohemian Rhapsody. Hey Google, what are the symptoms of toe fungus? Hey Google, are you still"
 " listening to me? With three built in microphones, it just could be. This little smart speaker (smart microphone?) is fun and useful...and maybe just a bit creepy?"
 msgstr ""
+"„Hey Google!“ wird Ihre neue Lieblingsbegrüßung. Hey Google, mach das Licht an. Hey Google, spiel Bohemian Rhapsody. Hey Google, was sind die Symptome bei Fußpilz? Hey Google, hörst du mir noch zu? "
+"Und mit drei eingebauten Mikrofonen könnte das durchaus sein. Dieser kleine intelligente Lautsprecher (oder ist es ein intelligentes Mikrofon?) ist nützlich und macht Spaß … aber ist es vielleicht "
+"auch ein bisschen unheimlich?"
 
 msgctxt "worst_case"
 msgid ""
@@ -48,6 +51,8 @@ msgid ""
 "While voice recordings and home environment sensor readings won't be used for ad personalization, transcripts of your voice interactions may be. Non-personally identifiable information may be shared"
 " with partners. Google says that your personal data is never sold to third parties."
 msgstr ""
+"Während Sprachaufnahmen nicht unbedingt für personalisierte Werbung genutzt werden, könnten Transkripte solcher Aufnahmen dafür verwendet werden. Informationen, die nicht auf Sie zurückschließen "
+"lassen, könnten an Partner weitergegeben werden. Google gibt an, persönliche Daten nie an Dritte zu verkaufen."
 
 msgctxt "how_does_it_use_data_collected"
 msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization"
@@ -97,7 +102,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr ""
+msgstr "Name, E-Mail, Telefonnummer, Adresse"
 
 msgctxt "biometric_data_collected"
 msgid "Voice recordings"

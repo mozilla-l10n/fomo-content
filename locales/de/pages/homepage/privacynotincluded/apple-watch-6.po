@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:26.779271+00:00\n"
-"PO-Revision-Date: 2021-08-19 19:31+0000\n"
-"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"PO-Revision-Date: 2021-11-16 12:18+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Apple Watch"
-msgstr ""
+msgstr "Apple Watch"
 
 msgctxt "blurb"
 msgid ""
@@ -62,7 +62,7 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Apple has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
-msgstr ""
+msgstr "Apple hat ein <a id=\"a1\">Bug-Bounty-Programm</a>, was bedeutet, dass jeder, der eine Sicherheitslücke entdeckt und diese verantwortungsvoll meldet, dafür bezahlt werden kann."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Restrict the amount of personal information like heart rate data is shared by going to the Apple Watch app on your iPhone under: Privacy &gt; Health"
