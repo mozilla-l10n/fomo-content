@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-01 07:07:36.549064+00:00\n"
-"PO-Revision-Date: 2021-10-25 12:33+0000\n"
+"PO-Revision-Date: 2021-11-16 13:22+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -104,6 +104,9 @@ msgid ""
 "Signal. Once someone in your contacts joins a service, you can see it, if you are a user, too. It is a useful feature if you want to know who is around to chat with in the app, but can be annoying "
 "(and potentially dangerous) if you want to be there secretly, or if your government has banned Signal."
 msgstr ""
+"Aucune fuite de données associée à Signal n’est à signaler. \n"
+"En janvier 2021, la chercheuse Natalie Silvanovich, de Google Project Zero, a découvert un bug de Signal qui permettait de transmettre de l’audio sans le consentement de l’utilisateur ou utilisatrice. Le bug en question a été réglé rapidement. \n"
+"Si vous avez le numéro de téléphone d’une personne, Signal révèle si elle utilise l’application ; par exemple, on sait que Mark Zuckerberg lui-même utilise Signal. Quand un de vos contacts utilise un service, si vous l’utilisez aussi, vous pouvez le voir. C’est utile si vous voulez savoir qui peut discuter avec vous sur l’application, mais cela peut être pénible (voire dangereux) si vous l’utilisez secrètement ou si votre gouvernement a interdit Signal."
 
 #~ msgctxt "price"
 #~ msgid "Free and open source"
