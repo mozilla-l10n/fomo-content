@@ -1100,6 +1100,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/apple-homepod-mini.po
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/apple-airtag.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/apple-airtag.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
