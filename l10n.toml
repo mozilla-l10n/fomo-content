@@ -1085,6 +1085,21 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/oura-ring.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/netatmo-smart-video-doorbell.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/netatmo-smart-video-doorbell.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/apple-tv-4k.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/apple-tv-4k.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/apple-homepod-mini.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/apple-homepod-mini.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
