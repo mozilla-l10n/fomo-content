@@ -1135,6 +1135,11 @@ l10n = "locales/{locale}/pages/homepage/initiatives.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/sonos-one.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/sonos-one.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.pot"
 l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.po"
 locales = [ "sw",]
