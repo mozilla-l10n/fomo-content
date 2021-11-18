@@ -1110,6 +1110,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/sony-wf-1000xm4.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/amazon-echo-dot.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-dot.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
