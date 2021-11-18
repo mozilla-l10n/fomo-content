@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-17 16:03:42.744946+00:00\n"
-"PO-Revision-Date: 2021-11-17 17:12+0000\n"
+"PO-Revision-Date: 2021-11-18 08:12+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -104,6 +104,12 @@ msgid ""
 "would presumably be used to surveil terrorists and criminal enterprises, these governments have also used it to spy on activists, politicians, and journalists. As of September 13, 2021, Apple has "
 "patched the exploit.\""
 msgstr ""
+"Apple a récemment subi une grave faille de sécurité. Voici ce que le <a id=\"a1\">Firewall Times</a> en dit : « En septembre 2021, des chercheurs ont découvert qu’un logiciel espion appelé Pegasus "
+"avait infecté des iPhone et d’autres appareils Apple via une \"faille zéro clic\", accordant au logiciel espion un large pouvoir sur l’appareil. Une fois infecté, le logiciel espion pouvait "
+"enregistrer les appels et les messages et même allumer la caméra et le microphone de l’appareil à l’insu de l’utilisateur ou de l’utilisatrice. Pegasus a été créé par NSO Group, une société basée en"
+" Israël qui vend ses logiciels espions à des gouvernements comme le Mexique et l’Arabie saoudite. Bien que ce logiciel espion soit vraisemblablement utilisé pour surveiller des terroristes et des "
+"entreprises criminelles, ces gouvernements l’ont également utilisé pour espionner des militants, des personnalités politiques et des journalistes. Au 13 septembre 2021, Apple a corrigé la "
+"vulnérabilité. »"
 
 msgctxt "offline_use_description"
 msgid "WiFi is needed to set it up."
