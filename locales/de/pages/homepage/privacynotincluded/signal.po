@@ -105,10 +105,6 @@ msgstr ""
 "Im Januar 2021 entdeckte die Sicherheitsforscherin des Google Project Zero, Natalie Silvanovich, einen Fehler bei Signal, der die Übertragung von Audiodaten ohne Zustimmung der Nutzer ermöglichte. Der Fehler wurde umgehend behoben. \n"
 "Signal teilt Nutzer:innen mit, ob jemand den Dienst nutzt, wenn Sie die Telefonnummer der anderen Person kennen. Es ist zum Beispiel bekannt, dass Mark Zuckerberg selbst Signal nutzt. Sobald jemand Ihrer Kontakte einem Dienst beitritt, können Sie es sehen, wenn Sie ebenfalls Nutzer:in sind. Diese Funktion ist nützlich, wenn Sie wissen möchten, mit wem Sie in der App chatten können. Sie kann jedoch lästig (und potenziell gefährlich) sein, wenn Sie geheimhalten möchten, dass Sie Signal nutzen oder wenn Ihre Regierung die App verbietet."
 
-#~ msgctxt "price"
-#~ msgid "Free and open source"
-#~ msgstr "Gratis und Open-Source"
-
 #~ msgctxt "track_record_details"
 #~ msgid ""
 #~ "There were no data breaches associated with Signal. \r"
@@ -118,3 +114,7 @@ msgstr ""
 #~ "Es gab keine Datenschutzverletzungen im Zusammenhang mit Signal. \r"
 #~ "<br/> <br/>Im Januar 2021 entdeckte die Sicherheitsforscherin des Google Project Zero, Natalie Silvanovich, einen Fehler bei Signal, der die Übertragung von Audiodaten ohne Zustimmung der Nutzer ermöglichte. Der Fehler wurde umgehend behoben. \r"
 #~ "<br/> <br/>Signal teilt Nutzer:innen mit, ob jemand den Dienst nutzt, wenn Sie die Telefonnummer der anderen Person kennen. Es ist zum Beispiel bekannt, dass Mark Zuckerberg selbst Signal nutzt. Sobald jemand Ihrer Kontakte einem Dienst beitritt, können Sie es sehen, wenn Sie ebenfalls Nutzer:in sind. Diese Funktion ist nützlich, wenn Sie wissen möchten, mit wem Sie in der App chatten können. Sie kann jedoch lästig (und potenziell gefährlich) sein, wenn Sie geheimhalten möchten, dass Sie Signal nutzen oder wenn Ihre Regierung die App verbietet."
+
+#~ msgctxt "price"
+#~ msgid "Free and open source"
+#~ msgstr "Gratis und Open-Source"
