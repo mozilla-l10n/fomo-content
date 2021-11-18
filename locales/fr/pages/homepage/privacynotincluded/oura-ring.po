@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-17 15:04:42.693383+00:00\n"
-"PO-Revision-Date: 2021-11-18 08:39+0000\n"
+"PO-Revision-Date: 2021-11-18 12:21+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -55,6 +55,8 @@ msgid ""
 "Consider turning on a “<a id=\"a1\">Ring airplane mode</a>” feature which allows to proactively disable all radio transmission from the ring, which causes the ring to lose connection to the app, at "
 "the moments you do not want your data be collected."
 msgstr ""
+"Envisagez d’activer la fonctionnalité « <a id=\"a1\">Mode avion de la bague</a> » qui permet de désactiver de manière proactive toutes les transmissions radio de la bague, ce qui a pour effet de "
+"couper la connexion entre la bague et l’application, lorsque vous ne voulez pas que vos données soient collectées."
 
 msgctxt "personal_data_collected"
 msgid "Email, gender, date of birth"
