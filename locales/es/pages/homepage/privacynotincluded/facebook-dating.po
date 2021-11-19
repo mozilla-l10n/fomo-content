@@ -34,10 +34,6 @@ msgstr ""
 "ya que no todo el mundo puede permitirse gastar dinero en una aplicación de citas; lo malo, en cambio, es que debes aceptar las controvertidas prácticas de privacidad de Facebook y permitirle "
 "recopilar todavía más información personal."
 
-msgctxt "price"
-msgid "Free"
-msgstr "Gratis"
-
 msgctxt "worst_case"
 msgid ""
 "Let's be honest, Facebook has a long history of betraying users' privacy and trust. They've faced record fines (remember that $5 billion dollar fine for privacy failures?) and have been caught "
@@ -137,3 +133,7 @@ msgstr ""
 "Facebook Dating emplea el aprendizaje automático para encontrar posibles personas afines. También usa métodos proactivos de aprendizaje automático para velar por la seguridad de los usuarios e "
 "impedir actividades malintencionadas como buscar si una foto contiene desnudos. Además, Facebook Dating está probando el análisis de las biografías de los perfiles mediante la búsqueda de palabras "
 "clave para detectar aspectos como un lenguaje que promueva el odio."
+
+#~ msgctxt "price"
+#~ msgid "Free"
+#~ msgstr "Gratis"

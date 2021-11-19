@@ -26,10 +26,6 @@ msgstr ""
 "entscheiden, haben eingeschränkten Zugriff auf Funktionen und können nur ein Paar der Profilinformationen anderer Nutzer*innen sehen, wie Name und Bilder. Wer für Premiumfunktionen bezahlt, kann "
 "vollständige Profile ansehen und anderen Nutzer*innen schreiben, mit denen sie weder befreundet sind noch ein Match hatten."
 
-msgctxt "price"
-msgid "Free to sign up, $14.99 monthly for premium features"
-msgstr "Gratis-Anmeldung, 14,99 € monatlich für Premiumfunktionen"
-
 msgctxt "worst_case"
 msgid ""
 "The creepiest thing we found about HER is the section of their privacy policy where they state,\"With your permission, we will access your address book, call log and SMS log, and import your "
@@ -120,3 +116,7 @@ msgstr ""
 msgctxt "track_record_details"
 msgid "No known incidents in the last two years"
 msgstr "Keine bekannten Vorfälle in den vergangenen zwei Jahren."
+
+#~ msgctxt "price"
+#~ msgid "Free to sign up, $14.99 monthly for premium features"
+#~ msgstr "Gratis-Anmeldung, 14,99 € monatlich für Premiumfunktionen"

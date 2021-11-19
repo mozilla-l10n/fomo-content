@@ -30,10 +30,6 @@ msgstr ""
 "permite a los usuarios subir una foto de su celebridad preferida para que la aplicación, mediante IA de reconocimiento facial, encuentre personas que se le parezcan. Entre los famosos más buscados "
 "se encuentran Kim Kardashian, Beyonce y Donald Trump... ¿En serio?"
 
-msgctxt "price"
-msgid "Free - $12.99 for Premium"
-msgstr "Registrarse es gratis, 12,99 $ al mes para características prémium"
-
 msgctxt "worst_case"
 msgid ""
 "Badoo's privacy policy states, \"While we take reasonable precautions against possible security breaches of our website, member database and records no website or internet transmission is completely"
@@ -126,3 +122,7 @@ msgstr "Se desconocen filtraciones de datos en los últimos dos años. En 2013, 
 msgctxt "ai_helptext"
 msgid "Badoo uses facial recognition to suggest a partner that may look like a celebrity crush."
 msgstr "Y Badoo utiliza reconocimiento facial para sugerir a alguien que pueda parecerse a nuestros famosos preferidos."
+
+#~ msgctxt "price"
+#~ msgid "Free - $12.99 for Premium"
+#~ msgstr "Registrarse es gratis, 12,99 $ al mes para características prémium"

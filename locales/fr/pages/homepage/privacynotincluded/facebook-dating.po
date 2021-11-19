@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:04.394542+00:00\n"
@@ -33,10 +33,6 @@ msgstr ""
 "ce que vous aimez, de vos ami·e·s ou encore de vos passe-temps. Ici, pas de « swipe » à gauche ou à droite. À la place, si vous trouvez quelqu’un avec qui vous aimeriez discuter, il suffit de lui "
 "poser une question en fonction de son profil ou de ses photos. La gratuité de Facebook Dating est une bonne chose, car tout le monde n’a pas les moyens (ou l’envie) de payer pour une application de "
 "rencontre. Mais on ne peut que regretter qu’en échange, Facebook récupère encore plus d’informations personnelles sur ses utilisateurs et utilisatrices."
-
-msgctxt "price"
-msgid "Free"
-msgstr "Gratuit"
 
 msgctxt "worst_case"
 msgid ""
@@ -141,3 +137,7 @@ msgstr ""
 "Facebook Dating utilise l’apprentissage automatique pour mettre à jour des correspondances potentielles entre les utilisateurs et utilisatrices. L’application emploie également des méthodes "
 "d’apprentissage automatique proactives pour assurer la sécurité des personnes sur Facebook Dating et prévenir les activités malveillantes, en recherchant par exemple des photos présentant des "
 "personnes nues ou en scannant les bios des profils pour y détecter des discours haineux à l’aide de mots-clés."
+
+#~ msgctxt "price"
+#~ msgid "Free"
+#~ msgstr "Gratuit"

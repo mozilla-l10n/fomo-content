@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:03.566013+00:00\n"
@@ -27,10 +27,6 @@ msgstr ""
 "personnalité, l’algorithme d’OkCupid affiche un pourcentage de compatibilité potentielle avec d’autres membres. Un pourcentage qui représente en fait la probabilité que vous soyez le ou la "
 "partenaire idéal·e pour quelqu’un d’autre, d’après l’algorithme d’OkCupid. Mais faute d’avoir rendu public cet algorithme, personne ne sait vraiment dans quelle mesure celui-ci est précis… "
 "Heureusement, vous avez la possibilité de payer un supplément pour que votre profil soit montré à plus d’utilisateurs et utilisatrices. Comme le dit leur slogan : « Les rencontres méritent mieux »."
-
-msgctxt "price"
-msgid "Free to sign up, $9.95 and up monthly for premium features"
-msgstr "Inscription gratuite, à partir de 9,95 € par mois pour des fonctionnalités premium"
 
 msgctxt "worst_case"
 msgid ""
@@ -140,8 +136,20 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid ""
-"\"OkCupid uses AI for recommendation and moderation purposes. From Harvard Business School:\r"
-"<br/>\"With a reputation for being a highly data-driven company, OkCupid has relied on its machine learning algorithms to connect people. A higher match percentage means that a couple will have a higher likelihood of clicking, with different weights given to different questions. But beyond simply producing matches, OkCupid also incorporates machine learning as a community improvement tool. Its support &amp; moderation team monitors machine learning alerts that detect harmful or abusive language. With the aid of technology, OkCupid can respond quickly to instances of harassment while bringing in human moderators on an as-needed basis\""
+"\"OkCupid uses AI for recommendation and moderation purposes. From Harvard Business School: \"With a reputation for being a highly data-driven company, OkCupid has relied on its machine learning "
+"algorithms to connect people. A higher match percentage means that a couple will have a higher likelihood of clicking, with different weights given to different questions. But beyond simply "
+"producing matches, OkCupid also incorporates machine learning as a community improvement tool. Its support &amp; moderation team monitors machine learning alerts that detect harmful or abusive "
+"language. With the aid of technology, OkCupid can respond quickly to instances of harassment while bringing in human moderators on an as-needed basis\""
 msgstr ""
-"OkCupid utilise l’IA pour les recommandations et la modération. Voici un texte de la Harvard Business School à ce sujet :<br/>\n"
-"« Forte de sa réputation d’entreprise très axée sur les données, OkCupid s’est appuyée sur ses algorithmes d’apprentissage automatique pour mettre en relation les gens. Un pourcentage de correspondance plus grand signifie qu’un couple aura une probabilité plus élevée de bien s’entendre. Ce pourcentage est obtenu en comparant les réponses à des questions, réponses qui ont bien évidemment un poids différent pour le calcul de la correspondance. Mais OkCupid va au-delà et se sert également de l’apprentissage automatique pour améliorer la qualité de sa communauté d’utilisateurs et utilisatrices. L’équipe en charge de l’assistance et de la modération surveille les alertes générées par l’apprentissage automatique à chaque fois que celui-ci détecte un langage haineux ou injurieux. Avec l’aide de la technologie, OkCupid peut ainsi réagir rapidement aux cas de harcèlement tout en faisant appel à des modérateurs et modératrices humain·e·s en cas de besoin. »"
+
+#~ msgctxt "price"
+#~ msgid "Free to sign up, $9.95 and up monthly for premium features"
+#~ msgstr "Inscription gratuite, à partir de 9,95 € par mois pour des fonctionnalités premium"
+
+#~ msgctxt "ai_helptext"
+#~ msgid ""
+#~ "\"OkCupid uses AI for recommendation and moderation purposes. From Harvard Business School:\r"
+#~ "<br/>\"With a reputation for being a highly data-driven company, OkCupid has relied on its machine learning algorithms to connect people. A higher match percentage means that a couple will have a higher likelihood of clicking, with different weights given to different questions. But beyond simply producing matches, OkCupid also incorporates machine learning as a community improvement tool. Its support &amp; moderation team monitors machine learning alerts that detect harmful or abusive language. With the aid of technology, OkCupid can respond quickly to instances of harassment while bringing in human moderators on an as-needed basis\""
+#~ msgstr ""
+#~ "OkCupid utilise l’IA pour les recommandations et la modération. Voici un texte de la Harvard Business School à ce sujet :<br/>\n"
+#~ "« Forte de sa réputation d’entreprise très axée sur les données, OkCupid s’est appuyée sur ses algorithmes d’apprentissage automatique pour mettre en relation les gens. Un pourcentage de correspondance plus grand signifie qu’un couple aura une probabilité plus élevée de bien s’entendre. Ce pourcentage est obtenu en comparant les réponses à des questions, réponses qui ont bien évidemment un poids différent pour le calcul de la correspondance. Mais OkCupid va au-delà et se sert également de l’apprentissage automatique pour améliorer la qualité de sa communauté d’utilisateurs et utilisatrices. L’équipe en charge de l’assistance et de la modération surveille les alertes générées par l’apprentissage automatique à chaque fois que celui-ci détecte un langage haineux ou injurieux. Avec l’aide de la technologie, OkCupid peut ainsi réagir rapidement aux cas de harcèlement tout en faisant appel à des modérateurs et modératrices humain·e·s en cas de besoin. »"

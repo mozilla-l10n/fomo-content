@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:04.977497+00:00\n"
@@ -30,10 +30,6 @@ msgstr ""
 "localisation, les messages et le fait de voir qui a consulté son profil. Badoo propose même une fonctionnalité « sosie » gratuite, qui permet aux utilisateurs et utilisatrices de télécharger une "
 "photo de la célébrité qui les fait craquer ; Badoo utilise ensuite une IA de reconnaissance faciale pour trouver des personnes qui lui ressemblent. Les principales recherches de célébrités incluent "
 "Kim Kardashian, Beyoncé et Donald Trump. Euuuh… sérieux ?!"
-
-msgctxt "price"
-msgid "Free - $12.99 for Premium"
-msgstr "Inscription gratuite, 17,99 € par mois pour des fonctionnalités premium"
 
 msgctxt "worst_case"
 msgid ""
@@ -130,3 +126,7 @@ msgstr "Aucune fuite de données connue ces deux dernières années. Badoo aurai
 msgctxt "ai_helptext"
 msgid "Badoo uses facial recognition to suggest a partner that may look like a celebrity crush."
 msgstr "Badoo utilise la reconnaissance faciale pour proposer un·e partenaire qui ressemble à une célébrité sur laquelle vous craquez."
+
+#~ msgctxt "price"
+#~ msgid "Free - $12.99 for Premium"
+#~ msgstr "Inscription gratuite, 17,99 € par mois pour des fonctionnalités premium"

@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:02.215929+00:00\n"
@@ -26,10 +26,6 @@ msgstr ""
 "gauche. Les personnes qui choisissent de ne pas passer à la version premium ont accès à une partie du profil des autres membres, comme leur nom et leur photo, mais pas à son intégralité. Il est "
 "nécessaire d’activer des fonctionnalités premium pour afficher les profils complets et envoyer des messages aux membres que vous ne connaissez pas encore, mais il est possible d’accéder à certaines "
 "informations comme le nom d’une personne ou sa photo gratuitement."
-
-msgctxt "price"
-msgid "Free to sign up, $14.99 monthly for premium features"
-msgstr "Inscription gratuite, 14,99 € par mois pour des fonctionnalités premium"
 
 msgctxt "worst_case"
 msgid ""
@@ -125,3 +121,7 @@ msgstr ""
 msgctxt "track_record_details"
 msgid "No known incidents in the last two years"
 msgstr "Aucun incident connu au cours des 2 dernières années."
+
+#~ msgctxt "price"
+#~ msgid "Free to sign up, $14.99 monthly for premium features"
+#~ msgstr "Inscription gratuite, 14,99 € par mois pour des fonctionnalités premium"

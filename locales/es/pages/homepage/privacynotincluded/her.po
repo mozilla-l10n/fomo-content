@@ -26,10 +26,6 @@ msgstr ""
 "nombre y la foto, pero no todos. Las características prémium permiten ver los perfiles completos y enviar mensajes a cualquier usuario más allá de los amigos y las personas que muestran un interés "
 "recíproco."
 
-msgctxt "price"
-msgid "Free to sign up, $14.99 monthly for premium features"
-msgstr "Registrarse es gratis, $14,99 al mes para características prémium"
-
 msgctxt "worst_case"
 msgid ""
 "The creepiest thing we found about HER is the section of their privacy policy where they state,\"With your permission, we will access your address book, call log and SMS log, and import your "
@@ -120,3 +116,7 @@ msgstr ""
 msgctxt "track_record_details"
 msgid "No known incidents in the last two years"
 msgstr "Sin incidentes conocidos en los dos últimos años"
+
+#~ msgctxt "price"
+#~ msgid "Free to sign up, $14.99 monthly for premium features"
+#~ msgstr "Registrarse es gratis, $14,99 al mes para características prémium"
