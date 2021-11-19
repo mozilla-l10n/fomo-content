@@ -124,10 +124,6 @@ msgstr ""
 "Les blogs sur l’IA de Slack fournissent un aperçu correct de son système, avec des notes sur la façon dont l’application lutte contre les biais. Bravo Slack !\n"
 "Slack utilise l’apprentissage automatique pour analyser une partie des données fournies au service, afin de proposer, entre autres, des fonctionnalités de recherche ou de recommandation. L’application utilise aussi l’apprentissage automatique pour détecter et prévenir les spams."
 
-#~ msgctxt "price"
-#~ msgid "Free version. Paid plans start at $6.67 per person, per month"
-#~ msgstr "Version gratuite. Formule payante à partir de 6,67 $ par personne et par mois"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "There are some privacy and security concerns users should be aware of with Slack, although for the most part, Slack users are going to have to go with the rules of their workplace and trust their "
@@ -184,3 +180,7 @@ msgstr ""
 #~ msgstr ""
 #~ "Les blogs sur l’IA de Slack fournissent un aperçu correct de son système, avec des notes sur la façon dont l’application lutte contre les biais. Bravo Slack !\r"
 #~ "<br/> <br/>Slack utilise l’apprentissage automatique pour analyser une partie des données fournies au service, afin de proposer, entre autres, des fonctionnalités de recherche ou de recommandation. L’application utilise aussi l’apprentissage automatique pour détecter et prévenir les spams."
+
+#~ msgctxt "price"
+#~ msgid "Free version. Paid plans start at $6.67 per person, per month"
+#~ msgstr "Version gratuite. Formule payante à partir de 6,67 $ par personne et par mois"

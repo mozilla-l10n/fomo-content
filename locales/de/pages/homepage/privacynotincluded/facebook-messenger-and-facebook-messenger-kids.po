@@ -127,10 +127,6 @@ msgstr ""
 "Facebook nutzt „künstliche Intelligenz dazu, ungewöhnliche Verhaltensmuster im Zusammenhang mit Phishing, Scamming und anderen schädlichen Aktivitäten zu identifizieren und diese von der Plattform "
 "zu entfernen.“"
 
-#~ msgctxt "price"
-#~ msgid "Free"
-#~ msgstr "Gratis"
-
 #~ msgctxt "track_record_details"
 #~ msgid ""
 #~ "In August 2019, Bloomberg reported that Facebook hired contractors to transcribe audio messages users sent through Messenger and Facebook confirmed the report.\r"
@@ -140,3 +136,7 @@ msgstr ""
 #~ "Im August 2019 berichtete Bloomberg, dass Facebook Unternehmen damit beauftragt hatte, Audionachrichten zu transkribieren, die Nutzer:innen über Messenger versendet hatten, und Facebook bestätigte diesen Bericht.\r"
 #~ "<br/> <br/>Im April 2021 wurde bekannt, dass die personenbezogenen Daten von ungefähr 533 Mio. Facebook-Nutzer:innen aus 106 Ländern, darunter Daten von über 32 Mio. Nutzer:innen in den USA, 11 Mio. in GB und 6 Mio. in Indien, geleakt wurden. Zu den gestohlenen Daten zählen Telefonnummern, Facebook-IDs, Namen, Standorte, Geburtstage, Beschreibungen und in einigen Fällen E-Mail-Adressen.\r"
 #~ "<br/> <br/>Im Januar 2021 deckte die Sicherheitsforscherin Natalie Silvanovich des Google Project Zero einen logischen Bug in der Messenger-App auf, durch den Audio- oder Videodaten ohne die Zustimmung der Nutzer:innen übertragen werden konnten. Dieser Bug wurde sofort behoben."
+
+#~ msgctxt "price"
+#~ msgid "Free"
+#~ msgstr "Gratis"

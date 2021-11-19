@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-11-19 09:54:25.458537+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a7d2b9a0-ea8d-4fa4-9c4f-7de06669a34e\n"
+
+msgctxt "title"
+msgid "Netatmo Smart Indoor Camera"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"Netatmo’s HD video indoor security cameras come with a cool smart face recognition feature that lets you tell which faces Netatmo should know, like Grandma or your neighbor, and allow you to tell "
+"the camera to not record when it sees these faces. That’s a pretty cool privacy feature. And then these cameras can tell you when it doesn’t recognize a face and send you an alert, like when a "
+"burglar breaks into your home. That’s all cool stuff. Netatmo also doesn’t record video to the Cloud, which is another great privacy feature. All video is recorded locally on an encrypted MicroSD "
+"card. You have the option to save it to Dropbox if you want. Good work Netatmo, we’re impressed."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"We love that Netatmo offers only local storage on a MicroSD card as that’s generally a much safer way to save your video than storing it in the Cloud. And because Netatmo is headquartered in France,"
+" it appears their privacy policy applies Europe’s stricter <a id=\"a1\">GDPR privacy regulations</a> to all their data collection, which is great for users. They don’t sell data. They are very "
+"cautious about who they share data with."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"We love that Netatmo seems to take privacy and security seriously. It’s a great thing to see from makers of security cameras. What’s the worst that could happen? Well, we suppose your camera could "
+"not recognize Grandma one day, record her dancing naked in the house when no one is home, you see that video and you’re all like, heck yeah Grandma, you dance naked! All in all, there are worse "
+"things that could happen."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"The data is not sold. The video and audio are stored at the device, being never shared. NETATMO may be required to share your Personal Data if and when it is necessary in order to protect the vital "
+"interests of the data subject or of another natural person, if it is necessary for compliance with a legal obligation to which It is subject or for the establishment, exercise or defense of legal "
+"claims."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "Security FAQ for the device is available"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Check out Netatmo <a id=\"a1\">security tips</a>."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Store video locally as much as possible rather than in the Cloud."
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Name, contact details. Location is optional (only if using the app)"
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"The data is kept for the duration of the contractual relationship (that ends by sending a voluntary deletion request to privacy@netatmo.com). Unless opposed by you, your account and associated "
+"Products data will be deleted after 3 years of inactivity."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "A <a id=\"a1\">minor security vulnerability</a> was found in 2020 by the security review team Bitdefender. According to Bitdefender, Netatmo acknowledged and fixed the problem quickly."
+msgstr ""
+
+msgctxt "ai_helptext"
+msgid ""
+"When the Smart Indoor Camera identifies a face for the first time, it is marked with a question mark on the app. However, you can create a new profile, giving the person a first name, and configure "
+"their confidentiality settings. Once the profile is saved, the Camera will be able to recognize the person and notify you of their presence. You can save up to 32 faces."
+msgstr ""
+
+msgctxt "ai_what_can_it_do"
+msgid "Face recognition"
+msgstr ""

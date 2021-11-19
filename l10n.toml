@@ -1125,6 +1125,41 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/jabra-elite-65t-earbu
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/google-nest-hub-max.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-nest-hub-max.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/facebook-portal-go.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/facebook-portal-go.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/google-nest-audio.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-nest-audio.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/netatmo-smart-indoor-camera.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/netatmo-smart-indoor-camera.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/withings-thermo.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/withings-thermo.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/nest-video-doorbells.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/nest-video-doorbells.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/withings-body-smart-scales.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/withings-body-smart-scales.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
