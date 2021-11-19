@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-19 09:54:31.610885+00:00\n"
+"PO-Revision-Date: 2021-11-19 11:00+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 2278e094-4239-4f18-aadf-dcbb23e7b8e0\n"
 
 msgctxt "title"
 msgid "Withings Body Smart Scales"
-msgstr ""
+msgstr "Balances connectées Withings Body"
 
 msgctxt "blurb"
 msgid ""
@@ -24,36 +29,40 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "Your personal data will not be distributed, communicated, exchanged or transferred to third parties, on any medium whatsoever."
-msgstr ""
+msgstr "Vos données personnelles ne seront pas diffusées, communiquées, échangées ou transférées à des tiers, sur quelque support que ce soit."
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Written in plain language"
-msgstr ""
+msgstr "Rédigée avec des termes simples"
 
 msgctxt "strong_password_helptext"
 msgid "You access the device through the Withings HealthMate app, which requires a unique password."
-msgstr ""
+msgstr "Vous accédez à l’appareil via l’application Withings HealthMate, qui nécessite un mot de passe unique."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Be very careful what third party companies you consent to share your health data with. If you do decide to share your health data with another company, read their privacy policy to see how they "
 "protect, secure, and share or sell your data."
 msgstr ""
+"Faites très attention aux sociétés tierces avec lesquelles vous consentez à partager vos données de santé. Si vous décidez de partager vos données de santé avec une autre entreprise, lisez leur "
+"politique de confidentialité pour voir comment sont protégées, sécurisées, partagées ou vendues vos données."
 
 msgctxt "personal_data_collected"
 msgid "Email address, birth date, names and surnames, phone number, delivery address."
-msgstr ""
+msgstr "Adresse e-mail, date de naissance, noms et prénoms, numéro de téléphone, adresse de livraison."
 
 msgctxt "biometric_data_collected"
 msgid "Weight, muscle, fat, water percentage."
-msgstr ""
+msgstr "Poids, masse musculaire, taux de graisse, pourcentage d’eau."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
 "Your data is stored until you request its deletion. If you wish to delete your data and your account, you can request it. In the event of a deletion request, all your data will be permanently "
 "deleted within 30 days of your request."
 msgstr ""
+"Vos données sont conservées jusqu’à ce que vous en demandiez la suppression. Si vous souhaitez supprimer vos données et votre compte, vous pouvez le demander. En cas de demande de suppression, "
+"toutes vos données seront définitivement supprimées dans les 30 jours suivant votre demande."
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "Aucun incident connu au cours des 3 dernières années."
