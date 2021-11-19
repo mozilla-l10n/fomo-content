@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-17 09:15:57.687248+00:00\n"
-"PO-Revision-Date: 2021-11-17 10:12+0000\n"
+"PO-Revision-Date: 2021-11-19 11:09+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -37,8 +37,8 @@ msgstr ""
 "En règle générale, Sonos est un fabricant plutôt fiable en matière de confidentialité et de sécurité. Sonos déclare ne pas vendre, ni à présent, ni à l’avenir, d’informations personnelles sur leurs "
 "clients, ce qui est un bon point. Néanmoins, avec Amazon Alexa et Google Assistant intégrés, sachez que les demandes vocales à Alexa ou à Google Assistant sont envoyées à Amazon et Google même si "
 "Sonos ne conserve aucun de vos enregistrements vocaux. Amazon et Google collecteront des données sur vous à partir de ces demandes vocales. L’entreprise a connu un léger incident au début de l’année"
-" 2020, quand elle a envoyé un courriel à 450 client­·e·s en laissant leurs adresses électroniques visibles. Mais honnêtement, on l’a probablement toutes et tous déjà fait, donc ne leur jetons pas la"
-" pierre. Encore une chose : si vous décidez d’utiliser Sonos Radio, un service d’abonnement à 7,99 € qui vous diffuse de la musique sélectionnée et vous permet d’écouter plus de 60 000 stations de "
+" 2020, quand elle a envoyé un courriel à 450 client­·e·s en laissant leurs adresses e-mail visibles. Mais honnêtement, on l’a probablement toutes et tous déjà fait, donc ne leur jetons pas la "
+"pierre. Encore une chose : si vous décidez d’utiliser Sonos Radio, un service d’abonnement à 7,99 € qui vous diffuse de la musique sélectionnée et vous permet d’écouter plus de 60 000 stations de "
 "radio dans le monde, Sonos partagera des données anonymisées avec des annonceurs tiers pour effectuer de la publicité sur Internet. Ce n’est pas un gros problème, donc nous ne sommes pas trop "
 "inquiets à ce sujet."
 
@@ -67,7 +67,7 @@ msgstr "Mises à jour automatiques autorisées par défaut."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Sonos does not have an official bug bounty program, but invites responsible disclosure of security bugs."
-msgstr "Sonos ne dispose pas d’un programme de prime aux bogues, mais encourage le signalement responsable des bogues en matière de sécurité."
+msgstr "Sonos ne dispose pas d’un programme de prime aux bugs, mais encourage le signalement responsable des bugs en matière de sécurité."
 
 msgctxt "tips_to_protect_yourself"
 msgid "If you are using Amazon Alexa or Google Assistant, adjust the respective privacy settings of the service."
@@ -75,7 +75,7 @@ msgstr "Si vous utilisez Amazon Alexa ou Google Assistant, ajustez les paramètr
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, password"
-msgstr "Nom, adresse électronique, numéro de téléphone, mot de passe"
+msgstr "Nom, adresse e-mail, numéro de téléphone, mot de passe"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
