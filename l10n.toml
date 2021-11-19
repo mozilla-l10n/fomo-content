@@ -1120,6 +1120,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/jabra-elite-85h-headp
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/jabra-elite-65t-earbuds.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/jabra-elite-65t-earbuds.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
