@@ -1160,6 +1160,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/withings-body-smart-s
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-tablets.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-tablets.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
