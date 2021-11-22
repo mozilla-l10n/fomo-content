@@ -1240,6 +1240,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/sennheiser-momentum-3
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/ray-ban-facebook-stories.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/ray-ban-facebook-stories.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.pot"
 l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.po"
 locales = [ "sw",]
