@@ -64,8 +64,12 @@ msgid "Sonos does provide an intro to the privacy policy that contains its guidi
 msgstr "Sonos fournit une introduction à sa politique de confidentialité qui décrit ses principes directeurs."
 
 msgctxt "tips_to_protect_yourself"
-msgid "Nothing to do really except enjoy your speaker!"
-msgstr "Rien à faire à part profiter de votre enceinte !"
+msgid "If you are using Amazon Alexa or Google Assistant, adjust the respective privacy settings of the service."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "<a id=\"a1\">Opt out</a> from additional usage data collection"
+msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, password"
@@ -117,6 +121,10 @@ msgstr ""
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "You can request that data be deleted. You can opt out of Additional Usage Data collection in the Sonos App."
 #~ msgstr "Vous pouvez demander la suppression des données. Vous pouvez aussi refuser la collecte de données d’utilisation supplémentaires dans l’application Sonos."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Nothing to do really except enjoy your speaker!"
+#~ msgstr "Rien à faire à part profiter de votre enceinte !"
 
 #~ msgctxt "track_record_details"
 #~ msgid "An email sent by Sonos to 450 customers revealed all of their email addresses to each other in January 2020."
