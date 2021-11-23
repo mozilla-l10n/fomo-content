@@ -1245,6 +1245,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/ray-ban-facebook-stor
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/sennheiser-momentum-true-wireless-2.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/sennheiser-momentum-true-wireless-2.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.pot"
 l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.po"
 locales = [ "sw",]
