@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.701174+00:00\n"
-"PO-Revision-Date: 2021-11-19 11:06+0000\n"
+"PO-Revision-Date: 2021-11-23 08:38+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -50,6 +50,12 @@ msgid ""
 "According to the company, customers own their data and it does not sell this data to third parties. Google does state it gets paid by advertisers for placing ads to you based on your personal "
 "information. Google says to send data outside of the organization only with a user's consent."
 msgstr ""
+"Bien que les enregistrements vocaux et les lectures de capteurs d’environnement domestique ne soient pas utilisés pour la personnalisation des annonces, les transcriptions de vos interactions "
+"vocales peuvent l’être. Des informations non personnellement identifiables peuvent être partagées avec des partenaires. Google déclare que vos données personnelles ne sont jamais vendues à des "
+"tiers. Google assure garder les séquences vidéo, les enregistrements audio et les lectures des capteurs d’environnement domestique séparés de la publicité et ne pas utiliser ces informations pour "
+"personnaliser les publicités. Google utilise vos informations personnelles « pour vous proposer des publicités pertinentes dans les produits Google, sur les sites web partenaires et dans les "
+"applications mobiles ». Selon l’entreprise, les clients sont propriétaires de leurs données et elle ne vend pas ces données à des tiers. Google déclare être payé par les annonceurs pour placer des "
+"annonces sur la base de vos informations personnelles. Google dit envoyer des données en dehors de l’organisation uniquement avec le consentement de l’utilisateur ou de l’utilisatrice."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Google has a <a id=\"a1\">Security Rewards program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
@@ -62,7 +68,7 @@ msgstr "Consultez les paramètres de confidentialité pour ajuster la quantité 
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time."
-msgstr ""
+msgstr "Supprimez vos anciennes données de temps en temps."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review <a id=\"a1\">Nest privacy tips</a>."
