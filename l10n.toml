@@ -1279,3 +1279,8 @@ reference = "templates/pages/homepage/blog/powering-local-innovation-in-the-glob
 l10n = "locales/{locale}/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.pot"
+l10n = "locales/{locale}/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.po"
+locales = [ "sw",]
+
