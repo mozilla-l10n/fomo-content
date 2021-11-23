@@ -1250,6 +1250,16 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/sennheiser-momentum-t
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/garmin-instinct-series.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-instinct-series.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/garmin-vivoactive.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-vivoactive.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.pot"
 l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.po"
 locales = [ "sw",]
