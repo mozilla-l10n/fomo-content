@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-23 19:03:05.512439+00:00\n"
+"PO-Revision-Date: 2021-11-24 08:32+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 59b80137-dff3-4a7e-a8ac-f1c271e97c93\n"
 
 msgctxt "title"
@@ -56,19 +61,19 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Structured and concise"
-msgstr ""
+msgstr "Structurée et concise"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review Eufy's <a id=\"a1\">recommendations</a> to keep your account secure"
-msgstr ""
+msgstr "Consultez les <a id=\"a1\">recommandations</a> d’Eufy pour sécuriser votre compte"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set up two-factor authentication"
-msgstr ""
+msgstr "Utilisez l’authentification à deux facteurs"
 
 msgctxt "personal_data_collected"
 msgid "Name, email address"
-msgstr ""
+msgstr "Nom, adresse e-mail"
 
 msgctxt "biometric_data_collected"
 msgid "Face images and underlying face prints (if you choose to enable imaging and biometric features)."
