@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-24 12:03:20.864655+00:00\n"
+"PO-Revision-Date: 2021-11-24 13:41+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f9de489a-c68b-40b5-83e2-89eea91e4858\n"
 
 msgctxt "title"
@@ -48,23 +53,25 @@ msgstr ""
 
 msgctxt "strong_password_helptext"
 msgid "2-step verification is required."
-msgstr ""
+msgstr "La vérification en 2 étapes est obligatoire."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Arlo has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. <a id=\"a1\">https://bugcrowd.com/arlo</a>"
 msgstr ""
+"Arlo dispose d’un programme de prime aux bugs (« bug bounty »), ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut être payée. <a "
+"id=\"a1\">https://bugcrowd.com/arlo</a>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Enable two-factor authentification"
-msgstr ""
+msgstr "Activez l’authentification à deux facteurs"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Check <a id=\"a1\">Arlo FAQ</a> for security tips"
-msgstr ""
+msgstr "Consultez la <a id=\"a1\">FAQ d’Arlo</a> pour obtenir des conseils de sécurité"
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr ""
+msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
