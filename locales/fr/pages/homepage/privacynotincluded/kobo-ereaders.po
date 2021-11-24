@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-24 09:28:28.211091+00:00\n"
+"PO-Revision-Date: 2021-11-24 10:51+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 20aa0d69-b32c-47a5-896c-62fc5a76f03a\n"
 
 msgctxt "title"
 msgid "Kobo eReaders"
-msgstr ""
+msgstr "Liseuses Kobo"
 
 msgctxt "blurb"
 msgid ""
@@ -31,19 +36,23 @@ msgid ""
 "Kobo may sell the following categories of your personal information to third parties: online identifiers and information about your online activity. Kobo can share other data types for purposes that"
 " include marketing."
 msgstr ""
+"Kobo peut vendre les types d’informations personnelles suivants à des tiers : identifiants en ligne et informations sur votre activité en ligne. Kobo peut partager d’autres types de données à "
+"d’autres fins, y compris marketing."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Kobo <a id=\"a1\">recommends</a> changing your password regularly."
-msgstr ""
+msgstr "Kobo <a id=\"a1\">recommande</a> de changer régulièrement votre mot de passe."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, gender, date of birth"
-msgstr ""
+msgstr "Nom, adresse e-mail, numéro de téléphone, genre, date de naissance"
 
 msgctxt "how_can_you_control_your_data"
 msgid "No data retention details are mentioned. Data deletion policies are mentioned only for European Economic Area and California citizens."
 msgstr ""
+"Aucun détail de conservation des données n’est mentionné. Les politiques de suppression des données ne sont mentionnées que pour les citoyens et citoyennes de l’Espace économique européen et de la "
+"Californie."
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "Aucun incident connu au cours des 3 dernières années."
