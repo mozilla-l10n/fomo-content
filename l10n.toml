@@ -1275,6 +1275,31 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-video-doorbells.
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/amazon-fire-hd-tablets.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-fire-hd-tablets.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/kobo-ereaders.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/kobo-ereaders.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-buds.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-buds.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/amazon-echo-show.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-show.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/irobot-roombas.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/irobot-roombas.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.pot"
 l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.po"
 locales = [ "sw",]
