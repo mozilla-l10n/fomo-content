@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-25 11:03:18.472364+00:00\n"
-"PO-Revision-Date: 2021-11-25 12:05+0000\n"
+"PO-Revision-Date: 2021-11-25 13:50+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Eufy Security Cams"
-msgstr ""
+msgstr "Caméras de sécurité Eufy"
 
 msgctxt "blurb"
 msgid ""
@@ -50,6 +50,9 @@ msgid ""
 "isn't unsual. Eufy's AI provides human, pet, and crying detection of what your security cams see. One key value of Eufy's local storage is that all AI analyses are done locally, which ensures "
 "privacy and is usually much quicker than cloud-based analyses."
 msgstr ""
+"Eufy ne vend pas non plus vos données personnelles, ce qui est bien. Eufy collecte des informations sur vous et utilise ces informations pour vous montrer des publicités pour Eufy et pour des tiers,"
+" ce qui est moins positif mais n’est pas inhabituel non plus. L’IA d’Eufy détecte les humains, les animaux et les cris en utilisant ce qui est capté par la caméra. Un avantage clé du stockage local "
+"d’Eufy est que toutes les analyses de l’IA sont effectuées localement, ce qui garantit la confidentialité et est généralement beaucoup plus rapide que les analyses qui ont recours au cloud."
 
 msgctxt "worst_case"
 msgid ""
@@ -80,15 +83,15 @@ msgstr "Structurées et concises"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your camera firmwave up to date"
-msgstr ""
+msgstr "Gardez le micrologiciel de votre caméra à jour"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Protect your Wi-Fi router with a strong password"
-msgstr ""
+msgstr "Protégez votre routeur Wi-Fi avec un mot de passe fort"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn on the <a id=\"a1\">Two-step verification</a>"
-msgstr ""
+msgstr "Activez la <a id=\"a1\">validation en deux étapes</a>"
 
 msgctxt "personal_data_collected"
 msgid "Name, email address"
@@ -100,7 +103,7 @@ msgstr "Images des visages et empreintes de visage sous-jacentes (si vous choisi
 
 msgctxt "how_can_you_control_your_data"
 msgid "Eufy provides you with the ability to review, manage, or delete your information."
-msgstr ""
+msgstr "Eufy vous donne la possibilité de consulter, gérer ou supprimer vos informations."
 
 msgctxt "track_record_details"
 msgid ""
