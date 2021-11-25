@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-19 09:02:43.597636+00:00\n"
+"PO-Revision-Date: 2021-11-25 15:32+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 16dcee28-0228-434d-aaa0-85c3e42cc297\n"
 
 msgctxt "title"
@@ -23,6 +28,9 @@ msgid ""
 " your personal information.” This is good. They do say they can share some personal information with third parties, which is pretty normal, and they add that, “These third parties may not process "
 "your personal data for their own purposes.” Yay!"
 msgstr ""
+"Jabra scheint es mit dem Schutz und der Sicherheit von Daten gut zu meinen. In den meisten Fällen verkauft das Unternehmen seine Hardware (Kopfhörer) - und nicht Sie bzw. Ihre Daten. In den "
+"Datenschutzrichtlinien heißt es eindeutig: \"Jabra verkauft unter keinen Umständen Ihre personenbezogenen Daten.\" Das ist gut. Das Unternehmen teilt mit, dass es einige personenbezogene Daten an "
+"Dritte weitergeben kann, was ganz normal ist, und fügt hinzu: \"Diese Dritten dürfen Ihre persönlichen Daten nicht für ihre eigenen Zwecke verarbeiten.\" Juhu!"
 
 msgctxt "worst_case"
 msgid ""
@@ -32,36 +40,36 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "Jabra does not sell data. It does forward data to third-party vendors, and the third parties may not process your personal data for their own purposes."
-msgstr ""
+msgstr "Jabra verkauft keine Daten. Das Unternehmen gibt Daten an Drittanbieter weiter, und diese Drittanbieter dürfen Ihre personenbezogenen Daten nicht für eigene Zwecke verarbeiten."
 
 msgctxt "strong_password_helptext"
 msgid "Bluetooth connection"
-msgstr ""
+msgstr "Bluetooth-Verbindung"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Consider <a id=\"a1\">deleting your location data</a> in Jabra+ app"
-msgstr ""
+msgstr "Erwägen Sie das <a id=\"a1\">Löschen Sie Ihre Standortdaten</a> in der Jabra+ App"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Consider using your headphones without connecting it to an app. This way, you may decrease amount of data collected"
-msgstr ""
+msgstr "Überlegen Sie, ob Sie Ihre Kopfhörer nicht ohne Verbindung zu einer App verwenden wollen. Auf diese Weise können Sie die Menge der gesammelten Daten verringern."
 
 msgctxt "personal_data_collected"
 msgid "If you create an account: name, address, email, telephone number"
-msgstr ""
+msgstr "Wenn Sie ein Konto erstellen: Name, Adresse, E-Mail-Adresse, Telefonnummer"
 
 msgctxt "how_can_you_control_your_data"
 msgid "Jabra keeps data for a minimum time and data will be deleted when no longer necessary under the purpose for which it was collected."
-msgstr ""
+msgstr "Jabra speichert Daten für eine minimale Zeit, und die Daten werden gelöscht, sobald sie für den Zweck, für den sie erhoben wurden, nicht mehr erforderlich sind."
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "Keine bekannten Vorfälle in den letzten 3 Jahren."
 
 msgctxt "ai_helptext"
 msgid "You can connect to Alexa or Google assistant."
-msgstr ""
+msgstr "Sie können eine Verbindung mit Alexa oder Google Assistant herstellen."
 
 msgctxt "ai_what_can_it_do"
 msgid "If you connect to Alexa or Google Assistant, the voice recognition is used."
-msgstr ""
+msgstr "Wenn Sie eine Verbindung mit Alexa oder Google Assistant herstellen, wird die Spracherkennung verwendet."
