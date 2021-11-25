@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-24 09:28:28.172294+00:00\n"
-"PO-Revision-Date: 2021-11-24 10:45+0000\n"
+"PO-Revision-Date: 2021-11-25 14:17+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -111,6 +111,8 @@ msgid ""
 "Remember that Amazon privacy preferences are device specific, so you need to set your privacy preferences on all your Amazon devices. individually. What, you had nothing better to do this weekend, "
 "right?"
 msgstr ""
+"N’oubliez pas que les préférences de confidentialité d’Amazon sont spécifiques à l’appareil, vous devez donc définir vos préférences de confidentialité sur tous vos appareils Amazon "
+"individuellement. Vous n’aviez rien de mieux à faire ce week-end de toute manière, non ?"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Customers can opt out of Amazon using personal data collected by the operating system of their device for customized marketing or product improvement."
@@ -186,6 +188,8 @@ msgstr ""
 msgctxt "how_can_you_control_your_data"
 msgid "The PNI label this product has received assumes you have chosen to enable Alexa. If you chose not to use Alexa with this product, your privacy could be better protected."
 msgstr ""
+"Ce produit a reçu l’avertissement *Confidentialité non incluse en supposant que vous activiez Alexa. Si vous choisissez de ne pas utiliser Alexa avec ce produit, votre vie privée pourrait être mieux"
+" protégée."
 
 msgctxt "track_record_details"
 msgid ""
@@ -217,7 +221,7 @@ msgstr "<a id=\"a1\">En 2018</a>, l’appareil Echo Dot d’Amazon a enregistré
 
 msgctxt "ai_helptext"
 msgid "Alexa provides some information about its AI at the <a id=\"a1\">Alexa FAQ and the Amazon Science webpages</a>."
-msgstr ""
+msgstr "Alexa fournit des informations sur son IA dans sa <a id=\"a1\">FAQ Alexa et sur les pages web d’Amazon Science</a>."
 
 msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
