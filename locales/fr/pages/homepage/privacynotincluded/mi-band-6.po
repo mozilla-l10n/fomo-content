@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-25 15:04:12.231242+00:00\n"
+"PO-Revision-Date: 2021-11-25 17:10+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f11eb002-6257-4e0d-9508-a65250c126be\n"
 
 msgctxt "title"
 msgid "Mi Band 6"
-msgstr ""
+msgstr "Mi Band 6"
 
 msgctxt "blurb"
 msgid ""
@@ -56,11 +61,11 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Be very careful who you chose to share your wellness data with."
-msgstr ""
+msgstr "Faites très attention avec qui vous choisissez de partager vos données bien-être."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Don't connect your app to any social networks like Facebook."
-msgstr ""
+msgstr "Ne connectez pas votre application à des réseaux sociaux comme Facebook."
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Minimize</a> volumes of data collected about you by an app"
@@ -68,11 +73,11 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use two-factor authentication"
-msgstr ""
+msgstr "Utilisez l’authentification à deux facteurs"
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, gender"
-msgstr ""
+msgstr "Nom, adresse e-mail, numéro de téléphone, genre"
 
 msgctxt "biometric_data_collected"
 msgid "Exercise information (such as targets set, targets met, swimming times), heart rate, blood oxygen saturation, weight, movement, sleep data, menstrual cycle, and more"
@@ -99,8 +104,8 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "You can connect the band to Alexa"
-msgstr ""
+msgstr "Vous pouvez connecter le Mi Band à Alexa"
 
 msgctxt "ai_what_can_it_do"
 msgid "Voice recognition, if you connect it to Alexa"
-msgstr ""
+msgstr "Reconnaissance vocale, si vous la connectez à Alexa"
