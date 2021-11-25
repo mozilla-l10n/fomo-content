@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-25 20:03:45.591329+00:00\n"
+"PO-Revision-Date: 2021-11-25 21:03+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: da01515e-b9ff-4f03-85c1-c64565a4f0df\n"
 
 msgctxt "title"
 msgid "Netatmo Smart Thermostat"
-msgstr ""
+msgstr "Thermostat connecté Netatmo"
 
 msgctxt "blurb"
 msgid ""
@@ -37,14 +42,17 @@ msgid ""
 "vital interests of the data subject or of another natural person, if it is necessary for compliance with a legal obligation to which It is subject or for the establishment, exercise or defence of "
 "legal claims."
 msgstr ""
+"Les données ne sont pas vendues. La vidéo et l’audio sont stockés sur l’appareil, et ne sont jamais partagés.<br/>NETATMO peut être amené à partager vos données personnelles si et quand cela est "
+"nécessaire afin de protéger les intérêts vitaux de la personne concernée ou d’une autre personne physique, si cela est nécessaire au respect d’une obligation légale à laquelle l’entreprise est "
+"soumise ou à la constatation, l’exercice ou la défense de droits en justice."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Check out Netatmo <a id=\"a1\">security tips</a>."
-msgstr ""
+msgstr "Consultez les <a id=\"a1\">conseils de sécurité</a> de Netatmo."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Store video locally as much as possible rather than in the Cloud."
-msgstr ""
+msgstr "Stockez les vidéos localement autant que possible plutôt que dans le cloud."
 
 msgctxt "tips_to_protect_yourself"
 msgid "If you connect to Alexa or Google Assistant, delete your historical voice recordings from time to time, by saying “delete what I just said.\""
@@ -52,17 +60,19 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, contact details. Location is optional (only if using the app)."
-msgstr ""
+msgstr "Nom, coordonnées. L’emplacement est facultatif (uniquement si vous utilisez l’application)"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
 "The data is kept for the duration of the contractual relationship (that ends by sending a voluntary deletion request to privacy@netatmo.com). Unless opposed by you, your account and associated "
 "Products data will be deleted after 3 years of inactivity."
 msgstr ""
+"Les données sont conservées pendant la durée de la relation contractuelle (qui se termine par l’envoi d’une demande de suppression volontaire à privacy@netatmo.com). Sauf opposition de votre part, "
+"votre compte et les données des Produits associés seront supprimés après 3 ans d’inactivité."
 
 msgctxt "track_record_details"
 msgid "A <a id=\"a1\">minor security vulnerability</a> was found in 2020 by the security review team Bitdefender. According to Bitdefender, Netatmo acknowledged and fixed the problem quickly."
-msgstr ""
+msgstr "Une <a id=\"a1\">vulnérabilité de sécurité mineure</a> a été découverte en 2020 par l’équipe de sécurité de Bitdefender. Selon Bitdefender, Netatmo a reconnu et résolu le problème rapidement."
 
 msgctxt "ai_what_can_it_do"
 msgid "The Auto-Adapt feature takes into account the outdoor temperature and your home’s insulation to make sure your home stays at the temperature you set."
