@@ -1,0 +1,173 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-11-25 11:03:18.538517+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Amazon Ring Security Cams"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"Amazon Ring's indoor and outdoor security cameras have all the usual--HD video, night vision, motion activation--to put your house under 24-hour surveillance. Monitor the video through the Ring app "
+"on your phone or tablet or your Amazon Echo Show home hub. Ask Alexa to show you what's happening in your backyard, and boom, there it is. You'll need to pay extra for the Ring Protect Plan if you "
+"want to record all your videos, review what you missed for up to 60 days, or share your videos and photos with the world."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Amazon’s Ring security cameras and video doorbells are the <a id=\"a1\">most widely used</a> home video cameras in many parts of the world today. As one expert from US privacy org the Electronic "
+"Frontier Foundation <a id=\"a2\">put it,</a> \"Ring has steadily been becoming one of the largest surveillance apparatuses in the nation.” And as wise comic book prophet Stan Lee reminds us, “With "
+"great power comes great responsibility.” Has Amazon Ring lived up to that great responsibility? Not exactly."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Ring has a history of not protecting users' privacy. At one point <a id=\"a1\">they reportedly stored customer data</a>--including video recordings--unencrypted on an Amazon cloud server and "
+"employees could access any of this data. There have also been reported <a id=\"a2\">data leaks</a> and concerns that the Ring Doorbell app is full of <a id=\"a3\">third-party trackers</a> tracking a"
+" good amount of personal information that Amazon Ring doesn’t disclose. They have gotten more transparent in their privacy and data deletion practices, which we appreciate. And they added <a "
+"id=\"a4\">two-factor authentication</a> to help protect users in 2020, which was a great step forward. One we here at Mozilla <a id=\"a5\">pushed hard</a> for."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Then there is the <a id=\"a1\">problematic relationship</a> Ring has with law enforcement where <a id=\"a2\">questions</a> of racism, warrantless surveillance, and police overreach still linger. "
+"While <a id=\"a3\">Amazon says</a> they are distancing themselves from law enforcement access to users' video and requiring more transparency in the process, they are still facilitating law "
+"enforcement access with this product and the <a id=\"a4\">Neighbors app</a> and that leaves us concerned."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Finally, there are the questions of <a id=\"a1\">privacy violations of the neighbors</a> of people who use home surveillance cameras — not just Ring but all of home surveillance cameras. A recent "
+"court case in the UK highlighted this when a woman sued her neighbor for infringing on her privacy when his Ring security cameras were found pointed at her home. Not only could his cameras see her, "
+"they could also listen to her as well. <a id=\"a2\">She won her case</a> and $137,000."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"All in all, these security cameras still raise too many questions about transparency, data protection, public safety and racism in our opinion and we feel could come with *privacy not included."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"Ring says they do not sell data. However, it shares it with numerous third parties, for purposes that include marketing. In January 2020, <a id=\"a1\">Electronic Frontier Foundation (EFF) found</a> "
+"out the Ring app is sharing data with many others trackers not mentioned in the policy. Also, EFF discovered that the data shared with the trackers included full names, email addresses, device "
+"information such as OS version and model, whether Bluetooth is enabled, and app settings such as the number of locations a user has Ring devices installed in. Even small amounts of information allow"
+" tracking companies to form a “fingerprint” that follows the user as they interact with other apps and use their device, allowing trackers to spy on a user’s digital life."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "Ring has a webpage dedicated to explaining its privacy pillars and answering frequently asked questions"
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid ""
+"Videos are encrypted in storage and during transmission. Ring offers end-to-end encryption. https://blog.ring.com/2020/09/24/ring-announces-end-to-end-encryption-privacy-security-and-user-control-"
+"updates/"
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "Two-factor authentication is now mandatory after major pressure from Mozilla and other groups."
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "Amazon has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
+msgstr ""
+
+msgctxt "privacy_policy_helptext"
+msgid "Ring has a webpage dedicated to explaining its privacy pillars and answering frequently asked questions"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Turn on <a id=\"a1\">Two-factor Authentication</a>"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "<a id=\"a1\">Check</a> if your address is exposed through the Neighbour app"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "<a id=\"a1\">Don't share</a> your login-in information"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Review sharing options for your data, if you have multiple people in the neighbourhood"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Make sure you are comfortable with the fact that local police may require the footage. Think about all of the personal events cameras inside and outside of your home will capture."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use strong passwords &amp; unique usernames"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Delete footage as often as you can"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Limit third-party trackers in the Ring app"
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Name, email, phone number, address"
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "Video and voice recordings"
+msgstr ""
+
+msgctxt "social_data_collected"
+msgid "Neighbors app network"
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"You may delete your recordings from Ring Protect at any time by accessing your account. In addition, to the extent required by applicable law, you may have the right to request access to or delete "
+"your personal data (that is, if you are covered by CCPA or GDPR). No retention details are provided."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"In addition, law enforcement can make a video request in the Neighbors app to ask the community to assist in an investigation. Police who download videos from customer cameras may be able to keep "
+"them indefinitely, <a id=\"a1\">depending on local laws</a>."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"In <a id=\"a1\">November 2019,</a> a security vulnerability in Amazon's Ring Video Doorbell Pro devices could have allowed attackers to exploit the internet-connected doorbell to intercept the "
+"owner's wi-fi credentials."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "In 2019, <a id=\"a1\">Motherboard reported</a> on how Ring's weak security and compromised email addresses and passwords left Ring cameras easy to hack"
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "In <a id=\"a1\">December 2020</a>, a class action lawsuit was filed alleging lax security measures at Ring, allowed hackers to take over their devices."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"In <a id=\"a1\">August 2020</a>, security researchers from Check Point pointed out a flaw in Amazon's Alexa smart home devices that could have allowed hackers access to personal information and "
+"conversation history. Amazon promptly fixed the <a id=\"a2\">bug.</a>"
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"In <a id=\"a1\">October 2020</a>, Amazon fired an employee for leaking customer email addresses to an unnamed third party.<br/><br/>In <a id=\"a2\">October 2019</a>, Forbes reported that Amazon "
+"employees were listening to Amazon Cloud Cam recording, to train its AI algorithm."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"In <a id=\"a1\">April 2019</a>, it was revealed that thousands of employees, many of whom are contract workers and some not even directly employed by Amazon, had access to both voice and text "
+"transcripts of Alexa <a id=\"a2\">interactions</a>."
+msgstr ""
+
+msgctxt "ai_what_can_it_do"
+msgid "Ring cameras use camera-based motion detection to start recording."
+msgstr ""
