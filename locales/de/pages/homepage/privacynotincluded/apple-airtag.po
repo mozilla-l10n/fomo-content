@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-17 17:05:27.764152+00:00\n"
-"PO-Revision-Date: 2021-11-26 17:33+0000\n"
+"PO-Revision-Date: 2021-11-26 17:35+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -89,7 +89,7 @@ msgstr "iPhone oder iPad wird benötigt"
 
 msgctxt "how_does_it_use_data_collected"
 msgid "Apple says it does not share your data with third parties for commercial or marketing purposes."
-msgstr ""
+msgstr "Apple gibt an, Ihre Daten nicht zu kommerziellen oder Marketingzwecken an Dritte weiterzugeben."
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid ""
@@ -107,13 +107,15 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Check Apple's <a id=\"a1\">Airtag guidance</a> to ensure your privacy."
-msgstr ""
+msgstr "Lesen Sie die <a id=\"a1\">Airtag-Anleitung</a> von Apple, um Ihre Privatsphäre zu gewährleisten."
 
 msgctxt "personal_data_collected"
 msgid ""
 "Email address, age, name, email address, physical address, phone number, or other contact information are needed to set up the Apple account.\r"
 "<br/>Location is collected from the device itself"
 msgstr ""
+"E-Mail-Adresse, Alter, Name, E-Mail-Adresse, Anschrift, Telefonnummer oder andere Kontaktinformationen werden benötigt, um das Apple-Konto einzurichten.\r"
+"<br/>Der Standort wird vom Gerät selbst erfasst"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
@@ -139,4 +141,4 @@ msgstr ""
 
 msgctxt "offline_use_description"
 msgid "Bluetooth connection is still required to use the device."
-msgstr ""
+msgstr "Für die Verwendung des Geräts ist weiterhin eine Bluetooth-Verbindung erforderlich."
