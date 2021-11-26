@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-25 15:04:12.231242+00:00\n"
-"PO-Revision-Date: 2021-11-25 17:10+0000\n"
+"PO-Revision-Date: 2021-11-26 14:51+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -20,6 +20,9 @@ msgid ""
 "Mi—owned by Beijing-based Xiaomi—offers the Mi Band 6 as a lower cost health and fitness tracker. It tracks what most fitness trackers track--heart rate, sleep, stress, steps, calories, menstrual "
 "cycles, and more. Should you trust it? Xiaomi, the parent company of Mi, was recently caught secretly collecting data on some users, so buyer beware."
 msgstr ""
+"Mi, une filiale de Xiaomi, basée à Pékin, propose le traqueur d’activité et de remise en forme Mi Band 6 à moindre coût. Il propose un suivi similaire à ce que la plupart des traqueurs d’activité "
+"proposent : rythme cardiaque, sommeil, stress, pas, calories, cycles menstruels, etc. Faut-il lui faire confiance ? Xiaomi, la société mère de Mi, a récemment été surprise en train de collecter "
+"secrètement des données sur certains utilisateurs, alors méfiez-vous avant de l’acheter."
 
 msgctxt "worst_case"
 msgid ""
@@ -50,14 +53,16 @@ msgid ""
 "The data can be shared with HUAMI-affiliated companies or with third-party providers including advertising and marketing providers. Their advertising partners may deliver targeted advertisements to "
 "you when you visit non-HUAMI related websites within their networks."
 msgstr ""
+"Les données peuvent être partagées avec des sociétés affiliées à HUAMI ou avec des fournisseurs tiers, y compris des fournisseurs de publicité et de marketing. Leurs partenaires publicitaires "
+"peuvent vous proposer des publicités ciblées lorsque vous visitez des sites web non liés à HUAMI au sein de leurs réseaux."
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Xiaomi provides the IoT privacy white paper."
-msgstr ""
+msgstr "Xiaomi met à disposition un livre blanc sur la confidentialité de l’IoT."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Xiaomi runs a vulnerability disclosure process via <a id=\"a1\">https://trust.mi.com/misrc/bulletins</a>"
-msgstr ""
+msgstr "Xiaomi dispose d’un processus de divulgation de vulnérabilité via <a id=\"a1\">https://trust.mi.com/misrc/bulletins</a>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Be very careful who you chose to share your wellness data with."
@@ -69,7 +74,7 @@ msgstr "Ne connectez pas votre application à des réseaux sociaux comme Faceboo
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Minimize</a> volumes of data collected about you by an app"
-msgstr ""
+msgstr "<a id=\"a1\">Réduisez au minimum</a> la quantité de données collectées à votre sujet par une application"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use two-factor authentication"
@@ -82,6 +87,8 @@ msgstr "Nom, adresse e-mail, numéro de téléphone, genre"
 msgctxt "biometric_data_collected"
 msgid "Exercise information (such as targets set, targets met, swimming times), heart rate, blood oxygen saturation, weight, movement, sleep data, menstrual cycle, and more"
 msgstr ""
+"Informations d’exercice (telles que les objectifs fixés, les objectifs atteints, les temps de nage), le rythme cardiaque, la saturation en oxygène du sang, le poids, les mouvements, les données sur "
+"le sommeil, le cycle menstruel, etc."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
