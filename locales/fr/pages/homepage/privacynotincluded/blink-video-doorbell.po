@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-29 10:04:21.793030+00:00\n"
+"PO-Revision-Date: 2021-11-29 11:48+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 0a96f621-1921-4250-a13a-2c8d8c4d0970\n"
 
 msgctxt "title"
 msgid "Blink Video Doorbell"
-msgstr ""
+msgstr "Sonnette Blink Video Doorbell"
 
 msgctxt "blurb"
 msgid ""
@@ -48,34 +53,37 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "A separate privacy policy is provided"
-msgstr ""
+msgstr "Une politique de confidentialité distincte est fournie"
 
 msgctxt "strong_password_helptext"
 msgid "2-step verification is required for all logins."
-msgstr ""
+msgstr "Une vérification en 2 étapes est requise pour toutes les connexions."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "For Blink, security researchers can report a vulnerability by emailing <a id=\"a1\">security@amazon.com</a>."
-msgstr ""
+msgstr "Pour Blink, les chercheurs et chercheuses en sécurité peuvent signaler une vulnérabilité en envoyant un e-mail à <a id=\"a1\">security@amazon.com</a>."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr ""
+msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
 
 msgctxt "biometric_data_collected"
 msgid "Video and voice recordings"
-msgstr ""
+msgstr "Enregistrements vocaux et vidéo"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
 "Blink's privacy statement is not transparent regarding deletion rights and retention details for data. It says that some groups of people are not able to request access to or deletion of data. They "
 "are also sending you through the Customer Service bureaucracy to check your deletion rights."
 msgstr ""
+"La déclaration de confidentialité de Blink n’est pas transparente en ce qui concerne les droits de suppression et les détails de conservation des données. Elle indique que certains groupes de "
+"personnes ne sont pas en mesure de demander l’accès ou la suppression des données. Blink vous renvoie également dans les méandres de la bureaucratie du service client pour vérifier vos droits de "
+"suppression."
 
 msgctxt "track_record_details"
 msgid "In <a id=\"a1\">December 2019</a>, Amazon fixed a security flaw that would allow hackers to hijack the Blink camera."
-msgstr ""
+msgstr "En <a id=\"a1\">décembre 2019</a>, Amazon a corrigé une faille de sécurité qui permettrait le piratage des caméras Blink."
 
 msgctxt "ai_what_can_it_do"
 msgid "Can't determine"
-msgstr ""
+msgstr "Impossible à déterminer"
