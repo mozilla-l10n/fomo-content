@@ -1170,6 +1170,36 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/mario-kart-live-home-
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/sennheiser-momentum-3.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/sennheiser-momentum-3.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/sennheiser-momentum-true-wireless-2.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/sennheiser-momentum-true-wireless-2.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/irobot-roombas.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/irobot-roombas.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/amazon-echo-show.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-show.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/sonos-one.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/sonos-one.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/mi-band-6.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/mi-band-6.po"
+locales = [ "de", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -1230,23 +1260,8 @@ l10n = "locales/{locale}/pages/homepage/initiatives.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/sonos-one.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/sonos-one.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/sennheiser-momentum-3.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/sennheiser-momentum-3.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/ray-ban-facebook-stories.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/ray-ban-facebook-stories.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/sennheiser-momentum-true-wireless-2.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/sennheiser-momentum-true-wireless-2.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -1290,16 +1305,6 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-buds.p
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/amazon-echo-show.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-show.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/irobot-roombas.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/irobot-roombas.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/arlo-video-doorbell.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/arlo-video-doorbell.po"
 locales = [ "fr",]
@@ -1337,11 +1342,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/google-pixel-buds-a-series.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-pixel-buds-a-series.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/mi-band-6.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/mi-band-6.po"
 locales = [ "fr",]
 
 [[paths]]
