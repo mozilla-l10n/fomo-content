@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-29 12:05:39.417991+00:00\n"
-"PO-Revision-Date: 2021-11-29 16:16+0000\n"
+"PO-Revision-Date: 2021-11-29 16:45+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -105,7 +105,7 @@ msgstr "Zusätzlich zu den allgemeinen Datenschutzhinweisen bietet Amazon eine F
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr "Nutzt in Transit und Ruhezustand Verschlüsselung."
+msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 msgctxt "strong_password_helptext"
 msgid "Password-protected Amazon account is needed to set up Alexa."

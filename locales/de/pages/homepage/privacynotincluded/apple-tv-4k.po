@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-17 16:03:28.933147+00:00\n"
-"PO-Revision-Date: 2021-11-26 17:42+0000\n"
+"PO-Revision-Date: 2021-11-29 16:45+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -87,8 +87,8 @@ msgid ""
 "Uses encryption in transit and at rest. After Apple recognizes the words “Hey Siri,” what you say is encrypted and associated with a random identifier without being tied to your Apple ID. Audio "
 "samples are only retained if you have opted-in."
 msgstr ""
-"Nutzt in Transit und Ruhezustand Verschlüsselung. Nach der Ansprache „Hey Siri“, die von Apple erkannt wird, ist alles, was Sie sagen, verschlüsselt und wird mit einem zufälligen Identifikator "
-"verknüpft, ohne mit Ihrer Apple ID in Verbindung gebracht zu werden. Audiosamples werden nur gespeichert, wenn Sie Ihre Zustimmung erteilt haben."
+"Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet. Nach der Ansprache „Hey Siri“, die von Apple erkannt wird, ist alles, was Sie sagen, verschlüsselt und wird mit einem "
+"zufälligen Identifikator verknüpft, ohne mit Ihrer Apple ID in Verbindung gebracht zu werden. Audiosamples werden nur gespeichert, wenn Sie Ihre Zustimmung erteilt haben."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Apple has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."

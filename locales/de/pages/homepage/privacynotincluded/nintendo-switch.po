@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:23.625062+00:00\n"
-"PO-Revision-Date: 2021-11-26 17:57+0000\n"
+"PO-Revision-Date: 2021-11-29 16:43+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -61,7 +61,7 @@ msgstr "Nintendo gibt an, Ihre persönlichen Daten nicht an Dritte zu verkaufen.
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr "Nutzt in Transit und Ruhezustand Verschlüsselung."
+msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Nintendo has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://hackerone.com/nintendo"

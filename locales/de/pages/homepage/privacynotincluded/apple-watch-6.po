@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:26.779271+00:00\n"
-"PO-Revision-Date: 2021-11-26 14:10+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2021-11-29 16:45+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -77,7 +77,7 @@ msgid ""
 "Uses encryption in transit and at rest. After Apple recognizes the words “Hey Siri,” what you say is encrypted and sent anonymously to Apple servers without being tied to your Apple ID. Audio "
 "samples are only retained if you have opted-in."
 msgstr ""
-"Verschlüsselung wird dabei bei der Übertragung und im Ruhezustand genutzt. Nach der Ansprache „Hey Siri“, die von Apple erkannt wird, ist alles, was Sie sagen, verschlüsselt und wird mit einem "
+"Verschlüsselung wird dabei bei der Übertragung und bei Speicherung genutzt. Nach der Ansprache „Hey Siri“, die von Apple erkannt wird, ist alles, was Sie sagen, verschlüsselt und wird mit einem "
 "zufälligen Identifikator verknüpft, ohne mit Ihrer Apple-ID in Verbindung gebracht zu werden. Audiosamples werden nur gespeichert, wenn Sie Ihre Zustimmung erteilt haben."
 
 msgctxt "manage_vulnerabilities_helptext"

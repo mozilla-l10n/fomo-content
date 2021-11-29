@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-22 09:03:36.599440+00:00\n"
-"PO-Revision-Date: 2021-11-26 18:02+0000\n"
+"PO-Revision-Date: 2021-11-29 16:43+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -70,7 +70,7 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr "Nutzt in Transit und Ruhezustand Verschlüsselung."
+msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Samsung has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."

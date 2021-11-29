@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-19 09:54:20.126915+00:00\n"
-"PO-Revision-Date: 2021-11-26 17:46+0000\n"
+"PO-Revision-Date: 2021-11-29 16:46+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -87,7 +87,7 @@ msgstr "Google sagt, dass Daten außerhalb des Unternehmens nur mit Zustimmung d
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr "Nutzt in Transit und Ruhezustand Verschlüsselung."
+msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Google has a <a id=\"a1\">Security Rewards program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."

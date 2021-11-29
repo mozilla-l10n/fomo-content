@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-01 07:07:22.752193+00:00\n"
-"PO-Revision-Date: 2021-11-16 13:33+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2021-11-29 16:46+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -37,8 +37,8 @@ msgid ""
 msgstr ""
 "In Sachen Sicherheit und Datenschutz scheint BlueJeans ganz ordentlich abzuschneiden. Einen Monat nach der Übernahme durch Verizon 2020 wurden eine Reihe verbesserter Sicherheitsmaßnahmen umgesetzt,"
 " darunter eine sicherere Verschlüsselung und die Möglichkeit, ein Meeting mit einem Klick zu schließen, damit niemand mehr dazukommen kann. Momentan verwendet BlueJeans keine Ende-zu-Ende-"
-"Verschlüsselung, bei der die Daten ab dem Zeitpunkt verschlüsselt werden, an dem sie kreiert werden und bis sie genutzt werden. Trotzdem werden Daten sowohl in Transit (wenn sie durch die "
-"Datenbahnen des Internets geschickt werden) und bei der Speicherung sicher verschlüsselt. Für die Nutzung fragt die Plattform einige personenbezogenen Daten ab, wie Ihren Namen, Ihren Arbeitgeber, "
+"Verschlüsselung, bei der die Daten ab dem Zeitpunkt verschlüsselt werden, an dem sie kreiert werden und bis sie genutzt werden. Trotzdem werden Daten sowohl bei der Übertragung (wenn sie durch die "
+"Datenwege des Internets geschickt werden) und bei der Speicherung sicher verschlüsselt. Für die Nutzung fragt die Plattform einige personenbezogenen Daten ab, wie Ihren Namen, Ihren Arbeitgeber, "
 "Ihre Position, Ihren Wohnort, Ihre Telefonnummer und E-Mail-Adresse. Diese Daten können potenziell mit Dritten geteilt werden. Finden wir nicht toll, ist aber nicht ungewöhnlich. Anfang 2021 "
 "launchte BlueJeans den Service „BlueJeans Telehealth“, der HIPAA-konform sein kann. Insgesamt bietet BlueJeans eine gute Videocall-Plattform für Unternehmen, trotz des etwas seltsamen Namens."
 
@@ -59,7 +59,7 @@ msgstr "Die Datenschutzrichtlinie ist in juristischer Sprache verfasst."
 
 msgctxt "uses_encryption_helptext"
 msgid "Standards-based encryption is used in transit and at rest. Bluejeans does not offer end-to-end encryption."
-msgstr "Daten werden sowohl in Transit als auch At-Rest verschlüsselt. BlueJeans bietet keine Ende-zu-Ende-Verschlüsselung."
+msgstr "Standardbasierte Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet. BlueJeans bietet keine Ende-zu-Ende-Verschlüsselung."
 
 msgctxt "security_updates_helptext"
 msgid "BlueJeans updates its desktop application about five times a year, and the mobile app is updated multiple times a month."

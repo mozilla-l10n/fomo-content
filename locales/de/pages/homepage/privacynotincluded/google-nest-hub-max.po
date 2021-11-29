@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-19 09:54:20.058160+00:00\n"
-"PO-Revision-Date: 2021-11-26 17:50+0000\n"
+"PO-Revision-Date: 2021-11-29 16:46+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -80,7 +80,7 @@ msgstr "Google stellt eine Seite mit Datenschutzinformationen zu Nest bereit."
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr "Nutzt in Transit und Ruhezustand Verschlüsselung."
+msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Google has a Security Rewards program. Link: <a id=\"a1\">https://www.google.com/about/appsecurity/programs-home/</a>"

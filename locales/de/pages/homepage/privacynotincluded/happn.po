@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:45:18.953862+00:00\n"
-"PO-Revision-Date: 2021-11-10 14:28+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2021-11-29 16:42+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -67,7 +67,7 @@ msgstr "Happn verfügt über eine benutzerfreundliche Seite mit Grundlagen zum D
 
 msgctxt "uses_encryption_helptext"
 msgid "Happn ensures that user data is encrypted at rest and in transit"
-msgstr "Happn stellt sicher, dass sämtliche Nutzer*innendaten sowohl beim Speichern als auch bei der Übertragung verschlüsselt sind."
+msgstr "Happn stellt sicher, dass sämtliche Nutzerdaten sowohl beim Speichern als auch bei der Übertragung verschlüsselt sind."
 
 msgctxt "strong_password_helptext"
 msgid "Password wasn't requires as login happens either via phone or third-party."
