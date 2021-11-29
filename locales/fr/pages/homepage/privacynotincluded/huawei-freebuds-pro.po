@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-29 11:02:46.150567+00:00\n"
-"PO-Revision-Date: 2021-11-29 12:38+0000\n"
+"PO-Revision-Date: 2021-11-29 15:16+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Huawei has a <a id=\"a1\">bug bounty program</a>. They also have a dedicated <a id=\"a2\">Product Security Incident Response Team</a>."
-msgstr ""
+msgstr "Huawei a un <a id=\"a1\">programme de prime aux bugs</a>. Huawei dispose également d’une <a id=\"a2\">équipe dédiée à la réponse aux incidents de sécurité des produits</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Consider using your headphones without connecting it to an app. This way, you may decrease amount of data collected"
@@ -64,6 +64,8 @@ msgid ""
 "You can delete your account in HUAWEI ID-related products. After you delete your account, they will stop providing products and services, and delete your personal data unless otherwise stipulated by"
 " law."
 msgstr ""
+"Vous pouvez supprimer votre compte dans les produits liés à l’identifiant HUAWEI. Après avoir supprimé votre compte, l’entreprise cessera de fournir des produits et services et supprimera vos "
+"données personnelles, sauf disposition contraire de la loi."
 
 msgctxt "track_record_details"
 msgid "In January 2020, Huawei <a id=\"a1\">reported</a> a vulnerability regarding encryption of its phones."
