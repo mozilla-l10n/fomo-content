@@ -1187,12 +1187,12 @@ locales = [ "de", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/amazon-echo-show.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-show.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/sonos-one.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/sonos-one.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/mi-band-6.pot"
@@ -1212,6 +1212,41 @@ locales = [ "de", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/netatmo-smart-thermostat.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/netatmo-smart-thermostat.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/youtube/regretsreporter.pot"
+l10n = "locales/{locale}/pages/homepage/youtube/regretsreporter.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/garmin-instinct-series.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-instinct-series.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/garmin-vivoactive.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-vivoactive.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/garmin-forerunner-series.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-forerunner-series.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/garmin-venu.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-venu.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-watch4.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-watch4.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-buds.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-buds.po"
 locales = [ "de", "fr",]
 
 [[paths]]
@@ -1280,21 +1315,6 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/ray-ban-facebook-stor
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/garmin-instinct-series.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-instinct-series.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/garmin-vivoactive.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-vivoactive.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/garmin-forerunner-series.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-forerunner-series.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/parrot-anafi.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/parrot-anafi.po"
 locales = [ "fr",]
@@ -1312,11 +1332,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/kobo-ereaders.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/kobo-ereaders.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-buds.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-buds.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -1352,16 +1367,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/google-pixel-buds-a-series.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-pixel-buds-a-series.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-watch4.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-watch4.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/garmin-venu.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-venu.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -1412,6 +1417,11 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/huawei-band-6.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/huawei-band-6.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/dji-mavic-series.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/dji-mavic-series.po"
 locales = [ "fr",]
 
 [[paths]]
