@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-19 09:54:25.483251+00:00\n"
+"PO-Revision-Date: 2021-12-01 09:39+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: e44b7c2f-ca1f-44f8-a76f-1a67be22e06b\n"
 
 msgctxt "title"
 msgid "Withings Thermo"
-msgstr ""
+msgstr "Withings Thermo"
 
 msgctxt "blurb"
 msgid ""
@@ -41,6 +46,8 @@ msgid ""
 "Be very careful what third party companies you consent to share your health data with. If you do decided to share your health data with another company, read their privacy policy to see how they "
 "protect, secure, and share or sell your data."
 msgstr ""
+"Ten mucho cuidado con las empresas de terceros a las que das consentimiento para compartir tus datos de salud. Si decides compartir tus datos de salud con otra empresa, lee su política de privacidad"
+" para saber cómo protegen, aseguran y comparten o venden tus datos."
 
 msgctxt "personal_data_collected"
 msgid "Email address, birth date, names and surnames, phone number, delivery address."
@@ -58,4 +65,4 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "No se han comunicado incidentes en los últimos 3 años."
