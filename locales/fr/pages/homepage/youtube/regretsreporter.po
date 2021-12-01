@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-12-01 11:05:55.458407+00:00\n"
+"PO-Revision-Date: 2021-12-01 12:14+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a5f96077-a817-4cb4-a141-30aded2f8192\n"
 
 msgctxt "title"
 msgid "RegretsReporter Extension"
-msgstr ""
+msgstr "Extension RegretsReporter"
 
 msgctxt "slug"
 msgid "regretsreporter"
-msgstr ""
+msgstr "regretsreporter"
 
 msgctxt "search_description"
 msgid "The RegretsReporter browser extension, built by the non-profit Mozilla, lets you block harmful YouTube recommendations."
