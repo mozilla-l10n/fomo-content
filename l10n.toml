@@ -1222,7 +1222,7 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/garmin-instinct-series.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-instinct-series.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/garmin-vivoactive.pot"
