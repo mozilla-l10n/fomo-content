@@ -1255,6 +1255,16 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-smartt
 locales = [ "de", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/peloton-tread.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/peloton-tread.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/peloton-bike.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/peloton-bike.po"
+locales = [ "de",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
