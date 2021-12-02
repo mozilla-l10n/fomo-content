@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-12-02 11:03:39.973991+00:00\n"
+"PO-Revision-Date: 2021-12-02 12:20+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: ad51ecd9-9ed8-4815-b1c9-aa72dc7b562a\n"
 
 msgctxt "title"
 msgid "Tile Trackers"
-msgstr ""
+msgstr "Traqueurs Tile"
 
 msgctxt "blurb"
 msgid ""
@@ -85,7 +90,7 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Tile has a bug bounty program"
-msgstr ""
+msgstr "Tile dispose d’un programme de prime aux bugs."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Check the <a id=\"a1\">tips</a> on how to know if someone is tracking you without your consent."
@@ -93,7 +98,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, address, email address, profile photo, location"
-msgstr ""
+msgstr "Nom, adresse, adresse e-mail, photo de profil, localisation"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
@@ -103,8 +108,8 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "Aucun incident connu au cours des 3 dernières années."
 
 msgctxt "offline_use_description"
 msgid "Bluetooth connection is still required to use the device."
-msgstr ""
+msgstr "Une connexion Bluetooth est toujours requise pour utiliser l’appareil."
