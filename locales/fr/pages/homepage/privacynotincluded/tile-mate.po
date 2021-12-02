@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-12-02 11:03:39.973991+00:00\n"
-"PO-Revision-Date: 2021-12-02 12:20+0000\n"
+"PO-Revision-Date: 2021-12-02 15:44+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -54,6 +54,8 @@ msgstr ""
 msgctxt "signup_requirement_explanation"
 msgid "If you decide to interact with a Social Network when using Tile's services, Tile is permitted to collect information that you have already made public on your Social Network account."
 msgstr ""
+"Si vous décidez d’interagir avec un réseau social lors de l’utilisation des services de Tile, Tile est autorisé à collecter des informations que vous avez déjà rendues publiques sur votre compte de "
+"réseau social."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -83,10 +85,14 @@ msgstr ""
 msgctxt "security_updates_helptext"
 msgid "Yes, they do regularly push automatic updates. However, users’ phone configurations determine if users automatically pick up these new mobile builds."
 msgstr ""
+"Oui, Tile déploie régulièrement des mises à jour automatiques. Cependant, la configuration des téléphones des utilisateurs détermine si ces nouvelles versions mobiles sont récupérées "
+"automatiquement."
 
 msgctxt "strong_password_helptext"
 msgid "To access your Tile mobile app, you need a Tile account which requires a password. Passwords have minimum length requirements and are stored in one-way hashed, salted format."
 msgstr ""
+"Pour accéder à votre application mobile Tile, vous avez besoin d’un compte Tile qui nécessite un mot de passe. Les mots de passe ont des exigences de longueur minimale et sont conservés dans un "
+"format salé et haché à sens unique."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Tile has a bug bounty program"
@@ -94,7 +100,7 @@ msgstr "Tile dispose d’un programme de prime aux bugs."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Check the <a id=\"a1\">tips</a> on how to know if someone is tracking you without your consent."
-msgstr ""
+msgstr "Consultez ces <a id=\"a1\">conseils</a> pour savoir si quelqu’un vous suit à votre insu."
 
 msgctxt "personal_data_collected"
 msgid "Name, address, email address, profile photo, location"
