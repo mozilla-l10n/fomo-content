@@ -1265,6 +1265,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/peloton-bike.po"
 locales = [ "de",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/how-to-shop-smart-for-internet-connected-devices.pot"
+l10n = "locales/{locale}/pages/homepage/blog/how-to-shop-smart-for-internet-connected-devices.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -1352,11 +1357,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/nvidia-shield-tv.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/nvidia-shield-tv.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/how-to-shop-smart-for-internet-connected-devices.pot"
-l10n = "locales/{locale}/pages/homepage/blog/how-to-shop-smart-for-internet-connected-devices.po"
 locales = [ "fr",]
 
 [[paths]]
