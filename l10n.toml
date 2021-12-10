@@ -1172,17 +1172,17 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/sennheiser-momentum-3.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/sennheiser-momentum-3.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/sennheiser-momentum-true-wireless-2.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/sennheiser-momentum-true-wireless-2.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/irobot-roombas.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/irobot-roombas.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/amazon-echo-show.pot"
@@ -1197,7 +1197,7 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/mi-band-6.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/mi-band-6.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/arlo-video-doorbell.pot"
@@ -1247,7 +1247,7 @@ locales = [ "de", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-buds.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-buds.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-smarttag.pot"
@@ -1295,6 +1295,11 @@ l10n = "locales/{locale}/pages/homepage/blog/networks-capitalism-addiction-disin
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/parrot-anafi.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/parrot-anafi.po"
+locales = [ "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
@@ -1332,11 +1337,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/ray-ban-facebook-stories.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/ray-ban-facebook-stories.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/parrot-anafi.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/parrot-anafi.po"
 locales = [ "fr",]
 
 [[paths]]
