@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-12-10 12:13:10.370305+00:00\n"
+"PO-Revision-Date: 2021-12-10 13:29+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 2e5187e1-212c-47a8-8bb7-67e0a2d0ee1f\n"
 
 msgctxt "title"
@@ -95,7 +100,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr ""
+msgstr "Nombre, correo electrónico, número de teléfono, dirección"
 
 msgctxt "how_can_you_control_your_data"
 msgid "You can choose not to have map data transmitted to iRobot."
@@ -110,7 +115,7 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "No se han comunicado incidentes en los últimos 3 años."
 
 msgctxt "ai_helptext"
 msgid "Scholarly articles are available about the machine learning used to help Roombas navigate a room and to make recommended cleaning schedules."

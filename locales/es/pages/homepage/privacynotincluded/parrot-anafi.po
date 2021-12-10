@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-12-10 12:13:10.401561+00:00\n"
+"PO-Revision-Date: 2021-12-10 13:32+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: fb9f7b8a-a143-4d27-a8b2-dfce819f40cc\n"
 
 msgctxt "title"
@@ -79,7 +84,7 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "No se han comunicado incidentes en los últimos 3 años."
 
 msgctxt "ai_what_can_it_do"
 msgid ""
