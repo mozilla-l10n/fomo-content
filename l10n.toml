@@ -1202,12 +1202,12 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/arlo-video-doorbell.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/arlo-video-doorbell.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/arlo-security-cams.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/arlo-security-cams.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/netatmo-smart-thermostat.pot"
