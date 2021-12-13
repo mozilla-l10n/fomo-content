@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-12-08 10:09:16.984721+00:00\n"
-"PO-Revision-Date: 2021-12-13 11:17+0000\n"
+"PO-Revision-Date: 2021-12-13 13:58+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -50,6 +50,13 @@ msgid ""
 "encrypt their database. This is a great reminder that yes, while Fitbit might do a good job with their own security, anytime you sync or share that data with anyone else, it could be vulnerable. And"
 " Fitbit partners with many third parties such as employers and insurance companies. I don’t know about you, but I don’t need the world to know my weight and where I live. That’s really dang creepy."
 msgstr ""
+"En revanche, ce qui déplaît, c’est ce qui peut arriver avec toutes ces données de santé très personnelles si d’autres ne font pas attention. Un <a id=\"a1\">rapport récent</a> a montré que les "
+"données de santé de plus de 61 millions d'utilisateurs de traqueurs d’activité, notamment Fitbit et Apple, ont été divulguées lorsqu’une société tierce ayant permis aux utilisateurs de synchroniser "
+"leurs données de santé à partir de leurs traqueurs d’activité, n’a pas sécurisé les données correctement. Les informations personnelles telles que les noms, les dates de naissance, le poids, la "
+"taille, le genre et l’emplacement géographique de Fitbit et d’autres utilisateurs de traqueurs d’activité ont été laissées sans protection car l’entreprise tierce n’a pas utilisé de mot de passe et "
+"encore moins chiffré sa base de données. Cet incident nous rappelle que bien que Fitbit puisse faire du bon travail de son côté en matière de sécurité, chaque fois que vous synchronisez ou partagez "
+"ces données avec un tiers, vous les rendez vulnérables. Et Fitbit s’associe à de nombreux tiers tels que des employeurs et des compagnies d’assurance. Nous n’avons pas besoin que le monde entier "
+"connaisse notre poids ou notre adresse. C’est vraiment flippant."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -69,7 +76,7 @@ msgstr "Bien que Fitbit ait été racheté par Google, Fitbit conserve sa propre
 
 msgctxt "strong_password_helptext"
 msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
-msgstr ""
+msgstr "Pour créer un compte Fitbit, les utilisateurs et utilisatrices doivent fournir des mots de passe compliqués lors de la configuration initiale."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Follow <a id=\"a1\">Fitbit's advice</a> to keep your stats private"
