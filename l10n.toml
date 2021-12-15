@@ -1480,6 +1480,11 @@ l10n = "locales/{locale}/pages/homepage/blog/should-you-buy-a-video-doorbell-sec
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
+locales = [ "nl",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.pot"
 l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.po"
 locales = [ "sw",]
