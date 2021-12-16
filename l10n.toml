@@ -1270,6 +1270,11 @@ l10n = "locales/{locale}/pages/homepage/blog/how-to-shop-smart-for-internet-conn
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/should-you-buy-a-video-doorbell-security-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/should-you-buy-a-video-doorbell-security-privacy.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -1472,11 +1477,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/fitbit-inspire-2.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-inspire-2.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/should-you-buy-a-video-doorbell-security-privacy.pot"
-l10n = "locales/{locale}/pages/homepage/blog/should-you-buy-a-video-doorbell-security-privacy.po"
 locales = [ "fr",]
 
 [[paths]]
