@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-01-10 10:03:32.682809+00:00\n"
-"PO-Revision-Date: 2022-01-10 15:58+0000\n"
+"PO-Revision-Date: 2022-01-13 12:57+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Garmin Forerunner Series"
-msgstr ""
+msgstr "Serie Forerunner de Garmin"
 
 msgctxt "blurb"
 msgid ""
@@ -21,14 +21,18 @@ msgid ""
 "altimeter, compass, gyroscope, accelerometer, thermometer, and pulse ox. All those sound super cool. super nerdy, and super all up in your business. Not only do these watches have a zillion sensors,"
 " they also handle your music, calendar, texts, have the ability to up your golf game (seriously), and even give you a way to send an alert if you've fallen and can't get up."
 msgstr ""
+"Si estás buscando un dispositivo que sepa más de ti que tu mismo(a), lo has encontrado. La lista de sensores de estos relojes contiene: GPS, GLONASS, Galileo, pulsómetro, altímetro barométrico, "
+"brújula, giroscopio, acelerómetro, termómetro y pulsioxímetro. Todos estos nombres suenan super geniales, super nerd y super metidos en todos tus asuntos. Estos relojes no solo tienen un millón de "
+"sensores, sino que también manejan tu música, tu calendario, tus mensajes de texto, tienen la capacidad de hacerte mejorar en el golf (no es broma) e incluso puedes programarlos para enviar una "
+"alerta si te caes y no puedes levantarte."
 
 msgctxt "worst_case"
 msgid ""
 "When your *Privacy Not Included researcher wanted to get a fitness tracker, Garmin is what she went with. Garmin seems to do one of the best jobs handling the privacy and security of all the "
 "personal data fitness trackers collect. They did suffer that very public <a id=\"a1\">ransomware attack</a> in 2020. Ransomware attacks suck and it seems no company is safe from them these days."
 msgstr ""
-"Cuando tu investigadora de *Privacidad no incluida quiso comprarse un monitor de actividad física, eligió Garmin. Esta marca parece ser una de mejores para manejar la privacidad y la seguridad de "
-"los datos personales que recopilan este tipo de rastreadores. En 2020, sufrieron ese <a id=\"a1\">ataque de ransomware</a> del que habló todo el mundo. Los ataques de ransomware son terribles y "
+"Cuando tu investigadora de *Privacidad no incluida quiso comprarse un monitor de actividad física, eligió Garmin. Esta marca parece ser una de las que mejor maneja la privacidad y la seguridad de "
+"los datos personales recopilados por este tipo de rastreadores. En 2020, sufrieron ese <a id=\"a1\">ataque de ransomware</a> del que habló todo el mundo. Los ataques de ransomware son terribles y "
 "parece que ninguna empresa está a salvo de ellos hoy en día."
 
 msgctxt "worst_case"
@@ -77,7 +81,8 @@ msgstr "Garmin tiene una lista de búsqueda fácil con todas las políticas de p
 
 msgctxt "uses_encryption_helptext"
 msgid "Garmin devices and apps use a combination of asymmetric and symmetric encryption appropriate to the nature and function of the product, and data stored/transmitted."
-msgstr "Los dispositivos y aplicaciones de Garmin utilizan una combinación de cifrado simétrico y asimétrico adecuado a la naturaleza y la función del producto y a los datos almacenados/transmitidos."
+msgstr ""
+"Los dispositivos y aplicaciones de Garmin utilizan una combinación de cifrado simétrico y asimétrico adecuado a la naturaleza y la función del producto y a los datos almacenados o transmitidos."
 
 msgctxt "strong_password_helptext"
 msgid "In order to use companion apps, an account with a strong password is required."
