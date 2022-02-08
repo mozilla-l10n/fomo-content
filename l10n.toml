@@ -1544,3 +1544,8 @@ reference = "templates/pages/homepage/blog/does-technology-have-a-gender.pot"
 l10n = "locales/{locale}/pages/homepage/blog/does-technology-have-a-gender.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/conversations-on-culture-and-preserving-history.pot"
+l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preserving-history.po"
+locales = [ "sw",]
+
