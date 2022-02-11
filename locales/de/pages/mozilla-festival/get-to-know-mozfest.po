@@ -12,8 +12,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 66726163-0f55-4d03-9278-6b920326c3df\n"
 
 msgctxt "title"
-msgid "Get To Know MozFest"
-msgstr "Lernen Sie das MozFest kennen"
+msgid "About MozFest"
+msgstr ""
 
 msgctxt "header"
 msgid "Uniquely MozFest"
@@ -245,6 +245,10 @@ msgstr "<a id=\"a1\">Abonnieren Sie den Festival-Newsletter an</a>, um mehr übe
 msgctxt "body.5d7b5a9a-ff4a-4281-85fd-3abd9a7dd860"
 msgid "Follow us on <a id=\"a1\">Twitter</a> and <a id=\"a2\">LinkedIn</a> for the most up-to-date information on festival news and updates."
 msgstr "Folgen Sie uns auf <a id=\"a1\">Twitter</a> und <a id=\"a2\">LinkedIn</a>, um die aktuellsten Informationen zu Festival-Neuigkeiten und -Updates zu erhalten."
+
+#~ msgctxt "title"
+#~ msgid "Get To Know MozFest"
+#~ msgstr "Lernen Sie das MozFest kennen"
 
 #~ msgctxt "slug"
 #~ msgid "get-to-know-mozfest"

@@ -26,8 +26,8 @@ msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
-msgid "Secure your ticket"
-msgstr "Réservez votre billet"
+msgid "Build your schedule"
+msgstr ""
 
 msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
@@ -73,8 +73,8 @@ msgid "sneak peak icon"
 msgstr "icône d’aperçu"
 
 msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-msgid "<b>Get an insider look at confirmed, and build your schedule of interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
-msgstr "<b>Obtenez un aperçu des sessions interactives confirmées et créez votre programme sur la <a id=\"a1\">MozFest Plaza</a></b>"
+msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
+msgstr ""
 
 msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
 msgid "A photograph of a person sitting with their laptop on the stairs of the MozFest House venue, next to them is an orange and pink sign with the MozFest house logo."
@@ -139,22 +139,6 @@ msgstr ""
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
 msgid "Here are some ways to get involved with MozFest in the lead up to the festival."
 msgstr "Voici quelques façons de vous impliquer au MozFest en amont du festival."
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.title"
-msgid "Building Trustworthy AI with Tech &amp; Society"
-msgstr "Créer une IA digne de confiance avec la tech et la société"
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
-msgid "February 10, 2022 18:30 CET (UTC+1)"
-msgstr "10 février 2022 18:30 CET (UTC+1)"
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
-msgid "Mimi Onuoha and student researchers at Princeton will be presenting the data necessary to create their Ground Truth model."
-msgstr "Mimi Onuoha et des étudiants chercheurs de Princeton présenteront les données nécessaires à la création de leur modèle Ground Truth."
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
-msgid "Learn more"
-msgstr "En savoir plus"
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
 msgid "The Grand MozFest Web Monetization Experiment"
@@ -476,9 +460,25 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "<b>Get an insider look at confirmed, interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
 #~ msgstr "<b>Obtenez un aperçu des sessions interactives confirmées sur la <a id=\"a1\">MozFest Plaza</a></b>"
 
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
+#~ msgid "February 10, 2022 18:30 CET (UTC+1)"
+#~ msgstr "10 février 2022 18:30 CET (UTC+1)"
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Réservez votre billet"
+
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 #~ msgid "Start planning now. Support session development and build momentum towards the festival."
 #~ msgstr "Commencez à planifier dès maintenant. Apportez votre aide au développement des sessions et créez une dynamique en amont du festival."
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "<b>Get an insider look at confirmed, and build your schedule of interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
+#~ msgstr "<b>Obtenez un aperçu des sessions interactives confirmées et créez votre programme sur la <a id=\"a1\">MozFest Plaza</a></b>"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
+#~ msgid "Mimi Onuoha and student researchers at Princeton will be presenting the data necessary to create their Ground Truth model."
+#~ msgstr "Mimi Onuoha et des étudiants chercheurs de Princeton présenteront les données nécessaires à la création de leur modèle Ground Truth."
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
 #~ msgid ""
@@ -487,3 +487,7 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgstr ""
 #~ "Mozilla Common Voice et le MozFest s’efforcent d’améliorer la représentation du kiswahili dans Common Voice ; une base de données ouverte et collaborative conçue pour aider les gens à créer des "
 #~ "applications de reconnaissance vocale qui comprennent mieux un ensemble de langues et d’accents variés."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.title"
+#~ msgid "Building Trustworthy AI with Tech &amp; Society"
+#~ msgstr "Créer une IA digne de confiance avec la tech et la société"
