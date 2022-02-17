@@ -1505,6 +1505,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-inspire-2.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/amazon-echo-buds.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-buds.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
