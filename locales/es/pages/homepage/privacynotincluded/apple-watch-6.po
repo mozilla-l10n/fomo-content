@@ -142,6 +142,10 @@ msgstr ""
 "En su política de privacidad, Apple declara: «Apple no toma ninguna decisión que implique el uso de algoritmos o perfiles y que te afecten significativamente». Apple emplea el aprendizaje automático"
 " de muchas formas diferentes, desde mejorar Siri hasta mejorar las fotos que tomas."
 
+#~ msgctxt "price"
+#~ msgid "399 - $799"
+#~ msgstr "399 - $799"
+
 #~ msgctxt "title"
 #~ msgid "Apple Watch 6"
 #~ msgstr "Apple Watch 6"
@@ -157,10 +161,6 @@ msgstr ""
 #~ "y cuando tengas un iPhone, claro). Y ahora tendrás incluso más datos de salud: frecuencia cardiaca, monitorización del sueño, pasos, calorías, y además este año Apple ha añadido niveles de "
 #~ "saturación, es decir, cuánto oxígeno tienes en la sangre. En la era del coronavirus, contar con este dato es algo muy positivo. Apple tiene una buena trayectoria en lo que respecta a obtener datos "
 #~ "muy personales y mantenerlos a salvo, lo cual se agradece."
-
-#~ msgctxt "price"
-#~ msgid "399 - $799"
-#~ msgstr "399 - $799"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -197,10 +197,6 @@ msgstr ""
 #~ "Apple cuenta con una página web que subraya sus principios y funciones de privacidad. La empresa comienza su política de privacidad con una declaración de principios que, a pesar de ser muy larga, "
 #~ "está claramente organizada por temas de interés."
 
-#~ msgctxt "offline_use_description"
-#~ msgid "A WiFi connection is required to set it up."
-#~ msgstr "Se necesita una conexión WiFi para instalarlo."
-
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "You can request that data be deleted. You can go to https://privacy.apple.com/ to get a copy of your data, correct your data, or delete your account."
 #~ msgstr "Puedes solicitar que tus datos se borren. Puedes entrar en https://privacy.apple.com/ para obtener una copia de tus datos, corregirlos o borrar tu cuenta."
@@ -211,6 +207,10 @@ msgstr ""
 #~ msgstr ""
 #~ "Es justo decir que cambiaron sus prácticas de revisión de grabaciones de voz de Siri (pasaron de tener marcada la casilla «Acepto» por defecto a lo contrario) cuando la gente les dijo que no les "
 #~ "hacía gracia que los contratistas escucharan sus grabaciones. ¡Bien por ellos!"
+
+#~ msgctxt "offline_use_description"
+#~ msgid "A WiFi connection is required to set it up."
+#~ msgstr "Se necesita una conexión WiFi para instalarlo."
 
 #~ msgctxt "ai_helptext"
 #~ msgid ""
