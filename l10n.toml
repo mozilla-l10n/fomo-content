@@ -1564,3 +1564,8 @@ reference = "templates/pages/homepage/blog/conversations-on-culture-and-preservi
 l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preserving-history.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/why-voice-is-important.pot"
+l10n = "locales/{locale}/pages/homepage/blog/why-voice-is-important.po"
+locales = [ "sw",]
+
