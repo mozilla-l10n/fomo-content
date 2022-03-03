@@ -1569,3 +1569,8 @@ reference = "templates/pages/homepage/blog/why-voice-is-important.pot"
 l10n = "locales/{locale}/pages/homepage/blog/why-voice-is-important.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.pot"
+l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
+locales = [ "sw",]
+
