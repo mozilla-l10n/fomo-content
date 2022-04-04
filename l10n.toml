@@ -1579,3 +1579,8 @@ reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awar
 l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/lessons-from-building-for-kinyarwanda-on-common-voice.pot"
+l10n = "locales/{locale}/pages/homepage/blog/lessons-from-building-for-kinyarwanda-on-common-voice.po"
+locales = [ "sw",]
+
