@@ -61,6 +61,14 @@ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
 msgstr "Expanda novas parcerias e aprofunde o envolvimento com o MozFest Fringe Events. Conecte-se e colabore mais cedo e com frequência."
 
+msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.altText"
+msgid "We're nominated for a Webby - Vote for us"
+msgstr ""
+
+msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.captionURL"
+msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
+msgstr ""
+
 msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 msgid "Secure Your MozFest Ticket Here"
 msgstr "Garanta aqui seu ingresso para o MozFest"
@@ -135,12 +143,64 @@ msgstr ""
 "ano, permanecemos focados em nosso trabalho de construir uma internet mais saudável e inteligências artificiais mais confiáveis."
 
 msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
-msgid "Catch up with MozFest On-Demand!"
-msgstr "Com o MozFest sob demanda, você pode recuperar o que perdeu!"
+msgid "Join the internet health community for these exciting sessions and events that explore what it takes to build a better web."
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.title"
+msgid "Sustaining Momentum with MozFest Fringe Events"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
+msgid "Ethical Dilemma Cafe, Manchester"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.968ba3c3-9870-4c9e-becb-31aa775e4445.label"
+msgid "April 26-27, 2022"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.body"
+msgid "Explore and understand the power of your data and algorithms, and how they shape our world today. This is an in-person event."
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.05267cae-c796-4d3f-b8e6-6895706f3729.label"
+msgid "Register for Tickets"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.title"
+msgid "Building Speech Recognition Models"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.subheading_link.729cc9ca-3d67-4253-8dce-cfa64d8373fd.label"
+msgid "May 10, 2022 at 18:00 CET"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.body"
+msgid "Learn how to use NVIDIA's open source AI toolkit NeMo to fine-tune a speech recognition model using data from Mozilla Common Voice."
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.buttons.558ff513-053f-4109-bc93-4b386f2e93f6.label"
+msgid "Learn more"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.title"
+msgid "Common Voice Model Competitions"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.subheading_link.5b3d8f48-0741-4d48-9028-bf5b4d4e5d94.label"
+msgid "May 17, 2022 at 18:00 CET"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.body"
+msgid "A series of lightning talks from leaders in the space on the competition themes and demos of resources to participate."
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.buttons.9c62ef5e-f554-41aa-8e14-22ab378b5d21.label"
+msgid "Learn more"
+msgstr ""
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
-msgid "Join the internet health community for these exciting sessions and events that explore what it takes to build a better web."
-msgstr "Junte-se à comunidade de saúde da internet nessas sessões e eventos emocionantes que exploram o que é necessário para construir uma web melhor."
+msgid "Catch up with MozFest On-Demand!"
+msgstr ""
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
 msgid "Opening Circle"
@@ -452,17 +512,9 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "February 10, 2022 18:30 CET (UTC+1)"
 #~ msgstr "10 de fevereiro de 2022 18:30 CET (UTC+1)"
 
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
-#~ msgid "Learn more"
-#~ msgstr "Saiba mais"
-
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
 #~ msgid "February 15th, 2022 16:00 CET (UTC+1)"
 #~ msgstr "15 de fevereiro de 2022 16:00 CET (UTC+1)"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.buttons.c656d9e7-43ec-4d88-aa27-b39d99406c0c.label"
-#~ msgid "Learn more"
-#~ msgstr "Saiba mais"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
 #~ msgid "February 18th, 2022 19:00 CET (UTC+1)"
@@ -475,10 +527,6 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
 #~ msgid "March 3rd, 2022 09:00 CET (UTC+1)"
 #~ msgstr "3 de março de 2022 09:00 CET (UTC+1)"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
-#~ msgid "Learn more"
-#~ msgstr "Saiba mais"
 
 #~ msgctxt "cta_button_label"
 #~ msgid "Build your schedule"
