@@ -161,6 +161,22 @@ msgctxt "ai_what_can_it_do"
 msgid "Google uses natural language processing to understand you and to generate answers to your requests."
 msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
 
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "You can review and delete your data in the Nest app or via the Google Privacy Dashboard."
+#~ msgstr "Puedes revisar y borrar tus datos en la aplicación Nest o a través del Panel de Control de Privacidad de Google."
+
+#~ msgctxt "track_record_details"
+#~ msgid ""
+#~ "In 2018, personal information was exposed in several incidents, resulting from access by app developers, exposure by mobile apps, or a bug in Google + API. Google has also stored location data "
+#~ "without permission"
+#~ msgstr ""
+#~ "En 2018 se reveló información personal tras varios incidentes derivados del acceso por parte de desarrolladores de la app, exposición en las apps móviles o un bug en la API Google+. Google también "
+#~ "ha almacenado datos de ubicación sin permiso."
+
+#~ msgctxt "ai_helptext"
+#~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
+#~ msgstr "Google publica artículos académicos sobre sus estudios en materia de IA (https://ai.google/) y pone varias herramientas de código abierto a disposición del público. https://ai.google/tools/"
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "\"Hey Google!\" will become your new favorite greeting. Hey Google, turn on the lights. Hey Google, play Bohemian Rhapsody. Hey Google, what are the symptoms of toe fungus? Hey Google, are you still"
@@ -210,19 +226,3 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number"
 #~ msgstr "Nombre, dirección de correo electrónico, número de teléfono"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "You can review and delete your data in the Nest app or via the Google Privacy Dashboard."
-#~ msgstr "Puedes revisar y borrar tus datos en la aplicación Nest o a través del Panel de Control de Privacidad de Google."
-
-#~ msgctxt "track_record_details"
-#~ msgid ""
-#~ "In 2018, personal information was exposed in several incidents, resulting from access by app developers, exposure by mobile apps, or a bug in Google + API. Google has also stored location data "
-#~ "without permission"
-#~ msgstr ""
-#~ "En 2018 se reveló información personal tras varios incidentes derivados del acceso por parte de desarrolladores de la app, exposición en las apps móviles o un bug en la API Google+. Google también "
-#~ "ha almacenado datos de ubicación sin permiso."
-
-#~ msgctxt "ai_helptext"
-#~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
-#~ msgstr "Google publica artículos académicos sobre sus estudios en materia de IA (https://ai.google/) y pone varias herramientas de código abierto a disposición del público. https://ai.google/tools/"
