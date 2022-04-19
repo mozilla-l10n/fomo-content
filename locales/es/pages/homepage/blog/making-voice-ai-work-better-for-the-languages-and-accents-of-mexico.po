@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-04-12 12:44:22.758557+00:00\n"
+"PO-Revision-Date: 2022-04-14 15:10+0000\n"
+"Last-Translator: Francis Tyers <spectre@ivixor.net>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8478d79c-87ec-4d40-8894-4663c0910c6a\n"
 
 msgctxt "seo_title"
@@ -29,8 +34,8 @@ msgstr ""
 msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 msgid "Mozilla Common Voice is an open source dataset that anyone can use to build technology that works better for everyone. We’re honoured to be with you in Mexico City this May!"
 msgstr ""
-"Mozilla Common Voice es un set de datos de código abierto que cualquiera puede usar para crear tecnologías que funcionen mejor para todos. ¡Nos sentimos honrados de poder estar con ustedes en la "
-"Ciudad de México este mes de mayo!"
+"Mozilla Common Voice es un conjunto de datos de código abierto que cualquiera puede usar para crear tecnologías que funcionen mejor para todos. ¡Nos sentimos honrados de poder estar con ustedes en "
+"la Ciudad de México este mes de mayo!"
 
 msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 msgid "WHERE"
@@ -62,11 +67,11 @@ msgstr "Hackatón con premios en efectivo para software habilitado para voz en t
 
 msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 msgid "Panels, demos and workshops on languages of Mexico / issue names"
-msgstr "Mesas redondas, demostraciones y talleres sobre idiomas de México /nombres de temas"
+msgstr "Mesas redondas, demostraciones y talleres sobre lenguas de México"
 
 msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 msgid "Mexican Spanish dataset growth marathon - just bring your voice, no code required!"
-msgstr "Maratón para ampliar el set de datos en español de México, ¡solo debes traer tu voz, no hace falta código!"
+msgstr "Maratón para ampliar el conjunto de datos en español de México, ¡solo debes traer tu voz, no hace falta código!"
 
 msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 msgid "WHO"
@@ -84,7 +89,7 @@ msgstr "CUÁNDO"
 
 msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 msgid "Wed 4th May: 10am-12pm - Keynote with Q+A, Drop in data donation booth (+ snacks!)"
-msgstr "Miércoles 4 de mayo: de 10: 00 a. m. a 12: 00 p. m. - Conferencia de apertura con preguntas y respuestas, stand de donación de datos (+ refrigerio)"
+msgstr "Miércoles 4 de mayo: de 10 a 12h - Conferencia de apertura con preguntas y respuestas, stand de donación de datos (+ refrigerio)"
 
 msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 msgid "Thursday 5th May: 10am-2pm - Demos, Data donation booth, Award ceremony (+ lunch!)"
@@ -112,4 +117,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "Making Voice AI work better for the languages and accents of Mexico"
-msgstr "Trabajamos para que la tecnología de voz (Voice AI) funcione mejor para los idiomas y acentos de México"
+msgstr "Trabajamos para que la tecnología de voz funcione mejor para los idiomas y acentos de México"
