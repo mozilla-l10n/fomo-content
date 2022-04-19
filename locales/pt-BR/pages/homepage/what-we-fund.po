@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-04-11 08:04:10.888886+00:00\n"
+"PO-Revision-Date: 2022-04-19 21:30+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a6ca5158-e49d-45eb-b0fc-5a655faf86a3\n"
 
 msgctxt "search_description"
@@ -94,6 +99,9 @@ msgid ""
 "collective actions we support help to nurture an intersectional community, incubate emerging technologies and models, and build the long term infrastructure needed for a more open, secure, and "
 "inclusive internet. Learn more about our <a id=\"a1\">fellowships</a> and <a id=\"a2\">awards</a> programs."
 msgstr ""
+"A Mozilla trabalha com parceiros e aliados para fomentar um movimento de usuários de internet, acadêmicos, artistas, tecnólogos, líderes de pensamento e ativistas que lutam por uma internet "
+"saudável. As ações individuais e coletivas que apoiamos ajudam a nutrir uma comunidade interseccional, incubar tecnologias e modelos emergentes e construir a infraestrutura de longo prazo necessária"
+" para uma internet mais aberta, segura e inclusiva. Saiba mais sobre nossos programas de <a id=\"a1\">bolsas</a> e <a id=\"a2\">prêmios</a>."
 
 msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.altText"
 msgid "globe heart"
@@ -105,19 +113,19 @@ msgstr "Oportunidades de financiamento disponíveis"
 
 msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
 msgid "<a id=\"a1\">Mozilla Technology Fund →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Mozilla Technology Fund →</a>"
 
 msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
 msgid "<a id=\"a1\">Creative Media Awards →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Creative Media Awards →</a>"
 
 msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
 msgid "<a id=\"a1\">Senior Fellows - Trustworthy AI →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Senior Fellows - Inteligência artificial confiável →</a>"
 
 msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
 msgid "<a id=\"a1\">Senior Fellows - Responsible Computing →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Senior Fellows - Computação responsável →</a>"
 
 msgctxt "body.4ed1b642-1471-48fd-ba09-440fdac41bb7"
 msgid "Who we’ve funded"
@@ -197,6 +205,8 @@ msgid ""
 "The challenges facing the internet are complex, and we know that there are few one-size-fits-all solutions. Mozilla is committed to supporting diverse innovators around the world to imagine "
 "solutions that will work for their communities. In 2020, we’ve supported Fellows and Awardees in 18 countries across six continents."
 msgstr ""
+"Os desafios enfrentados pela internet são complexos e sabemos que existem poucas soluções únicas que atendam a todos. A Mozilla tem compromisso de apoiar diversos inovadores no mundo todo para "
+"imaginar soluções que funcionem em suas comunidades. Em 2020, apoiamos bolsistas e premiados em 18 países em seis continentes."
 
 msgctxt "body.70d80248-776e-42d9-afe1-c905a170f0d5.altText"
 msgid "Map of all the places in the world where people Mozilla has funded have come from"
