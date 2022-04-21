@@ -1345,6 +1345,11 @@ l10n = "locales/{locale}/pages/homepage/blog/making-voice-ai-work-better-for-the
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/mozilla-unam-host-voice-technology-hackathon-in-mexico-city.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozilla-unam-host-voice-technology-hackathon-in-mexico-city.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
