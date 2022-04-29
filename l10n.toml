@@ -1535,6 +1535,31 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-buds.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/7-cups.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/7-cups.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/modern-health.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/modern-health.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/happify.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/happify.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/calm.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/calm.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/headspace.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/headspace.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
