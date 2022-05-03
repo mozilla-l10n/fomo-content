@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-04-29 10:55:37.075581+00:00\n"
-"PO-Revision-Date: 2022-04-29 13:40+0000\n"
+"PO-Revision-Date: 2022-05-03 08:21+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -118,7 +118,7 @@ msgstr "Chiffrement SSL standard"
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Three vulnerabilities <a id=\"a1\">disclosed</a> at openbugbounty remain unpatched."
-msgstr "Trois failles <a id=\"a1\">révélées</a> à openbugbounty n’ont toujours été corrigées."
+msgstr "Trois failles <a id=\"a1\">révélées</a> via openbugbounty n’ont toujours pas été corrigées."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
