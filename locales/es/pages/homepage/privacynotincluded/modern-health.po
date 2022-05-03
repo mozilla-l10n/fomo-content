@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-03 13:20:23.701594+00:00\n"
+"PO-Revision-Date: 2022-05-03 15:50+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 55ec0aa1-ba07-4cec-a55a-2c5ee808112d\n"
 
 msgctxt "title"
 msgid "Modern Health"
-msgstr ""
+msgstr "Modern Health"
 
 msgctxt "blurb"
 msgid ""
@@ -82,52 +87,59 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "When permitted by law, Modern Health may also enhance or combine information about you, including your Personal Information, with information about you that we obtain from third parties."
-msgstr ""
+msgstr "Siempre que lo permita la ley, Modern Health también puede mejorar o combinar información sobre ti, incluyendo tus datos personales, con información obtenida de terceros."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
 "If you are accessing the service through an employer (such as single sign-on), they may collect information about your login activity, including whether and when you access Modern Health Services."
 msgstr ""
+"Si accedes al servicio a través de un empleador (como en el caso de un inicio de sesión único), pueden recopilar información sobre tu actividad de inicio de sesión, incluyendo los datos que indiquen"
+" si has accedido a los servicios de Modern Health y cuándo lo has hecho."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
 "In the last twelve (12) months, Modern Health does not have knowledge that they sold any Personal Information of California Consumers, nor actual knowledge that they sold the Personal Information of"
 " California Consumers under the age of sixteen (16) years old."
 msgstr ""
+"No hay datos de que Modern Health haya vendido información personal de consumidores de California durante los últimos doce (12) meses, ni conocimiento real de que haya vendido información personal "
+"de consumidores de California menores de dieciséis (16) años."
 
 msgctxt "uses_encryption_helptext"
 msgid "Modern Health applies PGP encryption to verify that any data exchanged is encrypted between the sender and receiver"
-msgstr ""
+msgstr "Modern Health aplica cifrado PGP para verificar que cualquier dato intercambiado esté encriptado entre el remitente y el receptor"
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Modern Health has a <a id=\"a1\">disclosure policy</a>, security vulnerabilities can be reported to security@joinmodernhealth.com."
-msgstr ""
+msgstr "Modern Health tiene una <a id=\"a1\">política de divulgación</a>, se pueden informar vulnerabilidades de seguridad en security@joinmodernhealth.com."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Ensure you have a strong password"
-msgstr ""
+msgstr "Asegúrate de establecer una contraseña segura"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not allow third-party tools access to your medical data"
-msgstr ""
+msgstr "No permitas el acceso de herramientas de terceros a tus datos médicos"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not give permission to combine your data with other third-party data, or to use it for research"
-msgstr ""
+msgstr "No autorices que tus datos se puedan combinar con otros datos de terceros o se puedan usar para investigación"
 
 msgctxt "personal_data_collected"
 msgid "Name, mailing address, e-mail address, telephone, location"
-msgstr ""
+msgstr "Nombre, dirección postal, dirección de correo electrónico, teléfono, ubicación"
 
 msgctxt "biometric_data_collected"
 msgid "Health or medical condition, and your treatment (if certain services are connected)"
-msgstr ""
+msgstr "Estado de salud y tu tratamiento (si ciertos servicios están conectados)"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
 "Information that Modern Health collects will be retained in a personally identifiable form for as long as necessary for the purposes described in the Policy, after which it will be deleted or "
 "maintained in a non-personally identifiable form. Modern Health may retain information in order to comply with their legal obligations (such as tax, accounting or health privacy purposes)."
 msgstr ""
+"La información que Modern Health recopile se conservará en un formulario de identificación personal durante el tiempo que sea necesario para los fines descritos en la política, tras el cual se "
+"eliminará o se mantendrá en un formulario de identificación no personal. Modern Health puede retener datos con el fin de cumplir con sus obligaciones legales (tales como asuntos fiscales, contables "
+"o de privacidad de la salud)."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
@@ -137,7 +149,7 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known privacy or security incidents discovered in the last 3 years."
-msgstr ""
+msgstr "No se han conocido incidentes de privacidad o seguridad en los últimos 3 años."
 
 msgctxt "child_safety_blurb"
 msgid ""
