@@ -1310,6 +1310,41 @@ l10n = "locales/{locale}/pages/homepage/youtube.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/7-cups.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/7-cups.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/modern-health.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/modern-health.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/happify.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/happify.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/calm.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/calm.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/headspace.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/headspace.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/recovery-record-eating-disorder-management.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/recovery-record-eating-disorder-management.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/minddoc.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/minddoc.po"
+locales = [ "de",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -1353,6 +1388,36 @@ locales = [ "es",]
 reference = "templates/pages/homepage/blog/mozilla-unam-host-voice-technology-hackathon-in-mexico-city.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozilla-unam-host-voice-technology-hackathon-in-mexico-city.po"
 locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/wysa.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/wysa.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/breathe-think-do-with-sesame.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/breathe-think-do-with-sesame.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/glorify.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/glorify.po"
+locales = [ "es", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/hallow.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/hallow.po"
+locales = [ "es", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/praycom.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/praycom.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/king-james-bible-daily-verse-and-audio.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/king-james-bible-daily-verse-and-audio.po"
+locales = [ "es", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
@@ -1532,31 +1597,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/amazon-echo-buds.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-buds.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/7-cups.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/7-cups.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/modern-health.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/modern-health.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/happify.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/happify.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/calm.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/calm.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/headspace.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/headspace.po"
 locales = [ "fr",]
 
 [[paths]]
