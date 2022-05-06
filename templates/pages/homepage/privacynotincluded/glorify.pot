@@ -43,8 +43,7 @@ msgctxt "worst_case"
 msgid ""
 "In that same TechCrunch interview, Glorfy's co-founder stated, <i>\"I believe the engaged audience that we will have will probably have a higher propensity to pay for all sorts of other products "
 "that we release. ... [we think we can] take that audience and direct them to other products that we've created, where they’ll have high propensity to pay.\"</i> It's a good reminder that prayer apps"
-" come at a cost, as with so much on the internet in our existing data economy, This, coupled with the fact we couldn't confirm if Glorify meets our Minimum Security Standards, and we must say if you"
-" are concerned about privacy, buyer beware."
+" come at a cost, as with so much on the internet in our existing data economy,"
 msgstr ""
 
 msgctxt "signup_requirement_explanation"
@@ -84,7 +83,11 @@ msgid "Information that Glorify collect from their users, including Personal Inf
 msgstr ""
 
 msgctxt "uses_encryption_helptext"
-msgid "When you enter sensitive information on Glorify forms, they encrypt this data using SSL or other technologies. We can not confirm ecnryption of other data that you share with the app."
+msgid "Glorify confirmed to us on May 2, 2022 that they do use encryption to protect user data"
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "Glorify confirmed to us on May 2, 2022 they do have a system in place to manage security vulnerabilities."
 msgstr ""
 
 msgctxt "tips_to_protect_yourself"
@@ -93,10 +96,6 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do NOT use your Facebook account to login"
-msgstr ""
-
-msgctxt "tips_to_protect_yourself"
-msgid "You may chose to not connect the app to Apple’s HealthKit or Google Fit, if you are using them"
 msgstr ""
 
 msgctxt "personal_data_collected"
