@@ -61,21 +61,9 @@ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
 msgstr "Erweitern Sie neue Partnerschaften und vertiefen Sie das Engagement mit MozFest-Fringe-Events. Vernetzen Sie sich und arbeiten Sie frühzeitig und oft zusammen."
 
-msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.altText"
-msgid "We're nominated for a Webby - Vote for us"
-msgstr "Wir sind für einen Webby nominiert – geben Sie uns Ihre Stimme"
-
-msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.label"
-msgid "Vote here"
-msgstr "Hier abstimmen"
-
-msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.URL"
-msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
-msgstr "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
-
 msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
-msgid "Secure Your MozFest Ticket Here"
-msgstr "Sichern Sie sich hier Ihr MozFest-Ticket"
+msgid "Secure Your MozFest On-Demand Ticket Here"
+msgstr ""
 
 msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.event"
 msgid "Mozilla/mozilla-festival-2022"
@@ -668,6 +656,10 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "rmddu9xc1hs,mozfest-mega-patron"
 #~ msgstr "rmddu9xc1hs,mozfest-mega-patron"
 
+#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
+#~ msgid "Secure Your MozFest Ticket Here"
+#~ msgstr "Sichern Sie sich hier Ihr MozFest-Ticket"
+
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
 #~ msgid "March 7th, 2022 19:00 CET (UTC+1)"
 #~ msgstr "7. März 2022, 19:00 MEZ (UTC+1)"
@@ -680,9 +672,17 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "MozFest is happening now!"
 #~ msgstr "Das MozFest findet jetzt statt!"
 
+#~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.altText"
+#~ msgid "We're nominated for a Webby - Vote for us"
+#~ msgstr "Wir sind für einen Webby nominiert – geben Sie uns Ihre Stimme"
+
 #~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.caption"
 #~ msgid "Click here to vote for us"
 #~ msgstr "Klicken Sie hier, um für uns zu stimmen"
+
+#~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.captionURL"
+#~ msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
+#~ msgstr "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
 #~ msgid "Ethical Dilemma Cafe, Manchester"
@@ -695,3 +695,11 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.body"
 #~ msgid "Explore and understand the power of your data and algorithms, and how they shape our world today. This is an in-person event."
 #~ msgstr "Entdecken und verstehen Sie die Macht Ihrer Daten und Algorithmen und wie sie unsere heutige Welt prägen. Dies ist eine Präsenzveranstaltung."
+
+#~ msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.label"
+#~ msgid "Vote here"
+#~ msgstr "Hier abstimmen"
+
+#~ msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.URL"
+#~ msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
+#~ msgstr "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
