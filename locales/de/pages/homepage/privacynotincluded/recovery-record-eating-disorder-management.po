@@ -126,8 +126,10 @@ msgstr ""
 "Text, z. B. Nachrichten von Ärzten, Team-Chat-Nachrichten oder verknüpfte Nachrichten, einzusehen."
 
 msgctxt "strong_password_helptext"
-msgid "\"11111111\" is allowed"
-msgstr "„11111111“ ist erlaubt"
+msgid ""
+"When we first reviewed Recovery Record, the weak password \"11111111\" is allowed. Since we published our review, Recovery Record has updated their password requirements to now require a strong "
+"password which we love to see."
+msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Ensure you have a strong password! The app will not require you to do so."
@@ -164,3 +166,7 @@ msgstr "In den letzten 3 Jahren sind keine Datenschutz- oder Sicherheitsvorfäll
 msgctxt "child_safety_blurb"
 msgid "Recovery Record do not knowingly collect, maintain, or use personal information from children under 13 years of age, and no part of the Services are directed to children under the age of 13."
 msgstr "Wir sammeln, pflegen oder verwenden wissentlich keine persönlichen Daten von Kindern unter 13 Jahren, und kein Teil der Website ist für Kinder unter 13 Jahren bestimmt."
+
+#~ msgctxt "strong_password_helptext"
+#~ msgid "\"11111111\" is allowed"
+#~ msgstr "„11111111“ ist erlaubt"
