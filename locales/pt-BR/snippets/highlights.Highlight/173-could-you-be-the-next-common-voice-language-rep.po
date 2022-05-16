@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-11 15:06:52.706529+00:00\n"
+"PO-Revision-Date: 2022-05-16 20:12+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: e7baa01c-60d2-454d-8bdd-74e7611ec039\n"
 
 msgctxt "title"
@@ -12,7 +17,7 @@ msgstr ""
 
 msgctxt "description"
 msgid "Interested in volunteering with Common Voice? Learn more here."
-msgstr ""
+msgstr "Interessado em ser voluntário no Common Voice? Saiba mais aqui."
 
 msgctxt "link_label"
 msgid "Could you be the next Common Voice Language Rep?"
@@ -20,4 +25,4 @@ msgstr ""
 
 msgctxt "footer"
 msgid "Common Voice is looking for a language rep. Find out more!"
-msgstr ""
+msgstr "O Common Voice está procurando um representante de idiomas. Descubra mais!"
