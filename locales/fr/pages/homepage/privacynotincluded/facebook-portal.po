@@ -230,10 +230,6 @@ msgstr ""
 #~ "Facebook a récemment élargi son programme de prime aux bogues (« bug bounty »), ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut être "
 #~ "payée. Mais Facebook n’a pas un historique très glorieux en matière de signalement public des fuites de données et des failles de sécurité, donc cela ne nous inspire pas confiance."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email address, messages, photos"
-#~ msgstr "Nom, adresse e-mail, mot de passe, messages, photos"
-
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Voice clips are recorded and sent back to Facebook when you say \"Hey Portal.\" Voice clips are recorded and sent back to Amazon when you use Alexa."
 #~ msgstr "Les extraits vocaux sont enregistrés et envoyés à Facebook quand vous dites « Hey Portal ». Les extraits vocaux sont enregistrés et envoyés à Amazon quand vous utilisez Alexa."
@@ -264,3 +260,7 @@ msgstr ""
 #~ " le champ lors d’un appel vidéo. Ces fonctionnalités de suivi du mouvement sont traitées localement sur chaque appareil Portal, et non sur les serveurs de Facebook. Cependant, il ne faut pas oublier"
 #~ " que Facebook entretient une relation trouble avec la reconnaissance faciale. Un recours collectif contre l’entreprise est en cours dans l’Illinois : Facebook a utilisé la reconnaissance faciale "
 #~ "sans demander un consentement explicite, ce qui enfreint une loi de cet État sur la biométrique."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email address, messages, photos"
+#~ msgstr "Nom, adresse e-mail, mot de passe, messages, photos"
