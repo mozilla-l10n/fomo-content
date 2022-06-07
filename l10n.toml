@@ -662,7 +662,7 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/7-privacy-not-included.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/7-privacy-not-included.po"
-locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/10-venmo-put-our-privacy-first.pot"
@@ -677,7 +677,7 @@ locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/22-with-great-tech-comes-great.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/22-with-great-tech-comes-great.po"
-locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/64-untrendtwitter.pot"
@@ -687,12 +687,12 @@ locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/100-hulu-its-time-for-ad-disclosure.po"
-locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/what-you-can-do.pot"
 l10n = "locales/{locale}/pages/homepage/what-you-can-do.po"
-locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Petition/12-facebook-and-european-parliament.pot"
@@ -1297,12 +1297,12 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/134-add-your-name-tell-slack-to-blockabuse.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/134-add-your-name-tell-slack-to-blockabuse.po"
-locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/28-how-do-we-collaboratively-make-trustworthy-ai-a-reality.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/28-how-do-we-collaboratively-make-trustworthy-ai-a-reality.po"
-locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/youtube.pot"
@@ -1347,7 +1347,7 @@ locales = [ "de",]
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/173-could-you-be-the-next-common-voice-language-rep.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/173-could-you-be-the-next-common-voice-language-rep.po"
-locales = [ "de", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
