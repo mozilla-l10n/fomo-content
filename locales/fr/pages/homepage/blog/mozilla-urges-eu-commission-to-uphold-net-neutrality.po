@@ -51,9 +51,13 @@ msgstr ""
 "(DMA). « La neutralité du Net est et restera fondamentale pour l’avenir numérique de l’Europe », écrit-elle. « Je vous demande instamment de la protéger. »"
 
 msgctxt "body.caa022f1-cb6f-4778-9e74-984a4f3f137d"
-msgid "Read the open letter here."
-msgstr "Lisez la lettre ouverte ici."
+msgid "<a id=\"a1\"><b>Read the open letter here</b></a><b>.</b>"
+msgstr ""
 
 msgctxt "title"
 msgid "Mozilla Urges EU Commission to Uphold Net Neutrality"
 msgstr "Mozilla exhorte la Commission européenne à défendre la neutralité du Net"
+
+#~ msgctxt "body.caa022f1-cb6f-4778-9e74-984a4f3f137d"
+#~ msgid "Read the open letter here."
+#~ msgstr "Lisez la lettre ouverte ici."
