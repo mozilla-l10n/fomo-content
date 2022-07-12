@@ -1709,3 +1709,8 @@ reference = "templates/pages/homepage/blog/common-voice-and-hekaya-arts-initiati
 l10n = "locales/{locale}/pages/homepage/blog/common-voice-and-hekaya-arts-initiative-kiswahili-writing-competition.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.pot"
+l10n = "locales/{locale}/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.po"
+locales = [ "sw",]
+
