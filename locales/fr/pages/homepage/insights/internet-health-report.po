@@ -1,56 +1,64 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-07-19 11:25:21.386600+00:00\n"
+"PO-Revision-Date: 2022-07-19 15:09+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: aaa68014-e978-4a0d-851f-3c8b32f017d5\n"
 
 msgctxt "intro"
 msgid "Internet Health Report: What can be done to make the internet healthier?"
-msgstr ""
+msgstr "Bulletin de santé d’Internet : Que peut-on faire pour rendre Internet plus sain ?"
 
 msgctxt "body.8f72f05e-a618-4cb1-acf0-a6d397cc80d4"
 msgid "Internet Health Report: Overview"
-msgstr ""
+msgstr "Bulletin de santé d’Internet : Aperçu"
 
 msgctxt "body.8f72f05e-a618-4cb1-acf0-a6d397cc80d4"
 msgid ""
 "The Internet Health Report combines research and stories in publications that explore what it means for the internet to be healthy. In collaboration with inspiring thinkers around the world, we "
 "identify research and solutions to issues impacting the internet health ecosystem. This year, we collaborated with Mozilla's award winning podcast, IRL, for a special season about AI."
 msgstr ""
+"Le Bulletin de santé d’Internet combine des recherches et des témoignages dans des publications qui étudient ce que signifie un Internet en bonne santé. En collaboration avec des personnes "
+"influentes du monde entier, nous identifions des recherches et des solutions aux problèmes qui affectent l’écosystème de la santé d’Internet. Cette année, nous avons collaboré avec le podcast primé "
+"de Mozilla, IRL, pour une saison spéciale sur l’IA."
 
 msgctxt "body.45e53d4f-18a4-4c23-9655-021c2696b77f.altText"
 msgid "Abstract illustration of black lines and dots on a purple background with both the mozilla and IRL podcast logos"
-msgstr ""
+msgstr "Illustration abstraite de lignes noires et de points sur un fond violet avec les logos de Mozilla et du podcast IRL"
 
 msgctxt "body.45e53d4f-18a4-4c23-9655-021c2696b77f.text"
 msgid "2022 Internet Health Report"
-msgstr ""
+msgstr "Bulletin de santé d’Internet 2022"
 
 msgctxt "body.45e53d4f-18a4-4c23-9655-021c2696b77f.text"
 msgid "Our 2022 Internet Health Report is a collaboration with Mozilla's IRL podcast. It looks at AI in real life."
-msgstr ""
+msgstr "Notre Bulletin de santé d’Internet 2022 est une collaboration avec le podcast IRL de Mozilla. Il se penche sur l’IA dans la vraie vie."
 
 msgctxt "body.45e53d4f-18a4-4c23-9655-021c2696b77f.text"
 msgid "<a id=\"a1\">Listen to the 2022 report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Écouter le rapport 2022 →</a>"
 
 msgctxt "body.45e53d4f-18a4-4c23-9655-021c2696b77f.url"
 msgid "https://2022.internethealthreport.org/"
-msgstr ""
+msgstr "https://2022.internethealthreport.org/"
 
 msgctxt "body.b71356db-17e4-4ec9-8454-4b6aa9888554"
 msgid "Read previous reports"
-msgstr ""
+msgstr "Lisez les rapports précédents"
 
 msgctxt "body.76a47071-4566-4e57-982d-8b138c20c41f.altText"
 msgid "Abstract colorful dots ascending"
-msgstr ""
+msgstr "Points colorés abstraits ascendants"
 
 msgctxt "body.76a47071-4566-4e57-982d-8b138c20c41f.text"
 msgid "2020 Internet Health Report"
-msgstr ""
+msgstr "Bulletin de santé d’Internet 2020"
 
 msgctxt "body.76a47071-4566-4e57-982d-8b138c20c41f.text"
 msgid "Our 2020 Internet Health Report focuses on the code, the laws, and the norms we need to make sure that the internet helps, rather than harms, humanity."
@@ -58,52 +66,52 @@ msgstr ""
 
 msgctxt "body.76a47071-4566-4e57-982d-8b138c20c41f.text"
 msgid "<a id=\"a1\">Read the 2020 report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Lire le rapport 2020 →</a>"
 
 msgctxt "body.76a47071-4566-4e57-982d-8b138c20c41f.url"
 msgid "https://2020.internethealthreport.org/"
-msgstr ""
+msgstr "https://2020.internethealthreport.org/"
 
 msgctxt "body.9c3fbb53-5f2e-42fd-8985-4f41feed32d5.altText"
 msgid "Illustration of colorful objects: clouds, eyeballs, graphs"
-msgstr ""
+msgstr "Illustration d’objets colorés : nuages, globes oculaires, graphiques"
 
 msgctxt "body.9c3fbb53-5f2e-42fd-8985-4f41feed32d5.text"
 msgid "2019 Internet Health Report"
-msgstr ""
+msgstr "Bulletin de santé d’Internet 2019"
 
 msgctxt "body.9c3fbb53-5f2e-42fd-8985-4f41feed32d5.text"
 msgid "<a id=\"a1\">Read the report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Lire le rapport →</a>"
 
 msgctxt "body.9c3fbb53-5f2e-42fd-8985-4f41feed32d5.url"
 msgid "https://internethealthreport.org/2019/"
-msgstr ""
+msgstr "https://internethealthreport.org/2019/"
 
 msgctxt "body.e51792b2-0c94-40ca-b8d6-8aad7d66de48.altText"
 msgid "colorful smiley faces"
-msgstr ""
+msgstr "visages souriants colorés"
 
 msgctxt "body.e51792b2-0c94-40ca-b8d6-8aad7d66de48.text"
 msgid "2018 Internet Health Report"
-msgstr ""
+msgstr "Bulletin de santé d’Internet 2018"
 
 msgctxt "body.e51792b2-0c94-40ca-b8d6-8aad7d66de48.text"
 msgid "<a id=\"a1\">Read the report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Lire le rapport →</a>"
 
 msgctxt "body.3617f545-1670-43fe-a978-7841c865d726.altText"
 msgid "blue square and \"internet health report v.0.1\" written on top of it"
-msgstr ""
+msgstr "carré bleu avec « Bulletin de santé d’Internet v.0.1 » écrit dessus"
 
 msgctxt "body.3617f545-1670-43fe-a978-7841c865d726.text"
 msgid "2017 Internet Health Report"
-msgstr ""
+msgstr "Bulletin de santé d’Internet 2017"
 
 msgctxt "body.3617f545-1670-43fe-a978-7841c865d726.text"
 msgid "<a id=\"a1\">Read the report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Lire le rapport →</a>"
 
 msgctxt "title"
 msgid "Internet Health Report"
-msgstr ""
+msgstr "Bulletin de santé d’Internet"
