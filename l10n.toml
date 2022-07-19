@@ -1645,6 +1645,26 @@ l10n = "locales/{locale}/pages/homepage/blog/listen-to-the-trailer-season-6-of-m
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/insights/internet-health-report.pot"
+l10n = "locales/{locale}/pages/homepage/insights/internet-health-report.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/insights/news.pot"
+l10n = "locales/{locale}/pages/homepage/insights/news.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Signup/38-internet-health-report.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/38-internet-health-report.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/insights.pot"
+l10n = "locales/{locale}/pages/homepage/insights.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
