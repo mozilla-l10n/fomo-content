@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-07-20 08:44:00.658654+00:00\n"
+"PO-Revision-Date: 2022-07-20 10:59+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f08d4b95-d168-489a-b8aa-de148d0b8e23\n"
 
 msgctxt "seo_title"
@@ -12,7 +17,7 @@ msgstr ""
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
-msgstr ""
+msgstr "Financement et ressources pour un Internet davantage centré sur l’humain."
 
 msgctxt "body.2a5417f1-5020-4e1a-9909-9b5f36e04883"
 msgid "Learning"
@@ -47,11 +52,11 @@ msgstr ""
 
 msgctxt "body.2e6b3e61-27f4-469c-8719-46db59603c57.text"
 msgid "<a id=\"a1\">Read the report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Lire le rapport →</a>"
 
 msgctxt "body.2e6b3e61-27f4-469c-8719-46db59603c57.url"
 msgid "https://foundation.mozilla.org/what-we-fund/research/fellowships-awards-evaluation/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/what-we-fund/research/fellowships-awards-evaluation/"
 
 msgctxt "body.64eb5916-dfe7-4223-bf59-e46be7c70a86.altText"
 msgid "moss evaluation ripple image"
@@ -67,11 +72,11 @@ msgstr ""
 
 msgctxt "body.64eb5916-dfe7-4223-bf59-e46be7c70a86.text"
 msgid "<a id=\"a1\">Read the report →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Lire le rapport →</a>"
 
 msgctxt "body.64eb5916-dfe7-4223-bf59-e46be7c70a86.url"
 msgid "https://foundation.mozilla.org/what-we-fund/research/moss-program-impact-evaluation-2015-2020-summary/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/what-we-fund/research/moss-program-impact-evaluation-2015-2020-summary/"
 
 msgctxt "title"
 msgid "Learning"
