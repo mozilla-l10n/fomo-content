@@ -1620,6 +1620,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-max-2.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/lovense-nora.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-nora.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/why-voice-is-important.pot"
 l10n = "locales/{locale}/pages/homepage/blog/why-voice-is-important.po"
 locales = [ "fr", "sw",]
@@ -1662,6 +1667,26 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/insights.pot"
 l10n = "locales/{locale}/pages/homepage/insights.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-news.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-news.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/research.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/research.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/lovense-edge.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-edge.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/who-we-are/leadership.pot"
+l10n = "locales/{locale}/pages/homepage/who-we-are/leadership.po"
 locales = [ "fr",]
 
 [[paths]]
