@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-07-21 07:36:40.322503+00:00\n"
+"PO-Revision-Date: 2022-07-21 10:02+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 94615326-e15b-47b1-984e-a0f4d2a8a2b6\n"
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
-msgstr ""
+msgstr "Financement et ressources pour un Internet davantage centré sur l’humain."
 
 msgctxt "body.d88555d0-2096-4c89-92b8-4cf86f5f6b25"
 msgid "What are Mozilla Awards?"
@@ -33,7 +38,7 @@ msgstr ""
 
 msgctxt "body.91dde281-8fe9-4db6-b47d-df74b2be83a4.url"
 msgid "https://www.youtube.com/embed/lHotYMpKbr8?rel=0"
-msgstr ""
+msgstr "https://www.youtube.com/embed/lHotYMpKbr8?rel=0"
 
 msgctxt "body.91dde281-8fe9-4db6-b47d-df74b2be83a4.captionURL"
 msgid "Mozilla awardee Trang Ho talks about her journey from novice developer to the maintainer of a thriving open source project."
@@ -45,7 +50,7 @@ msgstr ""
 
 msgctxt "body.67399dc3-e0a9-4ecc-a161-1e2d5e09ca7c.url"
 msgid "https://www.youtube.com/embed/R7hAh3EIQZ0?rel=0"
-msgstr ""
+msgstr "https://www.youtube.com/embed/R7hAh3EIQZ0?rel=0"
 
 msgctxt "body.67399dc3-e0a9-4ecc-a161-1e2d5e09ca7c.captionURL"
 msgid "Would an algorithm hire you? Mozilla awardee Alia ElKattan talks about her project Survival of the Best Fit, an educational game about hiring bias in AI."
@@ -57,7 +62,7 @@ msgstr ""
 
 msgctxt "body.79b7de1c-7c75-4f05-996f-d39741a8b419"
 msgid "Current Funding Opportunities"
-msgstr ""
+msgstr "Possibilités de financement actuelles"
 
 msgctxt "body.fcfc3b3b-ff3d-4d54-81d8-5c077e49e733.altText"
 msgid "Privacy image"
@@ -75,7 +80,7 @@ msgstr ""
 
 msgctxt "body.0edb6352-3203-4ff9-9a9a-53f93adbc824.altText"
 msgid "common voice"
-msgstr ""
+msgstr "common voice"
 
 msgctxt "body.0edb6352-3203-4ff9-9a9a-53f93adbc824.text"
 msgid "Mozilla Awards support voice technology solutions for the public good."
@@ -99,7 +104,7 @@ msgstr ""
 
 msgctxt "body.12dcf4f7-2e48-4780-a5b8-e0095f7e3d04.altText"
 msgid "Responsible Computer Science Challenge logo"
-msgstr ""
+msgstr "Logo Responsible Computer Science Challenge"
 
 msgctxt "body.12dcf4f7-2e48-4780-a5b8-e0095f7e3d04.text"
 msgid "Mozilla Awards support the next wave of responsible technology builders."
@@ -111,7 +116,7 @@ msgstr ""
 
 msgctxt "body.42c74a41-09bc-4609-9ed2-911f0f026c3b.altText"
 msgid "data futures lab icon"
-msgstr ""
+msgstr "Icône du Data Futures Lab"
 
 msgctxt "body.42c74a41-09bc-4609-9ed2-911f0f026c3b.text"
 msgid "Mozilla Awards support promising approaches to data stewardship."
@@ -129,11 +134,11 @@ msgstr ""
 
 msgctxt "body.fc572bbe-c735-4c90-8078-c11747e43681.altText"
 msgid "Secure Drop logo"
-msgstr ""
+msgstr "Logo Secure Drop"
 
 msgctxt "body.fc572bbe-c735-4c90-8078-c11747e43681.text"
 msgid "Mozilla Open Source Support (MOSS)"
-msgstr ""
+msgstr "Mozilla Open Source Support (MOSS)"
 
 msgctxt "body.fc572bbe-c735-4c90-8078-c11747e43681.text"
 msgid ""
@@ -158,7 +163,7 @@ msgstr ""
 
 msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.altText"
 msgid "Screen capture from Stealing Ur Feelings project"
-msgstr ""
+msgstr "Capture d’écran du projet Stealing Ur Feelings"
 
 msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.text"
 msgid "Creative Media Awards"
@@ -172,11 +177,11 @@ msgstr ""
 
 msgctxt "body.448e5dad-7680-432e-8bc7-5443563ca729.altText"
 msgid "Photo of people in a canoe in the wetlands"
-msgstr ""
+msgstr "Photo de personnes en canoë dans les zones humides"
 
 msgctxt "body.448e5dad-7680-432e-8bc7-5443563ca729.text"
 msgid "Mozilla Gigabit Community Fund"
-msgstr ""
+msgstr "Fonds communautaire Mozilla Gigabit"
 
 msgctxt "body.448e5dad-7680-432e-8bc7-5443563ca729.text"
 msgid ""
@@ -187,7 +192,7 @@ msgstr ""
 
 msgctxt "body.9d14e4d5-1344-427f-a4a1-4d956e567ed2"
 msgid "Other Opportunities"
-msgstr ""
+msgstr "Autres opportunités"
 
 msgctxt "body.9d14e4d5-1344-427f-a4a1-4d956e567ed2"
 msgid "Apply for open award opportunities <a id=\"a1\">via Fluxx</a>."
@@ -215,4 +220,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "Awards"
-msgstr ""
+msgstr "Subventions"
