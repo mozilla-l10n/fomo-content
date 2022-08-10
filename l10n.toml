@@ -247,7 +247,7 @@ locales = [ "de", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/apple-watch-6.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/apple-watch-6.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/privacy-thats-iphone-but-is-it.pot"
@@ -1082,7 +1082,7 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/oura-ring.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/oura-ring.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/netatmo-smart-video-doorbell.pot"
@@ -1702,6 +1702,16 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/fellowships.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/fitbit.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/garmin.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin.po"
 locales = [ "fr",]
 
 [[paths]]
