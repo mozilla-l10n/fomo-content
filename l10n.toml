@@ -1350,6 +1350,21 @@ l10n = "locales/{locale}/snippets/highlights.Highlight/173-could-you-be-the-next
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/fitbit.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/garmin.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/whoop-strap-4.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/whoop-strap-4.po"
+locales = [ "de",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -1702,16 +1717,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/fellowships.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/fitbit.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/garmin.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin.po"
 locales = [ "fr",]
 
 [[paths]]
