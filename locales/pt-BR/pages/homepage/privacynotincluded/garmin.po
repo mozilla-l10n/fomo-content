@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-08-11 07:33:37.685655+00:00\n"
+"PO-Revision-Date: 2022-08-11 10:16+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 51035a25-dd42-4676-be7d-19877f39af0e\n"
 
 msgctxt "title"
 msgid "Garmin"
-msgstr ""
+msgstr "Garmin"
 
 msgctxt "blurb"
 msgid ""
@@ -134,16 +139,18 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)"
-msgstr ""
+msgstr "Use os controles de privacidade do seu dispositivo para limitar o acesso às suas informações pessoais via aplicativo (não dê acesso à sua câmera, microfone, imagens e vídeos)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Mantenha seu aplicativo atualizado regularmente"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limite o rastreamento de anúncios) e as maiores redes de anúncios (para o"
+" Google, vá para a Conta do Google e desative a personalização de anúncios)"
 
 msgctxt "personal_data_collected"
 msgid "Name, email address, gender (optional), age (optional), date of birth (optional), photos (optional)"

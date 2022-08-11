@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-08-11 07:33:37.654376+00:00\n"
+"PO-Revision-Date: 2022-08-11 10:17+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 616998b6-2449-476a-8cad-f25611e9ba7e\n"
 
 msgctxt "title"
 msgid "Fitbit"
-msgstr ""
+msgstr "Fitbit"
 
 msgctxt "blurb"
 msgid ""
@@ -94,7 +99,7 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "How the company says they may share data with law enforcement:"
-msgstr ""
+msgstr "Como a empresa diz que pode compartilhar dados com as autoridades policiais:"
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -120,6 +125,8 @@ msgid ""
 "Be very careful what third party companies you consent to share you health data with. If you do decided to share your health data with another company, read their privacy policy to see how they "
 "protect, secure, and share or sell your data."
 msgstr ""
+"Tenha muito cuidado com quais empresas terceirizadas você concorda em compartilhar seus dados de saúde. Se você decidir compartilhar seus dados de saúde com outra empresa, leia a política de "
+"privacidade dela para ver como eles zelam, protegem e compartilham ou vendem seus dados."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Stop sharing friends' lists: Under “Friends” on your profile page, select Privacy Setting and then Private."
@@ -139,16 +146,18 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)"
-msgstr ""
+msgstr "Use os controles de privacidade do seu dispositivo para limitar o acesso às suas informações pessoais via aplicativo (não dê acesso à sua câmera, microfone, imagens e vídeos)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Mantenha seu aplicativo atualizado regularmente"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limite o rastreamento de anúncios) e as maiores redes de anúncios (para o"
+" Google, vá para a Conta do Google e desative a personalização de anúncios)"
 
 msgctxt "personal_data_collected"
 msgid "Name, date of birth, gender, photo (optional)"
