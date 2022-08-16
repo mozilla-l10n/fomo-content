@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-17 20:20:13.872373+00:00\n"
+"PO-Revision-Date: 2022-08-16 12:02+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 9c01e577-0f9a-4f2f-b558-5e6ba1c94ea3\n"
 
 msgctxt "search_description"
@@ -18,7 +23,7 @@ msgstr ""
 
 msgctxt "body.e2009a3c-b4f5-47b6-8a85-d33e06990d6c"
 msgid "Rally citizens"
-msgstr ""
+msgstr "Mobilizacja obywateli"
 
 msgctxt "body.e2009a3c-b4f5-47b6-8a85-d33e06990d6c"
 msgid ""
@@ -32,7 +37,7 @@ msgstr ""
 
 msgctxt "body.dc000c4f-b6cd-4652-9653-71d4cc2c4033.text"
 msgid "*Privacy Not Included"
-msgstr ""
+msgstr "*Prywatność do nabycia osobno"
 
 msgctxt "body.dc000c4f-b6cd-4652-9653-71d4cc2c4033.text"
 msgid ""
@@ -68,7 +73,7 @@ msgstr ""
 
 msgctxt "body.9041493f-2cb4-4ff3-8261-e1bd1e48d311.text"
 msgid "#DearInternet"
-msgstr ""
+msgstr "#DearInternet"
 
 msgctxt "body.9041493f-2cb4-4ff3-8261-e1bd1e48d311.text"
 msgid "2020 was a year unlike any other. We asked how the internet has been keeping you sane during this unprecedented time and over a thousand of you responded! Here’s what you had to say."
@@ -84,11 +89,11 @@ msgstr ""
 
 msgctxt "body.355a0bf0-7ebe-4f3c-a2c6-c7e0de1e1d55.URL"
 msgid "https://foundation.mozilla.org/advocacy/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/advocacy/"
 
 msgctxt "body.66b136b1-e4bb-4b1b-968c-7df838886efe"
 msgid "Connect leaders"
-msgstr ""
+msgstr "Współpraca liderów"
 
 msgctxt "body.66b136b1-e4bb-4b1b-968c-7df838886efe"
 msgid ""
@@ -162,7 +167,7 @@ msgstr ""
 
 msgctxt "body.7337ef57-6939-465d-85c2-02bd58140fc2"
 msgid "Shape the agenda"
-msgstr ""
+msgstr "Ważne tematy"
 
 msgctxt "body.7337ef57-6939-465d-85c2-02bd58140fc2"
 msgid ""
@@ -183,7 +188,7 @@ msgstr ""
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "Internet Health Report"
-msgstr ""
+msgstr "Raport o zdrowiu Internetu"
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "We use data visualization and original reporting to track ways the internet is helping — and hurting — users around the world."
@@ -231,8 +236,8 @@ msgstr ""
 
 msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.URL"
 msgid "https://foundation.mozilla.org/insights/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/insights/"
 
 msgctxt "title"
 msgid "What we do"
-msgstr ""
+msgstr "Co robimy"
