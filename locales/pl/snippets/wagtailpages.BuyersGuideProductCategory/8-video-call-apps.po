@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-17 21:43:10.158003+00:00\n"
+"PO-Revision-Date: 2022-08-17 14:53+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 9a6bf69f-b46e-45e6-9692-acf3d5eca1d5\n"
 
 msgctxt "name"
 msgid "Video Call Apps"
-msgstr ""
+msgstr "Aplikacje do połączeń wideo"
 
 msgctxt "description"
 msgid "A review of the privacy features of 21 popular video call apps including Zoom, Signal, WhatsApp, Telegram, and WeChat."
-msgstr ""
+msgstr "Przegląd funkcji prywatności 21 popularnych aplikacji do połączeń wideo, w tym Zoom, Signal, WhatsApp, Telegram i WeChat."
