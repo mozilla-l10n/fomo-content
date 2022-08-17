@@ -1,41 +1,48 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-09-06 16:06:07.844931+00:00\n"
+"PO-Revision-Date: 2022-08-17 14:54+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f72149fb-0bc8-4296-b799-2fabb6bf5a42\n"
 
 msgctxt "search_description"
 msgid "Mozilla’s blog features guides to making your online life better, stories from the movement, and critical analysis of issues around internet health."
-msgstr ""
+msgstr "Blog Mozilli zawiera wskazówki, jak lepiej funkcjonować online, historie naszych działań oraz krytyczną analizę kwestii zdrowia Internetu."
 
 msgctxt "title"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 msgctxt "intro"
 msgid "Mozilla’s blog features guides to making your online life better, stories from the movement, and critical analysis of issues around internet health."
-msgstr ""
+msgstr "Blog Mozilli zawiera wskazówki, jak lepiej funkcjonować online, historie naszych działań oraz krytyczną analizę kwestii zdrowia Internetu."
 
 msgctxt "header"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 msgctxt "callout_box.371b9b36-cdae-4d74-a0d4-e57e2f7548f2.title"
 msgid "Listen to the first episode of Mozilla’s podcast IRL"
-msgstr ""
+msgstr "Posłuchaj pierwszego odcinka podcastu Mozilli IRL"
 
 msgctxt "callout_box.371b9b36-cdae-4d74-a0d4-e57e2f7548f2.body"
 msgid ""
 "Where should tech builders draw the line on AI for military or surveillance? Join our wonderful new host, Bridget Todd, for a look at AI in real life and find out what it’s like to sound the alarm "
 "from inside a big tech company."
 msgstr ""
+"Gdzie twórcy technologii powinni wyznaczyć granicę wykorzystania sztucznej inteligencji do celów wojskowych lub inwigilacji? Wraz z naszą wspaniałą nową prowadzącą, Bridget Todd, przyjrzyj się "
+"sztucznej inteligencji w prawdziwym życiu i dowiedz się, jak dzwoni się na alarm w szeregach dużej firmy technologicznej."
 
 msgctxt "callout_box.371b9b36-cdae-4d74-a0d4-e57e2f7548f2.link_button_text"
 msgid "Listen Now"
-msgstr ""
+msgstr "POSŁUCHAJ TERAZ"
 
 msgctxt "callout_box.371b9b36-cdae-4d74-a0d4-e57e2f7548f2.link_button_url"
 msgid "https://2022.internethealthreport.org/episodes/the-tech-we-wont-build/"
-msgstr ""
+msgstr "https://2022.internethealthreport.org/episodes/the-tech-we-wont-build/"

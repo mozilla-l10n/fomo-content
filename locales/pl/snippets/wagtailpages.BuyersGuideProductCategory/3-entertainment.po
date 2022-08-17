@@ -1,11 +1,16 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-17 21:43:10.321378+00:00\n"
+"PO-Revision-Date: 2022-08-17 14:53+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8ba84202-c70f-4df3-8573-de0ca94b4a42\n"
 
 msgctxt "name"
 msgid "Entertainment"
-msgstr ""
+msgstr "Rozrywka"
