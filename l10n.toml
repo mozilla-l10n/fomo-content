@@ -1450,6 +1450,11 @@ l10n = "locales/{locale}/pages/homepage/blog/new-anthology-political-violence-in
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/euki.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/euki.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
