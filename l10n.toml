@@ -1365,6 +1365,26 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/whoop-strap-4.po"
 locales = [ "de",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/pregnancy.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/pregnancy.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/sprout-pregnancy.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/sprout-pregnancy.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/period-tracker.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/period-tracker.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/maya-period-fertility-ovulation-pregnancy.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/maya-period-fertility-ovulation-pregnancy.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
