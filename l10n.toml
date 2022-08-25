@@ -1490,6 +1490,11 @@ l10n = "locales/{locale}/pages/homepage/blog/join-upcoming-discussion-in-spanish
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/period-calendar-period-tracker.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/period-calendar-period-tracker.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
