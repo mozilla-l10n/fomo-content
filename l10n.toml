@@ -1365,6 +1365,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/whoop-strap-4.po"
 locales = [ "de",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/5-advocacy.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/5-advocacy.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/pregnancy.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/pregnancy.po"
 locales = [ "de", "es", "fr", "pt-BR",]
@@ -1383,6 +1388,46 @@ locales = [ "de", "es", "fr", "pt-BR",]
 reference = "templates/pages/homepage/privacynotincluded/maya-period-fertility-ovulation-pregnancy.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/maya-period-fertility-ovulation-pregnancy.po"
 locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/1-mozilla-festival.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/1-mozilla-festival.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/2-open-leadership-events.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/2-open-leadership-events.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/4-fellowships-awards.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/4-fellowships-awards.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/7-insights.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/7-insights.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/11-common-voice.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/11-common-voice.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/8-moz-news-beat.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/8-moz-news-beat.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/12-internet-health-report.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/12-internet-health-report.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
@@ -1497,11 +1542,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.pot"
 l10n = "locales/{locale}/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.po"
 locales = [ "fr",]
 
 [[paths]]
