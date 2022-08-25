@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-08-25 19:47:28.343935+00:00\n"
+"PO-Revision-Date: 2022-08-25 22:52+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: e00f07dc-af05-48aa-9894-09ebe38d4a76\n"
 
 msgctxt "name"
 msgid "Fellowships &amp; Awards"
-msgstr ""
+msgstr "Bourses et subventions"
 
 msgctxt "title"
 msgid "Fellowships &amp; Awards Blog"
-msgstr ""
+msgstr "Blog des bourses et subventions"
 
 msgctxt "intro"
 msgid "<a id=\"a1\">Mozilla Fellowships</a> cover a range of topics and disciplines within the broader mission of Internet Health, upholding the internet as a force for good."
