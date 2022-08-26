@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-08-25 19:47:29.849715+00:00\n"
+"PO-Revision-Date: 2022-08-26 15:07+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8a43b37c-9f61-4ea4-909d-f6f479d068a9\n"
 
 msgctxt "name"
 msgid "Insights"
-msgstr ""
+msgstr "Insights"
 
 msgctxt "title"
 msgid "Insights Blog"
-msgstr ""
+msgstr "Insights-blog"
 
 msgctxt "intro"
 msgid "Mozilla Insights: analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
