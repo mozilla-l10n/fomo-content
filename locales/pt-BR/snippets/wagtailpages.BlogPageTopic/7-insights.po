@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-08-25 19:47:38.077701+00:00\n"
+"PO-Revision-Date: 2022-08-29 18:05+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: dfcf5227-4080-4478-9e2d-5d917b7ad76c\n"
 
 msgctxt "name"
 msgid "Insights"
-msgstr ""
+msgstr "Análises aprofundadas"
 
 msgctxt "title"
 msgid "Insights Blog"
-msgstr ""
+msgstr "Blog de análises aprofundadas"
 
 msgctxt "intro"
 msgid "Mozilla Insights: analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
