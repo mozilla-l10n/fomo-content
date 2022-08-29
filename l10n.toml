@@ -1869,3 +1869,13 @@ reference = "templates/pages/homepage/blog/the-politics-of-language-the-controve
 l10n = "locales/{locale}/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/1-mozilla.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/1-mozilla.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.pot"
+l10n = "locales/{locale}/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.po"
+locales = [ "sw",]
+
