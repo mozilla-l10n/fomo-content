@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-08-29 12:13:00.505666+00:00\n"
-"PO-Revision-Date: 2022-08-29 15:29+0000\n"
+"PO-Revision-Date: 2022-08-29 15:34+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -173,9 +173,9 @@ msgid ""
 msgstr ""
 "« La Société partage l’identifiant publicitaire généré par le mobile Apple ou Android (qui n’est pas un identifiant permanent de votre appareil, vous pouvez le réinitialiser à tout moment) et peut "
 "également partager des données de localisation <b>en temps réel</b>, des données d’utilisation ou d’autres informations liées à votre utilisation de l’Application et d’autres services via votre "
-"appareil mobile (mais ne donnera pas votre nom ou votre adresse e-mail,) à ces serveurs publicitaires tiers ou réseaux publicitaires (« Annonceurs »). Les Annonceurs peuvent également utiliser des "
+"appareil mobile (mais ne donnera pas votre nom ou votre adresse e-mail), à ces serveurs publicitaires tiers ou réseaux publicitaires (« Annonceurs »). Les Annonceurs peuvent également utiliser des "
 "technologies de suivi pour collecter des informations vous concernant lorsque vous utilisez l’Application. Les Annonceurs peuvent collecter des informations sur les activités en ligne au fil du "
-"temps et sur différents sites Web, applications et autres sites de services en ligne sous un identifiant publicitaire spécifique. Les Annonceurs peuvent utiliser ces informations (y compris les "
+"temps et sur différents sites web, applications et autres sites de services en ligne sous un identifiant publicitaire spécifique. Les Annonceurs peuvent utiliser ces informations (y compris les "
 "informations que nous leur fournissons) pour offrir de la publicité (comportementale) ciblée ou tout autre contenu ciblé sur votre appareil mobile. »"
 
 msgctxt "how_does_it_use_data_collected"
@@ -220,7 +220,7 @@ msgstr "Si vous pensez avoir trouvé une faille de sécurité dans le logiciel, 
 
 msgctxt "tips_to_protect_yourself"
 msgid "Add a PIN for your calendar if someone else might be using your phone/other device"
-msgstr "Ajoutez un code PIN à votre calendrier si quelqu’un d’autre utilise votre téléphone/autre appareil"
+msgstr "Ajoutez un code PIN à votre calendrier si quelqu’un d’autre utilise votre téléphone ou un autre appareil"
 
 msgctxt "tips_to_protect_yourself"
 msgid "When you no longer use the app, go to \"Delete all data and reset\" in the app menu"
@@ -228,7 +228,7 @@ msgstr "Lorsque vous n’utilisez plus l’application, accédez à « Supprime
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr "Choisissez un mot de passe fort ! Vous pouvez utiliser un outil de contrôle de mot de passe comme 1Password, KeePass, etc."
+msgstr "Choisissez un mot de passe compliqué. Vous pouvez utiliser un gestionnaire de mots de passe comme 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)"
@@ -257,8 +257,8 @@ msgstr "Humeurs, symptômes, température, poids, activité sexuelle, contracept
 msgctxt "how_can_you_control_your_data"
 msgid "We ding this app because no clear data retention details are mentioned and it is not clear that every user of the app has the same right to access and delete any data this app collects."
 msgstr ""
-"Nous tirons la sonnette d’alarme à propos de cette application, car aucun détail clair sur la conservation des données n’est mentionné et il n’est pas dit explicitement que chaque utilisateur de "
-"l’application dispose du même droit d’accès et de suppression de ses données collectées par cette application."
+"Nous attribuons un avertissement à cette application, car aucun détail clair sur la conservation des données n’est mentionné et il n’est pas dit explicitement que chaque utilisatrice ou utilisateur "
+"de l’application dispose du même droit d’accès et de suppression de ses données collectées par cette application."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
