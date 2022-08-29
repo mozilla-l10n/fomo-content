@@ -1370,6 +1370,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/5-advocacy.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/my-calendar-period-tracker.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/my-calendar-period-tracker.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/pregnancy.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/pregnancy.po"
 locales = [ "de", "es", "fr", "pt-BR",]
@@ -1387,6 +1392,21 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/maya-period-fertility-ovulation-pregnancy.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/maya-period-fertility-ovulation-pregnancy.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/clue-period-cycle-tracker.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/clue-period-cycle-tracker.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/flo-ovulation-period-tracker.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/flo-ovulation-period-tracker.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/period-calendar-period-tracker.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/period-calendar-period-tracker.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
