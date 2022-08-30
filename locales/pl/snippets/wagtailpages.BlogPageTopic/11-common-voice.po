@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-08-25 19:47:32.978173+00:00\n"
+"PO-Revision-Date: 2022-08-30 09:40+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 098c2b8c-b116-43b0-88d7-76db8d8b540c\n"
 
 msgctxt "name"
 msgid "Common Voice"
-msgstr ""
+msgstr "Common Voice"
 
 msgctxt "title"
 msgid "Common Voice"
-msgstr ""
+msgstr "Common Voice"
 
 msgctxt "intro"
 msgid ""
@@ -20,7 +25,10 @@ msgid ""
 "currently most of that data is expensive and proprietary. We want to make voice data freely and publicly available, and make sure the data represents the diversity of real people. Together we can "
 "make voice recognition better for everyone."
 msgstr ""
+"<a id=\"a1\"><i>Common Voice</i></a> to projekt, który ma na celu pomóc, by technologia rozpoznawania głosu była dostępna dla wszystkich. Deweloperzy potrzebują ogromnej ilości danych głosowych do "
+"budowania technologii rozpoznawania głosu, a obecnie większość tych danych jest kosztowna i zastrzeżona. Chcemy, aby dane głosowe były darmowe i ogólnodostępne oraz aby reprezentowały różnorodność "
+"prawdziwych ludzi. Wspólnie możemy sprawić, że rozpoznawanie głosu będzie lepsze dla wszystkich."
 
 msgctxt "share_description"
 msgid "Common Voice is a project to help make voice recognition open to everyone."
-msgstr ""
+msgstr "Common Voice to projekt, który ma na celu pomóc, by technologia rozpoznawania głosu była dostępna dla wszystkich."
