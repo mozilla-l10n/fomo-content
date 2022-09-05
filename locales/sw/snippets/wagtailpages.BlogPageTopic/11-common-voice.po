@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-08-25 19:47:39.125227+00:00\n"
+"PO-Revision-Date: 2022-09-05 08:17+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: sw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 5009bec4-d976-4a25-bb4f-1c1ba8d0b24f\n"
 
 msgctxt "name"
 msgid "Common Voice"
-msgstr ""
+msgstr "Common Voice"
 
 msgctxt "title"
 msgid "Common Voice"
-msgstr ""
+msgstr "Common Voice"
 
 msgctxt "intro"
 msgid ""
@@ -20,7 +25,10 @@ msgid ""
 "currently most of that data is expensive and proprietary. We want to make voice data freely and publicly available, and make sure the data represents the diversity of real people. Together we can "
 "make voice recognition better for everyone."
 msgstr ""
+"<a id=\"a1\"><i>Common Voice</i></a> ni mradi wa kusaidia kufanya utambuzi wa sauti uwe wazi kwa kila mtu. Watengenezaji wa programu wanahitaji kiasi kikubwa cha data ya sauti ili kujenga teknolojia"
+" za kutambua sauti, na kwa sasa data nyingi ni ghali na ziko chini ya ulinzi wa hakimiliki. Tunataka kufanya data sauti uhuru na hadharani, na kuhakikisha data inawakilisha utofauti wa watu halisi. "
+"Pamoja tunaweza kufanya utambuzi wa sauti kuwa bora kwa kila mtu."
 
 msgctxt "share_description"
 msgid "Common Voice is a project to help make voice recognition open to everyone."
-msgstr ""
+msgstr "Common Voice ni mradi wa kusaidia kufanya utambuzi wa sauti uwe wazi kwa kila mtu."
