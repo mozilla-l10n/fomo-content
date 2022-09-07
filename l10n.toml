@@ -82,7 +82,7 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/blog.pot"
 l10n = "locales/{locale}/pages/homepage/blog.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.pot"
@@ -1447,6 +1447,11 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.BlogPageTopic/12-internet-health-report.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/12-internet-health-report.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/84-kiswahili.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/84-kiswahili.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
