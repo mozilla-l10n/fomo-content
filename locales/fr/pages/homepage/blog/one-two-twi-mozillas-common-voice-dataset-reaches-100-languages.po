@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-09-12 14:20:00.278638+00:00\n"
+"PO-Revision-Date: 2022-09-12 14:29+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 3005404d-3a2b-437c-a62c-15cb4ca411f9\n"
 
 msgctxt "search_description"
 msgid "Our Common Voice dataset now has 100 languages. Twi, widely spoken in Ghana and in other Western African countries is the newest addition to the data corpus."
-msgstr ""
+msgstr "Notre jeu de données Common Voice compte désormais 100 langues. Le twi, largement parlé au Ghana et dans d’autres pays d’Afrique de l’Ouest, est le plus récent ajout au corpus de données."
 
 msgctxt "body.38957e71-ba76-44d5-ae47-3a3b201d955b"
 msgid "Widely spoken in Ghana and other West African countries, Twi is the latest addition to the Common Voice open source language dataset."
@@ -22,13 +27,15 @@ msgstr ""
 
 msgctxt "body.38957e71-ba76-44d5-ae47-3a3b201d955b"
 msgid "This momentous stride is significant to Mozilla’s <a id=\"a1\">Common Voice</a> mission in making voice technology more inclusive."
-msgstr ""
+msgstr "Cette étape importante est significative pour la mission du projet <a id=\"a1\">Common Voice</a> de Mozilla, qui vise à rendre la technologie vocale plus inclusive."
 
 msgctxt "body.38957e71-ba76-44d5-ae47-3a3b201d955b"
 msgid ""
 "Says EM Lewis - Jong, Common Voice Product Lead: “We’re thrilled that Twi is the 100th language on Common Voice. The heart of this project is making it easier for language communities around the "
 "world to tap into the possibilities of speech technology — creating a healthier and more open AI ecosystem.”"
 msgstr ""
+"EM Lewis - Jong, responsable de produit Common Voice, a déclaré : « Nous sommes ravis que le twi soit la 100e langue de Common Voice. Le cœur de ce projet est de permettre aux communautés "
+"linguistiques du monde entier d’exploiter plus facilement les possibilités des technologies vocales — en créant un écosystème d’IA plus sain et plus ouvert. »"
 
 msgctxt "body.38957e71-ba76-44d5-ae47-3a3b201d955b"
 msgid ""
@@ -39,4 +46,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "One, Two…Twi! Mozilla’s Common Voice dataset reaches 100 languages"
-msgstr ""
+msgstr "Le jeu de données Common Voice de Mozilla atteint 100 langues"
