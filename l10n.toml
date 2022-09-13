@@ -1570,6 +1570,11 @@ l10n = "locales/{locale}/pages/homepage/blog/one-two-twi-mozillas-common-voice-d
 locales = [ "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/ovia-fertility.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/ovia-fertility.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
