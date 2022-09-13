@@ -1840,6 +1840,16 @@ l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-partners.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-partners.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/web-monetization.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/web-monetization.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
