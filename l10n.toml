@@ -1565,11 +1565,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/1-mozilla.po"
 locales = [ "es", "fr", "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/one-two-twi-mozillas-common-voice-dataset-reaches-100-languages.pot"
-l10n = "locales/{locale}/pages/homepage/blog/one-two-twi-mozillas-common-voice-dataset-reaches-100-languages.po"
-locales = [ "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/ovia-fertility.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/ovia-fertility.po"
 locales = [ "es",]
