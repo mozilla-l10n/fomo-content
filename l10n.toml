@@ -1825,11 +1825,6 @@ l10n = "locales/{locale}/pages/homepage/who-we-are/leadership.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/17-mozilla-insights.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/17-mozilla-insights.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/what-we-fund/awards.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/awards.po"
 locales = [ "fr",]
@@ -1837,6 +1832,11 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/fellowships.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/17-mozilla-insights.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/17-mozilla-insights.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -1867,11 +1867,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.ResearchTopic/4-privacy-and-security.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/4-privacy-and-security.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.ResearchTopic/3-internet-health.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/3-internet-health.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -1910,11 +1905,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/6-platform-accounta
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.ResearchTopic/7-tech-policy-regulation.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/7-tech-policy-regulation.po"
 locales = [ "fr",]
@@ -1922,6 +1912,56 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/research/library/youtube-regrets-findings.pot"
 l10n = "locales/{locale}/pages/homepage/research/library/youtube-regrets-findings.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/22-solana-larsen.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/22-solana-larsen.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/159-stefan-baack.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/159-stefan-baack.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/24-eeva-moore.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/24-eeva-moore.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/329-neha-ravella.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/329-neha-ravella.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/28-kasia-odrozek.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/28-kasia-odrozek.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/105-j-bob-alotta.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/105-j-bob-alotta.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/3-internet-health.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/3-internet-health.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/12-internet-health-report.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/12-internet-health-report.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/internet-health-report-2022.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/internet-health-report-2022.po"
 locales = [ "fr",]
 
 [[paths]]
