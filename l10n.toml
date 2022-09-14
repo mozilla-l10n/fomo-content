@@ -1860,6 +1860,41 @@ l10n = "locales/{locale}/pages/homepage/blog/reporting-back-on-mozillas-cryptocu
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/2-data-governance.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/2-data-governance.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/4-privacy-and-security.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/4-privacy-and-security.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/3-internet-health.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/3-internet-health.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research.pot"
+l10n = "locales/{locale}/pages/homepage/research.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library.pot"
+l10n = "locales/{locale}/pages/homepage/research/library.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/browse-authors.pot"
+l10n = "locales/{locale}/pages/homepage/research/browse-authors.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
