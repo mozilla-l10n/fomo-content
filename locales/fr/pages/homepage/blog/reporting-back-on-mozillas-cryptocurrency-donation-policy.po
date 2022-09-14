@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-09-14 07:07:21.622021+00:00\n"
+"PO-Revision-Date: 2022-09-14 07:11+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 280067ba-206b-46fc-8fb4-682b1e49f1d8\n"
 
 msgctxt "body.9b528596-6416-4bdc-a455-1340c9917a63"
@@ -11,6 +16,9 @@ msgid ""
 "At the start of 2022, Mozilla found ourselves in the middle of a heated discussion about cryptocurrency. Mozilla, a nonprofit, had been accepting cryptocurrency donations since 2014. But we hadn’t "
 "reassessed that decision since Mozilla published its <a id=\"a1\">climate commitments</a> — and since cryptocurrency’s environmental toll <a id=\"a2\">has become more apparent</a>."
 msgstr ""
+"Début 2022, Mozilla s'est retrouvé au centre d’un vif débat sur les cryptomonnaies. Mozilla, une organisation à but non lucratif, accepte les dons en cryptomonnaies depuis 2014. Mais nous n’avons "
+"pas réévalué cette décision depuis que Mozilla a publié ses <a id=\"a1\">engagements climatiques</a> — et depuis, le bilan environnemental de la cryptomonnaie <a id=\" a2\">est devenu plus "
+"apparent</a>."
 
 msgctxt "body.9b528596-6416-4bdc-a455-1340c9917a63"
 msgid ""
@@ -52,4 +60,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "Reporting Back on Mozilla’s Cryptocurrency Donation Policy"
-msgstr ""
+msgstr "Retour sur la politique de Mozilla pour les dons en cryptomonnaies"
