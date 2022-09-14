@@ -1860,11 +1860,6 @@ l10n = "locales/{locale}/pages/homepage/blog/reporting-back-on-mozillas-cryptocu
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.ResearchTopic/2-data-governance.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/2-data-governance.po"
 locales = [ "fr",]
@@ -1892,6 +1887,41 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/research/browse-authors.pot"
 l10n = "locales/{locale}/pages/homepage/research/browse-authors.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/32-brandi-geurkink.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/32-brandi-geurkink.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/307-jesse-mccrosky.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/307-jesse-mccrosky.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/328-mozilla-advocacy.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/328-mozilla-advocacy.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/6-platform-accountability.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/6-platform-accountability.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/7-tech-policy-regulation.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/7-tech-policy-regulation.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/youtube-regrets-findings.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/youtube-regrets-findings.po"
 locales = [ "fr",]
 
 [[paths]]
