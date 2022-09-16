@@ -1580,6 +1580,11 @@ l10n = "locales/{locale}/pages/homepage/blog/mozillas-common-voice-dataset-reach
 locales = [ "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/one-two-twi-mozillas-common-voice-dataset-reaches-100-languages.pot"
+l10n = "locales/{locale}/pages/homepage/blog/one-two-twi-mozillas-common-voice-dataset-reaches-100-languages.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
