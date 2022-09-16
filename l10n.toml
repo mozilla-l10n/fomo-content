@@ -1895,26 +1895,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/32-brandi-geurkink.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/307-jesse-mccrosky.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/307-jesse-mccrosky.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/328-mozilla-advocacy.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/328-mozilla-advocacy.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.ResearchTopic/6-platform-accountability.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/6-platform-accountability.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.ResearchTopic/7-tech-policy-regulation.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/7-tech-policy-regulation.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/research/library/youtube-regrets-findings.pot"
 l10n = "locales/{locale}/pages/homepage/research/library/youtube-regrets-findings.po"
 locales = [ "fr",]
@@ -1960,13 +1940,48 @@ l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/12-internet-health-
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/research/library/internet-health-report-2022.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/internet-health-report-2022.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/69-becca-ricks.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/69-becca-ricks.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/307-jesse-mccrosky.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/307-jesse-mccrosky.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/328-mozilla-advocacy.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/328-mozilla-advocacy.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/6-platform-accountability.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/6-platform-accountability.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/1-ai-fairness-accountability-and-transparency.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/research/library/internet-health-report-2022.pot"
-l10n = "locales/{locale}/pages/homepage/research/library/internet-health-report-2022.po"
+reference = "templates/snippets/wagtailpages.ResearchTopic/7-tech-policy-regulation.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/7-tech-policy-regulation.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/user-controls.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/user-controls.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/youtube-user-controls.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/youtube-user-controls.po"
 locales = [ "fr",]
 
 [[paths]]
