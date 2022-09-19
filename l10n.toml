@@ -1460,6 +1460,11 @@ l10n = "locales/{locale}/pages/homepage/youtube/user-controls.po"
 locales = [ "de", "es", "fr", "nl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/campaigns/youtube-user-controls.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/youtube-user-controls.po"
+locales = [ "de", "es", "fr", "nl", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -1978,11 +1983,6 @@ locales = [ "fr",]
 reference = "templates/pages/homepage/research/library/user-controls.pot"
 l10n = "locales/{locale}/pages/homepage/research/library/user-controls.po"
 locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/youtube-user-controls.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/youtube-user-controls.po"
-locales = [ "fr", "nl",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
