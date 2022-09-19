@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-09-19 14:09:30.297887+00:00\n"
+"PO-Revision-Date: 2022-09-19 14:33+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: dfeecfdd-2491-46f1-87a5-7563fa6d894c\n"
 
 msgctxt "title"
@@ -19,6 +24,8 @@ msgid ""
 "From conspiracy theories to propaganda, YouTube’s algorithm often promotes a minefield of controversial videos. <b>Have you ever wondered why it keeps recommending the same clickbait content</b> "
 "even after you click “dislike” or “do not recommend”?"
 msgstr ""
+"Von Verschwörungstheorien bis hin zu Propaganda - der YouTube-Algorithmus fördert häufig ein Minenfeld an kontroversen Videos zutage. <b>Haben Sie sich jemals gefragt, warum er immer wieder "
+"dieselben Clickbait-Inhalte empfiehlt</b>, selbst wenn Sie auf „Mag ich nicht“ oder „Nicht zu empfehlen“ geklickt haben?"
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 msgid "So have we - and we looked into it."
@@ -36,7 +43,7 @@ msgstr "<b>Benutzer haben keine Kontrolle</b> über ihre Erfahrung auf der Video
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 msgid "Even after using the feedback mechanisms, <b>YouTube’s algorithm often recommends unwanted videos</b>"
-msgstr ""
+msgstr "Auch nach der Nutzung der Feedback-Mechanismen <b>empfiehlt der Algorithmus von YouTube häufig unerwünschte Videos</b>"
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 msgid ""
@@ -48,7 +55,7 @@ msgstr ""
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 msgid "A video recommender system that has been found to regularly recommend dangerous content and also does not consistently listen to user feedback desperately needs to be fixed."
-msgstr ""
+msgstr "Ein Video-Empfehlungssystem, das regelmäßig gefährliche Inhalte empfiehlt und auch nicht ständig auf die Rückmeldungen der Nutzer hört, muss dringend repariert werden."
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 msgid "The good news is: <b>YouTube can solve this problem</b> - if they want to. <b>It’s time for the company to fix its feedback tools</b> and put people in the driver’s seat."
