@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-04-29 08:59:26.512678+00:00\n"
-"PO-Revision-Date: 2022-04-29 14:11+0000\n"
+"PO-Revision-Date: 2022-09-20 07:33+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -20,6 +20,8 @@ msgid ""
 "Since 2019, Mozilla has done research on YouTube's recommendation system and advocated for greater transparency. Our original research, investigations and campaigns have demonstrated some of the "
 "systemtic problems with YouTube's recommendation algorithm, and we suggest solutions.."
 msgstr ""
+"Sinds 2019 heeft Mozilla onderzoek gedaan naar het aanbevelingssysteem van YouTube en gepleit voor meer transparantie. Ons oorspronkelijke onderzoek, onze onderzoeken en campagnes hebben enkele van "
+"de systematische problemen met het aanbevelingsalgoritme van YouTube aangetoond en we stellen oplossingen voor."
 
 msgctxt "body.4388a4ad-110a-4295-a89c-3dd9192ec9ee"
 msgid "Current Work"
@@ -47,23 +49,25 @@ msgstr "https://foundation.mozilla.org/youtube/regretsreporter/"
 
 msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.altText"
 msgid "Illustration showing a maze of YouTube UI elements with broken connections"
-msgstr ""
+msgstr "Illustratie van een doolhof van YouTube UI-elementen met verbroken verbindingen"
 
 msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.text"
 msgid "YouTube User Control Study Findings"
-msgstr ""
+msgstr "Bevindingen uit het onderzoek naar YouTube-gebruikersbediening"
 
 msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.text"
 msgid "Mozilla scrutinized YouTube to determine how much control people actually have over the platform’s recommendation algorithm, powered by data donated by 22,722 people. This is what we learned."
 msgstr ""
+"Mozilla heeft YouTube onder de loep genomen, om vast te stellen hoeveel controle mensen daadwerkelijk hebben over het aanbevelingsalgoritme van het platform, op grond van gegevens die door 22.722 "
+"mensen zijn verstrekt. Dit zijn onze bevindingen."
 
 msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.text"
 msgid "<a id=\"a1\">Read the findings</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Lees de bevindingen</a>"
 
 msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.url"
 msgid "https://foundation.mozilla.org/youtube/user-controls/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/youtube/user-controls/"
 
 msgctxt "body.f460122b-a061-430a-adf7-2ac25d9470e9"
 msgid "Past Work"
@@ -177,7 +181,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #~ msgctxt "intro"
 #~ msgid ""
