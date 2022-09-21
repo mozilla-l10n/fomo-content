@@ -1,30 +1,39 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-09-21 13:19:35.112056+00:00\n"
+"PO-Revision-Date: 2022-09-21 13:27+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 03c3d2fd-5cc9-4129-a335-8b33a5a84edf\n"
 
 msgctxt "seo_title"
 msgid "MozFest On-Demand"
-msgstr ""
+msgstr "MozFest à la demande"
 
 msgctxt "search_description"
 msgid ""
 "Top luminaries, grassroots activists, creative technologists, and interested consumers from around the world gather to share their questions, insights, reflections, and ideas at MozFest. The "
 "resulting content of these collaborations is too good to not share on-demand, all year long."
 msgstr ""
+"Des personnalités de premier plan, des militant·e·s, des passionné·e·s de technologies, et des consommateurs et consommatrices éveillées du monde entier se réunissent pour partager leurs questions, "
+"leurs points de vue, leurs réflexions et leurs idées au MozFest. Le contenu résultant de ces collaborations est trop important pour ne pas être partagé à la demande, tout au long de l’année."
 
 msgctxt "title"
 msgid "On-Demand"
-msgstr ""
+msgstr "À la demande"
 
 msgctxt "intro"
 msgid ""
 "Top luminaries, grassroots activists, creative technologists, and interested consumers from around the world gather to share their insights, reflections, and ideas at MozFest. These conversations "
 "and collaborations are too good to not share on-demand, all year long."
 msgstr ""
+"Des personnalités de premier plan, des militant·e·s, des passionné·e·s de technologies, et des consommateurs et consommatrices éveillées du monde entier se réunissent pour partager leurs points de "
+"vue, leurs réflexions et leurs idées au MozFest. Ces conversations et collaborations sont trop importantes pour ne pas être partagées à la demande, tout au long de l’année."
 
 msgctxt "body.3dedc389-8f02-4fc1-a00f-381e7473469e"
 msgid ""
@@ -40,7 +49,7 @@ msgstr ""
 
 msgctxt "body.6352c96e-fb2c-4c16-b817-d8b65ef146ab"
 msgid "Our Latest Virtual Dialogues and Debates"
-msgstr ""
+msgstr "Notre dernière session virtuelle débats et discussions"
 
 msgctxt "body.6352c96e-fb2c-4c16-b817-d8b65ef146ab"
 msgid ""
@@ -49,14 +58,18 @@ msgid ""
 "classifications. How does the queer community change this technology landscape? And what does it mean to queer the landscape, coopt these systems, and create safe, online spaces? And accordingly, "
 "how has technology made a global LGBTQIA+ movement possible?"
 msgstr ""
+"La technologie codifie davantage les préjugés et catégorise les personnalités, ce qui n’est pas simplement le reflet de la société qui la crée, mais peut être un miroir imparfait et faussé de celle-"
+"ci. Il en résulte des logiciels et des systèmes d’IA qui sont en contradiction avec la notion de fluidité, qui menacent la vie privée et la sécurité de la communauté LGBTQIA+, et qui déduisent "
+"souvent des hypothèses hétéronormatives et imposent des classifications de genre binaires. Comment la communauté queer peut-elle changer ce monde technologique ? Et qu’est-ce que cela implique de "
+"changer ce monde, de tirer parti de ces systèmes et de créer des environnements sûrs en ligne ? Et par conséquent, comment la technologie a-t-elle fait naître un mouvement LGBTQIA+ mondial ?"
 
 msgctxt "body.761ec286-e5fe-4cd5-bd64-e9a858ee7668.url"
 msgid "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
-msgstr ""
+msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
 
 msgctxt "body.1bad947d-02d2-4462-94f8-1293ac22d6de"
 msgid "Re-live MozFest 2022"
-msgstr ""
+msgstr "Revivez le MozFest 2022"
 
 msgctxt "body.1bad947d-02d2-4462-94f8-1293ac22d6de"
 msgid ""
@@ -66,7 +79,7 @@ msgstr ""
 
 msgctxt "body.2dcb3b0f-20b2-4b45-b69c-f7e56a6e1dbc.title"
 msgid "MozFest 2022 Sessions"
-msgstr ""
+msgstr "Sessions du MozFest 2022"
 
 msgctxt "body.2dcb3b0f-20b2-4b45-b69c-f7e56a6e1dbc.session_items.7daf7273-1a89-4293-a9da-f1779dc5a1ec.title"
 msgid "MozFest 2022 Opening Circle"
@@ -74,7 +87,7 @@ msgstr ""
 
 msgctxt "body.2dcb3b0f-20b2-4b45-b69c-f7e56a6e1dbc.session_items.7daf7273-1a89-4293-a9da-f1779dc5a1ec.author_subheading"
 msgid "Sarah Allen, Ayesha Abduljalil, Lilian Abou Zek, Cassandra Faris,  J. Bob Alotta, Toshi Reagon"
-msgstr ""
+msgstr "Sarah Allen, Ayesha Abduljalil, Lilian Abou Zek, Cassandra Faris, J. Bob Alotta, Toshi Reagon"
 
 msgctxt "body.2dcb3b0f-20b2-4b45-b69c-f7e56a6e1dbc.session_items.7daf7273-1a89-4293-a9da-f1779dc5a1ec.body"
 msgid "Hear from the community on why MozFest is so important as a place to connect and collaborate."
@@ -86,7 +99,7 @@ msgstr ""
 
 msgctxt "body.2dcb3b0f-20b2-4b45-b69c-f7e56a6e1dbc.session_items.3147ebf7-7534-4447-bb08-ee1cf560bf41.author_subheading"
 msgid "J. Bob Alotta, Imo Udom, Rebecca Ryakitimbo, Apryl Williams"
-msgstr ""
+msgstr "J. Bob Alotta, Imo Udom, Rebecca Ryakitimbo, Apryl Williams"
 
 msgctxt "body.2dcb3b0f-20b2-4b45-b69c-f7e56a6e1dbc.session_items.3147ebf7-7534-4447-bb08-ee1cf560bf41.body"
 msgid "As the internet evolves, what will it look like — and who will it benefit?"
@@ -98,7 +111,7 @@ msgstr ""
 
 msgctxt "body.2dcb3b0f-20b2-4b45-b69c-f7e56a6e1dbc.session_items.66b4238e-6e8b-4d28-8240-370694eb7bf0.author_subheading"
 msgid "Crystal Lee, Judith Okonkwo, Maize Longboat, Angela Chen"
-msgstr ""
+msgstr "Crystal Lee, Judith Okonkwo, Maize Longboat, Angela Chen"
 
 msgctxt "body.2dcb3b0f-20b2-4b45-b69c-f7e56a6e1dbc.session_items.66b4238e-6e8b-4d28-8240-370694eb7bf0.body"
 msgid "Upcoming generations are growing up in a mixed reality where they develop a powerful command on internet platforms."
@@ -110,7 +123,7 @@ msgstr ""
 
 msgctxt "body.0a9d2396-d9b3-45d9-883b-a254be6527da.URL"
 msgid "https://schedule.mozillafestival.org/schedule"
-msgstr ""
+msgstr "https://schedule.mozillafestival.org/schedule"
 
 msgctxt "body.31c2b692-c5c6-4469-9e59-0c932169b6a0"
 msgid "5 Years of Dialogues and Debates"
@@ -128,4 +141,4 @@ msgstr ""
 
 msgctxt "body.9e630c7d-8b7f-4c86-a7f7-020956d9b70d.search_terms"
 msgid "5yearsdand"
-msgstr ""
+msgstr "5yearsdand"
