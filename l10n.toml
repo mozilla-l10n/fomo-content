@@ -1585,6 +1585,21 @@ l10n = "locales/{locale}/pages/homepage/blog/mozillas-common-voice-dataset-reach
 locales = [ "es", "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Signup/123-mozfest-on-demand.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/123-mozfest-on-demand.po"
+locales = [ "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/on-demand.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/on-demand.po"
+locales = [ "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/sponsor.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/sponsor.po"
+locales = [ "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
