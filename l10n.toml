@@ -1915,8 +1915,18 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/32-brandi-geurkink.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/11-ai-bias.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/11-ai-bias.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/research/library/youtube-regrets-findings.pot"
 l10n = "locales/{locale}/pages/homepage/research/library/youtube-regrets-findings.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/10-data-donation.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/10-data-donation.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -1960,6 +1970,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/12-internet-health-
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/9-meaningful-ai-transparency.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/9-meaningful-ai-transparency.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/research/library/internet-health-report-2022.pot"
 l10n = "locales/{locale}/pages/homepage/research/library/internet-health-report-2022.po"
 locales = [ "fr",]
@@ -1997,6 +2012,36 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/research/library/user-controls.pot"
 l10n = "locales/{locale}/pages/homepage/research/library/user-controls.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/8-open-datasets.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/8-open-datasets.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/5-voice-technology.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/5-voice-technology.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/16-ads-transparency.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/16-ads-transparency.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/15-elections.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/15-elections.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/14-data-stewardship.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/14-data-stewardship.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/13-internet-shutdowns.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/13-internet-shutdowns.po"
 locales = [ "fr",]
 
 [[paths]]
