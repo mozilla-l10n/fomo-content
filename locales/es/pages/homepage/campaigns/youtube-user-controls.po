@@ -40,12 +40,12 @@ msgstr ""
 "mismo contenido de clickbait</b> incluso después de haber dado a «No me gusta» o «No recomendar»?"
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-msgid "So have we - and we looked into it."
-msgstr "Nosotros nos preguntamos lo mismo... y tratamos de averiguarlo."
+msgid "So have we - and we <a id=\"a1\">looked into it</a>."
+msgstr ""
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-msgid "With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the “Does This Button Work” report, is alarming:"
-msgstr "Con la ayuda de 20.000 seguidores de Mozilla, estudiamos los mecanismos de retroalimentación de YouTube; lo que descubrimos, publicado en el informe «Does This Button Work», es alarmante:"
+msgid "With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the “Does This Button Work” <a id=\"a1\">report</a>, is alarming:"
+msgstr ""
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 msgid "<b>Users are not in control</b> of their experience on the video platform"
@@ -86,6 +86,14 @@ msgstr "Firma nuestra petición y ayúdanos a presionar a YouTube."
 #~ msgstr ""
 #~ "Desde teorías conspirativas hasta propaganda, el algoritmo de YouTube propicia un campo minado de videos controvertidos. <b>¿Alguna vez te has preguntado por qué sigue recomendándote el mismo "
 #~ "contenido de clickbait</b> incluso después de haber dado a «No me gusta» o «No recomendar»?"
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "So have we - and we looked into it."
+#~ msgstr "Nosotros nos preguntamos lo mismo... y tratamos de averiguarlo."
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the “Does This Button Work” report, is alarming:"
+#~ msgstr "Con la ayuda de 20.000 seguidores de Mozilla, estudiamos los mecanismos de retroalimentación de YouTube; lo que descubrimos, publicado en el informe «Does This Button Work», es alarmante:"
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid "Even after using the feedback mechanisms, <b>YouTube’s algorithm recommends unwanted videos</b>"

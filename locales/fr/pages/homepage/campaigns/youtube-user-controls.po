@@ -40,13 +40,12 @@ msgstr ""
 "même contenu racoleur</b>, même après avoir cliqué sur « Je n’aime pas » ou « Ne pas recommander » ?"
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-msgid "So have we - and we looked into it."
-msgstr "Nous aussi, et nous nous sommes penchés sur la question."
+msgid "So have we - and we <a id=\"a1\">looked into it</a>."
+msgstr ""
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-msgid "With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the “Does This Button Work” report, is alarming:"
+msgid "With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the “Does This Button Work” <a id=\"a1\">report</a>, is alarming:"
 msgstr ""
-"Avec l’aide de 20 000 soutiens de Mozilla, nous avons étudié les mécanismes de retour de YouTube. Ce que nous avons découvert, publié dans le rapport « Ce bouton fonctionne-t-il », est alarmant :"
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 msgid "<b>Users are not in control</b> of their experience on the video platform"
@@ -89,9 +88,18 @@ msgstr "Signez notre pétition maintenant et aidez-nous à faire pression sur Yo
 #~ "contenu racoleur</b>, même après avoir cliqué sur « Je n’aime pas » ou « Ne pas recommander » ?"
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "So have we - and we looked into it."
+#~ msgstr "Nous aussi, et nous nous sommes penchés sur la question."
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid "Even after using the feedback mechanisms, <b>YouTube’s algorithm recommends unwanted videos</b>"
 #~ msgstr "Même après avoir utilisé les mécanismes de retour, <b>l’algorithme de YouTube recommande les vidéos indésirables</b>"
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid "A video recommender system that is already dangerous by default and, as it turns out, does not listen to user feedback desperately needs to be fixed."
 #~ msgstr "Un système de recommandation vidéo qui est déjà dangereux par défaut et qui, en fin de compte, ne tient pas compte du retour des internautes doit impérativement être corrigé."
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the “Does This Button Work” report, is alarming:"
+#~ msgstr ""
+#~ "Avec l’aide de 20 000 soutiens de Mozilla, nous avons étudié les mécanismes de retour de YouTube. Ce que nous avons découvert, publié dans le rapport « Ce bouton fonctionne-t-il », est alarmant :"
