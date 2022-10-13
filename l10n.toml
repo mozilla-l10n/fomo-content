@@ -2060,6 +2060,16 @@ l10n = "locales/{locale}/pages/mozilla-festival/working-groups.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/274-mozilla-common-voice.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/274-mozilla-common-voice.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/iterating-dataset-access-on-common-voice.pot"
+l10n = "locales/{locale}/pages/homepage/blog/iterating-dataset-access-on-common-voice.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]

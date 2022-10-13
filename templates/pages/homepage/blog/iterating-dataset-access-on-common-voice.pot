@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-10-13 09:27:56.632932+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid "Announcing: Delta Releases on Mozilla Common Voice!"
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid "As of October 2022, we will be providing delta release downloads in addition to the full release dataset downloads."
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid ""
+"<b>What is a delta release?</b> Let’s imagine you had downloaded Common Voice 10 for Catalan, a total download size of 49 GB, now Common Voice 11 is released and you want to get all that amazing new"
+" data. A delta release allows you to download <b>only the new data</b>, that is the difference between the Common Voice 10 release and the 11 release."
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid ""
+"<b>Why are you doing this?</b> We have had a lot of feedback from the community that the large download sizes were a problem for many users and developers wanting to use the dataset. The download "
+"size can take a long time for people on slow connections and downloading a large amount of data can be difficult on unstable connections too. For many of our community, being forced to download "
+"clips that they already have from the previous release has been costly and wasteful."
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid ""
+"<b>Will you be offering deltas between all the releases?</b> We will be offering delta releases between the last release and the latest release on a rolling basis. So at some point after the next "
+"release (Common Voice 11 in October) we will make available the delta between <b>10</b> and <b>11</b>. At the release following that (Common Voice 12) we will make available the delta between "
+"<b>11</b> and <b>12,</b> and so on."
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid "<b>When will the delta releases be available?</b> The first delta release will be coming out in mid to late October. We’ll keep you posted!"
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid "<b>What does the data look like?</b> It is in exactly the same format as the full release, only the TSV files and clips/ directory only contain the new data, not all the data."
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid ""
+"<b>Will it be split in the same way?</b> The delta releases will not be split. Depending on your use case, you can choose to add all the data to your training set, or you can merge with the previous"
+" version and use CorporaCreator to create a version that will be identical to the full Common Voice 11 release."
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid "Can we still access older versions of the dataset?"
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid ""
+"Yes - but the way you access them will change. You will be able to download the latest dataset, the one before, and the delta of clips between the two. We will no longer support downloading the "
+"oldest releases of MCV directly from the platform, however you can always email us to access an older version of the dataset. This is part of our commitment to be thoughtful about the environmental "
+"impact of our platform."
+msgstr ""
+
+msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
+msgid "Please feel free to ask any questions you may have about the delta releases on <a id=\"a1\">Discourse</a> or <a id=\"a2\">Matrix</a> - and the team will endeavour to answer them!"
+msgstr ""
+
+msgctxt "title"
+msgid "Iterating Dataset Access on Common Voice"
+msgstr ""
