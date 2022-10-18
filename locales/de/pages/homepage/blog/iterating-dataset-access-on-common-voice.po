@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-10-18 12:12:16.902402+00:00\n"
+"PO-Revision-Date: 2022-10-18 13:09+0000\n"
+"Last-Translator: robovoice <terminus12@gmx.de>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 81cbe48c-226a-4aee-a787-e8397e7e3b73\n"
 
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid "Announcing: Delta Releases on Mozilla Common Voice!"
-msgstr ""
+msgstr "Ankündigung: Delta-Veröffentlichungen auf Mozilla Common Voice!"
 
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid "As of October 2022, we will be providing delta release downloads in addition to the full release dataset downloads."
