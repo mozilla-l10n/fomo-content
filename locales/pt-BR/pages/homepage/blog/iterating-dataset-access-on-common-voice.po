@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-10-18 12:12:39.911205+00:00\n"
-"PO-Revision-Date: 2022-10-18 14:11+0000\n"
+"PO-Revision-Date: 2022-10-18 14:13+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -59,10 +59,12 @@ msgid ""
 "<b>Will it be split in the same way?</b> The delta releases will not be split. Depending on your use case, you can choose to add all the data to your training set, or you can merge with the previous"
 " version and use CorporaCreator to create a version that will be identical to the full Common Voice 11 release."
 msgstr ""
+"<b>Serão divididas da mesma forma?</b> As versões delta não serão divididas. Dependendo do seu caso de uso, você pode optar por adicionar todos os dados ao seu conjunto de treinamento ou pode "
+"mesclar com a versão anterior e usar o CorporaCreator para criar uma versão idêntica à versão completa do Common Voice 11."
 
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid "Can we still access older versions of the dataset?"
-msgstr ""
+msgstr "Ainda podemos acessar versões mais antigas do conjunto de dados?"
 
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid ""
