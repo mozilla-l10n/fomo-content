@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-10-18 12:12:39.911205+00:00\n"
-"PO-Revision-Date: 2022-10-18 14:13+0000\n"
+"PO-Revision-Date: 2022-10-18 14:30+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -72,11 +72,14 @@ msgid ""
 "oldest releases of MCV directly from the platform, however you can always email us to access an older version of the dataset. This is part of our commitment to be thoughtful about the environmental "
 "impact of our platform."
 msgstr ""
+"Sim, mas a maneira de acessar mudará. Você poderá baixar o conjunto de dados mais recente, o anterior e o delta de clipes entre os dois. Não daremos mais suporte ao download de versões mais antigas "
+"do MCV diretamente na plataforma, mas você sempre pode nos enviar um email pedindo para acessar uma versão mais antiga do conjunto de dados. Isso faz parte do nosso compromisso de considerar o "
+"impacto ambiental de nossa plataforma."
 
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid "Please feel free to ask any questions you may have about the delta releases on <a id=\"a1\">Discourse</a> or <a id=\"a2\">Matrix</a> - and the team will endeavour to answer them!"
-msgstr ""
+msgstr "Sinta-se à vontade para fazer qualquer pergunta que possa ter sobre versões delta no <a id=\"a1\">Discourse</a> ou no <a id=\"a2\">Matrix</a>. A equipe se empenhará em responder!"
 
 msgctxt "title"
 msgid "Iterating Dataset Access on Common Voice"
-msgstr ""
+msgstr "Alteração do acesso ao conjunto de dados no Common Voice"
