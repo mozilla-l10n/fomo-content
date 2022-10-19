@@ -1,24 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-10-18 12:12:37.897053+00:00\n"
+"PO-Revision-Date: 2022-10-19 05:46+0000\n"
+"Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 5603b5b5-7df7-45ee-a6e1-29cd936fbde1\n"
 
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid "Announcing: Delta Releases on Mozilla Common Voice!"
-msgstr ""
+msgstr "Aankondiging: delta-releases op Mozilla Common Voice!"
 
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid "As of October 2022, we will be providing delta release downloads in addition to the full release dataset downloads."
-msgstr ""
+msgstr "Vanaf oktober 2022 bieden we downloads voor delta-releases aan naast de downloads van de volledige release-gegevensset."
 
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid ""
 "<b>What is a delta release?</b> Let’s imagine you had downloaded Common Voice 10 for Catalan, a total download size of 49 GB, now Common Voice 11 is released and you want to get all that amazing new"
 " data. A delta release allows you to download <b>only the new data</b>, that is the difference between the Common Voice 10 release and the 11 release."
 msgstr ""
+"<b>Wat is een delta-release?</b> Stel u voor dat u Common Voice 10 voor Catalaans hebt gedownload, een totale downloadgrootte van 49 GB, en u nu Common Voice 11 is uitgebracht al die geweldige "
+"nieuwe gegevens wilt hebben. Met een delta-release kunt u <b>alleen de nieuwe gegevens</b> downloaden, dat wil zeggen het verschil tussen de Common Voice 10-release en de 11-release."
 
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid ""
