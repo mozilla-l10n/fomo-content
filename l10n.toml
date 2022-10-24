@@ -2159,3 +2159,13 @@ reference = "templates/pages/homepage/blog/open-call-the-second-edition-of-commo
 l10n = "locales/{locale}/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.pot"
+l10n = "locales/{locale}/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.po"
+locales = [ "sw",]
+
