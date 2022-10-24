@@ -1,0 +1,125 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-10-24 13:52:12.419448+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid ""
+"At the recently held Mozilla All-Hands 2022, an annual gathering of the entire Mozilla ecosystem, the Common Voice team had an opportunity to showcase various aspects of our work in a forum open to "
+"anyone within the organisation."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid ""
+"We were afforded a ‘strategic workshop’ slot, a session whose primary goal is cross-team pollination, connection and collaboration on topics of importance to a broad swath of Mozillians. These "
+"sessions were primarily intended to facilitate meaningful cross-team connection, get people engaging with folks they don’t normally work with (thus reinforcing the idea that we are all one team). A "
+"secondary goal is for individuals to gain a deeper understanding of these topics by engaging with people they don’t normally work with. These sessions are a unique opportunity for a larger group to "
+"actively engage with some of these big ideas."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "Our session was intended to be a tour of the full ecosystem of Common Voice!"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid ""
+"Sabrina Ng and Gabriel Habayeb, a designer and software engineer respectively, both working on Common Voice handled the first part of the session taking attendees through what the platform looks "
+"like and demonstrated how users of the platform go about contributing to datasets. They discussed some strategies being used to open up contributions for a wider variety of languages. One strategy "
+"is lowering entry requirements like the number of sentences needed in the language before being able to start on voice contributions. Another is work done to optimize the platform so as to enable "
+"contributions in resource constrained settings, such as in contexts with low bandwidth or with no internet access. You can read more about the solutions built <a id=\"a1\">here</a>."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid ""
+"They also discussed some strategies for increasing access to, and the utility, of the datasets on the platform. The dataset releases now take place more frequently, every two months. The datasets "
+"now also have additional metadata that we hope increases their utility to developers, for example we recently made accent metadata available, which is optionally self-reported by contributors on the"
+" platform."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid ""
+"Rebecca Ryakitimbo, a community engagement fellow, handled the second section of the session where she highlighted our community engagement activities specifically for Kiswahili. She spoke about the"
+" various roles community members can play, as sentence creators and validators as well as voice donators and validators. She then highlighted the central role that the inclusion of women holds. Our "
+"participatory guidelines ensure that we work to include women in all stages of the work, from ideation, dataset collection, use case development, model creation to the final stages of application "
+"development."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid ""
+"Finally, she highlighted the role of grant-making in making these resources available to the public. Our intention as Mozilla is for these resources to be made openly available with the hope that "
+"local organisations will find use for them in their business operations and/or in their applications. To catalyse the use of the resources, we carried out a call that put up grant funding of up to "
+"50,000 usd per awardee. The call specified an interest in projects in the domains of agriculture and finance. One outstanding application within the legal domain was also selected. You can read more"
+" about the awarded projects <a id=\"a1\">here</a>."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid ""
+"I facilitated the final section of the session, covering how we build AI models for under-resourced languages, particularly for Kiswahili. I spoke about the importance of the dataset in the model "
+"building process and how valuable it is for me as the developer to be involved and able to influence our data collection activities. We monitor and analyse our dataset regularly to ensure we are "
+"maintaining balance in the aspects that matter to us. These are age, gender, dialect/variant and accent, and they will go a long way in helping us ensure the resulting models to not exhibit bias "
+"towards individuals of different demographic groups."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "We discussed building speech recognition models, the opportunities for bias that there are and how we are working to leverage pretrained models from different languages."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid ""
+"We concluded the session with some prompting questions intended to get the participants thinking critically about the work we do and the various implications to the communities that speak these "
+"languages, implications both positive and negative. You can check out the questions below."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "If you have any questions or ideas that you think might benefit our work, we encourage you to reach out to us."
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "How can we engage diverse communities to contribute their voice?"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "Context: Little to no internet access"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "Context: Endangered language (little to no existing resources)"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "Context: Gender and other underrepresented demographics for greater inclusion"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "What are some risks/concerns when encouraging contributions?"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "Context: Data use by corporations"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "Context: Licencing"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "Context: Privacy"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "How can we encourage/build greater community ownership over their language datasets?"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "Who gains the most benefit from the existence of these datasets? And how?"
+msgstr ""
+
+msgctxt "body.91b4bea9-a460-4ed4-8235-6c994c25d62c"
+msgid "What other investments should be made alongside building the datasets that could potentially bring greater benefit to local communities?"
+msgstr ""
+
+msgctxt "title"
+msgid "Opening Up Voice for Global Communities"
+msgstr ""
