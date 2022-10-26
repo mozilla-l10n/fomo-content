@@ -2189,3 +2189,8 @@ reference = "templates/pages/homepage/blog/opening-up-voice-for-global-communiti
 l10n = "locales/{locale}/pages/homepage/blog/opening-up-voice-for-global-communities.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.pot"
+l10n = "locales/{locale}/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.po"
+locales = [ "sw",]
+
