@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-08 16:52:27.987300+00:00\n"
+"PO-Revision-Date: 2022-11-08 17:38+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 30af27e9-d2d3-4f89-93ce-e7066f2a07e9\n"
 
 msgctxt "title"
@@ -28,7 +33,7 @@ msgstr ""
 
 msgctxt "body.0162cb52-20c8-4239-97f6-93463585c0b9.altText"
 msgid "placeholder"
-msgstr ""
+msgstr "reserva de espacio"
 
 msgctxt "body.0162cb52-20c8-4239-97f6-93463585c0b9.text"
 msgid "\"15.7 trillion. The amount AI is predicted to contribute to the global economy by 2030.\""
