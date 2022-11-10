@@ -1555,6 +1555,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/221-me
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/articles.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2162,6 +2167,26 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/mozilla-festival/working-groups.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/working-groups.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/151-mo-mozuch.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/151-mo-mozuch.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/articles/ps5-vs-xbox-series-x-vs-nintendo-switch-which-is-best-for-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/ps5-vs-xbox-series-x-vs-nintendo-switch-which-is-best-for-privacy.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/281-williesha-morris.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/281-williesha-morris.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/articles/should-you-buy-a-video-doorbell.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/should-you-buy-a-video-doorbell.po"
 locales = [ "fr",]
 
 [[paths]]
