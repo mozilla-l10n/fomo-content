@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:31:34.678222+00:00\n"
+"PO-Revision-Date: 2022-11-11 18:32+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 006163fa-b855-4011-97a3-d7ae9a253258\n"
 
 msgctxt "title"
 msgid "Fitbit Sense 2"
-msgstr ""
+msgstr "Fitbit Sense 2"
 
 msgctxt "blurb"
 msgid ""
@@ -101,7 +106,7 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
-msgstr ""
+msgstr "Obwohl Fitbit von Google übernommen wurde, hat das Unternehmen seine eigenen Datenschutzrichtlinien, die relativ einfach formuliert sind."
 
 msgctxt "strong_password_helptext"
 msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
