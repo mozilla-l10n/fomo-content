@@ -1580,6 +1580,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/should-you-b
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/amazon-echo-studio.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-studio.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
