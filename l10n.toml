@@ -1640,6 +1640,21 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-aria-air.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/meta-quest-pro.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/meta-quest-pro.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/meta-quest-2.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/meta-quest-2.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/ray-ban-facebook-stories.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/ray-ban-facebook-stories.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -1822,11 +1837,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/initiatives.pot"
 l10n = "locales/{locale}/pages/homepage/initiatives.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/ray-ban-facebook-stories.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/ray-ban-facebook-stories.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -2227,16 +2237,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/mozilla-festival/working-groups.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/working-groups.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/meta-quest-2.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/meta-quest-2.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/meta-quest-pro.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/meta-quest-pro.po"
 locales = [ "fr",]
 
 [[paths]]
