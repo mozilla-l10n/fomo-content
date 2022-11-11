@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 10:44:37.400262+00:00\n"
-"PO-Revision-Date: 2022-11-11 18:06+0000\n"
+"PO-Revision-Date: 2022-11-11 18:21+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -63,6 +63,11 @@ msgid ""
 " <a id=\"a2\">At least one privacy expert</a> has already warned that the opt-in of sharing facial data might not last long before it comes on by default. We tell consumers that Meta/Facebook isn’t "
 "a company that has earned a lot of trust when it comes to privacy, so we’d say, buyer beware."
 msgstr ""
+"Ce produit marque l’arrivée d’appareils qui utilisent ces caméras pour suivre les mouvements de vos yeux, vos expressions faciales, ainsi que votre corps et votre environnement. Meta déclare dans un"
+" <a id=\"a1\">billet de blog</a> vantant la vie privée du Quest Pro que les fonctions de suivi des yeux et d’expression faciale qui surveillent votre visage en temps réel sont facultatives (qui sait"
+" à quel point le processus pour ne pas activer cette fonction est clair ?). <a id=\"a2\">Au moins un expert en protection de la vie privée</a> a déjà averti que le processus de partage des données "
+"faciales pourrait ne pas rester longtemps désactivé par défaut. Nous informons les consommateurs que Meta/Facebook n’est pas une entreprise qui dispose d’un important capital de confiance en matière"
+" de vie privée, alors nous vous conseillons donc de faire preuve de prudence."
 
 msgctxt "worst_case"
 msgid ""
@@ -84,6 +89,9 @@ msgid ""
 "So, the question comes down to, does Meta/Facebook have your best interests at heart when it collects all the data the Quest Pro is capable of collecting? From <a id=\"a1\">Cambridge Analytica</a> "
 "to where we are today with Mark Zuckerberg’s <a id=\"a2\">hopes for the metaverse</a>, the answer to that question is a resounding NO. We're afraid this device comes with *Privacy Not Included."
 msgstr ""
+"La question qui se pose est la suivante : est-ce que Meta/Facebook défend sincèrement vos intérêts lorsqu’il collecte toutes les données que le Quest Pro est capable de collecter ? De <a "
+"id=\"a1\">Cambridge Analytica</a> à où nous en sommes aujourd’hui avec les <a id=\"a2\">espoirs de Mark Zuckerberg pour le métavers</a>, la réponse à cette question est un NON catégorique. Nous "
+"craignons que cet appareil doivent bien porter la mention *confidentialité non incluse."
 
 msgctxt "worst_case"
 msgid ""
@@ -106,7 +114,7 @@ msgstr "Compte Meta ou Oculus requis. La connexion via Facebook ou Instagram est
 
 msgctxt "how_does_it_use_data_collected"
 msgid "We ding this product for combining data it has on users with data received from third-party advertisers and marketers."
-msgstr ""
+msgstr "Nous attribuons un avertissement à ce produit, car il combine les données des utilisateurs dont il dispose avec des données reçues d’annonceurs tiers et de spécialistes en marketing tiers."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
