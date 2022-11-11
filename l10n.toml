@@ -1157,7 +1157,7 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/nest-video-doorbells.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/nest-video-doorbells.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/withings-body-smart-scales.pot"
@@ -1585,6 +1585,16 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-studio.po
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/google-nest-cams.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-nest-cams.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/google-nest-protect.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-nest-protect.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -1800,18 +1810,8 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-security-cams.po
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/google-nest-cams.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-nest-cams.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/amazon-ring-security-cams.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-ring-security-cams.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/google-nest-protect.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-nest-protect.po"
 locales = [ "fr",]
 
 [[paths]]
