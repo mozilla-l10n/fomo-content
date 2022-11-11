@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 17:19:08.684254+00:00\n"
+"PO-Revision-Date: 2022-11-11 17:32+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 0b69d5a6-3a6b-4969-8dcc-10163d13ec95\n"
 
 msgctxt "title"
 msgid "Meta Quest 2"
-msgstr ""
+msgstr "Meta Quest 2"
 
 msgctxt "blurb"
 msgid ""
@@ -16,6 +21,10 @@ msgid ""
 "mountains, battle bad guys, or have a lightsaber fight with Lord Vader. Just be careful to not get too carried away and break your walls or your neck. Be warned, Facebook still requires you to have "
 "a Facebook account to use the Meta Quest 2. And they can and probably will use that account to generate lots more data about you. That's just what Facebook does."
 msgstr ""
+"Las gafas de realidad virtual Meta Quest 2, de Facebook, permiten jugar juegos dentro del juego o, como <a id=\"a1\">Mark Zuckerberg espera que lo llames</a>, el Metaverso. Sumérgete en la realidad "
+"virtual y escala altas montañas, enfréntate a villanos o lucha con un sable de luz contra Darth Vader. Solo debes tener cuidado de no dejarte llevar demasiado y romper las paredes... o tu cuello. "
+"Atención, Facebook aún requiere que tengas una cuenta de Facebook para usar el Meta Quest 2. Además, la empresa podría usar y probablemente usará esa cuenta para generar muchos más datos sobre ti. "
+"Eso es simplemente lo que hace Facebook."
 
 msgctxt "worst_case"
 msgid ""
@@ -121,7 +130,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Minimize the amount of data shared with your Facebook account"
-msgstr ""
+msgstr "Reduce la cantidad de datos compartidos con tu cuenta de Facebook"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
@@ -129,7 +138,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -137,12 +146,14 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Actualiza tu aplicación con regularidad"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
+"Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
