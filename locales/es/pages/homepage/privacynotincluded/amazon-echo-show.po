@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-12-01 11:05:43.701229+00:00\n"
-"PO-Revision-Date: 2021-12-01 15:16+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2022-11-11 22:11+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -72,6 +72,10 @@ msgid ""
 "Skill, deleting your voice recordings doesn’t delete the data the developer of that Skill collects on you. With <a id=\"a4\">over 100,000 Alexa Skills</a> out there, many of them developed by third "
 "parties, now your data is floating around in places you might never have imagined."
 msgstr ""
+"Y luego están las Skills de Alexa, esas pequeñas aplicaciones que usas para interactuar con ella. Estas son habilidades («skills», en inglés) que puede desarrollar <a id=\"a1\">casi cualquier "
+"persona</a> que tenga la... habilidad. Con <a id=\"a2\">demasiadas de estas skills</a> ocurre que <a id=\"a3\">las políticas de privacidad de terceros son engañosas</a>, incompletas o simplemente "
+"inexistentes, según un estudio reciente. Cuando tus datos son procesados por una Skill de Alexa, la eliminación de tus grabaciones de voz no elimina los datos que el desarrollador de esa Skill "
+"recopila sobre ti. Con <a id=\"a4\">más de 100.000 Alexa Skills</a>, muchas de ellas desarrolladas por terceros, ahora tus datos están circulando por lugares que nunca hubieras imaginado."
 
 msgctxt "worst_case"
 msgid ""
@@ -165,7 +169,7 @@ msgstr "Se necesita una cuenta de Amazon protegida con contraseña para configur
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Amazon has a <a id=\"a1\">bug bounty program</a>."
-msgstr ""
+msgstr "Amazon tiene un <a id=\"a1\">programa de cazadores de bugs</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Manage your <a id=\"a1\">Alexa privacy settings</a>"
@@ -193,7 +197,7 @@ msgstr "Cuando uses las Skills de Alexa, ten en cuenta que no funcionan bajo la 
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set up Anonymous Mode when using the app to protect your data"
-msgstr ""
+msgstr "Para proteger tus datos, configura el modo anónimo cuando uses la aplicación"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
@@ -201,7 +205,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -209,12 +213,14 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Actualiza tu aplicación con regularidad"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
+"Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
@@ -315,6 +321,8 @@ msgid ""
 "In <a id=\"a1\">April 2019</a>, it was revealed that thousands of employees, many of whom are contract workers and some not even directly employed by Amazon, had access to both voice and text "
 "transcripts of Alexa interactions."
 msgstr ""
+"En <a id=\"a1\">abril de 2019</a>, se puso de manifiesto que miles de empleados, muchos de los cuales eran contratistas y algunos ni siquiera eran empleados directos de Amazon, tenían acceso a las "
+"grabaciones y transcripciones de las interacciones de los usuarios con Alexa."
 
 msgctxt "child_safety_blurb"
 msgid ""
