@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:31:34.596803+00:00\n"
+"PO-Revision-Date: 2022-11-11 19:12+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8e37c9b4-6f3e-40de-861f-e250ba4b43c2\n"
 
 msgctxt "title"
 msgid "Google Pixel Watch"
-msgstr ""
+msgstr "Google Pixel Watch"
 
 msgctxt "blurb"
 msgid ""
@@ -212,6 +217,10 @@ msgid ""
 "your account, or give your employer or insurance company access to information when you choose to participate in a wellness program. Remember when you do that, their use of your information will be "
 "governed by their privacy policies and terms."
 msgstr ""
+"Fitbit gibt an, dass sie Daten an ihre verbundenen Unternehmen, Dienstleister und andere Partner weitergeben, die sie für uns auf der Grundlage unserer Anweisungen und in Übereinstimmung mit dieser "
+"Richtlinie und anderen angemessenen Vertraulichkeits- und Sicherheitsmaßnahmen verarbeiten“. Sie können Fitbit auch die Erlaubnis erteilen, Ihre Daten auf andere Weise weiterzugeben, z. B. wenn Sie "
+"einem Dritten Zugang zu Ihrem Konto gewähren oder Ihrem Arbeitgeber oder Ihrer Versicherung Zugang zu den Daten gewähren, wenn Sie sich für die Teilnahme an einem Wellness-Programm entscheiden. "
+"Denken Sie daran, dass in diesem Fall die Verwendung Ihrer Daten den jeweiligen Datenschutzrichtlinien und -bedingungen unterliegt."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -225,11 +234,11 @@ msgstr ""
 
 msgctxt "strong_password_helptext"
 msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
-msgstr ""
+msgstr "Um ein Fitbit-Konto zu erstellen, müssen Benutzer während des Onboardings starke, komplexe Passwörter bereitstellen."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Visit privacy controls to adjust the amount of data collected"
-msgstr ""
+msgstr "Besuchen Sie die Datenschutzeinstellungen, um die Menge der gesammelten Daten anzupassen"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn off personalised advertisement"
@@ -237,15 +246,15 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Visit privacy &amp; security controls to adjust the amount of data collected"
-msgstr ""
+msgstr "Besuchen Sie Datenschutz & Sicherheitskontrollen, um die Menge der gesammelten Daten anzupassen."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time"
-msgstr ""
+msgstr "Löschen Sie Ihre Historie von Zeit zu Zeit."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data"
-msgstr ""
+msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
@@ -253,7 +262,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Wählen Sie ein starkes Passwort! Sie können ein Passwort-Kontroll-Tool wie 1Password, KeePass usw. verwenden."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -261,12 +270,14 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Halten Sie Ihre App regelmäßig auf dem neuesten Stand"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Schränken Sie das Anzeigen-Tracking über Ihr Gerät ein (z. B. auf dem iPhone unter Datenschutz -> Werbung -> Anzeigen-Tracking einschränken) und schalten Sie die größten Werbenetzwerke aus (für "
+"Google gehen Sie zum Google-Konto und deaktivieren Sie die Anzeigenpersonalisierung)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data.\""
@@ -274,15 +285,15 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, date of birth, gender, photo (optional)"
-msgstr ""
+msgstr "Name, Geburtsdatum, Geschlecht, Foto (optional)"
 
 msgctxt "biometric_data_collected"
 msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
-msgstr ""
+msgstr "Herzfrequenz, Bewegung, Schlafdaten, Menstruationszyklus und mehr"
 
 msgctxt "social_data_collected"
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakte"
 
 msgctxt "how_can_you_control_your_data"
 msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
