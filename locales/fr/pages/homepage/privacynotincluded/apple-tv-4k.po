@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-17 16:03:42.716840+00:00\n"
-"PO-Revision-Date: 2022-11-11 13:03+0000\n"
+"PO-Revision-Date: 2022-11-11 13:05+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -82,7 +82,7 @@ msgstr "Un identifiant Apple est requis pour s’inscrire."
 
 msgctxt "how_does_it_use_data_collected"
 msgid "\"Apple does not sell your data including as 'sale' is defined in Nevada and California. \""
-msgstr ""
+msgstr "« Apple ne vend pas vos données, y compris selon la définition de la 'vente' au Nevada et en Californie. »"
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -116,6 +116,8 @@ msgid ""
 "<b>How the company says they may share data with law enforcement:</b><br/><br/>Apple may also disclose information about you if they determine that for purposes of national security, law "
 "enforcement, or other issues of public importance, disclosure is necessary or appropriate."
 msgstr ""
+"<b>Voici comment l’entreprise décrit comment elle peut être amenée à partager des informations avec les autorités :</b><br/><br/>Apple peut également divulguer des informations vous concernant si "
+"elle juge que la divulgation est nécessaire ou appropriée à des fins de sécurité nationale, d’application de la loi ou d’autres affaires d’importance publique."
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid ""
@@ -127,11 +129,11 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr ""
+msgstr "Utilisation du chiffrement en transit et au repos."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Apple has a <a id=\"a1\">bug bounty program</a>."
-msgstr ""
+msgstr "Apple a un <a id=\"a1\">programme de prime aux bugs</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Adjust privacy settings</a> on Apple TV"
@@ -139,11 +141,12 @@ msgstr "<a id=\"a1\">Ajustez les paramètres de confidentialité</a> sur l’App
 
 msgctxt "tips_to_protect_yourself"
 msgid "You can say “Hey Siri, stop listening” to turn off speech recognition for a period of time."
-msgstr ""
+msgstr "Vous pouvez dire « Dis Siri, arrête d’écouter » pour désactiver la reconnaissance vocale pendant un certain temps."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)."
 msgstr ""
+"Utilisez les contrôles de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (ne donnez pas accès à votre caméra, microphone, images et vidéos)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated."
@@ -153,10 +156,12 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
 msgstr ""
+"Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
+" accédez à votre compte Google et désactivez la personnalisation des annonces)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated."
-msgstr ""
+msgstr "Mettez votre application à jour régulièrement"
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
@@ -207,11 +212,15 @@ msgid ""
 "\"Apple understands the importance of safeguarding the personal data of children, which we consider to be an individual under the age of 13 or the equivalent age as specified by law in your "
 "jurisdiction. That is why Apple has implemented additional processes and protections to help keep children's personal data safe."
 msgstr ""
+"« Apple comprend l’importance de protéger les données personnelles des enfants, c’est-à-dire une personne de moins de 13 ans ou d’âge équivalent tel que spécifié par la loi dans votre juridiction. "
+"C’est pourquoi Apple a mis en place des processus et des protections supplémentaires pour protéger les données personnelles des enfants."
 
 msgctxt "child_safety_blurb"
 msgid ""
 "To access certain Apple services, a child must have a child Apple ID. A child Apple ID may be created by the parent or, in the case of a Managed Apple ID, by the child's educational institution.\""
 msgstr ""
+"Pour accéder à certains services Apple, un enfant doit avoir un identifiant Apple. Un identifiant Apple enfant peut être créé par le parent ou, dans le cas d’un identifiant Apple géré, par "
+"l’établissement d’enseignement de l’enfant. »"
 
 msgctxt "ai_helptext"
 msgid "Some of Apple's AI research can be found at <a id=\"a1\">https://machinelearning.apple.com/</a>."
