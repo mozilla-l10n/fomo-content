@@ -11,42 +11,71 @@ msgstr ""
 
 msgctxt "blurb"
 msgid ""
-"Want a smart watch fitness tracker but prefer a round face to Apple Watch's square one? The Garmin Venu has a round face, tracks everything you can possibly image—heart rate, pulse ox, stress, "
-"sleeping, menstrual cycle, and more—and will train you up with on-screen workouts, a coach, and built-in sports apps. It's got it all, and a round face! And if you're into square watch faces, Garmin"
-" Venu comes in those too. Bonus, Garmin does a pretty good job handling all your sensitive information."
+"Want a smart watch fitness tracker but prefer a round face to Apple Watch's square one? The Garmin Venu has a round face, tracks everything you can possibly image--heart rate, pulse ox, stress, "
+"sleeping, menstrual cycle, and more--and will train you up with on-screen workouts, a coach, and built-in sports apps. It's got it all, and a round face! And if you're into square watch faces, "
+"Garmin Venu comes in those too. Bonus, Garmin does a pretty good job handling all your sensitive information."
 msgstr ""
 
 msgctxt "worst_case"
 msgid ""
-"When your *Privacy Not Included researcher wanted to get a fitness tracker, Garmin is what she went with. Garmin seems to do one of the best jobs handling the privacy and security of all the "
-"personal data fitness trackers collect. They did suffer that very public <a id=\"a1\">ransomware attack</a> in 2020. Ransomware attacks suck and it seems no company is safe from them these days."
+"When your *Privacy Not Included researcher wanted to get a fitness tracking smartwatch to see how stressed out reading privacy policies made her, Garmin is what she went with. Because Garmin seems "
+"to do one of the best jobs handling the privacy and security of all the personal data fitness trackers collect, at least according to their really not that stressful <a id=\"a1\">privacy policy</a>."
 msgstr ""
 
 msgctxt "worst_case"
 msgid ""
-"Garmin says they don’t sell your personal data to anyone. This is great. Garmin also seems to do a good job with what data they do share, which doesn’t seem to be too much. They ask for explicit "
-"consent before sharing things like location data for navigation purposes and emails for marketing."
+"Here’s what this privacy researcher likes about Garmin. Yes, they do collect a good bit of personal information through the device and on the Garmin Connect app because that’s what a fitness "
+"tracking smartwatch does. They collect data like email address, device information, location, and all that body related data like physical activity, stress, sleep patterns, heat rate, pulse ox, and "
+"more. The good thing is, yes, they collect it, but they also seem to protect it."
 msgstr ""
 
 msgctxt "worst_case"
 msgid ""
-"Garmin may share or sell de-identified aggregate data collected by the Garmin Connect app with third parties to do things like make their features better or for research purposes. This doesn’t worry"
-" us too much. Although now is a good time to remind you that it’s <a id=\"a1\">been found</a> to be pretty easy to de-anonymize some types of data and track down an individual’s patterns, especially"
-" with location data. If you’re worried about this, you can opt out of using the Garmin Connect app, you’ll just lose a lot of cool data about your sleep, stress, and menstrual cycles if you do."
+"Your “sharing with others” user settings in the Garmin Connect app are set to “private” by default. Which is great. You can choose to share your data with contacts if you wish, but you have to "
+"change your privacy settings to do that. Good work Garmin. Garmin also doesn’t share your personal information for advertising purposes with third parties. They ask you to opt-in rather than opt-out"
+" of consent to receive marketing communications from them. And their privacy policy is actually pretty good at laying out what data they collect, clearly explaining why they collect it, and how it "
+"is used. That’s all worth another, good work Garmin!"
 msgstr ""
 
 msgctxt "worst_case"
 msgid ""
-"Is our researcher happy with her decision to get a Garmin fitness tracker? Yes, she is. Although it does make her a little nervous that she now leaves her <a id=\"a1\">phone's Bluetooth</a> on all "
-"the time. But hey, knowing that body battery score is really cool!"
+"Garmin also seems to do a pretty good job securing the personal information they collect. However, they did suffer that very public <a id=\"a1\">ransomware attack</a> in 2020. Ransomware attacks "
+"suck and it seems no company is safe from them these days. Good news though, no user data was actually compromised in that attack, so, once more, good work Garmin."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Garmin isn’t 100% perfect though. We do ding them because they don’t make it clear in their privacy policy that all users -- regardless of where they live and the privacy laws they live under -- "
+"have the same right to access and delete their data. Garmin told us they don’t deny any user those requests. However, it seems based on the way their privacy policy is worded, they could. Garmin "
+"told us they would revisit the wording in their privacy policy on this issue. Here’s hoping they make an update to clarify that soon."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Is your intrepid privacy researcher happy with her decision to get a Garmin fitness tracker? Yes, she is. Although it does make her a little nervous that she now leaves her <a id=\"a1\">phone's "
+"Bluetooth</a> on all the time. But hey, knowing that body battery score is really cool! What’s the worst that could happen with your fun Garmin fitness tracking smartwatch? Well, hopefully nothing, "
+"but do beware if you link your data to other third party apps like Strava and MyFitnessPal. Those apps come with their own privacy policies and every time you share your personal information with "
+"someone else you increase the vulnerability of that personal information."
+msgstr ""
+
+msgctxt "signup_requirement_explanation"
+msgid "WeChat, QQ, Google, and Apple log-ins available"
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid "Garmin clearly states they don't sell your personal information to anyone. Garmin doesn’t share any data collected from a user’s device unless the user directs them to do so."
 msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
-"Garmin clearly states they don't sell your personal information to anyone. They do say they may share or sell de-identified data collected by the Garmin Connect app: \"\"From time to time, we share "
-"or sell activity data in a de-identified and aggregated manner with or to companies that provide Garmin and our customers with content or features for the purpose of enhancing the quality of the "
-"content or features they provide and with or to other third parties for research or other purposes. Garmins says they will only share most other forms of data like wellness data with a wellness "
-"program provider, location data for navigation purposes or emails for marketing, with your explicit consent."
+"If you choose to authorize Garmin to permit a third party, such as your wellness program provider, or an app, such as MyFitnessPal, Strava, or TrainingPeaks, to access your activity data in your "
+"Garmin account, then they will share such data with the third party."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"<b>How the company says they may share data with law enforcement:</b><br/>Garmin may also share data to comply with legal obligations, such as a valid subpoena, court or judicial order, or other "
+"valid legal process."
 msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
@@ -54,9 +83,7 @@ msgid "Garmin has an easy to find list of all privacy policies. The privacy poli
 msgstr ""
 
 msgctxt "uses_encryption_helptext"
-msgid ""
-"Garmin devices and apps use a combination of asymmetric and symmetric encryption\r"
-"<br/>appropriate to the nature and function of the product, and data stored/transmitted."
+msgid "Garmin devices and apps use a combination of asymmetric and symmetric encryption appropriate to the nature and function of the product, and data stored/transmitted."
 msgstr ""
 
 msgctxt "strong_password_helptext"
@@ -64,7 +91,7 @@ msgid "In order to use companion apps, an account with a strong password is requ
 msgstr ""
 
 msgctxt "tips_to_protect_yourself"
-msgid "Be very careful who you chose to share your Garmin wellness data with."
+msgid "Be very careful who you choose to share your Garmin wellness data with."
 msgstr ""
 
 msgctxt "tips_to_protect_yourself"
@@ -72,7 +99,44 @@ msgid "Adjust your <a id=\"a1\">privacy settings</a> in the Garmin Connect app t
 msgstr ""
 
 msgctxt "tips_to_protect_yourself"
-msgid "Don't connect your Garmin app to any social networks like Facebook."
+msgid "Don't connect your Garmin app to any social networks like Facebook, WeChat, etc."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "When you no longer use the app, go to \"Delete account\" in the app menu."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Turn off precise location sharing!"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Keep your app regularly updated."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid ""
+"Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "When starting a sign-up, do not agree to tracking of your data if possible."
 msgstr ""
 
 msgctxt "personal_data_collected"
@@ -80,7 +144,7 @@ msgid "Name, email address, gender (optional), age (optional), date of birth (op
 msgstr ""
 
 msgctxt "biometric_data_collected"
-msgid "Tracks steps, active minutes, and hours of sleep."
+msgid "Activity data, such as menstrual cycle information, steps, distance, pace, activity time, calories burned, heart rate, sleep, location, golf stats, etc."
 msgstr ""
 
 msgctxt "social_data_collected"
@@ -88,17 +152,37 @@ msgid "You can add friends to see their activity data"
 msgstr ""
 
 msgctxt "how_can_you_control_your_data"
+msgid "It is unclear if all users regardless of location can get their data be deleted."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid "Garmin will retain your personal data as long as your Garmin account is considered to be active or in accordance with applicable law and regulatory obligations."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
 msgid ""
-"Users can delete their data from their devices at any time. Data provided to companion apps and servers is retained for as long as the user’s account is active. Users can delete their data from the "
-"companion apps and services at any time."
+"If you reside in the EEA, U.K., or Switzerland, you have the right, subject to the conditions set out in the General Data Protection Regulation (\"GDPR\") or other applicable law, to request from "
+"Garmin access to and rectification or erasure of your personal data."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"If you do not reside in the EEA, U.K., Switzerland, or mainland China but you believe you have a right to exercise the right to erasure of your data or any other rights under your local laws, please"
+" contact Garmin International, Inc. by email at privacy@garmin.com."
 msgstr ""
 
 msgctxt "track_record_details"
-msgid "They did suffer that very public <a id=\"a1\">ransomware attack</a> in 2020. No user data was compromised during this attack."
+msgid "They did suffer that very <a id=\"a1\">public ransomware attack</a> in 2020. No user data was compromised during this attack."
+msgstr ""
+
+msgctxt "child_safety_blurb"
+msgid ""
+"\"We request individuals under the age of 13 in the U.S. and under the age of 16 in the rest of the world not provide personal data to Garmin. If we learn that we have collected personal data from a"
+" child under the age of 13 in the U.S. or under 16 in the rest of the world, we will take steps to delete the information as soon as possible.\""
 msgstr ""
 
 msgctxt "ai_helptext"
-msgid "Garmin use Machine Learning (ML) to provide personalized insights to customers who wish to receive them as they pursue their fitness and wellness goals."
+msgid "Garmin uses Machine Learning (ML) to provide personalized insights to customers who wish to receive them as they pursue their fitness and wellness goals."
 msgstr ""
 
 msgctxt "ai_what_can_it_do"
