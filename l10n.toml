@@ -2190,6 +2190,36 @@ l10n = "locales/{locale}/pages/mozilla-festival/working-groups.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/fitbit-aria-air.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-aria-air.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/fitbit-versa-4.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-versa-4.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/fitbit-sense-2.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-sense-2.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/fitbit-inspire-3.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-inspire-3.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/meta-quest-2.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/meta-quest-2.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/meta-quest-pro.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/meta-quest-pro.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
