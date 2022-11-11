@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-01-10 10:03:32.716417+00:00\n"
-"PO-Revision-Date: 2022-01-13 12:57+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2022-11-11 16:58+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -70,27 +70,31 @@ msgstr ""
 
 msgctxt "signup_requirement_explanation"
 msgid "WeChat, QQ, Google, and Apple log-ins available"
-msgstr ""
+msgstr "Se puede iniciar sesión desde WeChat, QQ, Google o Apple"
 
 msgctxt "how_does_it_use_data_collected"
 msgid "Garmin clearly states they don't sell your personal information to anyone. Garmin doesn’t share any data collected from a user’s device unless the user directs them to do so."
-msgstr ""
+msgstr "Garmin afirma claramente que no venden tu información personal a nadie. Garmin no comparte ningún dato recopilado del dispositivo de un usuario a menos que el usuario le indique que lo haga."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
 "If you choose to authorize Garmin to permit a third party, such as your wellness program provider, or an app, such as MyFitnessPal, Strava, or TrainingPeaks, to access your activity data in your "
 "Garmin account, then they will share such data with the third party."
 msgstr ""
+"Si decides autorizar a Garmin para que permita que un tercero, como su proveedor de programas de bienestar, o una aplicación, como MyFitnessPal, Strava o TrainingPeaks, accedan a los datos de tu "
+"actividad en tu cuenta de Garmin, compartirán esos datos con el tercero."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
 "<b>How the company says they may share data with law enforcement:</b><br/>Garmin may also share data to comply with legal obligations, such as a valid subpoena, court or judicial order, or other "
 "valid legal process."
 msgstr ""
+"<b>Cómo la empresa dice que puede compartir datos con los organismos de seguridad:</b><br/>Garmin también puede compartir datos para cumplir con obligaciones legales tales como una citación legal, "
+"una orden judicial u otro proceso legal válido."
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Garmin has an easy to find list of all privacy policies. The privacy policies are relatively simple to read."
-msgstr ""
+msgstr "Garmin tiene una lista fácil de encontrar, con todas sus políticas de privacidad. Las políticas de privacidad son relativamente sencillas de leer."
 
 msgctxt "uses_encryption_helptext"
 msgid "Garmin devices and apps use a combination of asymmetric and symmetric encryption appropriate to the nature and function of the product, and data stored/transmitted."
@@ -103,7 +107,7 @@ msgstr "Para utilizar aplicaciones complementarias, se requiere una cuenta con u
 
 msgctxt "tips_to_protect_yourself"
 msgid "Be very careful who you choose to share your Garmin wellness data with."
-msgstr ""
+msgstr "Ten mucho cuidado al elegir con quién compartes tus datos de bienestar de Garmin."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Adjust your <a id=\"a1\">privacy settings</a> in the Garmin Connect app to suit your comfort level."
@@ -111,28 +115,31 @@ msgstr "Ajusta tu <a id=\"a1\">configuración de privacidad</a> en la aplicació
 
 msgctxt "tips_to_protect_yourself"
 msgid "Don't connect your Garmin app to any social networks like Facebook, WeChat, etc."
-msgstr ""
+msgstr "No conectes tu aplicación de Garmin a ninguna red social como Facebook, WeChat, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When you no longer use the app, go to \"Delete account\" in the app menu."
-msgstr ""
+msgstr "Cuando dejes de usar la app, dirígete a «Eliminar cuenta» en el menú de la aplicación."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn off precise location sharing!"
-msgstr ""
+msgstr "¡Desactiva la función de compartir ubicación precisa!"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)."
 msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated."
-msgstr ""
+msgstr "Actualiza tu aplicación con regularidad."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
 msgstr ""
+"Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
+"Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
@@ -140,7 +147,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc."
-msgstr ""
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
@@ -152,11 +159,11 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, email address, gender (optional), age (optional), date of birth (optional), photos (optional)"
-msgstr ""
+msgstr "Nombre, correo electrónico, sexo (opcional), edad (opcional), fecha de nacimiento (opcional), fotos (opcional)"
 
 msgctxt "biometric_data_collected"
 msgid "Activity data, such as menstrual cycle information, steps, distance, pace, activity time, calories burned, heart rate, sleep, location, golf stats, etc."
-msgstr ""
+msgstr "Datos de actividad, como información del ciclo menstrual, pasos, distancia, ritmo, tiempo de actividad, calorías quemadas, frecuencia cardíaca, sueño, ubicación, estadísticas de golf, etc."
 
 msgctxt "social_data_collected"
 msgid "You can add friends to see their activity data"
@@ -168,19 +175,23 @@ msgstr ""
 
 msgctxt "how_can_you_control_your_data"
 msgid "Garmin will retain your personal data as long as your Garmin account is considered to be active or in accordance with applicable law and regulatory obligations."
-msgstr ""
+msgstr "Garmin retendrá tus datos personales mientras se considere que tu cuenta de Garmin está activa o de acuerdo con la ley y las obligaciones reglamentarias aplicables."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
 "If you reside in the EEA, U.K., or Switzerland, you have the right, subject to the conditions set out in the General Data Protection Regulation (\"GDPR\") or other applicable law, to request from "
 "Garmin access to and rectification or erasure of your personal data."
 msgstr ""
+"Si resides en el EEE, el Reino Unido o Suiza, tienes derecho, sujeto a las condiciones establecidas en el Reglamento General de Protección de Datos («RGPD») u otras leyes aplicables, a solicitar a "
+"Garmin el acceso, la rectificación o la eliminación de tus datos personales."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
 "If you do not reside in the EEA, U.K., Switzerland, or mainland China but you believe you have a right to exercise the right to erasure of your data or any other rights under your local laws, please"
 " contact Garmin International, Inc. by email at privacy@garmin.com."
 msgstr ""
+"Si no resides en el EEE, el Reino Unido, Suiza o China continental, pero crees que tienes derecho a la eliminación de tus datos o a ejercer cualquier otro derecho bajo las leyes del lugar en que "
+"vives, comunícate con Garmin International, Inc. por correo electrónico a privacy@garmin.com."
 
 msgctxt "track_record_details"
 msgid "They did suffer that very public <a id=\"a1\">ransomware attack</a> in 2020. No user data was compromised during this attack."
@@ -191,10 +202,12 @@ msgid ""
 "\"We request individuals under the age of 13 in the U.S. and under the age of 16 in the rest of the world not provide personal data to Garmin. If we learn that we have collected personal data from a"
 " child under the age of 13 in the U.S. or under 16 in the rest of the world, we will take steps to delete the information as soon as possible.\""
 msgstr ""
+"«Solicitamos que las personas menores de 13 años en los EE. UU. y menores de 16 años en el resto del mundo no proporcionen sus datos personales a Garmin. Si entramos en conocimiento de que hemos "
+"recopilado datos personales de un menor de 13 años en los EE. UU. o de un menor de 16 años en el resto del mundo, tomaremos las medidas necesarias para eliminar la información lo antes posible»."
 
 msgctxt "ai_helptext"
 msgid "Garmin uses Machine Learning (ML) to provide personalized insights to customers who wish to receive them as they pursue their fitness and wellness goals."
-msgstr ""
+msgstr "Garmin utiliza aprendizaje automático para proporcionar información personalizada a los clientes que desean recibirla, mientras persiguen sus objetivos de fitness y bienestar."
 
 msgctxt "ai_what_can_it_do"
 msgid "Garmin says in their privacy policy, \"Garmin does not make any decisions based on algorithms or other automated processing that significantly affect you.\""

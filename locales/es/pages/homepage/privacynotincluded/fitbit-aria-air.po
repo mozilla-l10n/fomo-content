@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 14:32:38.326704+00:00\n"
+"PO-Revision-Date: 2022-11-11 17:03+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 6e1135ea-b611-4b91-8f56-e6680f0abd35\n"
 
 msgctxt "title"
 msgid "Fitbit Aria Air"
-msgstr ""
+msgstr "Fitbit Aria Air"
 
 msgctxt "blurb"
 msgid ""
@@ -95,21 +100,23 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
-msgstr ""
+msgstr "A pesar de haber sido adquirido por Google, Fitbit mantiene su propia política de privacidad, escrita en un lenguaje relativamente simple."
 
 msgctxt "strong_password_helptext"
 msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
-msgstr ""
+msgstr "Para crear una cuenta de Fitbit, los usuarios deben proporcionar contraseñas seguras y complejas durante el proceso de registro."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Follow <a id=\"a1\">Fitbit's advice</a> to keep your stats private"
-msgstr ""
+msgstr "Sigue los <a id=\"a1\">consejos de Fitbit</a> para mantener tus estadísticas privadas"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Be very careful what third party companies you consent to share you health data with. If you do decided to share your health data with another company, read their privacy policy to see how they "
 "protect, secure, and share or sell your data."
 msgstr ""
+"Ten mucho cuidado con las empresas de terceros a las que das consentimiento para compartir tus datos de salud. Si decides compartir tus datos de salud con otra empresa, lee su política de privacidad"
+" para saber cómo protegen, aseguran y comparten o venden tus datos."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
@@ -117,7 +124,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -125,12 +132,14 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Actualiza tu aplicación con regularidad"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
+"Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
@@ -142,7 +151,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, date of birth, gender, photo (optional)"
-msgstr ""
+msgstr "Nombre, fecha de nacimiento, sexo, foto (opcional)"
 
 msgctxt "biometric_data_collected"
 msgid "Weight, body mass index, body fat, visceral fat"
@@ -150,7 +159,7 @@ msgstr ""
 
 msgctxt "social_data_collected"
 msgid "Fitbit connections"
-msgstr ""
+msgstr "Conexiones a Fitbit"
 
 msgctxt "how_can_you_control_your_data"
 msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days"
