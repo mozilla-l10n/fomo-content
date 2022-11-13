@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:32:04.092082+00:00\n"
+"PO-Revision-Date: 2022-11-13 17:40+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: b6d62af5-081e-4bb6-8ed7-8f0a602dc20e\n"
 
 msgctxt "title"
 msgid "Amazon Echo Show"
-msgstr ""
+msgstr "Amazon Echo Show"
 
 msgctxt "blurb"
 msgid ""
@@ -145,7 +150,7 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr ""
+msgstr "Usa criptografia em trânsito e em repouso."
 
 msgctxt "strong_password_helptext"
 msgid "Password-protected Amazon account is needed to set up Alexa."
@@ -181,7 +186,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set up Anonymous Mode when using the app to protect your data"
-msgstr ""
+msgstr "Configure o Modo Anônimo ao usar o aplicativo para proteger seus dados"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
@@ -189,7 +194,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Escolha uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -197,12 +202,14 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Mantenha seu aplicativo atualizado regularmente"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limitar rastreamento de anúncios) e as maiores redes de anúncios (para o "
+"Google, vá para a Conta do Google e desative a personalização de anúncios)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
