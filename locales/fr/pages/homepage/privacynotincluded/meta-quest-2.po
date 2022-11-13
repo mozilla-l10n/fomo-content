@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 10:44:37.325494+00:00\n"
-"PO-Revision-Date: 2022-11-11 16:16+0000\n"
+"PO-Revision-Date: 2022-11-13 11:40+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -59,6 +59,9 @@ msgid ""
 "So, the question comes down to, does Meta/Facebook have your best interests at heart when it collects all the data this device is capable of collecting? From <a id=\"a1\">Cambridge Analytica</a> to "
 "where we are today, the answer to that question is a resounding NO. We're afraid these devices come with *Privacy Not Included."
 msgstr ""
+"La question qui se pose est la suivante : est-ce que Meta/Facebook défend sincèrement vos intérêts lorsqu’il collecte toutes les données que cet appareil est capable de collecter ? De <a "
+"id=\"a1\">Cambridge Analytica</a> à où nous en sommes aujourd’hui, la réponse à cette question est un NON catégorique. Nous craignons que ces appareils doivent bien porter la mention "
+"*confidentialité non incluse."
 
 msgctxt "worst_case"
 msgid ""
@@ -81,7 +84,7 @@ msgstr "Compte Meta ou Oculus requis. La connexion via Facebook ou Instagram est
 
 msgctxt "how_does_it_use_data_collected"
 msgid "We ding this product for combining data it has on users with data received from third-party advertisers and marketers."
-msgstr ""
+msgstr "Nous attribuons un avertissement à ce produit, car il combine les données des utilisateurs dont il dispose avec des données reçues d’annonceurs tiers et de spécialistes en marketing tiers."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
