@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:17:42.050866+00:00\n"
-"PO-Revision-Date: 2021-11-29 16:46+0000\n"
-"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"PO-Revision-Date: 2022-11-14 09:42+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -132,6 +132,8 @@ msgstr ""
 msgctxt "how_does_it_use_data_collected"
 msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization."
 msgstr ""
+"Google sagt, dass Videomaterial, Audioaufzeichnungen und Sensormesswerte der häuslichen Umgebung getrennt von Werbung aufbewahrt und diese Daten nicht für die Personalisierung von Anzeigen verwendet"
+" werden."
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Google provides useful privacy information."
@@ -143,7 +145,7 @@ msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Google has a <a id=\"a1\">Security Rewards program</a>."
-msgstr ""
+msgstr "Google hat ein <a id=\"a1\">Sicherheitsprämienprogramm</a>."
 
 msgctxt "privacy_policy_helptext"
 msgid "Google has several privacy pages explaining its approach to privacy in simple language."
@@ -167,11 +169,13 @@ msgstr "Richten Sie einen Passcode für die Zahlungsauthentifizierung ein."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Visit privacy controls to adjust the amount of data collected"
-msgstr ""
+msgstr "Besuchen Sie die Datenschutzeinstellungen, um die Menge der gesammelten Daten anzupassen"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said"
 msgstr ""
+"Löschen Sie Ihre Historie von Zeit zu Zeit. Sie können dies tun, indem Sie sagen: „Ok Google, lösche die Aktivitäten dieser Woche“ oder „hey Google, das war nichts für dich“, um das letzte Gesagte "
+"zu löschen."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn off personalised advertisement"
@@ -179,7 +183,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data."
-msgstr ""
+msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
@@ -187,7 +191,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Wählen Sie ein starkes Passwort! Sie können ein Passwort-Kontroll-Tool wie 1Password, KeePass usw. verwenden."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -195,12 +199,14 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Halten Sie Ihre App regelmäßig auf dem neuesten Stand"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Schränken Sie das Anzeigen-Tracking über Ihr Gerät ein (z. B. auf dem iPhone unter Datenschutz -> Werbung -> Anzeigen-Tracking einschränken) und schalten Sie die größten Werbenetzwerke aus (für "
+"Google gehen Sie zum Google-Konto und deaktivieren Sie die Anzeigenpersonalisierung)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data.\""
@@ -219,6 +225,9 @@ msgid ""
 "Google provides various privacy controls, accessible via Google Privacy tools. There are several clearly defined ways to delete personal data, including deleting data from Nest app or deleting a "
 "whole Google Account. An autotimer can be set up for 3 or 18 months. The retention details are also listed in the Policy."
 msgstr ""
+"Google bietet verschiedene Datenschutzkontrollen, auf die über die Google-Datenschutztools zugegriffen werden kann. Es gibt mehrere klar definierte Möglichkeiten, personenbezogene Daten zu löschen, "
+"darunter das Löschen von Daten aus der Nest-App oder das Löschen eines ganzen Google-Kontos. Ein Auto-Timer kann für 3 oder 18 Monate eingestellt werden. Die Aufbewahrungsdetails sind auch in der "
+"Datenschutzerklärung aufgeführt."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
