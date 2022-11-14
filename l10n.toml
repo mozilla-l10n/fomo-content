@@ -1232,17 +1232,17 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/garmin-vivoactive.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-vivoactive.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/garmin-forerunner-series.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-forerunner-series.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/garmin-venu.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/garmin-venu.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-watch4.pot"
