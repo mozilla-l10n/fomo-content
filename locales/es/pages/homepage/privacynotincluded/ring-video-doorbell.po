@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:31.136676+00:00\n"
-"PO-Revision-Date: 2021-12-01 09:16+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2022-11-14 10:23+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -137,11 +137,11 @@ msgstr "<a id=\"a1\">Revisa</a> si tu dirección está expuesta en la aplicació
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Don't shar</a>e your login-in information"
-msgstr ""
+msgstr "<a id=\"a1\">No compartas</a> tus datos de inicio de sesión"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review sharing options for your data if you have multiple people in the neighborhood"
-msgstr ""
+msgstr "Si tienes varias personas en el vecindario, revisa las opciones para compartir tus datos"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Make sure you are comfortable with the fact that local police may require the footage. Think about all of the personal events cameras inside and outside of your home will capture."
@@ -165,7 +165,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -173,12 +173,14 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Actualiza tu aplicación con regularidad"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
+"Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
@@ -216,6 +218,8 @@ msgid ""
 "In addition, law enforcement can make a video request in the Neighbors app to ask the community to assist in an investigation. Police who download videos from customer cameras may be able to keep "
 "them indefinite<a id=\"a1\">ly,</a> <a id=\"a2\">depending on local</a> laws."
 msgstr ""
+"Además, las fuerzas del orden podrían presentar una solicitud de vídeos en la aplicación Neighbors para pedirle a la comunidad que colabore en una investigación. Es posible que si la policía "
+"descarga vídeos de las cámaras de los usuarios pueda conservarlos <a id=\"a1\">indefinidamente</a>, <a id=\"a2\">según lo permitan las leyes locales.</a>"
 
 msgctxt "track_record_details"
 msgid ""
