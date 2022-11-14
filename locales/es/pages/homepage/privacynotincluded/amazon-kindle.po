@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:32.360030+00:00\n"
-"PO-Revision-Date: 2022-11-14 15:12+0000\n"
+"PO-Revision-Date: 2022-11-14 15:13+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -74,6 +74,10 @@ msgid ""
 "Skill, deleting your voice recordings doesn’t delete the data the developer of that Skill collects on you. With <a id=\"a4\">over 100,000 Alexa Skills</a> out there, many of them developed by third "
 "parties, now your data is floating around in places you might never have imagined."
 msgstr ""
+"Y luego están las Skills de Alexa, esas pequeñas aplicaciones que usas para interactuar con ella. Estas son habilidades («skills», en inglés) que puede desarrollar <a id=\"a1\">casi cualquier "
+"persona</a> que tenga la... habilidad. Con <a id=\"a2\">demasiadas de estas skills</a> ocurre que <a id=\"a3\">las políticas de privacidad de terceros son engañosas</a>, incompletas o simplemente "
+"inexistentes, según un estudio reciente. Cuando tus datos son procesados por una Skill de Alexa, la eliminación de tus grabaciones de voz no elimina los datos que el desarrollador de esa Skill "
+"recopila sobre ti. Con <a id=\"a4\">más de 100.000 Alexa Skills</a>, muchas de ellas desarrolladas por terceros, ahora tus datos están circulando por lugares que nunca hubieras imaginado."
 
 msgctxt "worst_case"
 msgid ""
@@ -153,7 +157,7 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Amazon has a <a id=\"a1\">bug bounty program</a>."
-msgstr ""
+msgstr "Amazon tiene un <a id=\"a1\">programa de cazadores de bugs</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review your <a id=\"a1\">privacy setting and opt out</a> of as much data collection and processing as you feel comfortable with."
@@ -169,15 +173,15 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data."
-msgstr ""
+msgstr "Cuando inicies el registro, no aceptes el seguimiento de tus datos."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "No te registres a través de cuentas de terceros. Es mejor que inicies sesión con un correo electrónico y una contraseña segura."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -209,6 +213,9 @@ msgid ""
 " choose to not save any voice recordings, at the cost of some features. If you choose not to have any voice recordings saved, the text transcripts of your requests will be still retained for 30 "
 "days, after which they will be automatically deleted."
 msgstr ""
+"Puedes revisar y eliminar tus grabaciones de voz, una por una, por rango de fechas o todas a la vez. También puedes configurar la eliminación automática y eliminar automáticamente las grabaciones de"
+" más de 3 a 18 meses. Puedes optar por no guardar ninguna grabación de voz, a costa de perder algunas funciones. Si decides no guardar ninguna grabación de voz, las transcripciones de texto de tus "
+"solicitudes se conservarán durante 30 días, y después se eliminarán automáticamente."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
@@ -256,7 +263,7 @@ msgstr "En <a id=\"a1\">octubre de 2020</a>, Amazon despidió a uno de sus emple
 
 msgctxt "track_record_details"
 msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorythm."
-msgstr ""
+msgstr "En <a id=\"a1\">octubre de 2019</a>, Forbes informó que los empleados de Amazon escuchaban las grabaciones realizadas por Amazon Cloud Cam para entrenar sus algoritmos de IA."
 
 msgctxt "track_record_details"
 msgid ""
