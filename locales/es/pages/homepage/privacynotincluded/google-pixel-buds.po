@@ -1,20 +1,21 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2022-11-11 13:32:03.929413+00:00\n"
+"POT-Creation-Date: 2022-11-15 09:09:58.542315+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 4a7c16db-833b-4008-87d8-8314aefa5de3\n"
+"X-WagtailLocalize-TranslationID: 003b9eac-c2fb-4047-a43a-dc12e940287f\n"
 
 msgctxt "title"
-msgid "Google Nest Learning Thermostat"
+msgid "Google Pixel Buds"
 msgstr ""
 
 msgctxt "blurb"
 msgid ""
-"Learning is fun! Owning a thermostat that learns all about how warm and cool you like your house is maybe fun too? According to Google, use this thermostat for a week and it'll adapt to you. The app"
-" lets you control the temperature in your home from anywhere and sends alerts when things don't look quite right. It'll even let you know when it's time to change your furnace filter. Best of all, "
-"that learning can help save energy and money. The big question is, can it learn whose side to pick when you like it hot and your partner likes it cold?"
+"Google's Pixel Buds include the A-Series and the higher end Pro version. These little guys include features like high quality audio, adaptive sound that adjusts to your surroundings, sensors and "
+"mics that can pick your voice up in a crowd. They even work directly with Google Translate to give you real-time translation right in your ears of languages spoken around you. Push a button, say, "
+"\"Hey Google, help me speak French,\" and then speak in your normal language. Then your phone will translate to French for you. Groovy, although we know how funky Google Translate can get so, you "
+"know, just be careful with your French."
 msgstr ""
 
 msgctxt "worst_case"
@@ -61,11 +62,11 @@ msgstr ""
 
 msgctxt "worst_case"
 msgid ""
-"What’s the worst that could happen? Well, If you don't take the time to lock down all your privacy settings, it's possible Google can get to know you really well, maybe too well. Maybe they "
-"recognize you from all the times you ordered plain cheese pizza. They know you are single because who orders plain cheese pizza? Just kidding, they know you're single because of all those pedicure "
-"appointments you've booked for one. Maybe it's OK Google knows you so well? Maybe it's creepy. (OK, we think it’s pretty creepy). What’s even creepier these days is the possibility that your Google "
-"searches and location information and more could potentially be used to <a id=\"a1\">harass, arrest, and even prosecute</a> people in the United States seeking reproductive health care. That’s not "
-"just creepy, that’s downright harmful."
+"What’s the worst that could happen? Well, If you don't take the time to lock down all your privacy settings, it's possible Google could know that you like to listen to Taylor Swift on repeat and "
+"order lots of ice cream from the store. Based on that, Google decides you must be sad and starts showing you ads for homeopathic mood boosters. You try one, it doesn't work, but now you're on the "
+"mailing list of every weird vitamin company out there. Maybe it's OK Google knows you so well? Maybe it's creepy. (OK, we think it’s pretty creepy). What’s even creepier these days is the "
+"possibility that your Google searches and location information and more could potentially be used to <a id=\"a1\">harass, arrest, and even prosecute</a> people in the United States seeking "
+"reproductive health care. That’s not just creepy, that’s downright harmful."
 msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
@@ -121,11 +122,11 @@ msgid "Google says they keep video footage, audio recordings, and home environme
 msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
-msgid "Google provides a page with privacy information about Nest."
+msgid "Google provides useful privacy information."
 msgstr ""
 
 msgctxt "uses_encryption_helptext"
-msgid "Encryption in transit and at rest."
+msgid "Uses encryption in transit and at rest."
 msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
@@ -133,23 +134,7 @@ msgid "Google has a <a id=\"a1\">Security Rewards program</a>."
 msgstr ""
 
 msgctxt "tips_to_protect_yourself"
-msgid "Visit privacy controls to adjust the amount of data collected"
-msgstr ""
-
-msgctxt "tips_to_protect_yourself"
-msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said"
-msgstr ""
-
-msgctxt "tips_to_protect_yourself"
-msgid "Turn off personalised advertisement"
-msgstr ""
-
-msgctxt "tips_to_protect_yourself"
-msgid "Review Nest privacy tips: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
-msgstr ""
-
-msgctxt "tips_to_protect_yourself"
-msgid "When starting a sign-up, do not agree to tracking of your data"
+msgid "Consider using your headphones without connecting it to an app. This way, you may decrease amount of data collected"
 msgstr ""
 
 msgctxt "tips_to_protect_yourself"
@@ -174,11 +159,19 @@ msgid ""
 msgstr ""
 
 msgctxt "tips_to_protect_yourself"
-msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data"
+msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "When starting a sign-up, do not agree to tracking of your data if possible."
 msgstr ""
 
 msgctxt "personal_data_collected"
-msgid "Name, email, phone number, address."
+msgid "Name, email, phone number"
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "Voice recordings"
 msgstr ""
 
 msgctxt "how_can_you_control_your_data"
@@ -252,7 +245,7 @@ msgid ""
 msgstr ""
 
 msgctxt "ai_helptext"
-msgid "Google publishes academic papers about it's <a id=\"a1\">AI research</a> and makes several tools available via open source."
+msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
 msgstr ""
 
 msgctxt "ai_what_can_it_do"

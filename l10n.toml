@@ -1107,7 +1107,7 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/apple-airtag.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/apple-airtag.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/sony-wf-1000xm4.pot"
@@ -1682,6 +1682,11 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/fitbit-charge-5.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-charge-5.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/google-pixel-buds.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-pixel-buds.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
