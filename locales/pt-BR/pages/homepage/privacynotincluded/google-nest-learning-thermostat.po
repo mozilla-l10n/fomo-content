@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:32:03.929413+00:00\n"
-"PO-Revision-Date: 2022-11-15 22:13+0000\n"
+"PO-Revision-Date: 2022-11-15 22:15+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -53,6 +53,10 @@ msgid ""
 "sure we’ve all seems ads based on sensitive things about us that felt pretty creepy. And Google says they won’t use content from your Google Drive, Email, or Photos to personalize ads. We sure hope "
 "not."
 msgstr ""
+"É claro que o Google usa suas informações pessoais para vender aqueles anúncios direcionados e personalizados que você vê em todos os lugares, como no Gmail, no seu aplicativo de paciência favorito,"
+" sites parceiros e no YouTube. Sim, os anúncios estão em todos os lugares. No entanto, o Google afirma que não usará coisas como sua orientação sexual, raça e saúde para mostrar-lhe anúncios... e só"
+" nos resta acreditar neles. Tenho certeza de que todos nós já vimos anúncios baseados em assuntos privados sobre nós que pareceram bastante assustadores. E o Google diz que não vai usar o conteúdo "
+"de seu Google Drive, e-mail ou fotos para personalizar os anúncios. Nós com certeza esperamos que não."
 
 msgctxt "worst_case"
 msgid ""
@@ -205,7 +209,7 @@ msgstr "Leia as dicas de privacidade do Nest: <a id=\"a1\">https://support.googl
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data"
-msgstr ""
+msgstr "Ao iniciar uma inscrição, não concorde com o rastreamento de seus dados."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
@@ -229,14 +233,16 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limite o rastreamento de anúncios) e as maiores redes de anúncios (para o"
+" Google, vá para a Conta do Google e desative a personalização de anúncios)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data"
-msgstr ""
+msgstr "Se decidir parar de usar o aplicativo, solicite que seus dados sejam excluídos. Apenas excluir o aplicativo do seu dispositivo não apagará seus dados pessoais da base da empresa."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address."
-msgstr ""
+msgstr "Nome, e-mail, número de telefone, endereço"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
