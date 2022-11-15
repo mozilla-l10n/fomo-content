@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-15 09:19:56.427175+00:00\n"
+"PO-Revision-Date: 2022-11-15 09:32+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 84d33845-c655-4166-86b7-333959a4a43b\n"
 
 msgctxt "title"
 msgid "Sonos Smart Speakers"
-msgstr ""
+msgstr "Enceintes connectées Sonos"
 
 msgctxt "blurb"
 msgid ""
@@ -83,60 +88,66 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr ""
+msgstr "Utilisation du chiffrement en transit et au repos."
 
 msgctxt "security_updates_helptext"
 msgid "Automatic updates are enabled by default."
-msgstr ""
+msgstr "Mises à jour automatiques autorisées par défaut."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Sonos does not have an official bug bounty program, but invites responsible disclosure of security bugs."
-msgstr ""
+msgstr "Sonos ne dispose pas d’un programme de prime aux bugs, mais encourage le signalement responsable des bugs en matière de sécurité."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use Sonos own voice assistant instead of Alexa or Google Assistant"
-msgstr ""
+msgstr "Utilisez l’assistant vocal de Sonos au lieu d’Alexa ou de Google Assistant"
 
 msgctxt "tips_to_protect_yourself"
 msgid "If you are using Amazon Alexa or Google Assistant, adjust the respective privacy settings of the service."
-msgstr ""
+msgstr "Si vous utilisez Amazon Alexa ou Google Assistant, ajustez les paramètres de confidentialité respectifs du service."
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Opt out</a> of additional usage data collection"
-msgstr ""
+msgstr "<a id=\"a1\">Désactivez</a> la collecte de données d’utilisation supplémentaires"
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data."
-msgstr ""
+msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Ne vous inscrivez pas avec un compte tiers. Il vaut mieux vous connecter avec un e-mail et un mot de passe compliqué."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Choisissez un mot de passe compliqué. Vous pouvez utiliser un gestionnaire de mots de passe comme 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utilisez les contrôles de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (ne donnez pas accès à votre caméra, microphone, images et "
+"emplacement, sauf si nécessaire)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Mettez votre application à jour régulièrement"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
+" accédez à votre compte Google et désactivez la personnalisation des annonces)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Demandez que vos données soient supprimées une fois que vous avez cessé d’utiliser l’application. La simple suppression d’une application de votre appareil n’efface généralement pas vos données "
+"personnelles."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, password"
-msgstr ""
+msgstr "Nom, adresse e-mail, numéro de téléphone, mot de passe"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
