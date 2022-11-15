@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 17:19:00.097328+00:00\n"
-"PO-Revision-Date: 2022-11-11 22:21+0000\n"
+"PO-Revision-Date: 2022-11-15 10:40+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -136,7 +136,7 @@ msgstr "Minimieren Sie die Datenmenge, die über Ihr Facebook-Konto geteilt wird
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Melden Sie sich nicht mit Konten von Drittanbietern an. Melden Sie sich am besten einfach mit E-Mail und starkem Passwort an."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
@@ -145,6 +145,8 @@ msgstr "Wählen Sie ein starkes Passwort! Sie können ein Passwort-Kontroll-Tool
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Verwenden Sie die Datenschutzeinstellungen Ihres Geräts, um den Zugriff auf Ihre personenbezogenen Daten über die App zu beschränken (geben Sie keinen Zugriff auf Ihre Kamera, Ihr Mikrofon, Ihre "
+"Bilder und Standort, außer es ist notwendig)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
@@ -160,10 +162,12 @@ msgstr ""
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Verlangen Sie, dass Ihre Daten gelöscht werden, sobald Sie die App nicht mehr verwenden. Durch das einfache Löschen einer App von Ihrem Gerät werden Ihre persönlichen Daten gewöhnlich nicht "
+"gelöscht."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu, falls möglich."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set up your Facebook account's <a id=\"a1\">privacy settings</a>"
