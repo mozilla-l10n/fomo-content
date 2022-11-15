@@ -314,16 +314,6 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ "escuchando en tu teléfono o tablet a la tele, y el nuevo Google TV pone todo el contenido de tus servicios de streaming en la pantalla en un solo lugar. Basta con decir «Ok Google, enséñame comedias"
 #~ " románticas» y todas las que hay en Netflix, Hulu o Amazon Prime, por ejemplo, aparecerán en tu pantalla. Una genialidad."
 
-#~ msgctxt "blurb"
-#~ msgid ""
-#~ "\"Hey Google!\" That will become your new favorite saying if you go the route of Chromecast with Google TV. This little dongle lets you stream what you're watching or listening to on your phone or "
-#~ "tablet to your TV. And Google TV puts all the content from all your streaming services on the screen in one place. Just say, \"Hey Google, show me rom coms,\" and all the rom coms from Netflix, "
-#~ "Hulu, Amazon Prime, and more will appear on screen. Nifty."
-#~ msgstr ""
-#~ "«¡OK, Google!» Ese se convertirá en tu nuevo dicho favorito si sigues la ruta de Chromecast con Google TV. Este pequeño dongle te permite transmitir al televisor lo que estás viendo o escuchando en "
-#~ "tu teléfono o tableta. Google TV reúne todo el contenido de todos tus servicios de transmisión en la pantalla. Simplemente debes decir «¡OK, Google, muéstrame comedias románticas!», y todas las "
-#~ "comedias románticas de Netflix, Hulu, Amazon Prime (y más) aparecerán en la pantalla. Ingenioso."
-
 #~ msgctxt "price"
 #~ msgid "49.99"
 #~ msgstr "49,99"
@@ -341,6 +331,42 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ "cantidad de información que pueden recopilar. Es cierto que lleva bastante tiempo cambiar los ajustes en las apps, el teléfono y el ordenador para proteger tu privacidad, pero si no lo haces, es "
 #~ "posible que Google llegue a conocerte muy bien, quizás demasiado. Puede que te reconozcan por todas las veces que has pedido pizza margarita. Y que sepan que no tienes pareja (¿quién pide pizza "
 #~ "margarita?). Es broma, saben que no tienes pareja por todas las pedicuras que has reservado para uno. Puede que dé igual que Google te conozca tan bien. O puede que dé yuyu..."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "Google says that your personal data is never sold to third parties."
+#~ msgstr "Google asevera que nunca vende tus datos personales a terceros."
+
+#~ msgctxt "manage_vulnerabilities_helptext"
+#~ msgid "Google has a Security Rewards program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://www.google.com/about/appsecurity/programs-home/"
+#~ msgstr ""
+#~ "Google tiene un programa de recompensas de seguridad (Security Rewards), con lo que todas las personas que detecten algún problema de seguridad y se lo notifique de forma responsable podrían recibir"
+#~ " un pago por ello: https://www.google.com/about/appsecurity/programs-home/"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "You can review and delete your data via the Google Privacy Dashboard."
+#~ msgstr "Puedes revisar y borrar tus datos a través del Panel de Control de Privacidad de Google."
+
+#~ msgctxt "track_record_details"
+#~ msgid ""
+#~ "In 2018, personal information was exposed in several incidents, resulting from access by app developers, exposure by mobile apps, or a bug in Google + API. Google has also stored location data "
+#~ "without permission."
+#~ msgstr ""
+#~ "En 2018 se reveló información personal tras varios incidentes derivados del acceso por parte de desarrolladores de la app, exposición en las apps móviles o un bug en la API Google+. Google también "
+#~ "ha almacenado datos de ubicación sin permiso."
+
+#~ msgctxt "ai_helptext"
+#~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
+#~ msgstr "Google publica artículos académicos sobre sus estudios en materia de IA (https://ai.google/) y pone varias herramientas de código abierto a disposición del público. https://ai.google/tools/"
+
+#~ msgctxt "blurb"
+#~ msgid ""
+#~ "\"Hey Google!\" That will become your new favorite saying if you go the route of Chromecast with Google TV. This little dongle lets you stream what you're watching or listening to on your phone or "
+#~ "tablet to your TV. And Google TV puts all the content from all your streaming services on the screen in one place. Just say, \"Hey Google, show me rom coms,\" and all the rom coms from Netflix, "
+#~ "Hulu, Amazon Prime, and more will appear on screen. Nifty."
+#~ msgstr ""
+#~ "«¡OK, Google!» Ese se convertirá en tu nuevo dicho favorito si sigues la ruta de Chromecast con Google TV. Este pequeño dongle te permite transmitir al televisor lo que estás viendo o escuchando en "
+#~ "tu teléfono o tableta. Google TV reúne todo el contenido de todos tus servicios de transmisión en la pantalla. Simplemente debes decir «¡OK, Google, muéstrame comedias románticas!», y todas las "
+#~ "comedias románticas de Netflix, Hulu, Amazon Prime (y más) aparecerán en la pantalla. Ingenioso."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -375,10 +401,6 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ "de ver películas, comer chocolates y beber vino, y... ¿sabes qué? No suena nada mal. Quizás no pase nada con que Google te conozca tan bien. O quizás dé un poco de yuyu."
 
 #~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "Google says that your personal data is never sold to third parties."
-#~ msgstr "Google asevera que nunca vende tus datos personales a terceros."
-
-#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "While voice recordings won't be used for ad personalization, transcripts of your voice interactions may be. Non-personally identifiable information may be shared with partners. Google says that your"
 #~ " personal data is never sold to third parties. Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for"
@@ -394,20 +416,10 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ " del usuario."
 
 #~ msgctxt "manage_vulnerabilities_helptext"
-#~ msgid "Google has a Security Rewards program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://www.google.com/about/appsecurity/programs-home/"
-#~ msgstr ""
-#~ "Google tiene un programa de recompensas de seguridad (Security Rewards), con lo que todas las personas que detecten algún problema de seguridad y se lo notifique de forma responsable podrían recibir"
-#~ " un pago por ello: https://www.google.com/about/appsecurity/programs-home/"
-
-#~ msgctxt "manage_vulnerabilities_helptext"
 #~ msgid "Google has a <a id=\"a1\">Security Rewards program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
 #~ msgstr ""
 #~ "Google tiene un <a id=\"a1\">programa de recompensas de seguridad</a>, mediante el que cualquier persona que encuentre un problema de seguridad y lo informe de manera responsable puede recibir una "
 #~ "compensación."
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "You can review and delete your data via the Google Privacy Dashboard."
-#~ msgstr "Puedes revisar y borrar tus datos a través del Panel de Control de Privacidad de Google."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -417,14 +429,6 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ "Google proporciona varios controles de privacidad, accesibles a través de sus herramientas de privacidad. Hay varias formas claramente definidas de eliminar datos personales, incluida la eliminación"
 #~ " de datos de la aplicación Nest o la eliminación de toda la cuenta de Google. Puedes configurar un temporizador automático en 3 o 18 meses. Los detalles de retención de datos también figuran en la "
 #~ "política de privacidad."
-
-#~ msgctxt "track_record_details"
-#~ msgid ""
-#~ "In 2018, personal information was exposed in several incidents, resulting from access by app developers, exposure by mobile apps, or a bug in Google + API. Google has also stored location data "
-#~ "without permission."
-#~ msgstr ""
-#~ "En 2018 se reveló información personal tras varios incidentes derivados del acceso por parte de desarrolladores de la app, exposición en las apps móviles o un bug en la API Google+. Google también "
-#~ "ha almacenado datos de ubicación sin permiso."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""
@@ -438,7 +442,3 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ msgctxt "track_record_details"
 #~ msgid "In December 2018, <a id=\"a1\">a bug exposed</a> the data of 52.5 million Google+ users"
 #~ msgstr "En diciembre de 2018, <a id=\"a1\">un error expuso</a> los datos de 52,5 millones de usuarios de Google+"
-
-#~ msgctxt "ai_helptext"
-#~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
-#~ msgstr "Google publica artículos académicos sobre sus estudios en materia de IA (https://ai.google/) y pone varias herramientas de código abierto a disposición del público. https://ai.google/tools/"
