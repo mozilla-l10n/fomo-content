@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-14 09:09:09.423630+00:00\n"
-"PO-Revision-Date: 2022-11-14 10:16+0000\n"
+"PO-Revision-Date: 2022-11-15 08:16+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -61,6 +61,11 @@ msgid ""
 " vast network of privacy policies and documentation they have living all over the place? Regardless, this privacy researcher would love to see Meta do better when it comes to making their privacy "
 "policies accessible to the consumers they impact."
 msgstr ""
+"Un último comentario sobre Meta desde el punto de vista de una investigadora de privacidad. Tratar de atravesar la loca red de políticas de privacidad, preguntas frecuentes sobre privacidad, "
+"declaraciones de privacidad, avisos de privacidad y documentación de privacidad complementaria de Meta para su vasto imperio, es una pesadilla. Hay tantos documentos que enlazan a otros documentos "
+"que enlazan a más documentos, que entender cuáles son las prácticas reales de privacidad de Meta parece casi imposible. Nos preguntamos si esto es por diseño, ¿será que quieren confundirnos para que"
+" simplemente nos demos por vencidos? O, tal vez, incluso los propios empleados de Meta no conozcan ni comprendan la vasta red de políticas de privacidad y documentación que tienen dispersa. Sea cual"
+" sea el motivo, a esta investigadora de privacidad le encantaría ver que Meta ofrece algo mejor para que sus políticas de privacidad sean accesibles a los consumidores a los que afectan."
 
 msgctxt "signup_requirement_explanation"
 msgid "Facebook or WhatsApp account is required"
@@ -184,7 +189,7 @@ msgstr "Cuando inicies el registro, no aceptes el seguimiento de tus datos."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "No te registres a través de cuentas de terceros. Es mejor que inicies sesión con un correo electrónico y una contraseña segura."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
@@ -193,6 +198,8 @@ msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control d
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
@@ -207,7 +214,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr ""
+msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 msgctxt "personal_data_collected"
 msgid "Name, email address, password, messages, photos"
@@ -248,21 +255,25 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "In September 2022, Meta was <a id=\"a1\">fined</a> $405M for treatment of childrens' data on Instagram."
-msgstr ""
+msgstr "En septiembre de 2022, Meta recibió una <a id=\"a1\">multa</a> de 405 millones de dólares por el tratamiento de datos de menores en Instagram."
 
 msgctxt "track_record_details"
 msgid ""
 "In October 2022, Meta Pixel <a id=\"a1\">was</a> a cause of a data breach of sensitive healthcare data that hit 3 million patients at Advocate Aurora Health (AAH), a 26-hospital healthcare system in"
 " Wisconsin and Illinois."
 msgstr ""
+"En octubre de 2022, el Pixel de Meta <a id=\"a1\">fue</a> la causa de una filtración de datos médicos confidenciales que afectó a 3 millones de pacientes de Advocate Aurora Health (AAH), un sistema "
+"de atención médica conformado por 26 hospitales ubicados en Wisconsin e Illinois."
 
 msgctxt "track_record_details"
 msgid "In October 2022, Meta <a id=\"a1\">notified</a> around 1 million users of potential compromise through malicious apps."
-msgstr ""
+msgstr "En octubre de 2022, Meta <a id=\"a1\">notificó</a> a alrededor de 1 millón de usuarios de un posible compromiso de sus datos por aplicaciones maliciosas."
 
 msgctxt "track_record_details"
 msgid "In August 2022, private and personal information of over 1.5 billion Facebook <a id=\"a1\">users were</a> allegedly being sold on a popular hacking-related forum."
 msgstr ""
+"En agosto de 2022, se reportó que la información privada y personal de más de 1.500 millones de <a id=\"a1\">usuarios de Facebook</a> presuntamente se estaba vendiendo en un popular foro relacionado"
+" con la piratería informática."
 
 msgctxt "track_record_details"
 msgid ""
@@ -270,10 +281,16 @@ msgid ""
 "measures which would enable it to readily demonstrate the security measures that it implemented in practice to protect EU users’ data, in the context of the twelve personal data breaches. The "
 "decision followed an inquiry by the DPC into a series of twelve data breach notifications it received in the six month period between 7 June 2018 and 4 December 2018."
 msgstr ""
+"En marzo de 2022, Meta recibió una multa de 18,6 millones de dólares por parte de la Comisión de Protección de Datos. <a id=\"a1\">La CPD constató</a> que Meta Platforms no disponía de medidas "
+"técnicas y organizativas adecuadas que le permitieran demostrar fácilmente las medidas de seguridad que aplicaba en la práctica para proteger los datos de los usuarios de la UE, en el contexto de "
+"doce violaciones de datos personales. La decisión siguió a una investigación de la DPC sobre una serie de doce notificaciones de violación de datos recibidas en un período de seis meses, entre el 7 "
+"de junio de 2018 y el 4 de diciembre de 2018."
 
 msgctxt "track_record_details"
 msgid "In October 2021, Facebook's <a id=\"a1\">WhatsApp was fined</a> nearly $270 million by Irish authorities for not being transparent about how it uses data collected from people on the service."
 msgstr ""
+"En octubre de 2021, <a id=\"a1\">WhatsApp de Facebook recibió una multa</a> de casi 270 millones de dólares por parte de las autoridades irlandesas por su falta de transparencia en relación a su uso"
+" de los datos recopilados por el servicio."
 
 msgctxt "track_record_details"
 msgid ""
@@ -290,7 +307,7 @@ msgstr "En agosto de 2019, <a id=\"a1\">Bloomberg informó</a> que Facebook hab�
 
 msgctxt "child_safety_blurb"
 msgid "Facebook Child's Safety Centre provides an overview of Facebook Policies about children's safety."
-msgstr ""
+msgstr "El centro de seguridad infantil de Facebook ofrece una descripción general de las políticas de Facebook sobre la seguridad de los menores."
 
 msgctxt "ai_is_transparent_helptext"
 msgid "For added security, Smart Camera uses AI technology that runs locally on Portal, not on Meta servers. Portal's camera does not use facial recognition and does not identify who you are."
