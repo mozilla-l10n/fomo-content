@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-19 09:54:25.383877+00:00\n"
-"PO-Revision-Date: 2022-11-11 22:04+0000\n"
+"PO-Revision-Date: 2022-11-15 10:46+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -166,7 +166,7 @@ msgstr "Cuando inicies el registro, no aceptes el seguimiento de tus datos."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "No te registres a través de cuentas de terceros. Es mejor que inicies sesión con un correo electrónico y una contraseña segura."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc."
@@ -175,6 +175,8 @@ msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control d
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)."
 msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated."
@@ -189,7 +191,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr ""
+msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
