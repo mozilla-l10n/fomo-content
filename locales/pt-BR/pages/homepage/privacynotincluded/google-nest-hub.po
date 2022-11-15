@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:32:04.042620+00:00\n"
+"PO-Revision-Date: 2022-11-15 11:47+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f4ede114-35cf-43c1-ade1-ceca736790f4\n"
 
 msgctxt "title"
@@ -189,7 +194,7 @@ msgstr ""
 
 msgctxt "social_data_collected"
 msgid "Contacts"
-msgstr ""
+msgstr "Contatos"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""

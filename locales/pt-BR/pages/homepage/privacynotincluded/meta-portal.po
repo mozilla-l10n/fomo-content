@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-14 09:09:32.391012+00:00\n"
+"PO-Revision-Date: 2022-11-15 11:47+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8a1f698e-2893-41f7-97d5-a77829630810\n"
 
 msgctxt "title"
@@ -187,7 +192,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, email address, password, messages, photos"
-msgstr ""
+msgstr "Nome, endereço de email, senha, mensagens, fotos"
 
 msgctxt "biometric_data_collected"
 msgid "Voice clips are recorded and sent back to Facebook when you say \"Hey Portal.\""
@@ -195,7 +200,7 @@ msgstr ""
 
 msgctxt "social_data_collected"
 msgid "Contacts"
-msgstr ""
+msgstr "Contatos"
 
 msgctxt "how_can_you_control_your_data"
 msgid "It is unclear if all users regardless of location can get their data deleted. Facebook mentions GDPR and CCPA right to delete data."

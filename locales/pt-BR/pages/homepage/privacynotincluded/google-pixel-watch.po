@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:32:03.671703+00:00\n"
+"PO-Revision-Date: 2022-11-15 11:47+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: e4f103fd-862f-4584-ac2d-6151dc63c33f\n"
 
 msgctxt "title"
@@ -274,7 +279,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, date of birth, gender, photo (optional)"
-msgstr ""
+msgstr "Nome, data de nascimento, sexo, foto (opcional)"
 
 msgctxt "biometric_data_collected"
 msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
@@ -282,7 +287,7 @@ msgstr ""
 
 msgctxt "social_data_collected"
 msgid "Contacts"
-msgstr ""
+msgstr "Contatos"
 
 msgctxt "how_can_you_control_your_data"
 msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"

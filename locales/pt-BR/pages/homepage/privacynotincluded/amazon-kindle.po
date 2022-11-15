@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-14 14:43:08.442673+00:00\n"
+"PO-Revision-Date: 2022-11-15 11:51+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1b23e8e4-f103-419b-99de-51aeefa6bd09\n"
 
 msgctxt "title"
@@ -159,19 +164,19 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data."
-msgstr ""
+msgstr "Ao iniciar uma inscrição, não concorde com o rastreamento de seus dados."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Não se cadastre utilizando contas de aplicativos terceiros. É melhor criar um login com seu e-mail e uma senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Escolha uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
-msgstr ""
+msgstr "Use os controles de privacidade do seu dispositivo para limitar o acesso às suas informações pessoais via aplicativo (não dê acesso à sua câmera, microfone, imagens e vídeos)"
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
