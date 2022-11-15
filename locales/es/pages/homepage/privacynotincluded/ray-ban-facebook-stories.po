@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 17:19:08.736441+00:00\n"
-"PO-Revision-Date: 2022-11-11 17:26+0000\n"
+"PO-Revision-Date: 2022-11-15 08:32+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -206,7 +206,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Minimize the amount of data shared with your Facebook account"
-msgstr "Reduce la cantidad de datos compartidos con tu cuenta de Facebook"
+msgstr "Reduce al mínimo la cantidad de datos compartidos con tu cuenta de Facebook"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set up your Facebook account's <a id=\"a1\">privacy setting</a>s"
@@ -239,7 +239,7 @@ msgstr "Cuando inicies el registro, no aceptes el seguimiento de tus datos."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "No te registres a través de cuentas de terceros. Es mejor que inicies sesión con un correo electrónico y una contraseña segura."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
@@ -248,6 +248,8 @@ msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control d
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
@@ -262,7 +264,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data.\""
-msgstr ""
+msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 msgctxt "personal_data_collected"
 msgid "Name, email address, password. When the cameras and microphones are activated on the Glasses, they collect photo and video recordings."
@@ -278,7 +280,7 @@ msgstr "Contactos (opcional, cuando compartes contenido)"
 
 msgctxt "how_can_you_control_your_data"
 msgid "It is unclear if all users regardless of location can get their data deleted."
-msgstr ""
+msgstr "No está claro si todos los usuarios pueden solicitar que se eliminen sus datos, independientemente del lugar donde vivan."
 
 msgctxt "how_can_you_control_your_data"
 msgid "Facebook mentions GDPR and CCPA right to delete data."
@@ -307,21 +309,25 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "In September 2022, Meta was <a id=\"a1\">fined</a> $405M for treatment of childrens' data on Instagram."
-msgstr ""
+msgstr "En septiembre de 2022, Meta recibió una <a id=\"a1\">multa</a> de 405 millones de dólares por el tratamiento de datos de menores en Instagram."
 
 msgctxt "track_record_details"
 msgid ""
 "In October 2022, Meta Pixel <a id=\"a1\">was</a> a cause of a data breach of sensitive healthcare data that hit 3 million patients at Advocate Aurora Health (AAH), a 26-hospital healthcare system in"
 " Wisconsin and Illinois."
 msgstr ""
+"En octubre de 2022, el Pixel de Meta <a id=\"a1\">fue</a> la causa de una filtración de datos médicos confidenciales que afectó a 3 millones de pacientes de Advocate Aurora Health (AAH), un sistema "
+"de atención médica conformado por 26 hospitales ubicados en Wisconsin e Illinois."
 
 msgctxt "track_record_details"
 msgid "In October 2022, Meta <a id=\"a1\">notified</a> around 1 million users of potential compromise through malicious apps."
-msgstr ""
+msgstr "En octubre de 2022, Meta <a id=\"a1\">notificó</a> a alrededor de 1 millón de usuarios de un posible compromiso de sus datos por aplicaciones maliciosas."
 
 msgctxt "track_record_details"
 msgid "In August 2022, private and personal information of over 1.5 billion Facebook <a id=\"a1\">users were</a> allegedly being sold on a popular hacking-related forum."
 msgstr ""
+"En agosto de 2022, se reportó que la información privada y personal de más de 1.500 millones de <a id=\"a1\">usuarios de Facebook</a> presuntamente se estaba vendiendo en un popular foro relacionado"
+" con la piratería informática."
 
 msgctxt "track_record_details"
 msgid ""
@@ -329,10 +335,16 @@ msgid ""
 "measures which would enable it to readily demonstrate the security measures that it implemented in practice to protect EU users’ data, in the context of the twelve personal data breaches. The "
 "decision followed an inquiry by the DPC into a series of twelve data breach notifications it received in the six month period between 7 June 2018 and 4 December 2018."
 msgstr ""
+"En marzo de 2022, Meta recibió una multa de 18,6 millones de dólares por parte de la Comisión de Protección de Datos. <a id=\"a1\">La CPD constató</a> que Meta Platforms no disponía de medidas "
+"técnicas y organizativas adecuadas que le permitieran demostrar fácilmente las medidas de seguridad que aplicaba en la práctica para proteger los datos de los usuarios de la UE, en el contexto de "
+"doce violaciones de datos personales. La decisión siguió a una investigación de la DPC sobre una serie de doce notificaciones de violación de datos recibidas en un período de seis meses, entre el 7 "
+"de junio de 2018 y el 4 de diciembre de 2018."
 
 msgctxt "track_record_details"
 msgid "In October 2021, Facebook's <a id=\"a1\">WhatsApp was fined</a> nearly $270 million by Irish authorities for not being transparent about how it uses data collected from people on the service."
 msgstr ""
+"En octubre de 2021, <a id=\"a1\">WhatsApp de Facebook recibió una multa</a> de casi 270 millones de dólares por parte de las autoridades irlandesas por su falta de transparencia en relación a su uso"
+" de los datos recopilados por el servicio."
 
 msgctxt "track_record_details"
 msgid ""
@@ -349,7 +361,7 @@ msgstr "En agosto de 2019, <a id=\"a1\">Bloomberg informó</a> que Facebook hab�
 
 msgctxt "child_safety_blurb"
 msgid "Facebook Child's Safety Centre provides an overview of Facebook Policies about children safety."
-msgstr ""
+msgstr "El centro de seguridad infantil de Facebook ofrece una descripción general de las políticas de Facebook sobre la seguridad de los menores."
 
 msgctxt "ai_helptext"
 msgid "When you set up your Ray-Ban Stories glasses, you have the option to turn on Facebook Assistant, a voice assistant that enables a hands-free way to capture photos and videos."
