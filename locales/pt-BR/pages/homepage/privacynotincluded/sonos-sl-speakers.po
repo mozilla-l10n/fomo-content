@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-15 09:20:07.059948+00:00\n"
+"PO-Revision-Date: 2022-11-16 14:41+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8a2fd95d-349f-429f-9590-a745080562d8\n"
 
 msgctxt "title"
@@ -76,11 +81,11 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr ""
+msgstr "Utiliza criptografia em trânsito e em uso estático."
 
 msgctxt "security_updates_helptext"
 msgid "Automatic updates are enabled by default."
-msgstr ""
+msgstr "Atualizações automáticas são ativadas por padrão."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Sonos does not have an official bug bounty program, but invites disclosure of security bugs."
@@ -88,32 +93,36 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data."
-msgstr ""
+msgstr "Ao iniciar uma inscrição, não concorde com o rastreamento de seus dados."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Não se cadastre utilizando contas de aplicativos terceiros. É melhor criar um login com seu e-mail e uma senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Escolha uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Use os controles de privacidade do seu dispositivo para limitar o acesso a seus dados pessoais por meio do app (não dê acesso à sua câmera, microfone, imagens e localização, a não ser que seja "
+"necessário)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Mantenha seu aplicativo sempre atualizado"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limite o rastreamento de publicidade no seu dispositivo (ex.: no iPhone acesse Privacidade e Segurança -&gt; Publicidade da Apple -&gt; desative Anúncios Personalizados) e nas maiores redes de "
+"anúncios (para o Google, acesse sua conta Google e desative os anúncios personalizados)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr ""
+msgstr "Solicite que seus dados sejam excluídos assim que você parar de usar o aplicativo. Simplesmente excluir um aplicativo do seu dispositivo não apaga seus dados pessoais."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, password"
