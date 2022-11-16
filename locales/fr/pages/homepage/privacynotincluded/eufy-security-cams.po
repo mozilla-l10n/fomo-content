@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-25 11:03:18.472364+00:00\n"
-"PO-Revision-Date: 2021-11-25 14:00+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2022-11-16 07:35+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -103,36 +103,42 @@ msgstr "Protégez votre routeur Wi-Fi avec un mot de passe fort"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "N’utilisez pas de compte tiers pour vous inscrire. Mieux vaut vous connecter simplement avec une adresse e-mail et un mot de passe fort."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Choisissez un mot de passe compliqué. Vous pouvez utiliser un gestionnaire de mots de passe comme 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utilisez les contrôles de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (ne donnez pas accès à votre caméra, microphone, images et "
+"emplacement, sauf si nécessaire)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Assurez-vous de garder votre application à jour."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limitez le suivi publicitaire sur votre appareil (par exemple, sur iPhone, utilisez « Confidentialité », « Publicités » et « Limiter le suivi publicitaire ») et via les principaux réseaux "
+"publicitaires (pour Google, rendez-vous sur votre compte Google et désactivez la personnalisation des publicités)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Demandez la suppression de vos données quand vous arrêtez d’utiliser l’application. La suppression d’une application de votre appareil n’entraîne généralement pas automatiquement la suppression de "
+"vos données personnelles."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Au début de l’inscription, refusez le suivi de vos données si possible."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn on the<a id=\"a1\"> Two-step verification</a>"
-msgstr ""
+msgstr "Activez la <a id=\"a1\">vérification en deux étapes</a>"
 
 msgctxt "personal_data_collected"
 msgid "Name, email address"
