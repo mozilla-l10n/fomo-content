@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:32:03.929413+00:00\n"
-"PO-Revision-Date: 2022-11-16 14:38+0000\n"
+"PO-Revision-Date: 2022-11-17 14:48+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -183,7 +183,7 @@ msgstr "O Google disponibiliza uma página com informações de privacidade sobr
 
 msgctxt "uses_encryption_helptext"
 msgid "Encryption in transit and at rest."
-msgstr ""
+msgstr "Utiliza criptografia em trânsito e em uso estático."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Google has a <a id=\"a1\">Security Rewards program</a>."
@@ -340,7 +340,7 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "Google publishes academic papers about it's <a id=\"a1\">AI research</a> and makes several tools available via open source."
-msgstr ""
+msgstr "O Google publica artigos acadêmicos sobre sua <a id=\"a1\">pesquisa de IA</a> e disponibiliza várias ferramentas via código aberto."
 
 msgctxt "ai_what_can_it_do"
 msgid "Google uses natural language processing to understand you and to generate answers to your requests."
