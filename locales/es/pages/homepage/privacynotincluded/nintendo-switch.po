@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:31.264922+00:00\n"
-"PO-Revision-Date: 2021-12-02 16:58+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2022-11-17 15:22+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -110,44 +110,48 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "<i>Check the</i> <a id=\"a1\"><i>Nintendo Switch privacy settings</i></a>"
-msgstr ""
+msgstr "<i>Verifica la <a id=\"a1\">configuración de privacidad de Nintendo Switch</a></i>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Enable</a><i> two-factor authentication on your Nintendo Switch account</i>"
-msgstr ""
+msgstr "<i><a id=\"a1\">Habilita</a> la autenticación de dos factores en tu cuenta de Nintendo Switch</i>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Opt out</a> <i>of sharing your eShop data.</i>"
-msgstr ""
+msgstr "<i><a id=\"a1\">Elige la opción</a> de no compartir tus datos de eShop.</i>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "No te registres a través de cuentas de terceros. Es mejor que inicies sesión con un correo electrónico y una contraseña segura."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Actualiza tu aplicación con regularidad"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limita el rastreo de anuncios a través del dispositivo (por ejemplo, en el iPhone, ve a Privacidad -&gt; Publicidad de Apple -&gt; Anuncios personalizados) y de los gigantes publicitarios (para "
+"Google, ve a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr ""
+msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Cuando inicies el registro, no aceptes el seguimiento de tus datos si es posible."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, date of birth, gender"
@@ -155,7 +159,7 @@ msgstr "Nombre, correo electrónico, número de teléfono, fecha de nacimiento, 
 
 msgctxt "how_can_you_control_your_data"
 msgid "It is unclear if all users regardless of location can get their data deleted."
-msgstr ""
+msgstr "No está claro si todos los usuarios pueden solicitar que se eliminen sus datos, independientemente del lugar donde vivan."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
@@ -179,6 +183,8 @@ msgid ""
 "In April 2020, <a id=\"a1\">300,000 Nintendo accounts</a> were compromised in a data breach that granted the attackers access to users' personal information, including date of birth and email "
 "addresses."
 msgstr ""
+"En abril de 2020, <a id=\"a1\">300.000 cuentas de Nintendo</a> se vieron afectadas por una vulneración de datos que permitió que los atacantes tuvieran acceso a la información personal de los "
+"usuarios, incluida la fecha de nacimiento y las direcciones de correo electrónico."
 
 msgctxt "track_record_details"
 msgid "In 2022, <a id=\"a1\">Nintendo had to ask users</a> to stop using their Wi-Fi USB Connector due to security concerns."
