@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.667168+00:00\n"
-"PO-Revision-Date: 2022-11-17 08:37+0000\n"
+"PO-Revision-Date: 2022-11-17 10:42+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -35,6 +35,9 @@ msgid ""
 "and advertising identifiers and other unique personal or online identifiers, location (with your consent), health information (with your consent), and lots of information about how and when and what"
 " games you play."
 msgstr ""
+"Tout d’abord, Nintendo collecte une bonne quantité de données personnelles. Des éléments tels que le nom, l’adresse e-mail, l’adresse postale, le numéro de téléphone, la date de naissance, le pays "
+"de résidence, la langue, le sexe, les identifiants d’appareil, les identifiants publicitaires et d’autres identifiants personnels ou en ligne uniques, l’emplacement (avec votre consentement), des "
+"informations de santé (avec votre consentement ), et de nombreuses informations sur comment, quand et à quels jeux vous jouez."
 
 msgctxt "worst_case"
 msgid ""
@@ -71,6 +74,9 @@ msgid ""
 "As for security, Nintendo did have<a id=\"a1\"> a data breach in 2020</a> where <a id=\"a2\">300,000 accounts were compromised</a> and attackers gained access to users' personal information, "
 "including date of birth and email addresses. That's not great. And early in 2022, <a id=\"a3\">Nintendo had to ask users</a> to stop using their Wi-Fi USB Connector due to security concerns."
 msgstr ""
+"En ce qui concerne la sécurité, Nintendo a connu <a id=\"a1\">une fuite de données en 2020</a> où <a id=\"a2\">300 000 comptes ont été compromis</a> et des attaquants ont eu accès aux données "
+"personnelles des utilisateurs, y compris leur date de naissance et les adresses e-mail. Ce n’est pas génial. Et au début 2022, <a id=\"a3\">Nintendo a dû demander aux utilisateurs</a> d’arrêter "
+"d’utiliser son connecteur USB Wi-Fi en raison de problèmes de sécurité."
 
 msgctxt "worst_case"
 msgid ""
@@ -81,7 +87,7 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "We ding this product as it can combine your data with data from other third-party sources."
-msgstr ""
+msgstr "Nous attribuons un avertissement à ce produit, car il peut combiner vos données avec des données provenant de sources tierces."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -106,7 +112,7 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Nintendo has a privacy policy with fairly easy to read and understand language. Then also provide easy to find links to submit privacy related requests."
-msgstr ""
+msgstr "Nintendo a une politique de confidentialité assez facile à lire et à comprendre. Nintendo fournit également des liens faciles à trouver pour soumettre des demandes liées à la confidentialité."
 
 msgctxt "tips_to_protect_yourself"
 msgid "<i>Check the</i> <a id=\"a1\"><i>Nintendo Switch privacy settings</i></a>"
