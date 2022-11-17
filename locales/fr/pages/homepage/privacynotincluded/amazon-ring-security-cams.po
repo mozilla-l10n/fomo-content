@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-25 11:03:18.552789+00:00\n"
@@ -266,10 +266,17 @@ msgid "<a id=\"a1\">Amazon admitted</a> to giving Ring video doorbell footage to
 msgstr "<a id=\"a1\">Amazon a admis</a> avoir remis des images de sonnettes vidéo Ring à la police sans l’autorisation des propriétaires au moins 11 fois en 2022."
 
 msgctxt "track_record_details"
+msgid "In 2021, the Federal Trade Commission in the US <a id=\"a1\">recommended filing a lawsuit</a> against Amazon because of privacy and security breaches in Ring home security unit"
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "In <a id=\"a1\">December 2020</a>, a class action lawsuit was filed alleging lax security measures at Ring, allowed hackers to take over their devices."
+msgstr "En <a id=\"a1\">décembre 2020</a>, un recours collectif a été déposé alléguant des mesures de sécurité laxistes chez Ring, permettant aux pirates de prendre le contrôle de leurs appareils."
+
+msgctxt "track_record_details"
 msgid ""
-"In 2021, the Federal Trade Commision in the US <a id=\"a1\">recommended filing a lawsuit</a> against Amazon because of privacy and security breaches in Ring home security unit<br/><br/>In <a "
-"id=\"a2\">December 2020</a>, a class action lawsuit was filed alleging lax security measures at Ring, allowed hackers to take over their devices.<br/><br/>In <a id=\"a3\">November 2019</a>, a "
-"security vulnerability in Amazon's Ring Video Doorbell Pro devices could have allowed attackers to exploit the internet-connected doorbell to intercept the owner's wi-fi credentials."
+"In <a id=\"a1\">November 2019</a>, a security vulnerability in Amazon's Ring Video Doorbell Pro devices could have allowed attackers to exploit the internet-connected doorbell to intercept the "
+"owner's wi-fi credentials."
 msgstr ""
 
 msgctxt "track_record_details"
@@ -323,10 +330,6 @@ msgstr ""
 msgctxt "ai_what_can_it_do"
 msgid "Ring cameras use camera-based motion detection to start recording."
 msgstr "Les caméras Ring utilisent la détection de mouvement par caméra pour démarrer l’enregistrement."
-
-#~ msgctxt "track_record_details"
-#~ msgid "In <a id=\"a1\">December 2020</a>, a class action lawsuit was filed alleging lax security measures at Ring, allowed hackers to take over their devices."
-#~ msgstr "En <a id=\"a1\">décembre 2020</a>, un recours collectif a été déposé alléguant des mesures de sécurité laxistes chez Ring, permettant aux pirates de prendre le contrôle de leurs appareils."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""
