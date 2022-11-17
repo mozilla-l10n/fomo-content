@@ -260,10 +260,17 @@ msgid "<a id=\"a1\">Amazon admitted</a> to giving Ring video doorbell footage to
 msgstr ""
 
 msgctxt "track_record_details"
+msgid "In 2021, the Federal Trade Commision in the US <a id=\"a1\">recommended filing a lawsuit</a> against Amazon because of privacy and security breaches in Ring home security unit"
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "In <a id=\"a1\">December 2020</a>, a class action lawsuit was filed alleging lax security measures at Ring, allowed hackers to take over their devices."
+msgstr "En <a id=\"a1\">décembre 2020</a>, un recours collectif a été déposé alléguant des mesures de sécurité laxistes chez Ring, permettant aux pirates de prendre le contrôle de leurs appareils."
+
+msgctxt "track_record_details"
 msgid ""
-"In 2021, the Federal Trade Commision in the US <a id=\"a1\">recommended filing a lawsuit</a> against Amazon because of privacy and security breaches in Ring home security unit<br/><br/>In <a "
-"id=\"a2\">December 2020</a>, a class action lawsuit was filed alleging lax security measures at Ring, allowed hackers to take over their devices.<br/><br/>In <a id=\"a3\">November 2019</a>, a "
-"security vulnerability in Amazon's Ring Video Doorbell Pro devices could have allowed attackers to exploit the internet-connected doorbell to intercept the owner's wi-fi credentials."
+"In <a id=\"a1\">November 2019</a>, a security vulnerability in Amazon's Ring Video Doorbell Pro devices could have allowed attackers to exploit the internet-connected doorbell to intercept the "
+"owner's wi-fi credentials."
 msgstr ""
 
 msgctxt "track_record_details"
@@ -513,10 +520,6 @@ msgstr "Les caméras Ring utilisent la détection de mouvement par caméra pour 
 #~ msgctxt "track_record_details"
 #~ msgid "In 2019, <a id=\"a1\">Motherboard reported</a> on how Ring's weak security and compromised email addresses and passwords left Ring cameras easy to hack."
 #~ msgstr "En 2019, <a id=\"a1\">Motherboard a expliqué</a> comment le faible degré de sécurité de Ring et les adresses e-mail et mots de passe compromis ont rendu les caméras Ring faciles à pirater."
-
-#~ msgctxt "track_record_details"
-#~ msgid "In <a id=\"a1\">December 2020</a>, a class action lawsuit was filed alleging lax security measures at Ring, allowed hackers to take over their devices."
-#~ msgstr "En <a id=\"a1\">décembre 2020</a>, un recours collectif a été déposé alléguant des mesures de sécurité laxistes chez Ring, permettant aux pirates de prendre le contrôle de leurs appareils."
 
 #~ msgctxt "track_record_details"
 #~ msgid "In <a id=\"a1\">October 2020</a>, Amazon fired an employee for leaking customer email addresses to an unnamed third party."
