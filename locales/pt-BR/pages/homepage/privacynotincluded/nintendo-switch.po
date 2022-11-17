@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-04-12 07:03:19.967463+00:00\n"
-"PO-Revision-Date: 2022-11-17 14:53+0000\n"
+"PO-Revision-Date: 2022-11-17 14:56+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -118,36 +118,40 @@ msgstr "<i><a id=\"a1\">Habilite a</a> autenticação de dois fatores em sua con
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Opt out</a> <i>of sharing your eShop data.</i>"
-msgstr ""
+msgstr "<i><a id=\"a1\">Opte por não</a> compartilhar seus dados do eShop.</i>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Não se inscreva com contas de terceiros. É melhor fazer o login somente com e-mail e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Use os controles de privacidade do seu dispositivo para limitar o acesso a seus dados pessoais por meio do app (não dê acesso à sua câmera, microfone, imagens e localização, a não ser que seja "
+"necessário)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Mantenha seu aplicativo sempre atualizado"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limite o rastreamento de publicidade no seu dispositivo (ex.: no iPhone acesse Privacidade e Segurança -&gt; Publicidade da Apple -&gt; desative Anúncios Personalizados) e nas maiores redes de "
+"anúncios (para o Google, acesse sua conta Google e desative os anúncios personalizados)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr ""
+msgstr "Solicite que seus dados sejam excluídos quando você parar de usar o aplicativo. A simples exclusão de um aplicativo de seu dispositivo normalmente não apaga seus dados pessoais."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Ao realizar uma inscrição, não concorde com o rastreamento de seus dados, se possível."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, date of birth, gender"
@@ -155,7 +159,7 @@ msgstr "Nome, email, número de telefone, data de nascimento, gênero"
 
 msgctxt "how_can_you_control_your_data"
 msgid "It is unclear if all users regardless of location can get their data deleted."
-msgstr ""
+msgstr "Não está claro se todos os usuários, independentemente de onde vivem, podem excluir seus dados."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
@@ -179,6 +183,8 @@ msgid ""
 "In April 2020, <a id=\"a1\">300,000 Nintendo accounts</a> were compromised in a data breach that granted the attackers access to users' personal information, including date of birth and email "
 "addresses."
 msgstr ""
+"Em abril de 2020, <a id=\"a1\">300.000 contas da Nintendo</a> foram comprometidas em uma violação de dados que concedeu aos invasores acesso a informações pessoais dos usuários, incluindo data de "
+"nascimento e endereços de email."
 
 msgctxt "track_record_details"
 msgid "In 2022, <a id=\"a1\">Nintendo had to ask users</a> to stop using their Wi-Fi USB Connector due to security concerns."
