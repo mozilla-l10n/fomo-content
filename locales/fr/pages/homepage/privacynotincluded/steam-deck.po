@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-14 14:42:51.204431+00:00\n"
-"PO-Revision-Date: 2022-11-14 18:33+0000\n"
+"PO-Revision-Date: 2022-11-18 11:22+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -113,10 +113,12 @@ msgid ""
 "In 2020, CheckPoint <a id=\"a1\">found</a> four major vulnerabilities in the popular Valve games networking library. All vulnerabilities were acknowledged and received CVE’s. There were <a "
 "id=\"a2\">four</a> major vulnerabilities in total."
 msgstr ""
+"En 2020, CheckPoint a <a id=\"a1\">découvert</a> quatre vulnérabilités majeures dans la populaire bibliothèque réseau de jeux Valve. Toutes les vulnérabilités ont été reconnues et ont reçu des CVE. "
+"Il y avait <a id=\"a2\">quatre</a> vulnérabilités majeures au total."
 
 msgctxt "track_record_details"
 msgid "In 2019, Valve <a id=\"a1\">investigated</a> Epic’s use of Steam data after users raised privacy concerns on Reddit."
-msgstr ""
+msgstr "En 2019, Valve a <a id=\"a1\">enquêté</a> sur l’utilisation des données Steam par Epic après que des utilisateurs ont soulevé des problèmes de confidentialité sur Reddit."
 
 msgctxt "child_safety_blurb"
 msgid ""
