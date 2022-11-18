@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-11-18 13:06:30.749290+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Eufy RoboVacs"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"Eufy's line of robot vacuums include some with laser navigation, some with \"smart path navigation\" and then there is the \"bounce series,\" which maybe just kinda bounces off of stuff. Regardless,"
+" you Eufy lets you get a robot vacuum as smart or dumb as you want. Want one to map your home and work when and where you schedule it. Done. Want one that does even have WiFi and just goes about the"
+" business of vacuuming with the push of a button. Done. As for Eufy's privacy policies, well, they do raise a few red flags. Good think you've got that dumb, no-WiFi option if you want!"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Robot vacuums from Eufy come with features like laser navigation, AI mapping technology, and sensors to help avoid obstacles. Fortunately, none of Eufy’s robot vacuums seem to come with built-in "
+"cameras (yet, at least), which is good. Sensors are generally a <a id=\"a1\">safer bet than cameras</a> in your home. Most of Eufy’s robot vacuums do connect to WiFi and share some data back to Eufy"
+" through the <a id=\"a2\">Eufy Clean app</a>. <a id=\"a3\">Consumer Reports found</a> that Eufy lacked good publicly available information about what data their robot vacuums collects. It would be "
+"good to know exactly what data their robot vacuums collect."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"According to Eufy’s <a id=\"a1\">privacy policy</a>, they do say they can collect a good deal of personal information on you -- things like name, email, gender, birth date, location, device "
+"information, and more. And while Eufy says they don’t sell your personal information -- which is good -- they say they can use that information to show you ads from them and third party advertisers,"
+" which isn’t so good (but also pretty standard on the internet these days). They also say they can collect personal information on you from third parties who provide it to them, such as law "
+"enforcement authorities. This worries us a bit because the way that line in their privacy policy is written is rather vague and seems like it could leave open the possibility they could collect "
+"information on users from a variety of third parties, for example, data brokers."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"It’s great we found no known security breaches of Eufy’s robot vacuums. Unfortunately, Eufy has had some significant security vulnerabilities with their security cameras. In June 2022, security "
+"experts found<a id=\"a1\"> three security vulnerabilities</a> in Eufy's Homebase 2 video storage and management device that <a id=\"a2\">could have allowed hackers</a> to take control of the hub, "
+"control it remotely, or steal video footage. Eufy/Anker <a id=\"a3\">developed fixes for these security vulnerabilities</a> and released them to users in a timely manner. And in <a id=\"a4\">May "
+"2021</a>, Eufy was forced to <a id=\"a5\">apologize for a bug</a> that <a id=\"a6\">exposed the camera feeds</a> of 712 users to strangers. Eufy said the glitch happened during a software update and"
+" “users were able to access video feeds from other users’ cameras.” <a id=\"a7\">Eufy said in a statement</a> the glitch was fixed an hour after it was discovered."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"So, the bad news is, Eufy’s security cameras have had some serious security issues. The good news is, Eufy as a company seems to have stepped up and immediately fixed these bugs and to get the "
+"updates out to their users quickly. While these security oopsies happened to their video cameras, not their robot vacuums, it’s a good reminder that bugs happen and software updates can go wrong, "
+"which wouldn’t be good for your robot vacuum (although, you’re probably less vulnerable to a bug in your robot vacuum than your security camera or smart lock)."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"What’s the worst that could happen? Well, it’s always possible someone could hack your WiFi and control your robot vacuum, sending it around your home mapping things and learning all about where "
+"your tables and chairs are. One way around this, you could always buy Eufy’s “<a id=\"a1\">dumb” robot vacuum</a>, the RoboVac 11S, that doesn’t connect to WiFi at all. Sometimes dumb is good."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid "We ding this product for sharing personal data for advertisement and for combining users' data with data from third parties."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"<b>Eufy does not sell data. However, they share personal identifiers for advertisement purposes:</b> \"We do not Sell any personal information to third parties. In particular, we do not Sell the "
+"personal information of minors under 16 years of age. In the preceding 12 months, we have disclosed the following categories of personal information to the following categories of recipients: [...] "
+"Advertising networks, data analytics providers. - Personal Identifiers.\""
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"<b>Eufy also combines users' data with data obtained from third parties:</b> \"We collect or obtain Personal Data from third parties who provide it to us (e.g., credit reference agencies; law "
+"enforcement authorities; etc.).\""
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "Structured and concise"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use two-factor authentication"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Limit your robot vacuum's data sharing"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use strong passwords"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Keep your robot vacuum's firmware updated"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Keep your app regularly updated"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid ""
+"Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "When starting a sign-up, do not agree to tracking of your data if possible."
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Name, email address"
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"We ding this product because it is not clear all users have the same rights to access and delete their data. Eufy specifically mentions the right to delete data only for users based in California."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid "\"Subject to applicable law, you may have the following rights regarding the Processing of your Relevant Personal Data....\""
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"<b>Data retention policies for Eufy are rather confusing</b>, however Eufy does promise to delete or anonymised data once they do not need it any more:<br/>\"Once the periods in paragraphs (1), (2) "
+"and (3) above, each to the extent applicable, have concluded, we will either:<br/>- permanently delete or destroy the relevant Personal Data; or<br/>- anonymize the relevant Personal Data.\""
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"In June 2022,<a id=\"a1\"> three security vulnerabilities</a> were found in Eufy's Homebase 2 video storage and management device that <a id=\"a2\">could have allowed hackers</a> to take control of "
+"the hub, control it remotely, or steal video footage. Eufy/Anker <a id=\"a3\">developed fixes for these secruity vulnerabilities</a> and released them to users in a timely manner."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid ""
+"In <a id=\"a1\">May 2021</a>, Eufy was forced to <a id=\"a2\">apologize</a> for a bug that exposed the <a id=\"a3\">camera feeds</a> of 712 users to strangers. Eufy said the glitch happened during a"
+" software update and “users were able to access video feeds from other users’ cameras.” Eufy said in a <a id=\"a4\">statement</a> the glitch was fixed an hour after it was discovered."
+msgstr ""
+
+msgctxt "child_safety_blurb"
+msgid ""
+"Our Sites, products, or services are not directed to children under the age of 13. As a result, our Sites, products, or services do not request or knowingly collect personal information from "
+"individuals under the age of 13. If you are not 13 or older, you should not visit or use our Sites, products, or services ."
+msgstr ""
+
+msgctxt "ai_what_can_it_do"
+msgid "The built-in AI reduces the number of false alerts you receive by intelligently differentiating people from objects. It has features like pet detection, and even crying detection."
+msgstr ""
