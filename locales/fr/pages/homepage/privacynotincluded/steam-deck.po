@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-14 14:42:51.204431+00:00\n"
-"PO-Revision-Date: 2022-11-18 15:20+0000\n"
+"PO-Revision-Date: 2022-11-18 15:33+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -56,6 +56,10 @@ msgid ""
 "vulnerabilities. We emailed Valve three times with our privacy and security questions and haven’t heard back from them. There is a lot written out there on the internet about how to set up "
 "encryption on the Linux-based SteamOS yourself. However, we don’t think that users should have to go through that to protect their data."
 msgstr ""
+"Voici cependant la mauvaise nouvelle concernant la Steam Deck. Nous ne pouvons pas confirmer qu’elle respecte nos critères élémentaires de sécurité, car nous ne pouvons pas confirmer qu’elle a "
+"recours au chiffrement, ni si Valve dispose d’un moyen de gérer les vulnérabilités de sécurité. Nous avons envoyé trois e-mails à Valve avec nos questions sur la confidentialité et la sécurité et "
+"nous n’avons pas eu de réponse. Il y a beaucoup d’informations sur Internet sur la façon de configurer vous-même le chiffrement sur SteamOS, qui repose sur Linux. Cependant, nous ne pensons pas que "
+"les utilisateurs devraient avoir à passer par là pour protéger leurs données."
 
 msgctxt "worst_case"
 msgid ""
