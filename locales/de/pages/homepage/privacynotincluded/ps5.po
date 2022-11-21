@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:25.397340+00:00\n"
-"PO-Revision-Date: 2021-11-29 16:43+0000\n"
-"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"PO-Revision-Date: 2022-11-21 10:27+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -115,7 +115,7 @@ msgstr "Sie benötigen ein starkes Passwort, um auf Ihr PlayStation-Network-Kont
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set up <a id=\"a1\">two-factor authenticaion</a> on your Playstation account immediately"
-msgstr ""
+msgstr "Richten Sie  sofort die <a id=\"a1\">Zwei-Faktor-Authentifizierung</a> in Ihrem Playstation-Konto ein."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Be aware that anything said over microphone is being recorded"
@@ -123,32 +123,38 @@ msgstr "Beachten Sie, dass alles, was über das Mikrofon gesagt wird, aufgezeich
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Melden Sie sich nicht mit Konten von Drittanbietern an. Melden Sie sich am besten einfach mit E-Mail und starkem Passwort an."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Wählen Sie ein starkes Passwort! Sie können ein Passwort-Kontroll-Tool wie 1Password, KeePass usw. verwenden."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Nutzen Sie Ihre Datenschutzeinstellungen, um den Zugriff auf Ihre personenbezogenen Daten per App zu beschränken (d. h., geben Sie Kamera, Mikrofon, Bildern und Standort keinen Zugriff, es sei denn "
+"es ist notwendig)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Halten Sie Ihre App regelmäßig auf dem neuesten Stand"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Schränken Sie das Anzeigen-Tracking über Ihr Gerät (z. B. auf dem iPhone unter „Datenschutz“ &gt; „Werbung“ &gt; „Ad-Tracking beschränken“) und die größten Werbenetzwerke ein (bei Google öffnen Sie "
+"Ihr Google-Konto und schalten die Anzeigenpersonalisierung aus)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Verlangen Sie, dass Ihre Daten gelöscht werden, sobald Sie die App nicht mehr verwenden. Durch das einfache Löschen einer App von Ihrem Gerät werden Ihre persönlichen Daten gewöhnlich nicht "
+"gelöscht."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu, falls möglich."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Read Playstation's <a id=\"a1\">Safety Guide</a>"
@@ -215,6 +221,8 @@ msgid ""
 "A parent can control their child's ability to post or view user-generated content, including photos, videos, drawings, and content imported from outside sources (any of which might contain personal "
 "information) through the user-generated content control."
 msgstr ""
+"Ein Elternteil kann über die benutzergenerierte Inhaltssteuerung lenken, welche benutzergenerierten Inhalte von seinem Kind gepostet oder angesehen werden können, einschließlich Fotos, Videos, "
+"Zeichnungen und aus externen Quellen importierte Inhalte (wobei jeder Inhalt personenbezogene Daten enthalten kann)."
 
 msgctxt "ai_what_can_it_do"
 msgid "Sony is <a id=\"a1\">planning</a> to employ AI via its Sony AI arm."
