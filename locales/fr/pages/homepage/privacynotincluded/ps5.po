@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.633270+00:00\n"
-"PO-Revision-Date: 2022-11-19 10:40+0000\n"
+"PO-Revision-Date: 2022-11-21 09:48+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -122,28 +122,34 @@ msgstr "N’utilisez pas de compte tiers pour vous inscrire. Mieux vaut vous con
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Choisissez un mot de passe compliqué. Vous pouvez utiliser un gestionnaire de mots de passe comme 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utilisez les contrôles de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (ne donnez pas accès à votre caméra, microphone, images et "
+"emplacement, sauf si nécessaire)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Assurez-vous de garder votre application à jour."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limitez le suivi publicitaire sur votre appareil (par exemple, sur iPhone, utilisez « Confidentialité », « Publicités » et « Limiter le suivi publicitaire ») et via les principaux réseaux "
+"publicitaires (pour Google, rendez-vous sur votre compte Google et désactivez la personnalisation des publicités)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Demandez la suppression de vos données quand vous arrêtez d’utiliser l’application. La suppression d’une application de votre appareil n’entraîne généralement pas automatiquement la suppression de "
+"vos données personnelles."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données, dans la mesure du possible."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Read Playstation's <a id=\"a1\">Safety Guide</a>"
@@ -163,7 +169,7 @@ msgstr "Ami·e·s et followers PlayStation"
 
 msgctxt "how_can_you_control_your_data"
 msgid "We ding this product as it is not clear if all users regardless of location can get their data deleted."
-msgstr ""
+msgstr "Nous attribuons un avertissement à ce produit, car il n’est pas clair si tous les utilisateurs, quel que soit leur emplacement, peuvent supprimer leurs données."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
@@ -210,6 +216,8 @@ msgid ""
 "A parent can control their child's ability to post or view user-generated content, including photos, videos, drawings, and content imported from outside sources (any of which might contain personal "
 "information) through the user-generated content control."
 msgstr ""
+"Les parents peuvent utiliser le contrôle du contenu généré par les utilisateurs et utilisatrices pour limiter la capacité de leurs enfants à publier ou voir ces contenus, qui incluent notamment les "
+"photos, vidéos, dessins et les contenus importés depuis des sources extérieures (qui peuvent inclure des informations personnelles)."
 
 msgctxt "ai_what_can_it_do"
 msgid "Sony is <a id=\"a1\">planning</a> to employ AI via its Sony AI arm."
