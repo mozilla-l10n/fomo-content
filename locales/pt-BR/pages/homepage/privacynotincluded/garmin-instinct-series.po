@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-14 15:22:56.034938+00:00\n"
-"PO-Revision-Date: 2022-11-14 15:29+0000\n"
+"PO-Revision-Date: 2022-11-21 10:09+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Garmin Instinct Series"
-msgstr ""
+msgstr "Série Garmin Instinct"
 
 msgctxt "blurb"
 msgid ""
@@ -21,6 +21,10 @@ msgid ""
 "all sorts of information about your sleep, stress, heart rate, hike, workout, and help you find your way home if you get lost in the woods. They are rugged and cool. I only say that because this is "
 "the smartwatch your favorite *Privacy Not Included reviewer owns and loves. Thanks Garmin for doing a good job keeping my health data all to yourself."
 msgstr ""
+"Estes relógios inteligentes robustos para uso ao ar livre vêm na versão regular, movida a energia solar, versão tática, versão camuflada e até mesmo versão surfe. Eles não têm as sofisticadas telas "
+"sensíveis ao toque, mas rastreiam todos os tipos de informações sobre seu sono, estresse, frequência cardíaca, caminhada, exercícios e ajudam você a encontrar o caminho de casa caso se perca na "
+"floresta. Eles são robustos e descolados. Eu só digo isso porque este é o smartwatch que seu revisor favorito *Privacidade não incluída possui e ama. Obrigado Garmin por fazer um bom trabalho "
+"mantendo meus dados de saúde só para você."
 
 msgctxt "worst_case"
 msgid ""
@@ -175,7 +179,7 @@ msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se pos
 
 msgctxt "personal_data_collected"
 msgid "Name, email address, gender (optional), age (optional), date of birth (optional), photos (optional), location"
-msgstr ""
+msgstr "Nome, endereço de e-mail, sexo (opcional), idade (opcional), data de nascimento (opcional), fotos (opcional), local"
 
 msgctxt "biometric_data_collected"
 msgid "Activity data, such as menstrual cycle information, steps, distance, pace, activity time, calories burned, heart rate, sleep, location, golf stats, etc."

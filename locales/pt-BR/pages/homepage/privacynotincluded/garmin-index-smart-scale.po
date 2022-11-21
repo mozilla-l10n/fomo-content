@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 14:32:58.137973+00:00\n"
-"PO-Revision-Date: 2022-11-21 10:04+0000\n"
+"PO-Revision-Date: 2022-11-21 10:07+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,10 @@ msgid ""
 "Garmin fitness tracker uses -- the Garmin Connect app -- and you've got all your fitness and body info right there in one place. And best of all, Garmin looks pretty good from a privacy perspective."
 " Now get stepping."
 msgstr ""
+"Vamos ser honestos, rastrear todos esses passos com um dispositivo vestível fitness é bom. Ver os benefícios de todas essas etapas quando você dá esse passo na escala é muito melhor. A Balança "
+"inteligente Index de Garmin oferece uma maneira de reunir todas essas métricas -- peso, índice de massa corporal, gordura corporal, massa muscular esquelética e muito mais. Emparelhe esta escala "
+"conectada a Wi-Fi e Bluetooth com o mesmo aplicativo que o seu monitor de condicionamento físico Garmin usa - o aplicativo Garmin Connect - e você terá todas as suas informações de condicionamento "
+"físico e corporais em um só lugar. E o melhor de tudo, Garmin parece muito bom do ponto de vista da privacidade. Agora comece a andar."
 
 msgctxt "worst_case"
 msgid ""
@@ -168,7 +172,7 @@ msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se pos
 
 msgctxt "personal_data_collected"
 msgid "Name, email address, gender (optional), age (optional), date of birth (optional), photos (optional), location"
-msgstr ""
+msgstr "Nome, endereço de e-mail, sexo (opcional), idade (opcional), data de nascimento (opcional), fotos (opcional), local"
 
 msgctxt "biometric_data_collected"
 msgid "Weight"
