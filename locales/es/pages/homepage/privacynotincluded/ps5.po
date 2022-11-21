@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:31.599094+00:00\n"
-"PO-Revision-Date: 2021-12-01 09:04+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2022-11-21 10:35+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -115,7 +115,7 @@ msgstr "Necesitas una contraseña segura para acceder a tu cuenta de PlayStation
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set up <a id=\"a1\">two-factor authenticaion</a> on your Playstation account immediately"
-msgstr ""
+msgstr "Configura la <a id=\"a1\">autenticación de dos factores</a> en tu cuenta de Playstation inmediatamente"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Be aware that anything said over microphone is being recorded"
@@ -123,32 +123,36 @@ msgstr "Ten en cuenta que todo lo que digas a través del micrófono estará sie
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "No te registres a través de cuentas de terceros. Es mejor que inicies sesión con un correo electrónico y una contraseña segura."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Actualiza tu aplicación con regularidad"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limita el rastreo de anuncios a través del dispositivo (por ejemplo, en el iPhone, ve a Privacidad -&gt; Publicidad de Apple -&gt; Anuncios personalizados) y de los gigantes publicitarios (para "
+"Google, ve a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr ""
+msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Cuando inicies el registro, no aceptes el seguimiento de tus datos si es posible."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Read Playstation's <a id=\"a1\">Safety Guide</a>"
@@ -215,6 +219,8 @@ msgid ""
 "A parent can control their child's ability to post or view user-generated content, including photos, videos, drawings, and content imported from outside sources (any of which might contain personal "
 "information) through the user-generated content control."
 msgstr ""
+"Los padres pueden controlar si sus hijos publican o acceden a fotos, vídeos, dibujos y otros contenidos generados por los usuarios o importados de fuentes externas (cualquiera de los cuales podría "
+"incluir información personal) a través del control de contenido generado por los usuarios."
 
 msgctxt "ai_what_can_it_do"
 msgid "Sony is <a id=\"a1\">planning</a> to employ AI via its Sony AI arm."
