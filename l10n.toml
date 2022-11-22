@@ -1772,7 +1772,17 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 [[paths]]
 reference = "templates/pages/homepage/common-voice/community-mobilisation-governance.pot"
 l10n = "locales/{locale}/pages/homepage/common-voice/community-mobilisation-governance.po"
-locales = [ "de", "es", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/common-voice/platform-and-dataset.pot"
+l10n = "locales/{locale}/pages/homepage/common-voice/platform-and-dataset.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/common-voice/blog.pot"
+l10n = "locales/{locale}/pages/homepage/common-voice/blog.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
