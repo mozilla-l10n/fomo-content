@@ -1935,6 +1935,26 @@ l10n = "locales/{locale}/pages/mozilla-festival/issues-and-spaces.po"
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/issues-and-spaces/transparency.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/issues-and-spaces/transparency.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/issues-and-spaces/bias.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/issues-and-spaces/bias.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/issues-and-spaces/data-stewardship.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/issues-and-spaces/data-stewardship.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/issues-and-spaces/movement-building.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/issues-and-spaces/movement-building.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
