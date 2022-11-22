@@ -11,17 +11,17 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a5f96077-a817-4cb4-a141-30aded2f8192\n"
 
+msgctxt "search_description"
+msgid "The RegretsReporter browser extension, built by the non-profit Mozilla, helps you reject harmful YouTube recommendations."
+msgstr "L’extension de navigateur RegretsReporter, créée par l’organisation à but non lucratif Mozilla, vous aide à bloquer les recommandations néfastes sur YouTube."
+
 msgctxt "title"
 msgid "RegretsReporter Extension"
 msgstr "Extension RegretsReporter"
 
-msgctxt "slug"
-msgid "regretsreporter"
-msgstr "regretsreporter"
-
-msgctxt "search_description"
-msgid "The RegretsReporter browser extension, built by the non-profit Mozilla, helps you reject harmful YouTube recommendations."
-msgstr "L’extension de navigateur RegretsReporter, créée par l’organisation à but non lucratif Mozilla, vous aide à bloquer les recommandations néfastes sur YouTube."
+#~ msgctxt "slug"
+#~ msgid "regretsreporter"
+#~ msgstr "regretsreporter"
 
 #~ msgctxt "search_description"
 #~ msgid "The RegretsReporter browser extension, built by the non-profit Mozilla, lets you block harmful YouTube recommendations."
