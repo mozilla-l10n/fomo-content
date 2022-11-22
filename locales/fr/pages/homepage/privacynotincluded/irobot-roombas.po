@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-24 09:28:28.330846+00:00\n"
-"PO-Revision-Date: 2022-06-09 17:17+0000\n"
+"PO-Revision-Date: 2022-11-22 09:28+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -82,15 +82,15 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "iRobot does not share personal data with third parties for commercial or marketing purposes."
-msgstr ""
+msgstr "iRobot dit ne pas partager de données personnelles avec des tiers à des fins commerciales ou marketing."
 
 msgctxt "how_does_it_use_data_collected"
 msgid "iRobot does not sell personal data."
-msgstr ""
+msgstr "iRobot ne vend pas de données personnelles."
 
 msgctxt "how_does_it_use_data_collected"
 msgid "iRobot does not buy or sell data with data brokers."
-msgstr ""
+msgstr "iRobot n’achète ni ne vend de données avec des courtiers en données."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -150,28 +150,34 @@ msgstr "Gardez le firmware de votre robot aspirateur à jour"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Ne vous inscrivez pas avec un compte tiers. Il vaut mieux vous connecter avec un e-mail et un mot de passe compliqué."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utilisez les contrôles de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (ne donnez pas accès à votre caméra, microphone, images et "
+"emplacement, sauf si nécessaire)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Assurez-vous de garder votre application à jour."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limitez le suivi publicitaire sur votre appareil (par exemple, sur iPhone, utilisez « Confidentialité », « Publicités » et « Limiter le suivi publicitaire ») et via les principaux réseaux "
+"publicitaires (pour Google, rendez-vous sur votre compte Google et désactivez la personnalisation des publicités)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Demandez la suppression de vos données quand vous arrêtez d’utiliser l’application. La suppression d’une application de votre appareil n’entraîne généralement pas automatiquement la suppression de "
+"vos données personnelles."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Au début de l’inscription, refusez le suivi de vos données si possible."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
