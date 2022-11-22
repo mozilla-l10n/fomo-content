@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-18 13:06:30.759344+00:00\n"
-"PO-Revision-Date: 2022-11-18 14:10+0000\n"
+"PO-Revision-Date: 2022-11-22 10:27+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Eufy RoboVacs"
-msgstr ""
+msgstr "RoboVac d’Eufy"
 
 msgctxt "blurb"
 msgid ""
@@ -38,6 +38,12 @@ msgid ""
 "enforcement authorities. This worries us a bit because the way that line in their privacy policy is written is rather vague and seems like it could leave open the possibility they could collect "
 "information on users from a variety of third parties, for example, data brokers."
 msgstr ""
+"Selon sa <a id=\"a1\">politique de confidentialité</a>, Eufy indique pouvoir collecter de nombreuses données personnelles sur vous, comme le nom, l’e-mail, le sexe, la date de naissance, "
+"l’emplacement, des informations sur l’appareil, etc. Et tandis qu’Eufy dit ne pas vendre vos données personnelles (ce qui est une bonne chose), ils disent pouvoir utiliser ces informations pour vous"
+" afficher des publicités de leur part et de celle d’annonceurs tiers, ce qui est une moins bonne chose (mais aussi assez standard sur Internet de nos jours). Eufy indique également pouvoir collecter"
+" des données personnelles sur vous auprès de tiers qui les lui fournissent, telles que les autorités en charge du maintient de l’ordre. Cela nous inquiète un peu car la façon dont cette ligne dans "
+"la politique de confidentialité d’Eufy est rédigée de manière plutôt vague et semble laisser la possibilité de pouvoir collecter des informations sur les utilisateurs auprès de divers tiers, par "
+"exemple des courtiers en données."
 
 msgctxt "worst_case"
 msgid ""
