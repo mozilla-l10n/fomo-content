@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-22 11:22:22.848703+00:00\n"
+"PO-Revision-Date: 2022-11-22 11:56+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a92ef413-8a66-4b82-b22f-361717156fa5\n"
 
 msgctxt "seo_title"
 msgid "Platform and Dataset"
-msgstr ""
+msgstr "Plateforme et jeu de données"
 
 msgctxt "header"
 msgid "Platform &amp; data"
-msgstr ""
+msgstr "Plateforme et données"
 
 msgctxt "intro"
 msgid ""
@@ -22,7 +27,7 @@ msgstr ""
 
 msgctxt "body.c13cf4a8-b650-44e2-affe-d2b84ee02703"
 msgid "Platform and Dataset"
-msgstr ""
+msgstr "Plateforme et jeu de données"
 
 msgctxt "body.c13cf4a8-b650-44e2-affe-d2b84ee02703"
 msgid "Common Voice is the largest crowdsourced multilingual speech dataset in the world"
@@ -34,7 +39,7 @@ msgstr ""
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Why Common Voice?"
-msgstr ""
+msgstr "Pourquoi Common Voice ?"
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid ""
@@ -49,11 +54,11 @@ msgstr ""
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "How does Common Voice work?"
-msgstr ""
+msgstr "Comment fonctionne Common Voice ?"
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Step 1. Someone asks for a language to be added."
-msgstr ""
+msgstr "Étape 1. Quelqu’un demande l’ajout d’une langue."
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Step 2. The website text is translated into that language by volunteers."
@@ -61,23 +66,23 @@ msgstr ""
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Step 3. Sentences are collected for people to read aloud."
-msgstr ""
+msgstr "Étape 3. Des phrases sont collectées pour être lues à haute voix."
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Step 4. We launch the Common Voice platform in this language."
-msgstr ""
+msgstr "Étape 4. Nous lançons la plateforme Common Voice dans cette langue."
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Step 5. People come and contribute their voices."
-msgstr ""
+msgstr "Étape 5. Des personnes contribuent avec leur voix."
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Step 6. Other people validate those voice clips."
-msgstr ""
+msgstr "Étape 6. D’autres personnes valident ces extraits vocaux."
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Step 7. We release the dataset every 3 months."
-msgstr ""
+msgstr "Étape 7. Nous publions les données tous les 3 mois."
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Step 8. The cycle continues! More sentences, more clips, more validations! We always need your help!"
@@ -85,7 +90,7 @@ msgstr ""
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "So how do I get involved?"
-msgstr ""
+msgstr "Alors, comment puis-je participer ?"
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Thanks for asking! Check on the platform to see if your language needs more clips, more validations, or more sentences."
@@ -117,12 +122,12 @@ msgstr ""
 
 msgctxt "body.5d84991f-22e1-45c2-81da-a6d27bb04166.label"
 msgid "Contribute to Common Voice"
-msgstr ""
+msgstr "Contribuer à Common Voice"
 
 msgctxt "body.5d84991f-22e1-45c2-81da-a6d27bb04166.URL"
 msgid "https://commonvoice.mozilla.org/speak"
-msgstr ""
+msgstr "https://commonvoice.mozilla.org/speak"
 
 msgctxt "title"
 msgid "Platform and Dataset"
-msgstr ""
+msgstr "Plateforme et jeu de données"
