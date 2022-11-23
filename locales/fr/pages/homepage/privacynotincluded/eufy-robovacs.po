@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-18 13:06:30.759344+00:00\n"
-"PO-Revision-Date: 2022-11-23 12:28+0000\n"
+"PO-Revision-Date: 2022-11-23 12:43+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -62,6 +62,12 @@ msgid ""
 "2021</a>, Eufy was forced to <a id=\"a5\">apologize for a bug</a> that <a id=\"a6\">exposed the camera feeds</a> of 712 users to strangers. Eufy said the glitch happened during a software update and"
 " “users were able to access video feeds from other users’ cameras.” <a id=\"a7\">Eufy said in a statement</a> the glitch was fixed an hour after it was discovered."
 msgstr ""
+"C’est excellent que nous n’ayons trouvé aucune faille de sécurité connue sur les aspirateurs robots d’Eufy. Malheureusement, Eufy a connu des vulnérabilités de sécurité importantes avec ses caméras "
+"de surveillance. En juin 2022, des experts en sécurité ont découvert <a id=\"a1\">trois vulnérabilités de sécurité</a> dans le dispositif de stockage et de gestion vidéo Homebase 2 d’Eufy qui <a "
+"id=\"a2\">auraient pu permettre à des pirates</a> de prendre le contrôle du hub, le contrôler à distance ou dérober des séquences vidéo. Eufy/Anker <a id=\"a3\">a développé des correctifs pour ces "
+"vulnérabilités de sécurité</a> et les a diffusés aux utilisateurs dans un délai convenable. Et en <a id=\"a4\">mai 2021</a>, Eufy a été contraint de <a id=\"a5\">s’excuser pour un bug</a> qui <a "
+"id=\"a6\">exposait le flux des caméras</a> de 712 utilisateurs et utilisatrices à des inconnus. Eufy a déclaré que le problème s’était produit lors d’une mise à jour logicielle et que « des "
+"utilisateurs ont pu accéder aux flux vidéo des caméras d’autres utilisateurs ». <a id=\"a7\">Eufy a déclaré dans un communiqué</a> que le problème avait été résolu une heure après sa découverte."
 
 msgctxt "worst_case"
 msgid ""
