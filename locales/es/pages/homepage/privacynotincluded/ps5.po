@@ -298,16 +298,6 @@ msgstr "Sony <a id=\"a1\">planea</a> emplear IA a través de su sección de IA S
 #~ " con lector de discos y una edición digital más barata sin él. Un chute de potencia y unos gráficos de alta calidad harán que juegos como Horizon Forbidden West, Marvel's Spiderman: Miles Morales o "
 #~ "Gran Turismo 7, entre otros, resulten más divertidos, rápidos y apasionantes. Esperemos que el resto de los mortales podamos comprarnos una pronto."
 
-#~ msgctxt "blurb"
-#~ msgid ""
-#~ "Sony's PS5 has been around for a year now, and it's still hard to buy them. Good work if you've been able to work the system to get one! The PS5 comes in both a regular edition with a disc drive and"
-#~ " the cheaper digital edition without the drive. Beefed up power and high-quality graphical output make games like Horizon Forbidden West, Marvel's Spiderman: Miles Morales, Gran Turismo 7 and "
-#~ "Returnal fast and beautiful. Here's hoping the rest of us can eventually buy one soon."
-#~ msgstr ""
-#~ "La PS5 de Sony ya tiene cerca de un año y todavía es difícil comprarla. Si has logrado engañar al sistema y conseguir una, ¡enhorabuena! La PS5 viene en dos versiones, una edición estándar con una "
-#~ "unidad de disco y una edición digital más económica que no incluye la unidad de disco. La potencia reforzada y la salida gráfica de alta calidad hacen que juegos como «Horizon Forbidden West», "
-#~ "«Marvel's Spiderman: Miles Morales», «Gran Turismo 7» y «Returnal» sean rápidos y hermosos. Esperamos poder comprarnos una pronto."
-
 #~ msgctxt "price"
 #~ msgid "399.99 - $499.99"
 #~ msgstr "399,99 - $499,99"
@@ -325,6 +315,28 @@ msgstr "Sony <a id=\"a1\">planea</a> emplear IA a través de su sección de IA S
 #~ "enviar grabaciones (de no más de 40 segundos) de interacciones de voz desagradables a Sony para que las revise, y no habrá forma de escaparse de esto. Lo cual no está mal, porque algo hay que hacer "
 #~ "para poner fin a este problema. Simplemente recuerda que si usas la función de chat de voz en la nueva PS5 te estarán grabando en todo momento. Por último, ten en cuenta que Sony podría compartir tu"
 #~ " información personal con socios publicitarios y promocionales, y que cuando juegues a juegos de otras empresas en la plataforma, puede que estés compartiendo tus datos con ellas."
+
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Uses encryption in transit and at rest."
+#~ msgstr "Emplea cifrado en tránsito y en reposo."
+
+#~ msgctxt "track_record_details"
+#~ msgid "No known incidents in the last 2 years."
+#~ msgstr "No se ha conocido ningún incidente en los últimos dos años."
+
+#~ msgctxt "ai_helptext"
+#~ msgid "Sony has launched a new AI R&amp;D division that will cover gaming.  It was also reported that Sony was using AI to create soundtracks that react to how you play."
+#~ msgstr "Sony ha lanzado una nueva divisón de I+D en IA que abarcará el gaming. Según las informaciones recibidas, Sony empleada IA para crear bandas sonoras que reaccionan a cómo juegas."
+
+#~ msgctxt "blurb"
+#~ msgid ""
+#~ "Sony's PS5 has been around for a year now, and it's still hard to buy them. Good work if you've been able to work the system to get one! The PS5 comes in both a regular edition with a disc drive and"
+#~ " the cheaper digital edition without the drive. Beefed up power and high-quality graphical output make games like Horizon Forbidden West, Marvel's Spiderman: Miles Morales, Gran Turismo 7 and "
+#~ "Returnal fast and beautiful. Here's hoping the rest of us can eventually buy one soon."
+#~ msgstr ""
+#~ "La PS5 de Sony ya tiene cerca de un año y todavía es difícil comprarla. Si has logrado engañar al sistema y conseguir una, ¡enhorabuena! La PS5 viene en dos versiones, una edición estándar con una "
+#~ "unidad de disco y una edición digital más económica que no incluye la unidad de disco. La potencia reforzada y la salida gráfica de alta calidad hacen que juegos como «Horizon Forbidden West», "
+#~ "«Marvel's Spiderman: Miles Morales», «Gran Turismo 7» y «Returnal» sean rápidos y hermosos. Esperamos poder comprarnos una pronto."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -361,19 +373,11 @@ msgstr "Sony <a id=\"a1\">planea</a> emplear IA a través de su sección de IA S
 #~ "Sony podría compartir información personal con socios con fines publicitarios y promocionales. Cuando usas juegos ofrecidos a través de otras empresas en la plataforma, podrías estar compartiendo "
 #~ "tus datos con esos terceros."
 
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Uses encryption in transit and at rest."
-#~ msgstr "Emplea cifrado en tránsito y en reposo."
-
 #~ msgctxt "manage_vulnerabilities_helptext"
 #~ msgid "Sony has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://hackerone.com/playstation"
 #~ msgstr ""
 #~ "Sony tiene un programa de cazadores de bugs, con lo que todas las personas que detecten algún problema de seguridad y se lo notifiquen de forma responsable podrían recibir una compensación por ello."
 #~ " https://hackerone.com/playstation"
-
-#~ msgctxt "ai_helptext"
-#~ msgid "Sony has launched a new AI R&amp;D division that will cover gaming.  It was also reported that Sony was using AI to create soundtracks that react to how you play."
-#~ msgstr "Sony ha lanzado una nueva divisón de I+D en IA que abarcará el gaming. Según las informaciones recibidas, Sony empleada IA para crear bandas sonoras que reaccionan a cómo juegas."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Set up <a id=\"a1\">two-factor authentication</a> on your Playstation account immediately"
@@ -386,10 +390,6 @@ msgstr "Sony <a id=\"a1\">planea</a> emplear IA a través de su sección de IA S
 #~ msgstr ""
 #~ "Puedes solicitar que borren tus datos, pero igualmente podrían conservarlos por cuestiones jurídicas, contables, de continuidad empresarial (copias de seguridad), de lucha contra el fraude y "
 #~ "comunitarios. Los usuarios no pueden excluirse de la grabación de los chats de voz."
-
-#~ msgctxt "track_record_details"
-#~ msgid "No known incidents in the last 2 years."
-#~ msgstr "No se ha conocido ningún incidente en los últimos dos años."
 
 #~ msgctxt "track_record_details"
 #~ msgid "No known incidents in the last 3 years."
