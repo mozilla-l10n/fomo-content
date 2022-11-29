@@ -1785,6 +1785,11 @@ l10n = "locales/{locale}/pages/homepage/common-voice/blog.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/eufy-security-cams.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-security-cams.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2007,11 +2012,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/nvidia-shield-tv.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/nvidia-shield-tv.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/eufy-security-cams.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-security-cams.po"
 locales = [ "fr",]
 
 [[paths]]
