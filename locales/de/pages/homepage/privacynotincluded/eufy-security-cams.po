@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-29 13:29:53.967725+00:00\n"
+"PO-Revision-Date: 2022-11-29 13:49+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: be5a992b-d34b-4b41-8ccf-2482aa9d5d4c\n"
 
 msgctxt "title"
@@ -98,32 +103,38 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Melden Sie sich nicht mit Konten von Drittanbietern an. Melden Sie sich am besten einfach mit E-Mail und starkem Passwort an."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Wählen Sie ein starkes Passwort! Sie können ein Passwort-Kontroll-Tool wie 1Password, KeePass usw. verwenden."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Nutzen Sie Ihre Datenschutzeinstellungen, um den Zugriff auf Ihre personenbezogenen Daten per App zu beschränken (d. h., geben Sie Kamera, Mikrofon, Bildern und Standort keinen Zugriff, es sei denn "
+"es ist notwendig)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Halten Sie Ihre App regelmäßig auf dem neuesten Stand"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Schränken Sie das Anzeigen-Tracking über Ihr Gerät (z. B. auf dem iPhone unter „Datenschutz“ > „Werbung“ > „Ad-Tracking beschränken“) und die größten Werbenetzwerke ein (bei Google öffnen Sie Ihr "
+"Google-Konto und schalten die Anzeigenpersonalisierung aus)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Verlangen Sie, dass Ihre Daten gelöscht werden, sobald Sie die App nicht mehr verwenden. Durch das einfache Löschen einer App von Ihrem Gerät werden Ihre persönlichen Daten gewöhnlich nicht "
+"gelöscht."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu, falls möglich."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn on the<a id=\"a1\"> Two-step verification</a>"
@@ -131,7 +142,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, email address"
-msgstr ""
+msgstr "Name, E-Mail-Adresse"
 
 msgctxt "biometric_data_collected"
 msgid "Face images and underlying face prints (if you choose to enable imaging and biometric features)."
