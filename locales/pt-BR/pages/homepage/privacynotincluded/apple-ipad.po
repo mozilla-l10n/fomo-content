@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:32:03.872903+00:00\n"
-"PO-Revision-Date: 2022-11-15 22:08+0000\n"
+"PO-Revision-Date: 2022-11-30 13:51+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -13,13 +13,15 @@ msgstr ""
 
 msgctxt "title"
 msgid "Apple iPad"
-msgstr "Apple iPad"
+msgstr "iPad da Apple"
 
 msgctxt "blurb"
 msgid ""
 "Ah, the iPad. The tablet that changed how we watch TV in bed, how children eat dinner at restaurants, and how our parents take pictures. From the little iPad Mini to the 12.9 inch iPad Pro, there is"
 " likely no easier to use computer device known to the human race."
 msgstr ""
+"O tablet que mudou como vemos TV na cama, como as crianças jantam em restaurantes e como nossos pais tiram fotos. Do pequeno iPad Mini ao iPad Pro de 12,9 polegadas, provavelmente não há um "
+"dispositivo de computador mais fácil de usar conhecido pela raça humana."
 
 msgctxt "worst_case"
 msgid ""
@@ -164,15 +166,15 @@ msgstr "A Apple tem um <a id=\"a1\">programa de caça a bugs</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Set a strong passcode on your iPad."
-msgstr ""
+msgstr "Defina uma senha forte no seu iPad."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Follow Apple's own <a id=\"a1\">guidelines</a> for privacy and security."
-msgstr ""
+msgstr "Siga as <a id=\"a1\">diretrizes</a> de privacidade e segurança da Apple."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Be careful what apps you install on your device as some apps can be privacy invasive."
-msgstr ""
+msgstr "Tenha cuidado com os aplicativos que você instala no seu dispositivo, pois alguns deles podem ser invasivos à privacidade."
 
 msgctxt "tips_to_protect_yourself"
 msgid "You can say “Hey Siri, stop listening” to turn off speech recognition for a period of time."
@@ -180,7 +182,7 @@ msgstr "Você pode dizer \"E aí, Siri. Pare de ouvir.\" para desligar o reconhe
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your iPad regularly updated."
-msgstr ""
+msgstr "Mantenha seu iPad sempre atualizado."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
@@ -188,7 +190,7 @@ msgstr "Nome, e-mail, número de telefone, endereço"
 
 msgctxt "biometric_data_collected"
 msgid "If you opt-in: Fingerprint, Voice recordings"
-msgstr ""
+msgstr "Se você optar por: impressão digital, gravações de voz"
 
 msgctxt "social_data_collected"
 msgid "Contact list"
