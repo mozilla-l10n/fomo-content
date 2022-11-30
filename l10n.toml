@@ -1790,6 +1790,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-security-cams.po
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
+reference = "templates/snippets/highlights.Highlight/185-host-a-session-at-mozfest.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/185-host-a-session-at-mozfest.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
