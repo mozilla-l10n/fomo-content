@@ -24,12 +24,12 @@ msgid "Homepage"
 msgstr "Inicio"
 
 msgctxt "hero_headline"
-msgid "MozFest 2023 Call For Proposals"
-msgstr "Convocatoria de propuestas para el MozFest 2023"
+msgid "Read expert reviews on this season's hotest connected gifts."
+msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Submit Your Session Idea"
-msgstr "Envía tu idea para una sesión"
+msgid "Shop smart, and safe."
+msgstr ""
 
 msgctxt "spotlight_headline"
 msgid "All About Common Voice"
@@ -72,6 +72,14 @@ msgctxt "take_action_title"
 msgid "Take action"
 msgstr "Actúa ahora"
 
+msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+msgid "Tell YouTube: Give users real control over their video recommendations!"
+msgstr ""
+
+msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
+msgid "Let’s open the door for social media researchers."
+msgstr ""
+
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
 msgstr "Dile a Tinder: ¡Ya es hora de incorporar transparencia a vuestros algoritmos de precios!"
@@ -79,14 +87,6 @@ msgstr "Dile a Tinder: ¡Ya es hora de incorporar transparencia a vuestros algor
 msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
 msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
 msgstr "Invertir en nuestro planeta: La interseccionalidad de clima y tecnología"
-
-msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
-msgid "Tell Slack: #BlockAbuse"
-msgstr "Pide a Slack que bloquee el abuso (#BlockAbuse)"
-
-msgctxt "take_action_cards.1e303e2d-ade9-48e9-9f84-00a6e018e345.text"
-msgid "Open letter to Venmo: Make Privacy the Default"
-msgstr "Carta abierta a Venmo: Hagan que la privacidad sea predeterminada"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -140,6 +140,10 @@ msgstr "Logo de Consumers International"
 #~ msgid "Does YouTube’s Dislike Button Even Work?"
 #~ msgstr "¿Acaso funciona el botón «No me gusta» de YouTube?"
 
+#~ msgctxt "hero_headline"
+#~ msgid "MozFest 2023 Call For Proposals"
+#~ msgstr "Convocatoria de propuestas para el MozFest 2023"
+
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
 #~ msgstr "Revisar los resultados"
@@ -168,9 +172,17 @@ msgstr "Logo de Consumers International"
 #~ msgid "Here’s What We Found"
 #~ msgstr "He aquí lo que hemos descubierto"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Submit Your Session Idea"
+#~ msgstr "Envía tu idea para una sesión"
+
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
 #~ msgstr "Qué debemos saber acerca de Venmo"
+
+#~ msgctxt "take_action_cards.1e303e2d-ade9-48e9-9f84-00a6e018e345.text"
+#~ msgid "Open letter to Venmo: Make Privacy the Default"
+#~ msgstr "Carta abierta a Venmo: Hagan que la privacidad sea predeterminada"
 
 #~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
 #~ msgid "Let’s Unfck The Internet"
@@ -179,6 +191,10 @@ msgstr "Logo de Consumers International"
 #~ msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
 #~ msgid "Supporting Black Artists Examining AI"
 #~ msgstr "Apoyando a los artistas negros que están examinando la IA"
+
+#~ msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
+#~ msgid "Tell Slack: #BlockAbuse"
+#~ msgstr "Pide a Slack que bloquee el abuso (#BlockAbuse)"
 
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
