@@ -15,18 +15,6 @@ msgctxt "title"
 msgid "Can My Boss Read My Slack DMs—And Other Workplace Wonderings"
 msgstr "Mon patron peut-il lire mes messages Slack, Microsoft Teams et Zoom ?"
 
-msgctxt "slug"
-msgid "can-my-boss-read-my-slack-dmsand-other-workplace-wonderings"
-msgstr "can-my-boss-read-my-slack-dmsand-other-workplace-wonderings"
-
-msgctxt "seo_title"
-msgid "Can My Boss See My Slack, Microsoft Teams and Zoom messages?"
-msgstr "Mon patron peut-il lire mes messages Slack, Microsoft Teams et Zoom ?"
-
-msgctxt "search_description"
-msgid "Let’s dig into those surveillance settings"
-msgstr "Explorons ces paramètres de surveillance"
-
 msgctxt "body.0f35d6f4-3ac9-4ed0-a5f5-e3ebf9e696d7"
 msgid ""
 "“Can my boss read my Slack messages?” It’s a question as old as time itself (or at least as old as work chat). We expect a certain level of privacy when we talk on any platform. But with more and "
@@ -226,3 +214,15 @@ msgid "Check out the new *<a id=\"a1\"><i>Privacy Not Included</i> guide</a> on 
 msgstr ""
 "Consultez notre nouveau guide <a id=\"a1\"><i>*Confidentialité non incluse</i></a> sur les applications d’appels vidéo. Et suivez-nous sur <a id=\"a2\">Twitter</a> et <a id=\"a3\">Instagram</a> pour"
 " plus d’actualités de Mozilla."
+
+msgctxt "seo_title"
+msgid "Can My Boss See My Slack, Microsoft Teams and Zoom messages?"
+msgstr "Mon patron peut-il lire mes messages Slack, Microsoft Teams et Zoom ?"
+
+msgctxt "search_description"
+msgid "Let’s dig into those surveillance settings"
+msgstr "Explorons ces paramètres de surveillance"
+
+#~ msgctxt "slug"
+#~ msgid "can-my-boss-read-my-slack-dmsand-other-workplace-wonderings"
+#~ msgstr "can-my-boss-read-my-slack-dmsand-other-workplace-wonderings"
