@@ -1942,7 +1942,7 @@ locales = [ "es", "fr",]
 [[paths]]
 reference = "templates/pages/mozilla-festival/issues-and-spaces.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/issues-and-spaces.po"
-locales = [ "es",]
+locales = [ "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-festival/issues-and-spaces/transparency.pot"
@@ -1967,7 +1967,7 @@ locales = [ "es",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.Signup/225-mozfest-2023-first-to-know.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Signup/225-mozfest-2023-first-to-know.po"
-locales = [ "es",]
+locales = [ "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
