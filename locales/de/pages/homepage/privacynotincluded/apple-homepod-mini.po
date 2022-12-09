@@ -328,6 +328,14 @@ msgstr ""
 #~ "Denken Sie jedoch immer daran, dass Sie beim Kauf dieses Produkts vier Mikrofone nutzen, die immer in Ihr Zuhause hören. Hoffentlich lässt Apple nicht noch mehr Fremde mithören, was Sie sagen! Wir "
 #~ "freuen uns sehr über die Schritte, die sie unternehmen, um sicherzustellen, dass dies nicht passiert."
 
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "You can say “Hey Siri, stop listening” to turn off speech recognition for a period of time"
+#~ msgstr "Sie können sagen „Hey Siri, hör auf zuzuhören“, um die Spracherkennung für einige Zeit auszuschalten."
+
+#~ msgctxt "offline_use_description"
+#~ msgid "WiFi is needed to set it up."
+#~ msgstr "Zur Einrichtung wird WLAN benötigt."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Apple does a pretty good job with privacy and security as a company. Although they did recently suffer a bad <a id=\"a1\">security vulnerability</a> that resulted in spyware that could allow bad "
@@ -345,10 +353,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Apple gibt an, Ihre Daten nicht zu kommerziellen oder Marketingzwecken an Dritte weiterzugeben. Im Juni 2021 <a id=\"a1\">kündigte Apple an</a>, keine Siri-Anfragen mehr an seine Server zu senden, "
 #~ "sondern diese auf Geräteebene zu verarbeiten."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "You can say “Hey Siri, stop listening” to turn off speech recognition for a period of time"
-#~ msgstr "Sie können sagen „Hey Siri, hör auf zuzuhören“, um die Spracherkennung für einige Zeit auszuschalten."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -371,7 +375,3 @@ msgstr ""
 #~ "und Nachrichten aufzeichnen und sogar die Kamera und das Mikrofon des Geräts einschalten, ohne dass der Benutzer es merkt. Pegasus wurde von der NSO Group produziert, einem in Israel ansässigen "
 #~ "Unternehmen, das seine Spyware an Regierungen wie Mexiko und Saudi-Arabien verkauft. Obwohl diese Spyware vermutlich verwendet werden sollte, um Terroristen und kriminelle Unternehmen zu überwachen,"
 #~ " haben diese Regierungen sie auch dazu benutzt, Aktivisten, Politiker und Journalisten auszuspionieren. Seit dem 13. September 2021 hat Apple den Exploit gepatcht.“"
-
-#~ msgctxt "offline_use_description"
-#~ msgid "WiFi is needed to set it up."
-#~ msgstr "Zur Einrichtung wird WLAN benötigt."

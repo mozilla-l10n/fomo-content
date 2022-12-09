@@ -2385,6 +2385,16 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-smart-scale.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/tickets.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/tickets.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/thank-you.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/thank-you.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
