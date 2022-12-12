@@ -2410,6 +2410,16 @@ l10n = "locales/{locale}/pages/mozilla-festival/community.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/community/wranglers.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/community/wranglers.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/community/ambassadors.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/community/ambassadors.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
