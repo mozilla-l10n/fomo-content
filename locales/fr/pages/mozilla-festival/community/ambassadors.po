@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-12-12 10:14:42.597459+00:00\n"
+"PO-Revision-Date: 2022-12-12 10:18+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f88862c1-eb0e-4465-b1f1-6676debbc056\n"
 
 msgctxt "title"
@@ -12,7 +17,7 @@ msgstr ""
 
 msgctxt "intro"
 msgid "MozFest is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all-year long."
-msgstr ""
+msgstr "Le MozFest n’est pas seulement une date sur le calendrier. C’est une communauté collaborative qui agit sur les problématiques les plus importantes tout au long de l’année."
 
 msgctxt "body.dcecb910-0534-4015-84d2-a06044c3d5e5"
 msgid "MozFest Ambassadors"
@@ -30,7 +35,7 @@ msgstr ""
 
 msgctxt "body.d92413ab-95ad-4da9-aa8e-1d5430af6b4f.URL"
 msgid "https://docs.google.com/forms/d/e/1FAIpQLSduBCcF0z2npHlImuJdUWFquBzUsUYSGNXHCTTB2DUjVLFAcQ/viewform"
-msgstr ""
+msgstr "https://docs.google.com/forms/d/e/1FAIpQLSduBCcF0z2npHlImuJdUWFquBzUsUYSGNXHCTTB2DUjVLFAcQ/viewform"
 
 msgctxt "body.d2f9a945-ca91-4a2c-9927-a15d2f0bf797"
 msgid "Meet the MozFest Ambassadors"
@@ -46,4 +51,4 @@ msgstr ""
 
 msgctxt "body.19731db9-8bcb-430d-b4b4-811b089567f9.year"
 msgid "2023"
-msgstr ""
+msgstr "2023"
