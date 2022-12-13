@@ -1880,11 +1880,6 @@ l10n = "locales/{locale}/pages/homepage/blog/new-anthology-political-violence-in
 locales = [ "es",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/6-mozilla-festival.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/6-mozilla-festival.po"
-locales = [ "es",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-101.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-101.po"
 locales = [ "es",]
@@ -1968,6 +1963,16 @@ locales = [ "es",]
 reference = "templates/snippets/wagtailpages.Signup/225-mozfest-2023-first-to-know.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Signup/225-mozfest-2023-first-to-know.po"
 locales = [ "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/6-mozilla-festival.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/6-mozilla-festival.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/take-control-of-your-data-at-mozfest-2023.pot"
+l10n = "locales/{locale}/pages/homepage/blog/take-control-of-your-data-at-mozfest-2023.po"
+locales = [ "es",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
