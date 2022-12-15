@@ -1975,6 +1975,11 @@ l10n = "locales/{locale}/pages/homepage/blog/take-control-of-your-data-at-mozfes
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/tickets.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/tickets.po"
+locales = [ "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
@@ -2387,11 +2392,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/eufy-smart-scale.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-smart-scale.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-festival/tickets.pot"
-l10n = "locales/{locale}/pages/mozilla-festival/tickets.po"
 locales = [ "fr",]
 
 [[paths]]
