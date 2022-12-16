@@ -1980,6 +1980,16 @@ l10n = "locales/{locale}/pages/mozilla-festival/tickets.po"
 locales = [ "es", "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/382-laura-vidal.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/382-laura-vidal.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/language-inclusion-experiments-at-mozfest-2023.pot"
+l10n = "locales/{locale}/pages/homepage/blog/language-inclusion-experiments-at-mozfest-2023.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
