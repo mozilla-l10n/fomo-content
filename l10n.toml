@@ -2440,11 +2440,6 @@ l10n = "locales/{locale}/pages/mozilla-festival/mozfest-2023-early-bird-tickets-
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/thank-you.pot"
-l10n = "locales/{locale}/pages/homepage/blog/thank-you.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.ResearchTopic/65-movement-building.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/65-movement-building.po"
 locales = [ "fr",]
