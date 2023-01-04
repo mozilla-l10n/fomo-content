@@ -25,8 +25,8 @@ msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
-msgid "Submit your proposal"
-msgstr "Jo foarstel yntsjinje"
+msgid "Secure your ticket"
+msgstr "Stel jo ticket feilich"
 
 msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
@@ -63,13 +63,9 @@ msgstr ""
 "MozFest is in unike hybride: foar in part in keunst-, tech- en maatskiplike gearkomst, foar in part makkerfestival, en de meast foaroansteande gearkomst foar aktivisten yn wrâldwide bewegingen dy't "
 "stride foar in humane digitale wrâld."
 
-msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
-msgid "MozFest Logo"
-msgstr "MozFest-logo"
-
-msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 20th 2022. <a id=\"a1\">Submit your proposal now.</a>"
-msgstr "De MozFest 2023-oprop ta it yntsjinjen fan foarstellen is no iepene en slút op 20 desimber 2022. <a id=\"a1\">Tsjinje no jo foarstel yn.</a>"
+msgctxt "body.d0b8df98-96b7-45e1-a2bf-ffe3c77ad58f.button_label"
+msgid "Secure your MozFest ticket"
+msgstr ""
 
 msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
 msgid "A photograph of a person sitting with their laptop on the stairs of the MozFest House venue, next to them is an orange and pink sign with the MozFest house logo."
@@ -213,10 +209,6 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgctxt "cta_button_label"
 #~ msgid "Submit a Proposal"
 #~ msgstr "In foarstel yntsjinje"
-
-#~ msgctxt "cta_button_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Stel jo ticket feilich"
 
 #~ msgctxt "search_description"
 #~ msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2022?"
@@ -933,6 +925,14 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
 #~ msgstr "Foegje de datums foar MozFest Virtual 2023 ta oan jo aginda, yn <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> of <a id=\"a3\">download de útnûging </a>."
 
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
+#~ msgid "MozFest Logo"
+#~ msgstr "MozFest-logo"
+
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 16th 2022. <a id=\"a1\">Submit your proposal now.</a>"
 #~ msgstr "De MozFest 2023-oprop ta it yntsjinjen fan foarstellen is no iepene en slút op 16 desimber 2022. <a id=\"a1\">Tsjinje no jo foarstel yn.</a>"
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 20th 2022. <a id=\"a1\">Submit your proposal now.</a>"
+#~ msgstr "De MozFest 2023-oprop ta it yntsjinjen fan foarstellen is no iepene en slút op 20 desimber 2022. <a id=\"a1\">Tsjinje no jo foarstel yn.</a>"
