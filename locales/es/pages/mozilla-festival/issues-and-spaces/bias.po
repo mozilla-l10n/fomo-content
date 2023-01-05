@@ -39,13 +39,9 @@ msgstr ""
 "Los sesgos son el resultado de un diseño sistemático que permite que el poder se distribuya de manera desigual. Aparecen en nuestra personalidad, en lo que somos como personas hoy, pero es el "
 "resultado de estructuras sistemáticas, históricas y opresivas. Para cambiar los sesgos, necesitamos rediseñar el sistema."
 
-msgctxt "body.0f1b5ef9-7218-448c-ae2f-0d0aeaeaab85.label"
-msgid "Submit your session idea"
-msgstr "Envía tu idea para una sesión"
-
-msgctxt "body.0f1b5ef9-7218-448c-ae2f-0d0aeaeaab85.URL"
-msgid "https://pretalx.com/mozilla-festival-2023/cfp"
-msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
+msgctxt "body.26e24725-8bb0-4922-af9a-427618853ffa.button_label"
+msgid "Secure your MozFest Ticket"
+msgstr ""
 
 msgctxt "body.5279e8f3-c3c6-4d4c-bea3-af4ece94df43.altText"
 msgid "a black and white outline of a lightbulb"
@@ -101,12 +97,12 @@ msgid "A poster on a bulletin board that says 'Trust Me I'm An AI' A poster on a
 msgstr "Un cartel en un tablón de anuncios que dice \"Confía en mí, soy una IA\""
 
 msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url_label"
-msgid "Submit your session idea"
-msgstr "Envía tu idea para una sesión"
+msgid "Secure your ticket"
+msgstr ""
 
 msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url"
-msgid "https://pretalx.com/mozilla-festival-2023/cfp?track=3235-autonomy-governance"
-msgstr "https://pretalx.com/mozilla-festival-2023/cfp?track=3235-autonomy-governance"
+msgid "#/?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgstr ""
 
 msgctxt "body.68aaf7cf-da82-45e3-9bb2-0dd547bf3718.title"
 msgid "Radical Inclusion"
@@ -304,6 +300,10 @@ msgctxt "body.739385ed-3beb-4e3d-98ec-7cfe5d2ad256.cards.c812c918-a143-440b-b681
 msgid "Read now"
 msgstr "Leer ahora"
 
+#~ msgctxt "body.0f1b5ef9-7218-448c-ae2f-0d0aeaeaab85.URL"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
+
 #~ msgctxt "body.0c889490-caa3-468e-ba0b-91425d311ed5.altText"
 #~ msgid "space placeholders"
 #~ msgstr "marcadores de posición"
@@ -316,9 +316,17 @@ msgstr "Leer ahora"
 #~ "La IA se está transformando en un monstruo, toma como rehenes a la privacidad y el poder de los usuarios, y se deshace de los sistemas de transparencia y conciencia. ¡Es hora de combinar "
 #~ "superpoderes y convertirnos en nuestros <i>propios</i> héroes!"
 
+#~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.URL"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
+
 #~ msgctxt "body.af96ea9f-256d-46d8-8c14-bfa286acd33a.altText"
 #~ msgid "space placeholders"
 #~ msgstr "marcadores de posición"
+
+#~ msgctxt "body.8f43cbf8-88ca-49af-877c-d5907d2faa0c.URL"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
 
 #~ msgctxt "body.6640d2e2-13f5-4cbe-8769-a18bb9d8a65a.text"
 #~ msgid ""
@@ -327,3 +335,7 @@ msgstr "Leer ahora"
 #~ msgstr ""
 #~ "Juntos, podemos proteger a nuestras comunidades del daño que está causando la IA y crear tecnologías que pongan a la humanidad y el bien público a la vanguardia para lograr un cambio positivo. "
 #~ "¡Polinizaremos nuestros trabajos y movimientos, colaboraremos hacia una acción colectiva e imaginaremos nuevas realidades!"
+
+#~ msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp?track=3235-autonomy-governance"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp?track=3235-autonomy-governance"
