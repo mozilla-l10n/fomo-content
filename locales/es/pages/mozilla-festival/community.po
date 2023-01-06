@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-01-06 15:50:13.821996+00:00\n"
+"PO-Revision-Date: 2023-01-06 16:53+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 3fb5b78a-4823-40fd-b063-90d51509505c\n"
 
 msgctxt "title"
 msgid "Community"
-msgstr ""
+msgstr "Comunidad"
 
 msgctxt "intro"
 msgid "MozFest is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all-year long."
@@ -30,7 +35,7 @@ msgstr ""
 
 msgctxt "body.48236776-b86e-40fd-9513-2b0a053c355b"
 msgid "Working Groups"
-msgstr ""
+msgstr "Grupos de trabajo"
 
 msgctxt "body.48236776-b86e-40fd-9513-2b0a053c355b"
 msgid ""
@@ -48,7 +53,7 @@ msgstr ""
 
 msgctxt "body.70984521-b9e5-4d10-a5e5-65e4d67eb589.cards.57934482-968b-4ee2-b762-767da21f687f.link_url"
 msgid "https://foundation.mozilla.org/blog/youre-invited-to-build-trustworthy-ai-with-mozfest/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/blog/youre-invited-to-build-trustworthy-ai-with-mozfest/"
 
 msgctxt "body.70984521-b9e5-4d10-a5e5-65e4d67eb589.cards.57934482-968b-4ee2-b762-767da21f687f.link_label"
 msgid "Learn more"
@@ -64,7 +69,7 @@ msgstr ""
 
 msgctxt "body.70984521-b9e5-4d10-a5e5-65e4d67eb589.cards.8707cd72-e062-43a0-b100-61d87f58598c.link_url"
 msgid "https://foundation.mozilla.org/blog/youre-invited-to-build-trustworthy-ai-with-mozfest/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/blog/youre-invited-to-build-trustworthy-ai-with-mozfest/"
 
 msgctxt "body.70984521-b9e5-4d10-a5e5-65e4d67eb589.cards.8707cd72-e062-43a0-b100-61d87f58598c.link_label"
 msgid "Learn more"
@@ -82,7 +87,7 @@ msgstr ""
 
 msgctxt "body.70984521-b9e5-4d10-a5e5-65e4d67eb589.cards.fb31e35d-036c-471c-9557-15d2d8244762.link_url"
 msgid "https://foundation.mozilla.org/blog/youre-invited-to-build-trustworthy-ai-with-mozfest/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/blog/youre-invited-to-build-trustworthy-ai-with-mozfest/"
 
 msgctxt "body.70984521-b9e5-4d10-a5e5-65e4d67eb589.cards.fb31e35d-036c-471c-9557-15d2d8244762.link_label"
 msgid "Learn more"
@@ -94,7 +99,7 @@ msgstr ""
 
 msgctxt "body.b17b96fe-df2a-484d-a430-e4d6e9d33047.URL"
 msgid "https://www.mozillafestival.org/community/working-groups"
-msgstr ""
+msgstr "https://www.mozillafestival.org/community/working-groups"
 
 msgctxt "body.a45da9d2-627c-44ec-b7e4-18077c1eecc8"
 msgid "Federated Design Principals"
@@ -121,7 +126,7 @@ msgstr ""
 
 msgctxt "body.ca3bee1c-c498-46a5-a652-d09bf2ac0293.cards.3ca1664e-c39b-4b02-bc16-e97752c7ed36.link_url"
 msgid "https://www.mozillafestival.org/community/wranglers"
-msgstr ""
+msgstr "https://www.mozillafestival.org/community/wranglers"
 
 msgctxt "body.ca3bee1c-c498-46a5-a652-d09bf2ac0293.cards.3ca1664e-c39b-4b02-bc16-e97752c7ed36.link_label"
 msgid "Learn more"
@@ -141,7 +146,7 @@ msgstr ""
 
 msgctxt "body.ca3bee1c-c498-46a5-a652-d09bf2ac0293.cards.b69604ab-165f-4fe0-b1fc-0ea0b835bd5c.link_url"
 msgid "https://www.mozillafestival.org/proposals"
-msgstr ""
+msgstr "https://www.mozillafestival.org/proposals"
 
 msgctxt "body.ca3bee1c-c498-46a5-a652-d09bf2ac0293.cards.b69604ab-165f-4fe0-b1fc-0ea0b835bd5c.link_label"
 msgid "Learn more"
@@ -161,7 +166,7 @@ msgstr ""
 
 msgctxt "body.8b921433-cc52-4e2f-9300-e5649496600b.URL"
 msgid "https://book.mozillafestival.org/creating-participatory-events/the-mozfest-program-shared-by-design"
-msgstr ""
+msgstr "https://book.mozillafestival.org/creating-participatory-events/the-mozfest-program-shared-by-design"
 
 msgctxt "body.b5217218-5b6c-46cc-a1ff-2e739a6c7d31.alt_text"
 msgid "Borhane Blili-Hamelin, PhD is a MozFest 2022 Rethinking Power and Ethics Wrangler"
@@ -169,7 +174,7 @@ msgstr ""
 
 msgctxt "body.b5217218-5b6c-46cc-a1ff-2e739a6c7d31.metadata"
 msgid "Community Spotlight"
-msgstr ""
+msgstr "Destacado por la comunidad"
 
 msgctxt "body.b5217218-5b6c-46cc-a1ff-2e739a6c7d31.title"
 msgid "Meet Borhane"
@@ -202,3 +207,4 @@ msgctxt "body.5df88fa7-fa79-4f49-b098-135591fbedab.url"
 msgid ""
 "https://links.email.mozilla.org/els/v2/zdjEQRzAp7Qj/MWM0YmdpYzV5NXVnNjdtQkw3RUxBenBnQzRlV2ZPMThXcHE4OXVmT1p3NTladHpQbGZyei90b2xsZlRpWXVMWEl6OEJoc1ZrOVM2NzRpWVhheHBvcHdGNFlBcnYyRlhQUVpTUkh5SVFLQnM9S0/"
 msgstr ""
+"https://links.email.mozilla.org/els/v2/zdjEQRzAp7Qj/MWM0YmdpYzV5NXVnNjdtQkw3RUxBenBnQzRlV2ZPMThXcHE4OXVmT1p3NTladHpQbGZyei90b2xsZlRpWXVMWEl6OEJoc1ZrOVM2NzRpWVhheHBvcHdGNFlBcnYyRlhQUVpTUkh5SVFLQnM9S0/"

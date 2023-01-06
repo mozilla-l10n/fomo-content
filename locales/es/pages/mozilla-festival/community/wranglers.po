@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-01-06 15:50:13.873126+00:00\n"
+"PO-Revision-Date: 2023-01-06 16:50+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a7803f87-8683-4581-ba41-5ef66390ce1c\n"
 
 msgctxt "title"
@@ -34,7 +39,7 @@ msgstr ""
 
 msgctxt "body.27d49885-4167-4444-a529-873f65be4cc8.URL"
 msgid "https://www.mozillafestival.org"
-msgstr ""
+msgstr "https://www.mozillafestival.org"
 
 msgctxt "body.d4d1b5bb-3f40-478a-9924-2ee79dfb2dc7.grid_items.33331811-3ced-445c-8fff-f867d797644a.alt_text"
 msgid "59 wranglers for 2023"
@@ -89,7 +94,7 @@ msgstr ""
 
 msgctxt "body.699a0b08-ae5c-4624-8394-69b227dc0695.URL"
 msgid "https://book.mozillafestival.org/creating-participatory-events/the-mozfest-program-shared-by-design"
-msgstr ""
+msgstr "https://book.mozillafestival.org/creating-participatory-events/the-mozfest-program-shared-by-design"
 
 msgctxt "body.77c15b96-c411-42a2-b37f-068f0e21f85b.alt_text"
 msgid "A photograph of Lujain"
@@ -97,7 +102,7 @@ msgstr ""
 
 msgctxt "body.77c15b96-c411-42a2-b37f-068f0e21f85b.metadata"
 msgid "Community Spotlight"
-msgstr ""
+msgstr "Destacado por la comunidad"
 
 msgctxt "body.77c15b96-c411-42a2-b37f-068f0e21f85b.title"
 msgid "Meet Lujain"
@@ -115,7 +120,7 @@ msgstr ""
 
 msgctxt "body.add8ad7e-c47c-402c-864a-499ba5a494ae"
 msgid "Autonomy &amp; Governance"
-msgstr ""
+msgstr "Autonomía y gobierno"
 
 msgctxt "body.9c616734-c0a9-496f-b1a2-efa0a582f46f.profile_type"
 msgid "Wrangler"
@@ -123,11 +128,11 @@ msgstr ""
 
 msgctxt "body.9c616734-c0a9-496f-b1a2-efa0a582f46f.program_type"
 msgid "Autonomy and Governance"
-msgstr ""
+msgstr "Autonomy and Governance"
 
 msgctxt "body.16a4a3d2-6e87-4c3c-96a0-fa468786388d"
 msgid "Allies in Practice"
-msgstr ""
+msgstr "Los aliados en la práctica"
 
 msgctxt "body.6a628a4d-c9b2-4398-aa28-eba0eff2977c.profile_type"
 msgid "Wrangler"
@@ -135,7 +140,7 @@ msgstr ""
 
 msgctxt "body.6a628a4d-c9b2-4398-aa28-eba0eff2977c.program_type"
 msgid "Allies in Practice"
-msgstr ""
+msgstr "Allies in Practice"
 
 msgctxt "body.e8b4adff-633f-4bab-a05d-18b5ebc1221d"
 msgid "AI Cosmologies"
@@ -147,7 +152,7 @@ msgstr ""
 
 msgctxt "body.8fc07921-3c3b-4d3d-8e7a-5480ca3ca3f8.program_type"
 msgid "Cosmos"
-msgstr ""
+msgstr "Cosmos"
 
 msgctxt "body.63d0807a-ad65-4ba8-8644-f57cecd1790f"
 msgid "Education and Equal Access"
@@ -159,7 +164,7 @@ msgstr ""
 
 msgctxt "body.fa2bb37f-c126-4c81-a4ec-3b35d57dae6c.program_type"
 msgid "Education &amp; Access: You're The Product Of Data"
-msgstr ""
+msgstr "Education &amp; Access: You're The Product Of Data"
 
 msgctxt "body.52c28aa7-4532-4a59-b5e8-aeebfd14cdbd"
 msgid "Humans Behind the Machine"
@@ -171,11 +176,11 @@ msgstr ""
 
 msgctxt "body.c2c772b5-3771-41e4-9aed-499a3b78aca7.program_type"
 msgid "Humans Behind the Machine"
-msgstr ""
+msgstr "Humans Behind the Machine"
 
 msgctxt "body.d0903664-e80f-4626-aaf6-c121c43d4ee4"
 msgid "MoZone"
-msgstr ""
+msgstr "MoZone"
 
 msgctxt "body.ef0bc7bf-cba6-4b65-8706-d3bd9b170a30.profile_type"
 msgid "Wrangler"
@@ -183,11 +188,11 @@ msgstr ""
 
 msgctxt "body.ef0bc7bf-cba6-4b65-8706-d3bd9b170a30.program_type"
 msgid "MoZone"
-msgstr ""
+msgstr "MoZone"
 
 msgctxt "body.50f98c43-b491-4600-8c2c-115bb2bb8e98"
 msgid "Radical Inclusion"
-msgstr ""
+msgstr "Inclusión radical"
 
 msgctxt "body.00511105-839b-4dec-b860-78a92302dc8f.profile_type"
 msgid "Wrangler"
@@ -195,11 +200,11 @@ msgstr ""
 
 msgctxt "body.00511105-839b-4dec-b860-78a92302dc8f.program_type"
 msgid "Radical Inclusion"
-msgstr ""
+msgstr "Radical Inclusion"
 
 msgctxt "body.b946b5ae-fd80-4b74-8344-8cc5e932bff6"
 msgid "Tech &amp; Biodiversity: Legado 2060"
-msgstr ""
+msgstr "Tecnología y biodiversidad: legado 2060"
 
 msgctxt "body.f555ed74-fcfd-44f9-baf2-67d72305183b.profile_type"
 msgid "Wrangler"
@@ -207,11 +212,11 @@ msgstr ""
 
 msgctxt "body.f555ed74-fcfd-44f9-baf2-67d72305183b.program_type"
 msgid "Tech &amp; Biodiversity: Legado 2060"
-msgstr ""
+msgstr "Tech &amp; Biodiversity: Legado 2060"
 
 msgctxt "body.979bd5cc-0484-485b-852a-d2cbbc8e195a"
 msgid "Utility of Transparency"
-msgstr ""
+msgstr "Utilidad de la transparencia"
 
 msgctxt "body.cef0f0ce-82e6-4f15-acdb-46a9e85283f1.profile_type"
 msgid "Wrangler"
@@ -219,11 +224,11 @@ msgstr ""
 
 msgctxt "body.cef0f0ce-82e6-4f15-acdb-46a9e85283f1.program_type"
 msgid "Utility of Transparency"
-msgstr ""
+msgstr "Utility of Transparency"
 
 msgctxt "body.39289a6f-4fe7-4492-902f-39b4e3372318"
 msgid "Youth Zone"
-msgstr ""
+msgstr "Zona juvenil"
 
 msgctxt "body.07802861-70a6-490a-b776-72bb05f84feb.profile_type"
 msgid "Wrangler"
@@ -231,4 +236,4 @@ msgstr ""
 
 msgctxt "body.07802861-70a6-490a-b776-72bb05f84feb.program_type"
 msgid "YouthZone"
-msgstr ""
+msgstr "YouthZone"
