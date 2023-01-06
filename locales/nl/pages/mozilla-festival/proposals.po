@@ -28,6 +28,14 @@ msgid "Whether you are an expert in your field or just becoming interested in ma
 msgstr ""
 "Of u nu een expert in uw vakgebied bent of net geïnteresseerd raakt om van internet een betere plek te maken, we verwelkomen uw stem in deze kritische, door de gemeenschap aangestuurde ervaring."
 
+msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.altText"
+msgid "Calendar icon"
+msgstr "Agendapictogram"
+
+msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.text"
+msgid "The deadline to submit your proposal for MozFest 2023 has now passed."
+msgstr ""
+
 msgctxt "body.444065a0-82dd-40cf-93c9-9793e7c87c64"
 msgid ""
 "Welcome! We are so excited you’re considering proposing a session for MozFest 2023! Below you’ll find all the info you need to propose a session. We welcome sessions on a wide range of topics "
@@ -36,22 +44,6 @@ msgstr ""
 "Welkom! We zijn heel blij dat u overweegt een sessie voor MozFest 2023 voor te stellen! Hieronder vindt u alle info die u nodig hebt om een sessie voor te stellen. We verwelkomen sessies over een "
 "breed scala aan onderwerpen die relevant zijn voor betrouwbare AI en de internetgezondheidsbeweging, maar alle sessies moeten participatief, toegankelijk en inclusief zijn. Dien gerust meer dan één "
 "sessievoorstel in."
-
-msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.label"
-msgid "Submit your proposal"
-msgstr "Uw voorstel indienen"
-
-msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.URL"
-msgid "https://pretalx.com/mozilla-festival-2023/cfp"
-msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
-
-msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.altText"
-msgid "Calendar icon"
-msgstr "Agendapictogram"
-
-msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.text"
-msgid "The deadline to submit your proposal for MozFest 2023 is December 20th 2022."
-msgstr "De deadline voor het indienen van uw voorstel voor MozFest 2023 is 20 december 2022."
 
 msgctxt "body.3c6c0287-cb3f-4f51-8185-cc4fd3a4efdc.url"
 msgid "https://player.vimeo.com/video/773911778?h=9ef16cd622&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"
@@ -320,6 +312,10 @@ msgstr ""
 #~ msgid "MozFest Call For Proposals"
 #~ msgstr "MozFest-oproep voor voorstellen"
 
+#~ msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.label"
+#~ msgid "Submit your proposal"
+#~ msgstr "Uw voorstel indienen"
+
 #~ msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.URL"
 #~ msgid "https://www.pretalx.com/mozfest-2022/cfp"
 #~ msgstr "https://www.pretalx.com/mozfest-2022/cfp"
@@ -466,6 +462,10 @@ msgstr ""
 #~ "Deelnemers aan MozFest hebben een breed scala aan achtergronden, leeftijden, vaardigheden, disciplines en expertiseniveaus. De diversiteit van het MozFest-publiek maakt het festival uniek. Er kunnen"
 #~ " zich tussen de 3 en 30 deelnemers vooraf inschrijven voor uw sessie. Iedereen, van elk niveau, is welkom om deel te nemen aan de sessie tijdens het evenement."
 
+#~ msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.label"
+#~ msgid "Submit your proposal"
+#~ msgstr "Uw voorstel indienen"
+
 #~ msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.URL"
 #~ msgid "https://www.pretalx.com/mozfest-2022/cfp"
 #~ msgstr "https://www.pretalx.com/mozfest-2022/cfp"
@@ -536,6 +536,10 @@ msgstr ""
 #~ "Het is ook belangrijk om co-facilitering te overwegen, vooral tijdens virtuele sessies. Een team van facilitators kan betere interactie hebben met deelnemers en tegelijkertijd de technologie beheren"
 #~ " dan welke individuele persoon dan ook."
 
+#~ msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.URL"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
+
 #~ msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.text"
 #~ msgid "The deadline to submit your proposal for MozFest 2023 is December 16th 2022."
 #~ msgstr "De deadline voor het indienen van uw voorstel voor MozFest 2023 is 16 december 2022."
@@ -567,3 +571,7 @@ msgstr ""
 #~ msgctxt "body.3c6c0287-cb3f-4f51-8185-cc4fd3a4efdc.url"
 #~ msgid "https://player.vimeo.com/video/773504373?h=429dacecd4&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"
 #~ msgstr "https://player.vimeo.com/video/773504373?h=429dacecd4&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"
+
+#~ msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.text"
+#~ msgid "The deadline to submit your proposal for MozFest 2023 is December 20th 2022."
+#~ msgstr "De deadline voor het indienen van uw voorstel voor MozFest 2023 is 20 december 2022."

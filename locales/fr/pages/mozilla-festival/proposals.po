@@ -28,6 +28,14 @@ msgid "Whether you are an expert in your field or just becoming interested in ma
 msgstr ""
 "Que vous ayez de l’expertise dans votre domaine ou que vous souhaitiez simplement faire d’Internet un meilleur endroit, nous accueillons votre voix dans cette expérience critique et communautaire."
 
+msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.altText"
+msgid "Calendar icon"
+msgstr "Icône de calendrier"
+
+msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.text"
+msgid "The deadline to submit your proposal for MozFest 2023 has now passed."
+msgstr ""
+
 msgctxt "body.444065a0-82dd-40cf-93c9-9793e7c87c64"
 msgid ""
 "Welcome! We are so excited you’re considering proposing a session for MozFest 2023! Below you’ll find all the info you need to propose a session. We welcome sessions on a wide range of topics "
@@ -36,22 +44,6 @@ msgstr ""
 "Bienvenue ! Nous sommes ravis que vous envisagiez de proposer une session pour le MozFest 2023 ! Vous trouverez ci-dessous toutes les informations nécessaires pour proposer une session. Nous "
 "accueillons des sessions sur un large éventail de sujets pertinents pour une IA digne de confiance et le mouvement pour la bonne santé d’Internet, mais toutes les sessions doivent être "
 "participatives, accessibles et inclusives. Vous pouvez soumettre plusieurs propositions de sessions."
-
-msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.label"
-msgid "Submit your proposal"
-msgstr "Soumettre une proposition"
-
-msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.URL"
-msgid "https://pretalx.com/mozilla-festival-2023/cfp"
-msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
-
-msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.altText"
-msgid "Calendar icon"
-msgstr "Icône de calendrier"
-
-msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.text"
-msgid "The deadline to submit your proposal for MozFest 2023 is December 20th 2022."
-msgstr "La date limite pour soumettre votre proposition pour le MozFest 2023 est le 20 décembre 2022."
 
 msgctxt "body.3c6c0287-cb3f-4f51-8185-cc4fd3a4efdc.url"
 msgid "https://player.vimeo.com/video/773911778?h=9ef16cd622&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"
@@ -333,6 +325,10 @@ msgstr ""
 #~ msgid "Welcome! We are so excited you’re considering proposing a session for MozFest 2022! Below you’ll find all the info you need to propose a session."
 #~ msgstr "Bienvenue ! Nous sommes ravis que vous envisagiez de proposer une session pour le MozFest 2022 ! Vous trouverez ci-dessous toutes les informations nécessaires pour proposer une session."
 
+#~ msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.label"
+#~ msgid "Submit your proposal"
+#~ msgstr "Soumettre une proposition"
+
 #~ msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.URL"
 #~ msgid "https://www.pretalx.com/mozfest-2022/cfp"
 #~ msgstr "https://www.pretalx.com/mozfest-2022/cfp"
@@ -348,6 +344,10 @@ msgstr ""
 #~ msgctxt "body.068fd39f-3c17-430d-aeab-13e09eb863d3.altText"
 #~ msgid "an icon of a person talking"
 #~ msgstr "icône d’une personne qui parle"
+
+#~ msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.label"
+#~ msgid "Submit your proposal"
+#~ msgstr "Soumettre une proposition"
 
 #~ msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.URL"
 #~ msgid "https://www.pretalx.com/mozfest-2022/cfp"
@@ -568,6 +568,10 @@ msgstr ""
 #~ msgid "Tech &amp; Biodiversity: Legacy 2060"
 #~ msgstr "Technologie et biodiversité : Héritage 2060"
 
+#~ msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.URL"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
+
 #~ msgctxt "body.3c6c0287-cb3f-4f51-8185-cc4fd3a4efdc.url"
 #~ msgid "https://player.vimeo.com/video/768202873?h=b40ca9e69f&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"
 #~ msgstr "https://player.vimeo.com/video/768202873?h=b40ca9e69f&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"
@@ -605,3 +609,7 @@ msgstr ""
 #~ "Au MozFest 2023, la frange devient le noyau. Cet espace abrite des camarades de longue date du mouvement de la santé d’Internet pour collaborer, construire, réaliser et interroger. Nous créons "
 #~ "également de nouvelles alliances avec des organisations, des coalitions, des bâtisseur·euse·s, des artistes, des militant·e·s, des journalistes et des mouvements sociaux qui se sont engagés à "
 #~ "remodeler l’avenir de notre monde numérique."
+
+#~ msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.text"
+#~ msgid "The deadline to submit your proposal for MozFest 2023 is December 20th 2022."
+#~ msgstr "La date limite pour soumettre votre proposition pour le MozFest 2023 est le 20 décembre 2022."
