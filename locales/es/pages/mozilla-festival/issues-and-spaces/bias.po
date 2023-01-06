@@ -101,8 +101,8 @@ msgid "Secure your ticket"
 msgstr "Asegura tu boleto"
 
 msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url"
-msgid "#/?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
-msgstr "#/?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgstr ""
 
 msgctxt "body.68aaf7cf-da82-45e3-9bb2-0dd547bf3718.title"
 msgid "Radical Inclusion"
@@ -126,13 +126,17 @@ msgstr ""
 "exploren cómo nuestra capacidad, neurodivergencia, idioma y cultura impactan en la forma de movernos por el mundo digital. Nuestra voz colectiva puede influir en el futuro de Internet y dar forma a "
 "una IA confiable. Sumérgete en la inclusión radical y las ideas imaginativas que nacen de ella en el MozFest 2023."
 
-msgctxt "body.68aaf7cf-da82-45e3-9bb2-0dd547bf3718.text"
-msgid "(This is an experience that is not accepting proposals.)"
-msgstr "(Esta es una experiencia que no está recibiendo propuestas)."
-
 msgctxt "body.68aaf7cf-da82-45e3-9bb2-0dd547bf3718.altText"
 msgid "A photo of a unicorn in the MozFest Queering space, with a paper tag advertising a 'Queer Censorship' session"
 msgstr "Una foto de un unicornio en el espacio MozFest Queering, con una etiqueta de papel que anuncia una sesión 'Queer Censorship'"
+
+msgctxt "body.68aaf7cf-da82-45e3-9bb2-0dd547bf3718.url_label"
+msgid "Secure your ticket"
+msgstr ""
+
+msgctxt "body.68aaf7cf-da82-45e3-9bb2-0dd547bf3718.url"
+msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgstr ""
 
 msgctxt "body.bbc7c3d4-7d1e-40dc-9ba8-59890ccced6d.title"
 msgid "Youth Zone"
@@ -161,12 +165,12 @@ msgid "an photograph taken at the youth zone at mozfest, where a young facilitat
 msgstr "una fotografía tomada en la zona juvenil en el Mozfest, donde un joven facilitador ayuda a uns joven participante con un problema de código durante una sesión."
 
 msgctxt "body.bbc7c3d4-7d1e-40dc-9ba8-59890ccced6d.url_label"
-msgid "Submit your session idea"
-msgstr "Envía tu idea para una sesión"
+msgid "Secure your ticket"
+msgstr ""
 
 msgctxt "body.bbc7c3d4-7d1e-40dc-9ba8-59890ccced6d.url"
-msgid "https://pretalx.com/mozilla-festival-2023/cfp?track=3236-youth-zone"
-msgstr "https://pretalx.com/mozilla-festival-2023/cfp?track=3236-youth-zone"
+msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgstr ""
 
 msgctxt "body.bc23ed19-13e2-487f-a3dc-8643b145851f.title"
 msgid "MoZone"
@@ -183,6 +187,14 @@ msgstr ""
 msgctxt "body.bc23ed19-13e2-487f-a3dc-8643b145851f.altText"
 msgid "a crowd shot of attendees at MozFest"
 msgstr "una foto de la multitud de asistentes al MozFest"
+
+msgctxt "body.bc23ed19-13e2-487f-a3dc-8643b145851f.url_label"
+msgid "Secure your ticket"
+msgstr ""
+
+msgctxt "body.bc23ed19-13e2-487f-a3dc-8643b145851f.url"
+msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgstr ""
 
 msgctxt "body.5ffc329e-4c13-41e5-86eb-70fc0e95eb3f"
 msgid ""
@@ -300,6 +312,10 @@ msgctxt "body.739385ed-3beb-4e3d-98ec-7cfe5d2ad256.cards.c812c918-a143-440b-b681
 msgid "Read now"
 msgstr "Leer ahora"
 
+#~ msgctxt "body.0f1b5ef9-7218-448c-ae2f-0d0aeaeaab85.label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Envía tu idea para una sesión"
+
 #~ msgctxt "body.0f1b5ef9-7218-448c-ae2f-0d0aeaeaab85.URL"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
@@ -316,6 +332,10 @@ msgstr "Leer ahora"
 #~ "La IA se está transformando en un monstruo, toma como rehenes a la privacidad y el poder de los usuarios, y se deshace de los sistemas de transparencia y conciencia. ¡Es hora de combinar "
 #~ "superpoderes y convertirnos en nuestros <i>propios</i> héroes!"
 
+#~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Envía tu idea para una sesión"
+
 #~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.URL"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
@@ -323,6 +343,14 @@ msgstr "Leer ahora"
 #~ msgctxt "body.af96ea9f-256d-46d8-8c14-bfa286acd33a.altText"
 #~ msgid "space placeholders"
 #~ msgstr "marcadores de posición"
+
+#~ msgctxt "body.af96ea9f-256d-46d8-8c14-bfa286acd33a.text"
+#~ msgid "(This is an experience that is not accepting proposals.)"
+#~ msgstr "(Esta es una experiencia que no está recibiendo propuestas)."
+
+#~ msgctxt "body.8f43cbf8-88ca-49af-877c-d5907d2faa0c.label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Envía tu idea para una sesión"
 
 #~ msgctxt "body.8f43cbf8-88ca-49af-877c-d5907d2faa0c.URL"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
@@ -336,6 +364,26 @@ msgstr "Leer ahora"
 #~ "Juntos, podemos proteger a nuestras comunidades del daño que está causando la IA y crear tecnologías que pongan a la humanidad y el bien público a la vanguardia para lograr un cambio positivo. "
 #~ "¡Polinizaremos nuestros trabajos y movimientos, colaboraremos hacia una acción colectiva e imaginaremos nuevas realidades!"
 
+#~ msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url_label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Envía tu idea para una sesión"
+
 #~ msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp?track=3235-autonomy-governance"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp?track=3235-autonomy-governance"
+
+#~ msgctxt "body.68aaf7cf-da82-45e3-9bb2-0dd547bf3718.text"
+#~ msgid "(This is an experience that is not accepting proposals.)"
+#~ msgstr "(Esta es una experiencia que no está recibiendo propuestas)."
+
+#~ msgctxt "body.bbc7c3d4-7d1e-40dc-9ba8-59890ccced6d.url_label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Envía tu idea para una sesión"
+
+#~ msgctxt "body.bbc7c3d4-7d1e-40dc-9ba8-59890ccced6d.url"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp?track=3236-youth-zone"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp?track=3236-youth-zone"
+
+#~ msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url"
+#~ msgid "#/?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+#~ msgstr "#/?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
