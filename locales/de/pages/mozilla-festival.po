@@ -57,6 +57,14 @@ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 msgid "Secure your Early Bird ticket to unlock exclusive access to fringe events in January and February!"
 msgstr "Sichern Sie sich Ihr Early-Bird-Ticket, um exklusiven Zugang zu Rahmenveranstaltungen im Januar und Februar freizuschalten!"
 
+msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.altText"
+msgid "nadya tolokonnikova"
+msgstr ""
+
+msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
+msgid "<b>Join us for today's MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\" from 17:00 UTC (12:00 ET / 22:30 IST) by</b> <a id=\"a1\"><b>accessing the session page here</b></a>"
+msgstr ""
+
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
 msgid ""
 "MozFest is a unique hybrid: part art, tech and society convening, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world."
@@ -138,26 +146,6 @@ msgstr ""
 "offen!"
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.93ace7ae-042d-4428-a56e-22dd39954680.label"
-msgid "Learn more"
-msgstr "Weitere Informationen"
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
-msgid "Submit your session to MozFest"
-msgstr "Schlagen Sie Ihre Sitzung für das MozFest vor"
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
-msgid "Call for Proposals"
-msgstr "Aufruf für Vorschläge"
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
-msgid "Are you working towards Trustworthy AI and want to share your work with a global community? Submit a session idea for MozFest 2023!"
-msgstr "Arbeiten Sie an einer vertrauenswürdigen KI und möchten Ihre Arbeit mit einer globalen Gemeinschaft teilen? Reichen Sie eine Sitzungs-Idee für das MozFest 2023 ein!"
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
-msgid "Submit your proposal"
-msgstr "Ihren Vorschlag einreichen"
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
 msgid "Learn more"
 msgstr "Weitere Informationen"
 
@@ -272,6 +260,10 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "Join us online, 7-10 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
 #~ msgstr "Besuchen Sie uns online vom 7. bis 10. März 2022, um mit anderen auf der ganzen Welt in Kontakt zu treten, die eine einzige Mission haben: ein besseres, gesünderes Internet."
+
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
+#~ msgid "Call for Proposals"
+#~ msgstr "Aufruf für Vorschläge"
 
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
 #~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before November 5th."
@@ -957,6 +949,10 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
 #~ msgstr "Fügen Sie die Termine für das MozFest Virtual 2023 zu Ihrem Kalender hinzu, (auf <a id=\"a1\">Google</a> oder <a id=\"a2\">Outlook</a>) oder <a id=\"a3\">laden Sie die Einladung herunter</a>."
 
+#~ msgctxt "cta_button_label"
+#~ msgid "Submit your proposal"
+#~ msgstr "Ihren Vorschlag einreichen"
+
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
 #~ msgid "MozFest Logo"
 #~ msgstr "MozFest-Logo"
@@ -964,6 +960,22 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 16th 2022. <a id=\"a1\">Submit your proposal now.</a>"
 #~ msgstr "Sie können ab sofort bis um 16. Dezember 2022 Vorschläge für das MozFest 2023 einreichen. <a id=\"a1\">Reichen Sie jetzt Ihren Vorschlag ein.</a>"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
+#~ msgid "Submit your session to MozFest"
+#~ msgstr "Schlagen Sie Ihre Sitzung für das MozFest vor"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
+#~ msgid "Call for Proposals"
+#~ msgstr "Aufruf für Vorschläge"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
+#~ msgid "Are you working towards Trustworthy AI and want to share your work with a global community? Submit a session idea for MozFest 2023!"
+#~ msgstr "Arbeiten Sie an einer vertrauenswürdigen KI und möchten Ihre Arbeit mit einer globalen Gemeinschaft teilen? Reichen Sie eine Sitzungs-Idee für das MozFest 2023 ein!"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
+#~ msgid "Submit your proposal"
+#~ msgstr "Ihren Vorschlag einreichen"
 
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid "Watch live on LinkedIn and YouTube on November 29, 2022 at 17:30 UTC."
