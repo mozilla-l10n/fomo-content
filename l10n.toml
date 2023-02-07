@@ -2030,6 +2030,11 @@ l10n = "locales/{locale}/pages/homepage/blog/strategies-for-language-inclusion-a
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/thank-you.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/thank-you.po"
+locales = [ "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
@@ -2442,11 +2447,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/eufy-smart-scale.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-smart-scale.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-festival/thank-you.pot"
-l10n = "locales/{locale}/pages/mozilla-festival/thank-you.po"
 locales = [ "fr",]
 
 [[paths]]
