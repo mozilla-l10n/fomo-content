@@ -48,8 +48,8 @@ msgid "Donate Now"
 msgstr "Nu doneren"
 
 msgctxt "ctaButtonURL2"
-msgid "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
-msgstr "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
+msgid "?form=donate"
+msgstr ""
 
 msgctxt "ctaHeroHeader3"
 msgid "Spread the word"
@@ -122,3 +122,7 @@ msgstr "MozFest verkennen"
 msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.buttonURL"
 msgid "https://mozillafestival.org/"
 msgstr "https://mozillafestival.org/"
+
+#~ msgctxt "ctaButtonURL2"
+#~ msgid "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
+#~ msgstr "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
