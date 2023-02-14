@@ -2040,6 +2040,11 @@ l10n = "locales/{locale}/pages/mozilla-festival/facilitator-guide/language-inclu
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/guidelines.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/guidelines.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
