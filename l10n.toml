@@ -2430,11 +2430,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/15-elections.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.ResearchTopic/14-data-stewardship.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/14-data-stewardship.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.ResearchTopic/13-internet-shutdowns.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/13-internet-shutdowns.po"
 locales = [ "fr",]
@@ -2477,6 +2472,21 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/379-tasmiha-khan.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/379-tasmiha-khan.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/180-maximilian-gahntz.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/180-maximilian-gahntz.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/14-data-stewardship.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/14-data-stewardship.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/is-that-even-legal.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/is-that-even-legal.po"
 locales = [ "fr",]
 
 [[paths]]
