@@ -1980,6 +1980,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.Signup/225-mozfest-2023-first-to-
 locales = [ "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/blogging-for-impact-why-facilitators-tell-their-stories.pot"
+l10n = "locales/{locale}/pages/homepage/blog/blogging-for-impact-why-facilitators-tell-their-stories.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/snippets/wagtailpages.Profile/6-mozilla-festival.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/6-mozilla-festival.po"
 locales = [ "es",]
