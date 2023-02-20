@@ -27,7 +27,7 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/privacy-and-security-video-chat.pot"
@@ -452,7 +452,7 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/who-we-are.pot"
 l10n = "locales/{locale}/pages/homepage/who-we-are.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/internet-health/trustworthy-artificial-intelligence.pot"
@@ -697,7 +697,7 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/what-you-can-do.pot"
 l10n = "locales/{locale}/pages/homepage/what-you-can-do.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Petition/12-facebook-and-european-parliament.pot"
