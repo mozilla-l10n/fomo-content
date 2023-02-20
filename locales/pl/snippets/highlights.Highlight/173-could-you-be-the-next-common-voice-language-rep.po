@@ -1,23 +1,28 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-02-14 15:51:32.131175+00:00\n"
+"PO-Revision-Date: 2023-02-20 14:51+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 97144d4a-0921-44a1-a3f5-835467be969e\n"
 
 msgctxt "title"
 msgid "Could you be the next Common Voice Language Rep?"
-msgstr ""
+msgstr "Zostaniesz przedstawicielem językowym w projekcie Common Voice?"
 
 msgctxt "description"
 msgid "Interested in volunteering with Common Voice? Learn more here."
-msgstr ""
+msgstr "Chcesz działać jako wolontariusz w projekcie Common Voice? Tutaj dowiesz się więcej."
 
 msgctxt "link_label"
 msgid "Could you be the next Common Voice Language Rep?"
-msgstr ""
+msgstr "Zostaniesz przedstawicielem językowym w projekcie Common Voice?"
 
 msgctxt "footer"
 msgid "Common Voice is looking for a language rep. Find out more!"
-msgstr ""
+msgstr "Projekt Common Voice potrzebuje przedstawiciela językowego. Dowiedz się więcej!"
