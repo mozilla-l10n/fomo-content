@@ -1795,6 +1795,16 @@ l10n = "locales/{locale}/snippets/highlights.Highlight/185-host-a-session-at-moz
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/379-tasmiha-khan.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/379-tasmiha-khan.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/a-cheat-sheet-for-whatsapp-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/a-cheat-sheet-for-whatsapp-privacy.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/thank-you.pot"
 l10n = "locales/{locale}/pages/homepage/blog/thank-you.po"
 locales = [ "de", "es", "fr",]
@@ -2472,11 +2482,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.ResearchTopic/65-movement-building.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/65-movement-building.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/379-tasmiha-khan.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/379-tasmiha-khan.po"
 locales = [ "fr",]
 
 [[paths]]
