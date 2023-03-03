@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-01 16:54:34.134087+00:00\n"
+"PO-Revision-Date: 2023-03-03 16:09+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 3d3a25e9-55d5-4af1-a2fe-6990d984f1bf\n"
 
 msgctxt "title"
@@ -16,7 +21,7 @@ msgstr ""
 
 msgctxt "link_label"
 msgid "Sign the petition"
-msgstr ""
+msgstr "Firma la petición"
 
 msgctxt "footer"
 msgid "In Google’s app store, TikTok claimed it doesn’t share your data with third parties. Our research showed otherwise."
