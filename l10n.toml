@@ -2535,6 +2535,11 @@ l10n = "locales/{locale}/pages/homepage/research/library/is-that-even-legal.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/insights/publications.pot"
+l10n = "locales/{locale}/pages/homepage/insights/publications.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
