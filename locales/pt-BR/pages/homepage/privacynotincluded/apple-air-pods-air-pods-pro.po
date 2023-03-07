@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-15 09:20:07.102714+00:00\n"
-"PO-Revision-Date: 2022-11-30 13:51+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"PO-Revision-Date: 2023-03-07 14:02+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -183,7 +183,7 @@ msgstr "Você pode dizer \"E aí, Siri. Pare de ouvir.\" para desligar o reconhe
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "Não se inscreva com contas de terceiros. É melhor fazer login com e-mail e senha forte."
+msgstr "Não se cadastre com contas de terceiros. É melhor acessar com email e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
@@ -216,7 +216,7 @@ msgstr "Ao iniciar uma inscrição, não concorde com o rastreamento de seus dad
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr "Nome, e-mail, número de telefone, endereço"
+msgstr "Nome, email, número de telefone, endereço"
 
 msgctxt "biometric_data_collected"
 msgid "Voice recordings, if you opt-in"
