@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-07 10:04:12.578933+00:00\n"
+"PO-Revision-Date: 2023-03-07 10:18+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: ead8b40e-0b5a-4e61-bb89-11061b958bd2\n"
 
 msgctxt "title"
 msgid "Viber"
-msgstr ""
+msgstr "Viber"
 
 msgctxt "blurb"
 msgid ""
@@ -32,7 +37,7 @@ msgstr ""
 
 msgctxt "signup_requirement_explanation"
 msgid "A third party can be used to sign up"
-msgstr ""
+msgstr "L’inscription peut s’effectuer via un tiers"
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -85,7 +90,7 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known record of date breaches or leaks"
-msgstr ""
+msgstr "Aucune fuite de données ou faille découvertes."
 
 msgctxt "ai_helptext"
 msgid ""
