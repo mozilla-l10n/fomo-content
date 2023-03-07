@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:34:12.088249+00:00\n"
-"PO-Revision-Date: 2022-11-28 09:40+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"PO-Revision-Date: 2023-03-07 13:54+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -260,7 +260,7 @@ msgstr "Configure o Modo Anônimo ao usar o aplicativo para proteger seus dados"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "Não se inscreva com contas de terceiros. É melhor fazer o login somente com e-mail e senha forte."
+msgstr "Não se inscreva com contas de terceiros. É melhor acessar somente com email e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
@@ -293,7 +293,7 @@ msgstr "Ao realizar uma inscrição, não concorde com o rastreamento de seus da
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address, age, location information"
-msgstr "Nome, e-mail, número de telefone, endereço, idade, informações de localização"
+msgstr "Nome, email, número de telefone, endereço, idade, informações de localização"
 
 msgctxt "biometric_data_collected"
 msgid "Voice recordings, images and videos collected or stored in connection with Amazon Services"
@@ -396,7 +396,7 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "In <a id=\"a1\">October 2020</a>, Amazon fired an employee for leaking customer email addresses to an unnamed third party."
-msgstr "<a id=\"a1\">Em 2 de outubro de 2020</a>, A Amazon demitiu um funcionário por vazar endereços de e-mail de clientes para um terceiro não revelado."
+msgstr "Em <a id=\"a1\">outubro de 2020</a>, a Amazon demitiu um funcionário por vazar endereços de email de clientes para um terceiro não revelado."
 
 msgctxt "track_record_details"
 msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorythm."
