@@ -90,8 +90,8 @@ msgstr ""
 "minuterie d’autodestruction."
 
 msgctxt "manage_vulnerabilities_helptext"
-msgid "Viber does manage security vulnerabilities. They also have cooperations with external parties that help find such vulnerabilities and verify that our patches fix the issues."
-msgstr "Viber gère les vulnérabilités de sécurité. Viber coopère également avec des tiers pour détecter ces vulnérabilités et vérifier que ses correctifs corrigent les problèmes."
+msgid "Viber does manage security vulnerabilities. They also have cooperations with external parties that help find such vulnerabilities and verify that their patches fix the issues."
+msgstr ""
 
 msgctxt "personal_data_collected"
 msgid ""
@@ -121,8 +121,8 @@ msgstr ""
 "rester disponibles si vous ne les supprimez pas."
 
 msgctxt "track_record_details"
-msgid "No known record of date breaches or leaks"
-msgstr "Aucune fuite de données ou faille découvertes."
+msgid "No known record of data breaches or leaks"
+msgstr ""
 
 msgctxt "ai_helptext"
 msgid ""
@@ -133,3 +133,11 @@ msgstr ""
 "Viber utilise plusieurs systèmes d’IA et d’apprentissage automatique dans ses systèmes backend pour des choses comme la détection de spam, la modération de la communauté, la traduction et autres. "
 "Viber affirme que rendre publics ses algorithmes de détection des spams, de modération de la communauté, de traduction, etc. serait contreproductif (par exemple, les spammeurs sauront comment "
 "contourner les systèmes et attaquer les utilisateurs et utilisatrices)."
+
+#~ msgctxt "manage_vulnerabilities_helptext"
+#~ msgid "Viber does manage security vulnerabilities. They also have cooperations with external parties that help find such vulnerabilities and verify that our patches fix the issues."
+#~ msgstr "Viber gère les vulnérabilités de sécurité. Viber coopère également avec des tiers pour détecter ces vulnérabilités et vérifier que ses correctifs corrigent les problèmes."
+
+#~ msgctxt "track_record_details"
+#~ msgid "No known record of date breaches or leaks"
+#~ msgstr "Aucune fuite de données ou faille découvertes."
