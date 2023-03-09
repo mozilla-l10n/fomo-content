@@ -887,7 +887,7 @@ locales = [ "de", "es", "fr", "fy-NL", "nl",]
 [[paths]]
 reference = "templates/pages/mozilla-festival/get-to-know-mozfest.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/get-to-know-mozfest.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl",]
+locales = [ "de", "fr", "fy-NL", "nl",]
 
 [[paths]]
 reference = "templates/pages/mozilla-festival/proposals/support.pot"
