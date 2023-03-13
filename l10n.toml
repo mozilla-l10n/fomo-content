@@ -1890,6 +1890,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/pocketbook.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/eufy-robovacs.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-robovacs.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2537,11 +2542,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/mozilla-festival/working-groups.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/working-groups.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/eufy-robovacs.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-robovacs.po"
 locales = [ "fr",]
 
 [[paths]]
