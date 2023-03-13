@@ -417,12 +417,12 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/badoo.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/badoo.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/grindr.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/grindr.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/hornet.pot"
@@ -837,7 +837,7 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/threema.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/threema.po"
-locales = [ "de", "fr",]
+locales = [ "de", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/who-we-are/strategy.pot"
@@ -862,7 +862,7 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/lovense-lush-2.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-lush-2.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Signup/73-mozfest-home.pot"
@@ -1850,6 +1850,46 @@ l10n = "locales/{locale}/snippets/highlights.Highlight/225-tiktok-is-misleading-
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/lovense-nora-max.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-nora-max.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/kiiroo-titan-vr-experience.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/kiiroo-titan-vr-experience.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/qiui-cellmate.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/qiui-cellmate.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/realdoll-x.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/realdoll-x.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/sex-doll-genie.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/sex-doll-genie.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/raya.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/raya.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/ecovacs-deebot.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/ecovacs-deebot.po"
+locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/pocketbook.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/pocketbook.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2092,6 +2132,11 @@ locales = [ "es",]
 [[paths]]
 reference = "templates/pages/homepage/blog/here-are-the-sessions-that-will-be-speaking-spanish-at-mozfest-2023.pot"
 l10n = "locales/{locale}/pages/homepage/blog/here-are-the-sessions-that-will-be-speaking-spanish-at-mozfest-2023.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/latinamericancupid.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/latinamericancupid.po"
 locales = [ "es",]
 
 [[paths]]
