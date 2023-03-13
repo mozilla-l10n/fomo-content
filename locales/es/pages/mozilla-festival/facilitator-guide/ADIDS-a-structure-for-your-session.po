@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-13 17:46:44.193584+00:00\n"
+"PO-Revision-Date: 2023-03-13 18:14+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1d158652-f790-46a2-b6c1-65f242a4dece\n"
 
 msgctxt "title"
@@ -16,7 +21,7 @@ msgstr ""
 
 msgctxt "body.0a18cc1e-12c2-45bd-a2ce-770f1a5b3d8d.altText"
 msgid "MozFest attendees in session with raised hands"
-msgstr ""
+msgstr "Los asistentes levantan la mano en una sesión del MozFest"
 
 msgctxt "body.3907a87f-bb8b-47d5-adea-6481c6e1da3d"
 msgid ""
@@ -94,7 +99,7 @@ msgstr ""
 
 msgctxt "body.ff0ff594-6027-47ab-af5a-bf7d44ccc2a8.altText"
 msgid "\"i\" within a circle"
-msgstr ""
+msgstr "\"i\" dentro de un círculo"
 
 msgctxt "body.ff0ff594-6027-47ab-af5a-bf7d44ccc2a8.text"
 msgid "<a id=\"a1\">Session Design (ADIDS) - MozFest 2023</a>"
@@ -102,54 +107,56 @@ msgstr ""
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.title"
 msgid "Here are some additional resources to help you think about session design:"
-msgstr ""
+msgstr "Los recursos adicionales a continuación te ayudarán a pensar cómo diseñarás tu sesión:"
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.e4b6ea39-5999-4eec-a8d4-b63a8d506689.title"
 msgid "3 Principles: Participatory, Accessible, Inclusive"
-msgstr ""
+msgstr "Tres principios: participación, accesibilidad, inclusión"
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.e4b6ea39-5999-4eec-a8d4-b63a8d506689.body"
 msgid "Use this guide to design your sessions to be Participatory, Accessible, Inclusive."
-msgstr ""
+msgstr "Utiliza esta guía para el diseño de tus sesiones con el fin de que sean participativas, accesibles e incluyentes."
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.a71e0f2e-db53-4f42-ab89-d78eda75486b.title"
 msgid "Language Inclusion"
-msgstr ""
+msgstr "Inclusividad lingüística"
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.a71e0f2e-db53-4f42-ab89-d78eda75486b.body"
 msgid "A handy overview of how you can incorporate language inclusion into your MozFest session plans."
-msgstr ""
+msgstr "Una síntesis útil de cómo puedes incorporar la inclusividad lingüística mientras planificas tus sesiones para el MozFest."
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.01dbed97-2210-4a11-823d-3fc6a6b12463.title"
 msgid "Session Design: ADIDS"
-msgstr ""
+msgstr "Diseño de sesiones: ADIDS"
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.01dbed97-2210-4a11-823d-3fc6a6b12463.body"
 msgid "This framework walks you through the ADIDS session design structure."
-msgstr ""
+msgstr "Esta metodología te proporciona un marco para estructurar una sesión de aprendizaje orientada a los adultos."
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.37f73e51-effa-4ca2-8130-1de8c4e5256c.title"
 msgid "Designing an effective workshop session"
-msgstr ""
+msgstr "Diseño de una sesión-taller efectiva"
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.37f73e51-effa-4ca2-8130-1de8c4e5256c.author_subheading"
 msgid "Fabriders"
-msgstr ""
+msgstr "FabRiders"
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.37f73e51-effa-4ca2-8130-1de8c4e5256c.body"
 msgid "Explore how adults learn, the facilitator's role, session designs and best practices."
-msgstr ""
+msgstr "Explora cómo aprenden los adultos, el rol del facilitador, los diseños de sesiones y las mejores prácticas."
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.9800e8f9-431e-4e0d-aaf2-cb122b43d2c6.title"
 msgid "Community Call Calendar"
-msgstr ""
+msgstr "Calendario comunitario de llamadas"
 
 msgctxt "body.67b98057-b176-4ed8-887e-28e755177f00.session_items.9800e8f9-431e-4e0d-aaf2-cb122b43d2c6.body"
 msgid "A community calendar with upcoming events, support calls, and trainings."
-msgstr ""
+msgstr "Un calendario de la comunidad que incluye los próximos eventos, las llamadas para asistencia y las capacitaciones."
 
 msgctxt "body.04bdc2e5-dfcf-4786-94a5-68d4db338301"
 msgid ""
 "Remember that you can reach out on <a id=\"a1\">Slack</a> at any time to ask for help in thinking through your design. We hope you’ll take advantage of the many 1:1 coaching appointments and "
 "Facilitator support calls we have planned. We’re excited to learn more about you and your sessions!"
 msgstr ""
+"Recuerda que puedes buscarnos en <a id=\"a1\">Slack</a> en cualquier momento si necesitas ayuda para pensar cómo será tu diseño. Esperamos que puedas aprovechar algunas de las muchas citas de "
+"coaching uno a uno y las llamadas de asistencia a facilitadores que tenemos consideradas. ¡Estamos deseosos de tener noticias tuyas y saber de tus sesiones!"
