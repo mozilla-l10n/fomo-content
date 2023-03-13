@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-13 17:46:44.152452+00:00\n"
+"PO-Revision-Date: 2023-03-13 18:09+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 835471f7-aff7-413b-a9fd-691c3b39e377\n"
 
 msgctxt "title"
@@ -16,7 +21,7 @@ msgstr ""
 
 msgctxt "body.0bd6b01d-b8d5-457c-a9a1-aa43fe225de5.altText"
 msgid "Calendar icon"
-msgstr ""
+msgstr "Icono de calendario"
 
 msgctxt "body.0bd6b01d-b8d5-457c-a9a1-aa43fe225de5.text"
 msgid "You can view the dates and register for these gatherings through our <a id=\"a1\">community calendar</a>."
@@ -47,7 +52,7 @@ msgstr ""
 
 msgctxt "body.14274fd2-351a-488e-9ea4-2d3fc43bdfff.accordion_items.2a4cb9dc-3a85-4947-9ec1-b36530a732ed.content.d5df76cc-c86a-4d12-a68a-8d6684ce7815"
 msgid "<a id=\"a1\">February 7th 2023, 4pm UTC</a>"
-msgstr ""
+msgstr "<a id=\"a1\">7 de febrero de 2023, 16:00 UTC</a>"
 
 msgctxt "body.14274fd2-351a-488e-9ea4-2d3fc43bdfff.accordion_items.2a4cb9dc-3a85-4947-9ec1-b36530a732ed.content.d5df76cc-c86a-4d12-a68a-8d6684ce7815"
 msgid "<a id=\"a1\">February 14th 2023, 8am UTC</a>"
@@ -55,7 +60,7 @@ msgstr ""
 
 msgctxt "body.14274fd2-351a-488e-9ea4-2d3fc43bdfff.accordion_items.2a4cb9dc-3a85-4947-9ec1-b36530a732ed.content.d5df76cc-c86a-4d12-a68a-8d6684ce7815"
 msgid "<a id=\"a1\">February 21st 2023, 4pm UTC</a>"
-msgstr ""
+msgstr "<a id=\"a1\">21 de febrero de 2023, 16:00 UTC</a>"
 
 msgctxt "body.14274fd2-351a-488e-9ea4-2d3fc43bdfff.accordion_items.2a4cb9dc-3a85-4947-9ec1-b36530a732ed.content.d5df76cc-c86a-4d12-a68a-8d6684ce7815"
 msgid "<a id=\"a1\">February 28th 2023, 8am UTC</a>"
@@ -71,7 +76,7 @@ msgstr ""
 
 msgctxt "body.14274fd2-351a-488e-9ea4-2d3fc43bdfff.accordion_items.2a4cb9dc-3a85-4947-9ec1-b36530a732ed.content.d5df76cc-c86a-4d12-a68a-8d6684ce7815"
 msgid "<a id=\"a1\">March 7th 2023, 4pm UTC</a>"
-msgstr ""
+msgstr "<a id=\"a1\">7 de marzo de 2023, 16:00 UTC</a>"
 
 msgctxt "body.14274fd2-351a-488e-9ea4-2d3fc43bdfff.accordion_items.2a4cb9dc-3a85-4947-9ec1-b36530a732ed.content.d5df76cc-c86a-4d12-a68a-8d6684ce7815"
 msgid "<a id=\"a1\">March 14th 2023, 8am UTC</a>"
@@ -79,7 +84,7 @@ msgstr ""
 
 msgctxt "body.14274fd2-351a-488e-9ea4-2d3fc43bdfff.accordion_items.2a4cb9dc-3a85-4947-9ec1-b36530a732ed.content.d5df76cc-c86a-4d12-a68a-8d6684ce7815"
 msgid "<a id=\"a1\">March 14th 2023, 4pm UTC</a>"
-msgstr ""
+msgstr "<a id=\"a1\">14 de marzo de 2023, 16:00 UTC</a>"
 
 msgctxt "body.5a051367-96e0-447d-9e34-9b44f8ecff0e"
 msgid "Platform Training calls"
