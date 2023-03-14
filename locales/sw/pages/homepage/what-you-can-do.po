@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-14 09:56:50.102236+00:00\n"
+"PO-Revision-Date: 2023-03-14 10:01+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: sw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 03e0ea34-8e72-4a7c-bf3b-2508e4cb0ddd\n"
 
 msgctxt "title"
@@ -26,7 +31,7 @@ msgstr ""
 
 msgctxt "ctaButtonURL"
 msgid "https://commonvoice.mozilla.org/"
-msgstr ""
+msgstr "https://commonvoice.mozilla.org/"
 
 msgctxt "ctaHeroHeader2"
 msgid "If you can, will you give today?"
@@ -38,11 +43,11 @@ msgstr ""
 
 msgctxt "ctaButtonTitle2"
 msgid "Donate Now"
-msgstr ""
+msgstr "Changa sasa"
 
 msgctxt "ctaButtonURL2"
 msgid "?form=donate"
-msgstr ""
+msgstr "?form=donate"
 
 msgctxt "ctaHeroHeader3"
 msgid "Spread the word"
@@ -54,7 +59,7 @@ msgstr ""
 
 msgctxt "ctaFacebook3"
 msgid "http://foundation.mozilla.org/"
-msgstr ""
+msgstr "http://foundation.mozilla.org/"
 
 msgctxt "ctaTwitter3"
 msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
@@ -92,7 +97,7 @@ msgstr ""
 
 msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.buttonURL"
 msgid "https://foundation.mozilla.org/what-we-fund/fellowships/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/what-we-fund/fellowships/"
 
 msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.header"
 msgid "Celebrate MozFest"
@@ -110,4 +115,4 @@ msgstr ""
 
 msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.buttonURL"
 msgid "https://mozillafestival.org/"
-msgstr ""
+msgstr "https://mozillafestival.org/"

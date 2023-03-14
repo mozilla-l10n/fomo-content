@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-14 09:56:50.027174+00:00\n"
+"PO-Revision-Date: 2023-03-14 10:00+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: sw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 87e5ef32-2720-4b18-9f75-942bdcdf8ba7\n"
 
 msgctxt "title"
@@ -16,7 +21,7 @@ msgstr ""
 
 msgctxt "link_label"
 msgid "Read the Guide"
-msgstr ""
+msgstr "Soma mwongozo"
 
 msgctxt "footer"
 msgid "With Great Tech Comes Great Responsibility is a student guide for navigating ethical issues in the tech industry."

@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-14 09:56:50.123933+00:00\n"
+"PO-Revision-Date: 2023-03-14 10:03+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: sw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: eb83609d-5692-4be9-b25a-d304b701ace9\n"
 
 msgctxt "title"
@@ -12,7 +17,7 @@ msgstr ""
 
 msgctxt "intro"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
-msgstr ""
+msgstr "Shirika la Mozilla linafanya kazi ili kuhakikisha kuwa mtandao unabaki kuwa rasilimali ya umma iliyo wazi na ambayo sisi sote tunaweza kuifikia."
 
 msgctxt "body.98aa43f3-33e9-4b43-8f97-f7272cf0b311"
 msgid "In the early 2000s, the Mozilla community built Firefox. We toppled the browser monopoly, gave users choice and control online, and helped create a healthier internet."
@@ -67,7 +72,7 @@ msgstr ""
 
 msgctxt "body.b95114a9-9da7-42a4-a42b-fad92d981a2e.captionURL"
 msgid "https://www.mozillafestival.org"
-msgstr ""
+msgstr "https://www.mozillafestival.org"
 
 msgctxt "body.f4853302-d412-4280-b0da-780dfc5ad1cd"
 msgid ""
@@ -91,7 +96,7 @@ msgstr ""
 
 msgctxt "body.3ed371bd-6554-4179-be62-e7c1ea5a63f7"
 msgid "Get Involved"
-msgstr ""
+msgstr "Jihusishe"
 
 msgctxt "body.3ed371bd-6554-4179-be62-e7c1ea5a63f7"
 msgid "Join us and help protect the internet as a global public resource. To get started, explore <a id=\"a1\">opportunities for participation</a> or <a id=\"a2\">make a donation</a>."
@@ -115,7 +120,7 @@ msgstr ""
 
 msgctxt "body.fffb10f8-c96c-4972-9c63-300a1fe882ba.url"
 msgid "https://careers.mozilla.org/listings/?team=Mozilla%20Foundation"
-msgstr ""
+msgstr "https://careers.mozilla.org/listings/?team=Mozilla%20Foundation"
 
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.altText"
 msgid "Picture of a woman looking at the camera and smiling"
@@ -127,7 +132,7 @@ msgstr ""
 
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.text"
 msgid "Help fund, shape, and expand Mozilla work toward a healthy internet and trustworthy AI."
-msgstr ""
+msgstr "Toa mchango kwa kufadhili, kuunda, na kuendeleza kazi ya Mozilla ya kuhakikisha mtandao mzuri ulio na faragha, uwazi na ushirikishwaji na uwezo wa akili bandia unaoaminika."
 
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.text"
 msgid "<a id=\"a1\">Let’s work together →</a>"
@@ -135,4 +140,4 @@ msgstr ""
 
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.url"
 msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-partners/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-partners/"
