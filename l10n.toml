@@ -2769,3 +2769,13 @@ reference = "templates/pages/homepage/blog/voice-technologies-and-privacy.pot"
 l10n = "locales/{locale}/pages/homepage/blog/voice-technologies-and-privacy.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/220-britone-mwasaru.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/220-britone-mwasaru.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/language-and-culture.pot"
+l10n = "locales/{locale}/pages/homepage/blog/language-and-culture.po"
+locales = [ "sw",]
+
