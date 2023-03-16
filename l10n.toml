@@ -2814,3 +2814,8 @@ reference = "templates/pages/homepage/common-voice/in-country-programmes.pot"
 l10n = "locales/{locale}/pages/homepage/common-voice/in-country-programmes.po"
 locales = [ "sw",]
 
+[[paths]]
+reference = "templates/pages/homepage/common-voice/events.pot"
+l10n = "locales/{locale}/pages/homepage/common-voice/events.po"
+locales = [ "sw",]
+
