@@ -2550,11 +2550,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/8-open-datasets.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.ResearchTopic/5-voice-technology.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/5-voice-technology.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.ResearchTopic/16-ads-transparency.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/16-ads-transparency.po"
 locales = [ "fr",]
@@ -2662,6 +2657,21 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/blog/one-year-of-holding-tiktok-accountable.pot"
 l10n = "locales/{locale}/pages/homepage/blog/one-year-of-holding-tiktok-accountable.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/487-jan-krewer.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/487-jan-krewer.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.ResearchTopic/5-voice-technology.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/5-voice-technology.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/creating-community-driven-datasets-insights-from-mozilla-common-voice-activities-in-east-africa.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/creating-community-driven-datasets-insights-from-mozilla-common-voice-activities-in-east-africa.po"
 locales = [ "fr",]
 
 [[paths]]
