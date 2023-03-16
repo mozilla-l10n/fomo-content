@@ -2397,12 +2397,12 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/awards.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/awards.po"
-locales = [ "fr",]
+locales = [ "fr", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/fellowships.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships.po"
-locales = [ "fr",]
+locales = [ "fr", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-partners.pot"
