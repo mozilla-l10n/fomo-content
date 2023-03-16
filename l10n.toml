@@ -2185,6 +2185,11 @@ l10n = "locales/{locale}/pages/mozilla-festival/facilitator-guide/ADIDS-a-struct
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/homepage/common-voice/partnering-with-us.pot"
+l10n = "locales/{locale}/pages/homepage/common-voice/partnering-with-us.po"
+locales = [ "es", "fr", "pl", "sw",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
@@ -2630,11 +2635,6 @@ l10n = "locales/{locale}/pages/homepage/blog/announcing-the-mozfest-2023-dialogu
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/common-voice/partnering-with-us.pot"
-l10n = "locales/{locale}/pages/homepage/common-voice/partnering-with-us.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/common-voice-announces-wanawake-mashujaa-writing-competition-for-international-womens-day.pot"
 l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-wanawake-mashujaa-writing-competition-for-international-womens-day.po"
 locales = [ "fr",]
@@ -2807,5 +2807,10 @@ locales = [ "sw",]
 [[paths]]
 reference = "templates/pages/homepage/blog/language-and-culture.pot"
 l10n = "locales/{locale}/pages/homepage/blog/language-and-culture.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/common-voice/in-country-programmes.pot"
+l10n = "locales/{locale}/pages/homepage/common-voice/in-country-programmes.po"
 locales = [ "sw",]
 
