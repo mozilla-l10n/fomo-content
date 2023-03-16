@@ -2377,7 +2377,7 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/research.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/research.po"
-locales = [ "fr",]
+locales = [ "fr", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/lovense-edge.pot"
@@ -2407,7 +2407,7 @@ locales = [ "fr", "sw",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-partners.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-partners.po"
-locales = [ "fr",]
+locales = [ "fr", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/web-monetization.pot"
@@ -2672,6 +2672,11 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/research/library/creating-community-driven-datasets-insights-from-mozilla-common-voice-activities-in-east-africa.pot"
 l10n = "locales/{locale}/pages/homepage/research/library/creating-community-driven-datasets-insights-from-mozilla-common-voice-activities-in-east-africa.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/insights/trustworthy-ai-whitepaper.pot"
+l10n = "locales/{locale}/pages/homepage/insights/trustworthy-ai-whitepaper.po"
 locales = [ "fr",]
 
 [[paths]]
