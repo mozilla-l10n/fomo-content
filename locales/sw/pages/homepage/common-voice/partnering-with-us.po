@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-16 14:45:42.651761+00:00\n"
+"PO-Revision-Date: 2023-03-16 15:06+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: sw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 0aa7de0e-851f-4db0-9e90-3b7dec8edc51\n"
 
 msgctxt "header"
@@ -15,6 +20,8 @@ msgid ""
 "Common Voice is the most diverse open voice dataset in the world. Most voice datasets are owned by companies, which stifles innovation. They also under-represent almost every language in the world, "
 "as well as people of colour, disabled people, women and LGBTQIA+ people. We want to change that by mobilising people everywhere to share their voice."
 msgstr ""
+"Sauti ya Jamii ndio seti ya takwimu iliyo na lugha nyingi tofauti zaidi duniani. Takwimu nyingi za sauti zinamilikiwa na makampuni yanayozuia uvumbuzi. Hayawakilishi vizuri takriban lugha zote "
+"ulimwenguni, watu wasio wazungu, walemavu, wanawake na jumuiya ya LGBTQIA+. Tunataka kubadilisha hilo kwa kuhamasisha watu kila mahali kushiriki sauti zao."
 
 msgctxt "body.9bb11a2c-b629-4a7d-ac7a-f023058a3214"
 msgid "Partnerships"
@@ -40,7 +47,7 @@ msgstr ""
 
 msgctxt "body.dff52e58-1ba6-42ab-8172-02311239de5f.url"
 msgid "commonvoice@mozilla.com"
-msgstr ""
+msgstr "commonvoice@mozilla.com"
 
 msgctxt "body.75754a3b-6784-4549-b732-fdd1a75ccb02.altText"
 msgid "thumbnail"
@@ -58,7 +65,7 @@ msgstr ""
 
 msgctxt "body.75754a3b-6784-4549-b732-fdd1a75ccb02.url"
 msgid "commonvoice@mozilla.com"
-msgstr ""
+msgstr "commonvoice@mozilla.com"
 
 msgctxt "body.37fd43e1-6c3e-4eca-8ed8-a8a1359b4dbc.altText"
 msgid "thumbnail"
@@ -74,7 +81,7 @@ msgstr ""
 
 msgctxt "body.37fd43e1-6c3e-4eca-8ed8-a8a1359b4dbc.url"
 msgid "commonvoice@mozilla.com"
-msgstr ""
+msgstr "commonvoice@mozilla.com"
 
 msgctxt "body.e0ae72b0-f40e-4123-a92f-0e22333205e0.altText"
 msgid "thumbnail"
@@ -90,7 +97,7 @@ msgstr ""
 
 msgctxt "body.e0ae72b0-f40e-4123-a92f-0e22333205e0.url"
 msgid "commonvoice@mozilla.com"
-msgstr ""
+msgstr "commonvoice@mozilla.com"
 
 msgctxt "body.774127dc-74c6-4b15-a093-9a043b91bc87.altText"
 msgid "thumbnail"
@@ -108,7 +115,7 @@ msgstr ""
 
 msgctxt "body.774127dc-74c6-4b15-a093-9a043b91bc87.url"
 msgid "commonvoice@mozilla.com"
-msgstr ""
+msgstr "commonvoice@mozilla.com"
 
 msgctxt "body.bd76ec25-ad53-4a86-9e33-d1db95d96887.altText"
 msgid "thumbnail"
@@ -124,7 +131,7 @@ msgstr ""
 
 msgctxt "body.bd76ec25-ad53-4a86-9e33-d1db95d96887.url"
 msgid "commonvoice@mozilla.com"
-msgstr ""
+msgstr "commonvoice@mozilla.com"
 
 msgctxt "title"
 msgid "Partner"
