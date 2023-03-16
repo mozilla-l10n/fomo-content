@@ -2665,11 +2665,6 @@ l10n = "locales/{locale}/pages/homepage/blog/one-year-of-holding-tiktok-accounta
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/research/library/ai-transparency-in-practice/ai-transparency-in-practice.pot"
-l10n = "locales/{locale}/pages/homepage/research/library/ai-transparency-in-practice/ai-transparency-in-practice.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
