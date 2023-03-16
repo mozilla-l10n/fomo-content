@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-14 09:56:50.123933+00:00\n"
-"PO-Revision-Date: 2023-03-14 10:03+0000\n"
+"PO-Revision-Date: 2023-03-16 13:06+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: sw\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Who we are"
-msgstr ""
+msgstr "Sisi ni nani"
 
 msgctxt "intro"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
@@ -22,10 +22,12 @@ msgstr "Shirika la Mozilla linafanya kazi ili kuhakikisha kuwa mtandao unabaki k
 msgctxt "body.98aa43f3-33e9-4b43-8f97-f7272cf0b311"
 msgid "In the early 2000s, the Mozilla community built Firefox. We toppled the browser monopoly, gave users choice and control online, and helped create a healthier internet."
 msgstr ""
+"Mwanzoni mwa miaka ya 2000, jamii ya Mozilla ilitengeneza Firefox. Tuliondoa ukiritimba wa kivinjari, tukawapa watumiaji chaguo na udhibiti mtandaoni, na tukasaidia kuunda maadili mema ya mtandao."
 
 msgctxt "body.98aa43f3-33e9-4b43-8f97-f7272cf0b311"
 msgid "Twenty years later, Mozilla continues to fight for a healthy internet — one where Big Tech is held accountable and individual users have real agency online."
 msgstr ""
+"Miaka ishirini baadaye, Mozilla inaendelea kupigania maadili mema ya mtandao — ambapo Makampuni makubwa ya kimataifa ya teknolojia yanawajibika na watumiaji binafsi wana wakala wa kweli mtandaoni."
 
 msgctxt "body.98aa43f3-33e9-4b43-8f97-f7272cf0b311"
 msgid ""
@@ -33,42 +35,49 @@ msgid ""
 "Foundation, which leads our movement building work; and its wholly owned subsidiary, the Mozilla Corporation, which leads our market-based work. The two organizations work in close concert with each"
 " other and a global community of tens of thousands of volunteers under the single banner: Mozilla."
 msgstr ""
+"Kazi ya Mozilla inaongozwa na <a id=\"a1\">Hati ya kutangaza kanuni ya Mozilla</a>. Ilianzishwa kama mradi wa jumuiya huria mnamo 1998, Mozilla kwa sasa ina mashirika mawili: 501(c)3 Mozilla "
+"Foundation, inayoongoza kazi yetu ya ujenzi; na tanzu yake inayomilikiwa kabisa, Shirika la Mozilla, linaloongoza kazi yetu ya msingi wa soko. Mashirika haya mawili yanashirikiana na jumuiya ya "
+"kimataifa ya maelfu ya watu wanaojitolea chini ya bendera moja: Mozilla."
 
 msgctxt "body.1e9d3a59-5952-4493-a531-fe9023ccb4ec.quote"
 msgid "The internet is a global public resource that must remain open and accessible"
-msgstr ""
+msgstr "Mtandao wa intaneti ni rasilimali ya umma ya kimataifa ambayo lazima watu wote waweze kuufikia."
 
 msgctxt "body.1e9d3a59-5952-4493-a531-fe9023ccb4ec.attribution"
 msgid "The Mozilla Manifesto"
-msgstr ""
+msgstr "Hati ya kutangaza kanuni ya Mozilla"
 
 msgctxt "body.0c75402a-b613-4ff9-84e1-7097962935f1"
 msgid "Our mission"
-msgstr ""
+msgstr "Dhamira yetu"
 
 msgctxt "body.0c75402a-b613-4ff9-84e1-7097962935f1"
 msgid ""
 "Today, the internet is everywhere. It shapes economies, influences governments, and is central to billions of lives. But whether the internet promotes democracy, open markets, and free expression or"
 " polarization, mass surveillance, and misinformation is up to us."
 msgstr ""
+"Leo mtandao wa intaneti upo kila mahali. Inaunda uchumi, inashawishi serikali, na ni muhimu kwa mabilioni ya maisha. Lakini sisi ndio tutaamua ikiwa mtandao utakuza demokrasia, soko huria, na uhuru "
+"wa kujieleza au ubaguzi, ufuatiliaji wa watu wengi, na habari potofu."
 
 msgctxt "body.0c75402a-b613-4ff9-84e1-7097962935f1"
 msgid "It is Mozilla’s duty to ensure the internet remains a force for good."
-msgstr ""
+msgstr "Ni wajibu wa Mozilla kuhakikisha kuwa mtandao unabaki kuwa zana nzuri."
 
 msgctxt "body.0c75402a-b613-4ff9-84e1-7097962935f1"
 msgid ""
 "For more than two decades, Mozilla has invested in bold ideas, global leaders, and citizen-centered campaigns. We work across borders, disciplines, and technologies to uphold principles like "
 "privacy, inclusion and decentralization online. Our tactics are varied, but our vision is singular: a robust movement for internet health."
 msgstr ""
+"Kwa zaidi ya miongo miwili, Mozilla imewekeza katika mawazo ya ujasiri, viongozi wa kimataifa, na kampeni za kiraia. Tunafanya kazi katika mipaka, nyanja, na teknolojia ili kudumisha kanuni kama "
+"vile faragha, ujumuishaji na ugatuzi mtandaoni. Mbinu zetu ni tofauti, lakini maono yetu ni moja: harakati thabiti kwa ajili ya maadili mema ya mtandao."
 
 msgctxt "body.b95114a9-9da7-42a4-a42b-fad92d981a2e.altText"
 msgid "A person in front of a big panel full of post-its that says \"do you trust the decisions made by AI?\""
-msgstr ""
+msgstr "Mtu aliye mbele ya jopo kubwa lenye kadi zinazosema \"Je, unaamini maamuzi yaliyotolewa na AI?\""
 
 msgctxt "body.b95114a9-9da7-42a4-a42b-fad92d981a2e.caption"
 msgid "Picture from MozFest (2019)"
-msgstr ""
+msgstr "Picha kutoka MozFest (2019)"
 
 msgctxt "body.b95114a9-9da7-42a4-a42b-fad92d981a2e.captionURL"
 msgid "https://www.mozillafestival.org"
@@ -79,20 +88,24 @@ msgid ""
 "In 2019, <a id=\"a1\">we identified a new challenge to the health of the internet</a>: artificial intelligence. AI makes decisions for us and about us, but not always with us. It can tell us what "
 "news we read, what ads we see, or whether we qualify for a loan."
 msgstr ""
+"Mnamo 2019, <a id=\"a1\">tuligundua changamoto mpya katika maadili mema ya mtandao</a>: akili ya bandia. AI inatufanyia maamuzi na inafanya maamuzi kuhusu mambo yanayotuhusu, lakini siyo kila "
+"wakati. Inaweza kutuambia habari tunazosoma, matangazo tunayoona, au ikiwa tunastahiki kupata mkopo."
 
 msgctxt "body.f4853302-d412-4280-b0da-780dfc5ad1cd"
 msgid ""
 "The decisions AI makes have the potential to help humanity, but also harm us. AI can amplify historical bias and discrimination. It can prioritize engagement over user well-being. It can further "
 "cement the power of Big Tech and marginalize individuals."
 msgstr ""
+"Maamuzi ambayo AI hufanya yanaweza kusaidia wanadamu, lakini pia yanaweza kutudhuru. AI inaweza kukuza upendeleo wa kihistoria na ubaguzi. Inaweza kutanguliza ushiriki badala ya ustawi wa mtumiaji. "
+"Inaweza kuimarisha zaidi uwezo wa Makampuni makubwa ya kimataifa ya teknolojia na kuwatenga watu binafsi."
 
 msgctxt "body.f4853302-d412-4280-b0da-780dfc5ad1cd"
 msgid "Mozilla is uniquely positioned to take on this challenge. Our core values are openness and inclusion. Our history is rich with ambitious ideas and successful online advocacy."
-msgstr ""
+msgstr "Mozilla ipo katika nafasi ya kipekee ya kukabiliana na changamoto hii. Maadili yetu ya msingi ni uwazi na ujumuishaji. Historia yetu imejaa mawazo kabambe na utetezi uliofanikiwa mtandaoni."
 
 msgctxt "body.f4853302-d412-4280-b0da-780dfc5ad1cd"
 msgid "At a time when we desperately need trustworthy AI, Mozilla can help."
-msgstr ""
+msgstr "Wakati ambapo tunahitaji sana AI ya kuaminika, Mozilla inaweza kusaidia."
 
 msgctxt "body.3ed371bd-6554-4179-be62-e7c1ea5a63f7"
 msgid "Get Involved"
@@ -100,23 +113,25 @@ msgstr "Jihusishe"
 
 msgctxt "body.3ed371bd-6554-4179-be62-e7c1ea5a63f7"
 msgid "Join us and help protect the internet as a global public resource. To get started, explore <a id=\"a1\">opportunities for participation</a> or <a id=\"a2\">make a donation</a>."
-msgstr ""
+msgstr "Jiunge nasi na usaidie kulinda mtandao kama rasilimali ya umma ya kimataifa. Ili kuanza, chunguza <a id=\"a1\">fursa za kushiriki</a> au <a id=\"a2\">utoe mchango</a>."
 
 msgctxt "body.fffb10f8-c96c-4972-9c63-300a1fe882ba.altText"
 msgid "Picture of Mozilla Foundation staff"
-msgstr ""
+msgstr "Picha ya wafanyakazi wa Mozilla Foundation"
 
 msgctxt "body.fffb10f8-c96c-4972-9c63-300a1fe882ba.text"
 msgid "Work with us"
-msgstr ""
+msgstr "Fanya kazi nasi"
 
 msgctxt "body.fffb10f8-c96c-4972-9c63-300a1fe882ba.text"
 msgid "At Mozilla, we’re serving humanity — by maintaining a safe, open internet — while also helping the individual humans employed here to reach their personal and professional goals."
 msgstr ""
+"Hapa Mozilla, tunawahudumia binadamu — kwa kudumisha intaneti salama, ambayo watu wote wanaweza kufikia — huku pia tukiwasaidia wanadamu walioajiriwa hapa kufikia malengo yao binafsi na ya "
+"kitaaluma."
 
 msgctxt "body.fffb10f8-c96c-4972-9c63-300a1fe882ba.text"
 msgid "<a id=\"a1\">Open positions at Mozilla Foundation →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Nafasi za kazi za Mozilla Foundation →</a>"
 
 msgctxt "body.fffb10f8-c96c-4972-9c63-300a1fe882ba.url"
 msgid "https://careers.mozilla.org/listings/?team=Mozilla%20Foundation"
@@ -124,11 +139,11 @@ msgstr "https://careers.mozilla.org/listings/?team=Mozilla%20Foundation"
 
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.altText"
 msgid "Picture of a woman looking at the camera and smiling"
-msgstr ""
+msgstr "Picha ya mwanamke akiangalia kamera na kutabasamu"
 
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.text"
 msgid "Partner with us"
-msgstr ""
+msgstr "Shirikiana nasi"
 
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.text"
 msgid "Help fund, shape, and expand Mozilla work toward a healthy internet and trustworthy AI."
@@ -136,7 +151,7 @@ msgstr "Toa mchango kwa kufadhili, kuunda, na kuendeleza kazi ya Mozilla ya kuha
 
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.text"
 msgid "<a id=\"a1\">Let’s work together →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Tushirikiane →</a>"
 
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.url"
 msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-partners/"

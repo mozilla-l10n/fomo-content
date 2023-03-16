@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-14 09:56:50.102236+00:00\n"
-"PO-Revision-Date: 2023-03-14 10:01+0000\n"
+"PO-Revision-Date: 2023-03-16 13:06+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: sw\n"
 "MIME-Version: 1.0\n"
@@ -13,21 +13,23 @@ msgstr ""
 
 msgctxt "title"
 msgid "What you can do"
-msgstr ""
+msgstr "Unachoweza kufanya"
 
 msgctxt "ctaHeroHeader"
 msgid "We Want Voice AI to Work for Everyone"
-msgstr ""
+msgstr "Tunataka Kila Mtu Aweze Kutumia Voice AI kwa Urahisi."
 
 msgctxt "ctaHeroSubhead"
 msgid ""
 "We don't all speak in one voice and we should all be heard. Project Common Voice is a Mozilla Initiative to improve voice recognition technology for all, by collecting data in multiple languages, "
 "openly."
 msgstr ""
+"Hatuzungumzii kwa lugha moja na sisi sote tunahitaji kusikilizwa. Mradi wa Sauti ya Jamii ni Mpango wa Mozilla wa kuboresha teknolojia ya kutambua sauti za watu wote, kwa kukusanya data katika lugha"
+" nyingi, kwa uwazi."
 
 msgctxt "ctaButtonTitle"
 msgid "Contribute Your Voice Today"
-msgstr ""
+msgstr "Changia Sauti Yako Leo"
 
 msgctxt "ctaButtonURL"
 msgid "https://commonvoice.mozilla.org/"
@@ -35,27 +37,27 @@ msgstr "https://commonvoice.mozilla.org/"
 
 msgctxt "ctaHeroHeader2"
 msgid "If you can, will you give today?"
-msgstr ""
+msgstr "Kama unaweza, utatoa leo?"
 
 msgctxt "ctaHeroSubhead2"
 msgid "People like you help us stand for a healthy accessible web for all. Donate to keep the web open and free."
-msgstr ""
+msgstr "Watu kama wewe hutusaidia kuhakikisha kwamba watu wote wanapata mtandao unaozingatia maadili mema. Changia ili watu wote waendelee kufikia mtandao tena bila malipo."
 
 msgctxt "ctaButtonTitle2"
 msgid "Donate Now"
-msgstr "Changa sasa"
+msgstr "Changa Sasa"
 
 msgctxt "ctaButtonURL2"
 msgid "?form=donate"
-msgstr "?form=donate"
+msgstr "?fomu=kuchangia"
 
 msgctxt "ctaHeroHeader3"
 msgid "Spread the word"
-msgstr ""
+msgstr "Eneza ujumbe"
 
 msgctxt "ctaHeroSubhead3"
 msgid "A healthy internet needs people. Share Mozilla’s work with your people to grow."
-msgstr ""
+msgstr "Ili tuwe na maadili mema ya mtandao, tunahitaji watu. Shiriki kazi ya Mozilla na marafiki zako ili tukue."
 
 msgctxt "ctaFacebook3"
 msgid "http://foundation.mozilla.org/"
@@ -63,37 +65,39 @@ msgstr "http://foundation.mozilla.org/"
 
 msgctxt "ctaTwitter3"
 msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
-msgstr ""
+msgstr "Bofya hapa ili ushirikiane na Mozilla kuhakikisha kuwa tuna Maadili mema ya mtandao http://foundation.mozilla.org/"
 
 msgctxt "ctaEmailShareBody3"
 msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
-msgstr ""
+msgstr "Bofya hapa ili ushirikiane na Mozilla kuhakikisha kuwa tuna Maadili mema ya mtandao http://foundation.mozilla.org/"
 
 msgctxt "ctaEmailShareSubject3"
 msgid "The Internet starts with people"
-msgstr ""
+msgstr "Mtandao wa Intaneti unaanza na watu"
 
 msgctxt "h2"
 msgid "The Internet starts with us"
-msgstr ""
+msgstr "Mtandao wa Intaneti unaanza na sisi"
 
 msgctxt "h2Subheader"
 msgid "From signing a petition, contributing to a project or attending an event, people can save the Internet. Here are ways to get involved."
-msgstr ""
+msgstr "Kwa kutia saini kwenye maombi, kuchangia katika mradi au kuhudhuria tukio, watu wanaweza kuokoa mtandao wa Intaneti. Hapa kuna njia za kujihusisha."
 
 msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.header"
 msgid "Become A Fellow"
-msgstr ""
+msgstr "Kuwa Mshirika"
 
 msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.subhead"
 msgid ""
 "Mozilla Fellowships supports the work of leaders and makers around the globe. Internet Health touches policy, science, art, security and most importantly people. Fellowships provide people whose "
 "work is securing a web with resources, trainings and lifelong connections."
 msgstr ""
+"Ushirika wa Mozilla unasaidia kazi ya viongozi na watengenzaji duniani kote. Maadili mema ya mtandao yanahusu sera, sayansi, sanaa, usalama na muhimu zaidi, watu. Ushirika hupea watu ambao kazi yao "
+"ni kuhakikisha usalama wa mtandao rasilimali, mafunzo na uhusiano wa maisha."
 
 msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.buttonTitle"
 msgid "Be A Fellow"
-msgstr ""
+msgstr "Kuwa Mshirika"
 
 msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.buttonURL"
 msgid "https://foundation.mozilla.org/what-we-fund/fellowships/"
@@ -101,17 +105,19 @@ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships/"
 
 msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.header"
 msgid "Celebrate MozFest"
-msgstr ""
+msgstr "Kusherehekea MozFest"
 
 msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.subhead"
 msgid ""
 "Saving the Internet needs work and celebration. MozFest is Mozilla’s yearly gathering to share, make, teach and learn, the important work being done around the world for Internet Health. With "
 "dialogues, fairs and fun, we celebrate an open web."
 msgstr ""
+"Kuokoa mtandao kunahitaji kazi na sherehe. MozFest ni mkutano wa kila mwaka wa Mozilla wa kushiriki, kutengeneza, kufundisha na kujifunza kazi muhimu inayofanyika duniani kote kwa ajili ya Maadili "
+"mema ya mtandao. Kwa mazungumzo, maonyesho na burudani tunasherehekea mtandao unaoweza kufikiwa na watu wote."
 
 msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.buttonTitle"
 msgid "Explore MozFest"
-msgstr ""
+msgstr "Gundua MozFest"
 
 msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.buttonURL"
 msgid "https://mozillafestival.org/"
