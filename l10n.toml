@@ -1737,7 +1737,7 @@ locales = [ "de", "fr",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/13-xavier-harding.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/13-xavier-harding.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+locales = [ "de", "es", "fr", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/articles/can-my-boss-read-my-slack-dmsand-other-workplace-wonderings.pot"
