@@ -912,7 +912,7 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/pages/mozilla-festival.pot"
 l10n = "locales/{locale}/pages/mozilla-festival.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/mozilla-festival/proposals/guide.pot"
