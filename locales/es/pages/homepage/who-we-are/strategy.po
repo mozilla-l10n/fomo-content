@@ -1,38 +1,45 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-17 09:04:13.333705+00:00\n"
+"PO-Revision-Date: 2023-03-17 12:44+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d83318e6-c98c-4299-bd9b-0f2387b36ba1\n"
 
 msgctxt "title"
 msgid "Strategy"
-msgstr ""
+msgstr "Estrategia"
 
 msgctxt "intro"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
-msgstr ""
+msgstr "La Fundación Mozilla trabaja para garantizar que Internet siga siendo un recurso público abierto y accesible para todos."
 
 msgctxt "body.60af3edf-b68a-408c-8154-0649e42e1aae"
 msgid "Internet Health"
-msgstr ""
+msgstr "La salud de Internet"
 
 msgctxt "body.60af3edf-b68a-408c-8154-0649e42e1aae"
 msgid "A healthy internet is one in which privacy, openness and inclusion are the norms. These are values Mozilla has championed from the beginning in our<a id=\"a1\"> Mozilla Manifesto</a>."
 msgstr ""
+"Un Internet saludable es aquel donde la privacidad, la apertura y la inclusión son la norma. Estos son los valores que hemos defendido desde el principio conforme a nuestro <a id=\"a1\">Manifiesto "
+"de Mozilla</a>."
 
 msgctxt "body.9a207545-47f9-47c2-9106-90348085b989.altText"
 msgid "Picture of the Mozilla Manifesto"
-msgstr ""
+msgstr "Imagen del Manifiesto de Mozilla"
 
 msgctxt "body.9a207545-47f9-47c2-9106-90348085b989.caption"
 msgid "The Mozilla Manifesto"
-msgstr ""
+msgstr "El Manifiesto de Mozilla"
 
 msgctxt "body.9a207545-47f9-47c2-9106-90348085b989.captionURL"
 msgid "https://www.mozilla.org/about/manifesto/"
-msgstr ""
+msgstr "https://www.mozilla.org/about/manifesto/"
 
 msgctxt "body.86325822-b7c4-47ed-8dc9-6f71d3ccbee0"
 msgid ""
@@ -42,7 +49,7 @@ msgstr ""
 
 msgctxt "body.ebf91adc-c514-48a2-85ae-2383fd42573c.altText"
 msgid "icon with 4 arrows going to different directions"
-msgstr ""
+msgstr "ícono con 4 flechas que van en diferentes direcciones"
 
 msgctxt "body.ebf91adc-c514-48a2-85ae-2383fd42573c.text"
 msgid "Read more about our movement building strategy <a id=\"a1\">here</a>."
@@ -50,15 +57,15 @@ msgstr ""
 
 msgctxt "body.fcea9a80-4a01-4fcf-a567-1ff18784d75f.altText"
 msgid "Image with purple background, 2 discs and the words \"Artificial Intelligence\""
-msgstr ""
+msgstr "Imagen con fondo morado, 2 discos y las palabras \"Inteligencia Artificial\""
 
 msgctxt "body.7602990b-ee77-4a88-9da4-cafba977b9e7"
 msgid "Trustworthy AI"
-msgstr ""
+msgstr "Inteligencia artificial confiable"
 
 msgctxt "body.7602990b-ee77-4a88-9da4-cafba977b9e7"
 msgid "A majority of Mozilla’s movement building work is focused on developing trustworthy AI."
-msgstr ""
+msgstr "Gran parte de la labor de movilización de Mozilla se centra en desarrollar una IA confiable."
 
 msgctxt "body.7602990b-ee77-4a88-9da4-cafba977b9e7"
 msgid ""
@@ -81,7 +88,7 @@ msgstr ""
 
 msgctxt "body.dd7a3920-682d-4d5d-aac5-b5370bd9b75e.altText"
 msgid "icon with 4 arrows going to different directions"
-msgstr ""
+msgstr "ícono con 4 flechas que van en diferentes direcciones"
 
 msgctxt "body.dd7a3920-682d-4d5d-aac5-b5370bd9b75e.text"
 msgid "Read more about our AI theory of change <a id=\"a1\">here</a>."
