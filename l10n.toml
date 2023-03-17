@@ -867,7 +867,7 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.Signup/73-mozfest-home.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Signup/73-mozfest-home.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/mozilla-festival/proposals.pot"
