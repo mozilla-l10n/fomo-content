@@ -1,26 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-17 09:55:38.047055+00:00\n"
+"PO-Revision-Date: 2023-03-17 10:04+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 381c32c7-0875-4010-95da-2fc0fe7587d5\n"
 
 msgctxt "search_description"
 msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
-msgstr ""
+msgstr "Financement et ressources pour des personnes exceptionnelles et des idées audacieuses qui participent au développement d’un Internet davantage centré sur l’humain."
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
-msgstr ""
+msgstr "Financement et ressources pour un Internet davantage centré sur l’humain."
 
 msgctxt "body.4e5c56f0-3b9d-4806-b569-0fb5b906348d"
 msgid "Directory"
-msgstr ""
+msgstr "Annuaire"
 
 msgctxt "body.4e5c56f0-3b9d-4806-b569-0fb5b906348d"
 msgid "<a id=\"a1\">Fellowships</a> | <a id=\"a2\">Awards</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Bourses</a> | <a id=\"a2\">Subventions</a>"
 
 msgctxt "body.b2bf17d4-cb97-48af-ba34-8af5ec25af96.altText"
 msgid "fellows icon"
@@ -28,7 +33,7 @@ msgstr ""
 
 msgctxt "body.b2bf17d4-cb97-48af-ba34-8af5ec25af96.text"
 msgid "Meet the Fellows"
-msgstr ""
+msgstr "Découvrez les bénéficiaires de bourses Mozilla"
 
 msgctxt "body.b3030a3b-1e9f-4f43-9071-356d6774d14b"
 msgid "Fellows by Year"
@@ -36,15 +41,15 @@ msgstr ""
 
 msgctxt "body.01e72c25-37db-461c-ad6f-3e902200a0ec.profile_type"
 msgid "Fellow"
-msgstr ""
+msgstr "Bénéficiaire de bourse"
 
 msgctxt "body.01e72c25-37db-461c-ad6f-3e902200a0ec.year"
 msgid "2022"
-msgstr ""
+msgstr "2022"
 
 msgctxt "body.01e72c25-37db-461c-ad6f-3e902200a0ec.filter_values"
 msgid "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013"
-msgstr ""
+msgstr "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013"
 
 msgctxt "body.a5c1f4cc-801b-4ba4-9a5e-63aa18d995b2.altText"
 msgid "awards icon"
@@ -52,11 +57,11 @@ msgstr ""
 
 msgctxt "body.a5c1f4cc-801b-4ba4-9a5e-63aa18d995b2.text"
 msgid "See Past Awards"
-msgstr ""
+msgstr "Découvrez les précédents projets subventionnés"
 
 msgctxt "body.3d5a0804-a71a-4cd4-8339-4b4504ae99a0"
 msgid "Mozilla Awards Directory"
-msgstr ""
+msgstr "Répertoire des subventions de Mozilla"
 
 msgctxt "body.3d5a0804-a71a-4cd4-8339-4b4504ae99a0"
 msgid ""
@@ -70,7 +75,7 @@ msgstr ""
 
 msgctxt "body.19f8b616-cdb0-447f-adfb-1d26144de9b7"
 msgid "Creative Media Awards"
-msgstr ""
+msgstr "Creative Media Awards"
 
 msgctxt "body.19f8b616-cdb0-447f-adfb-1d26144de9b7"
 msgid "The Creative Media Awards are Mozilla-funded digital art projects. We fund these innovative projects to help people make sense of the challenges technology brings us face-to-face each day."
@@ -78,7 +83,7 @@ msgstr ""
 
 msgctxt "body.bc2c3cdc-3f97-4726-8852-9c106fe3be08.search_terms"
 msgid "mozilla-cma"
-msgstr ""
+msgstr "mozilla-cma"
 
 msgctxt "body.66822d58-22f1-488e-a167-574dccf2ab29.label"
 msgid "See All Creative Media Awards"
@@ -86,7 +91,7 @@ msgstr ""
 
 msgctxt "body.66822d58-22f1-488e-a167-574dccf2ab29.URL"
 msgid "https://www.mozillapulse.org/search?keyword=mozilla-cma"
-msgstr ""
+msgstr "https://www.mozillapulse.org/search?keyword=mozilla-cma"
 
 msgctxt "body.cdd11275-2e2c-46dd-90d8-4dcca9c45752"
 msgid "Common Voice Kiswahili Awards"
@@ -94,11 +99,11 @@ msgstr ""
 
 msgctxt "body.cdd11275-2e2c-46dd-90d8-4dcca9c45752"
 msgid "Funding people and projects across East Africa who leverage Common Voice’s open-source voice data set to unlock social and economic opportunities."
-msgstr ""
+msgstr "Finance des personnes et des projets à travers l’Afrique de l’Est qui exploitent le jeu de données vocales open source de Common Voice pour créer des opportunités sociales et économiques."
 
 msgctxt "body.f45a5fe6-352d-4f6e-bca4-7a85c84863b1.search_terms"
 msgid "common voice"
-msgstr ""
+msgstr "common voice"
 
 msgctxt "body.1d819101-f78f-4de8-9fa8-347802420d62.label"
 msgid "See All Common Voice Kiswahili Awards"
@@ -106,11 +111,11 @@ msgstr ""
 
 msgctxt "body.1d819101-f78f-4de8-9fa8-347802420d62.URL"
 msgid "https://www.mozillapulse.org/projects?keyword=common%20voice"
-msgstr ""
+msgstr "https://www.mozillapulse.org/projects?keyword=common%20voice"
 
 msgctxt "body.3ceb8700-6002-4a45-bf71-be5fef4094ce"
 msgid "Data Futures Lab"
-msgstr ""
+msgstr "Data Futures Lab"
 
 msgctxt "body.3ceb8700-6002-4a45-bf71-be5fef4094ce"
 msgid "Supporting emerging initiatives that are experimental and exploratory in nature to advance the field of data stewardship."
@@ -118,7 +123,7 @@ msgstr ""
 
 msgctxt "body.3726837a-daa6-48a1-a6a5-dec4066df991.search_terms"
 msgid "data futures lab"
-msgstr ""
+msgstr "data futures lab"
 
 msgctxt "body.469c9996-0446-47d3-87b8-05870a66fb34.label"
 msgid "See All Data Futures Lab Awardees"
@@ -126,11 +131,11 @@ msgstr ""
 
 msgctxt "body.469c9996-0446-47d3-87b8-05870a66fb34.URL"
 msgid "https://www.mozillapulse.org/projects?keyword=data%20futures%20lab"
-msgstr ""
+msgstr "https://www.mozillapulse.org/projects?keyword=data%20futures%20lab"
 
 msgctxt "body.5fc6c765-e8ae-4735-8b63-69e3bab1cdbf"
 msgid "Mozilla Technology Fund"
-msgstr ""
+msgstr "Mozilla Technology Fund"
 
 msgctxt "body.5fc6c765-e8ae-4735-8b63-69e3bab1cdbf"
 msgid "Funding technical projects in specific areas that relate to internet health."
@@ -138,7 +143,7 @@ msgstr ""
 
 msgctxt "body.2d56ae44-3851-402e-8a6b-421d043e434a.search_terms"
 msgid "mozilla technology fund"
-msgstr ""
+msgstr "mozilla technology fund"
 
 msgctxt "body.ce6df460-eb37-4cfb-827c-8803a52b8099.label"
 msgid "See All Mozilla Technology Fund Awardees"
@@ -146,28 +151,28 @@ msgstr ""
 
 msgctxt "body.ce6df460-eb37-4cfb-827c-8803a52b8099.URL"
 msgid "https://www.mozillapulse.org/projects?keyword=mozilla%20technology%20fund"
-msgstr ""
+msgstr "https://www.mozillapulse.org/projects?keyword=mozilla%20technology%20fund"
 
 msgctxt "body.03b84c68-453c-41d6-aab2-01d09f62045e"
 msgid "Responsible Computer Science Challenge"
-msgstr ""
+msgstr "Responsible Computer Science Challenge"
 
 msgctxt "body.03b84c68-453c-41d6-aab2-01d09f62045e"
 msgid "Supporting the integration of ethics into Computer Science (CS) curricula."
-msgstr ""
+msgstr "Soutenez l’intégration de l’éthique dans les programmes d’informatique."
 
 msgctxt "body.7871acd8-2d81-4527-80f0-de9915edf3ef.search_terms"
 msgid "Responsible Computer Science Challenge"
-msgstr ""
+msgstr "Responsible Computer Science Challenge"
 
 msgctxt "body.dfa3dd5e-c3c1-420d-b66d-4a88ae5f93b0.label"
 msgid "See All Responsible Computer Science Challenge Awardees"
-msgstr ""
+msgstr "Voir tous les lauréats du Responsible Computer Science Challenge"
 
 msgctxt "body.dfa3dd5e-c3c1-420d-b66d-4a88ae5f93b0.URL"
 msgid "https://www.mozillapulse.org/projects?keyword=responsible%20computer%20science%20challenge"
-msgstr ""
+msgstr "https://www.mozillapulse.org/projects?keyword=responsible%20computer%20science%20challenge"
 
 msgctxt "title"
 msgid "Directory"
-msgstr ""
+msgstr "Annuaire"
