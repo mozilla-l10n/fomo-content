@@ -837,12 +837,12 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/threema.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/threema.po"
-locales = [ "de", "fr", "pt-BR",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/who-we-are/strategy.pot"
 l10n = "locales/{locale}/pages/homepage/who-we-are/strategy.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/alexa-doesnt-work-for-you-it-works-for-amazon-mozilla-explains-the-future-of-personal-ais-part-one.pot"
