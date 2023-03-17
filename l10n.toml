@@ -80,11 +80,6 @@ l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/publisher-ca
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog.pot"
-l10n = "locales/{locale}/pages/homepage/blog.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.po"
 locales = [ "de", "es", "fr",]
@@ -1913,6 +1908,11 @@ locales = [ "de", "es", "fr", "pt-BR",]
 reference = "templates/pages/homepage/privacynotincluded/eufy-video-doorbells.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-video-doorbells.po"
 locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog.pot"
+l10n = "locales/{locale}/pages/homepage/blog.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
