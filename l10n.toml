@@ -1915,6 +1915,11 @@ l10n = "locales/{locale}/pages/homepage/blog.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/viber.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/viber.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2617,11 +2622,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/artifacts/change-copyright.pot"
 l10n = "locales/{locale}/pages/homepage/artifacts/change-copyright.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/viber.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/viber.po"
 locales = [ "fr",]
 
 [[paths]]
