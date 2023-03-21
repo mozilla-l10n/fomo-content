@@ -2690,6 +2690,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/286-nicole-chang.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/sponsor/become-sponsor.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/sponsor/become-sponsor.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
