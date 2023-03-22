@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-17 09:55:52.039293+00:00\n"
-"PO-Revision-Date: 2023-03-17 10:12+0000\n"
+"PO-Revision-Date: 2023-03-22 08:00+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: sw\n"
 "MIME-Version: 1.0\n"
@@ -13,35 +13,35 @@ msgstr ""
 
 msgctxt "search_description"
 msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
-msgstr ""
+msgstr "Ufadhili na rasilimali kwa ajili ya watu mahiri na wenye mawazo shupavu wanaojitahidi kuunda mtandao unaozingatia zaidi binadamu."
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
-msgstr ""
+msgstr "Ufadhili na rasilimali kwa ajili ya mtandao unaozingatia binadamu zaidi."
 
 msgctxt "body.4e5c56f0-3b9d-4806-b569-0fb5b906348d"
 msgid "Directory"
-msgstr ""
+msgstr "Saraka"
 
 msgctxt "body.4e5c56f0-3b9d-4806-b569-0fb5b906348d"
 msgid "<a id=\"a1\">Fellowships</a> | <a id=\"a2\">Awards</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Tuzo la</a> | <a id=\"a2\">Washiriki</a>"
 
 msgctxt "body.b2bf17d4-cb97-48af-ba34-8af5ec25af96.altText"
 msgid "fellows icon"
-msgstr ""
+msgstr "Mshirika maarufu"
 
 msgctxt "body.b2bf17d4-cb97-48af-ba34-8af5ec25af96.text"
 msgid "Meet the Fellows"
-msgstr ""
+msgstr "Kukutana na Washirika"
 
 msgctxt "body.b3030a3b-1e9f-4f43-9071-356d6774d14b"
 msgid "Fellows by Year"
-msgstr ""
+msgstr "Washirika wa mwaka"
 
 msgctxt "body.01e72c25-37db-461c-ad6f-3e902200a0ec.profile_type"
 msgid "Fellow"
-msgstr ""
+msgstr "Mshirika"
 
 msgctxt "body.01e72c25-37db-461c-ad6f-3e902200a0ec.year"
 msgid "2022"
@@ -53,33 +53,36 @@ msgstr "2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013"
 
 msgctxt "body.a5c1f4cc-801b-4ba4-9a5e-63aa18d995b2.altText"
 msgid "awards icon"
-msgstr ""
+msgstr "Mshindi maarufu wa tuzo"
 
 msgctxt "body.a5c1f4cc-801b-4ba4-9a5e-63aa18d995b2.text"
 msgid "See Past Awards"
-msgstr ""
+msgstr "Angalia Tuzo za hapo awali"
 
 msgctxt "body.3d5a0804-a71a-4cd4-8339-4b4504ae99a0"
 msgid "Mozilla Awards Directory"
-msgstr ""
+msgstr "Orodha ya Tuzo za Mozilla"
 
 msgctxt "body.3d5a0804-a71a-4cd4-8339-4b4504ae99a0"
 msgid ""
 "Since 2015, Mozilla has distributed over $20 million in award funds to organizations and individuals in more than three dozen countries. The projects listed in the Awards Directory represent only a "
 "fraction of the projects supported across Mozilla’s long history as a grantmaker. For additional information about past awards, please contact <a id=\"a1\">grants@mozillafoundation.com</a>."
 msgstr ""
+"Tangu 2015, Mozilla imetoa zaidi ya dola milioni 20 kama fedha za tuzo kwa mashirika na watu binafsi katika nchi zaidi ya thelathini. Miradi iliyoorodheshwa katika Orodha ya Tuzo inawakilisha sehemu"
+" tu ya miradi inayoungwa mkono katika historia ya muda mrefu ya Mozilla kama wafadhili. Kwa habari zaidi kuhusu tuzo za awali, tafadhali <a id=\"a1\">wasiliana na</a>grants@mozillafoundation.com"
 
 msgctxt "body.3d5a0804-a71a-4cd4-8339-4b4504ae99a0"
 msgid "<a id=\"a1\">Click here to see all listed projects</a> or scroll to see examples from each Mozilla Awards track:"
-msgstr ""
+msgstr "<a id=\"a1\">Bonyeza hapa kuona miradi yote iliyotajwa</a> au biringiza ili uweze kuona mifano mbalimbali za tuzo kwa washirika almaarufu Mozilla Awards:"
 
 msgctxt "body.19f8b616-cdb0-447f-adfb-1d26144de9b7"
 msgid "Creative Media Awards"
-msgstr ""
+msgstr "Tuzo za Ubunifu za Vyombo vya Habari"
 
 msgctxt "body.19f8b616-cdb0-447f-adfb-1d26144de9b7"
 msgid "The Creative Media Awards are Mozilla-funded digital art projects. We fund these innovative projects to help people make sense of the challenges technology brings us face-to-face each day."
 msgstr ""
+"Tuzo za Media Creative ni miradi ya sanaa za kidijitali zinazofadhiliwa na Mozilla. Tunafadhili miradi hii ya ubunifu ili kuwasaidia watu kuelewa changamoto ambazo teknolojia inatuletea kila siku."
 
 msgctxt "body.bc2c3cdc-3f97-4726-8852-9c106fe3be08.search_terms"
 msgid "mozilla-cma"
@@ -87,7 +90,7 @@ msgstr "mozilla-cma"
 
 msgctxt "body.66822d58-22f1-488e-a167-574dccf2ab29.label"
 msgid "See All Creative Media Awards"
-msgstr ""
+msgstr "Tazama tuzo zote za Creative Media"
 
 msgctxt "body.66822d58-22f1-488e-a167-574dccf2ab29.URL"
 msgid "https://www.mozillapulse.org/search?keyword=mozilla-cma"
@@ -99,15 +102,15 @@ msgstr "Tuzo za Kiswahili za Common Voice"
 
 msgctxt "body.cdd11275-2e2c-46dd-90d8-4dcca9c45752"
 msgid "Funding people and projects across East Africa who leverage Common Voice’s open-source voice data set to unlock social and economic opportunities."
-msgstr ""
+msgstr "Kufadhili watu na miradi kote Afrika Mashariki ambako watu hawa wanatumia data ya sauti ya chanzo huria ya Common Voice ili kufungua fursa za kijamii na kiuchumi."
 
 msgctxt "body.f45a5fe6-352d-4f6e-bca4-7a85c84863b1.search_terms"
 msgid "common voice"
-msgstr ""
+msgstr "common voice"
 
 msgctxt "body.1d819101-f78f-4de8-9fa8-347802420d62.label"
 msgid "See All Common Voice Kiswahili Awards"
-msgstr ""
+msgstr "Angalia tuzo zote za Kiswahili za Common Voice"
 
 msgctxt "body.1d819101-f78f-4de8-9fa8-347802420d62.URL"
 msgid "https://www.mozillapulse.org/projects?keyword=common%20voice"
@@ -115,11 +118,11 @@ msgstr "https://www.mozillapulse.org/projects?keyword=common%20voice"
 
 msgctxt "body.3ceb8700-6002-4a45-bf71-be5fef4094ce"
 msgid "Data Futures Lab"
-msgstr "Nafasi ya Majaribio ya Data"
+msgstr "Data Futures Lab"
 
 msgctxt "body.3ceb8700-6002-4a45-bf71-be5fef4094ce"
 msgid "Supporting emerging initiatives that are experimental and exploratory in nature to advance the field of data stewardship."
-msgstr ""
+msgstr "Kusaidia mipango inayojitokeza ambayo ni ya majaribio na ya kuchunguza kwa asili ili kuendeleza uwanja wa usimamizi wa data."
 
 msgctxt "body.3726837a-daa6-48a1-a6a5-dec4066df991.search_terms"
 msgid "data futures lab"
@@ -127,7 +130,7 @@ msgstr "data futures lab"
 
 msgctxt "body.469c9996-0446-47d3-87b8-05870a66fb34.label"
 msgid "See All Data Futures Lab Awardees"
-msgstr ""
+msgstr "Angalia watuzwa wote wa Data Futures Lab"
 
 msgctxt "body.469c9996-0446-47d3-87b8-05870a66fb34.URL"
 msgid "https://www.mozillapulse.org/projects?keyword=data%20futures%20lab"
@@ -135,19 +138,19 @@ msgstr "https://www.mozillapulse.org/projects?keyword=data%20futures%20lab"
 
 msgctxt "body.5fc6c765-e8ae-4735-8b63-69e3bab1cdbf"
 msgid "Mozilla Technology Fund"
-msgstr ""
+msgstr "Ufadhili kutoka kwa Mozilla Technology"
 
 msgctxt "body.5fc6c765-e8ae-4735-8b63-69e3bab1cdbf"
 msgid "Funding technical projects in specific areas that relate to internet health."
-msgstr ""
+msgstr "Kufadhili miradi ya kiufundi katika maeneo maalum yanayohusiana na uboreshaji wa hali kwenye mtandao."
 
 msgctxt "body.2d56ae44-3851-402e-8a6b-421d043e434a.search_terms"
 msgid "mozilla technology fund"
-msgstr "mozilla technology fund"
+msgstr "ufadhili kutoka kwa mozilla technology"
 
 msgctxt "body.ce6df460-eb37-4cfb-827c-8803a52b8099.label"
 msgid "See All Mozilla Technology Fund Awardees"
-msgstr ""
+msgstr "Tazama washindi wote wa hazina ya Mozilla Technology"
 
 msgctxt "body.ce6df460-eb37-4cfb-827c-8803a52b8099.URL"
 msgid "https://www.mozillapulse.org/projects?keyword=mozilla%20technology%20fund"
@@ -155,19 +158,19 @@ msgstr "https://www.mozillapulse.org/projects?keyword=mozilla%20technology%20fun
 
 msgctxt "body.03b84c68-453c-41d6-aab2-01d09f62045e"
 msgid "Responsible Computer Science Challenge"
-msgstr ""
+msgstr "Shindano la uwajibikaji bora katika sayansi ya kompyuta"
 
 msgctxt "body.03b84c68-453c-41d6-aab2-01d09f62045e"
 msgid "Supporting the integration of ethics into Computer Science (CS) curricula."
-msgstr ""
+msgstr "Kuwezesha ujumuishaji wa maadili katika mitaala ya Sayansi ya Kompyuta (CS)."
 
 msgctxt "body.7871acd8-2d81-4527-80f0-de9915edf3ef.search_terms"
 msgid "Responsible Computer Science Challenge"
-msgstr ""
+msgstr "Shindano la uwajibikaji bora katika sayansi ya kompyuta"
 
 msgctxt "body.dfa3dd5e-c3c1-420d-b66d-4a88ae5f93b0.label"
 msgid "See All Responsible Computer Science Challenge Awardees"
-msgstr ""
+msgstr "Tazama watuzwa wote katika shindano la uwajibikaji bora katika sayansi ya kompyuta"
 
 msgctxt "body.dfa3dd5e-c3c1-420d-b66d-4a88ae5f93b0.URL"
 msgid "https://www.mozillapulse.org/projects?keyword=responsible%20computer%20science%20challenge"
@@ -175,4 +178,4 @@ msgstr "https://www.mozillapulse.org/projects?keyword=responsible%20computer%20s
 
 msgctxt "title"
 msgid "Directory"
-msgstr ""
+msgstr "Saraka"
