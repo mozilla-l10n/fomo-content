@@ -2700,6 +2700,16 @@ l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-award
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards/previous-awards.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards/previous-awards.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards/partners.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards/partners.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
