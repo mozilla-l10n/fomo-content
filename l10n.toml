@@ -2200,6 +2200,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-max-2.po"
 locales = [ "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/lovense-nora.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-nora.po"
+locales = [ "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
@@ -2322,11 +2327,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/fitbit-inspire-2.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-inspire-2.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/lovense-nora.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-nora.po"
 locales = [ "fr",]
 
 [[paths]]
