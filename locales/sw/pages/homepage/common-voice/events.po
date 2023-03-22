@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-16 15:25:01.812688+00:00\n"
-"PO-Revision-Date: 2023-03-16 15:34+0000\n"
+"PO-Revision-Date: 2023-03-22 18:45+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: sw\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "search_description"
 msgid "Join the Common Voice Community and Team!"
-msgstr ""
+msgstr "Jiunge na Timu na Jamii ya Common Voice!"
 
 msgctxt "header"
 msgid "Events"
@@ -24,24 +24,24 @@ msgid ""
 "Common Voice is the most diverse open voice dataset in the world. Most voice datasets are owned by companies, which stifles innovation. They also under-represent almost every language in the world, "
 "as well as people of colour, disabled people, women and LGBTQIA+ people. We want to change that by mobilising people everywhere to share their voice."
 msgstr ""
-"Sauti ya Jamii ndio seti ya takwimu iliyo na lugha nyingi tofauti zaidi duniani. Takwimu nyingi za sauti zinamilikiwa na makampuni yanayozuia uvumbuzi. Hayawakilishi vizuri takriban lugha zote "
+"Common Voice ndio seti ya takwimu iliyo na lugha nyingi tofauti zaidi duniani. Takwimu nyingi za sauti zinamilikiwa na makampuni yanayozuia uvumbuzi. Hayawakilishi vizuri takriban lugha zote "
 "ulimwenguni, watu wasio wazungu, walemavu, wanawake na jumuiya ya LGBTQIA+. Tunataka kubadilisha hilo kwa kuhamasisha watu kila mahali kushiriki sauti zao."
 
 msgctxt "body.e270d0b2-2361-477b-8996-791ef64b714e"
 msgid "Upcoming Events"
-msgstr ""
+msgstr "Matukio Yajayo"
 
 msgctxt "body.e270d0b2-2361-477b-8996-791ef64b714e"
 msgid "Join the Common Voice Community and Team!"
-msgstr ""
+msgstr "Jiunge na Timu na Jamii ya Common Voice!"
 
 msgctxt "body.52ebd528-4c2e-49bc-ba2c-f01e5dab83ee.altText"
 msgid "Common Voice"
-msgstr "Sauti ya Jamii"
+msgstr "Common Voice"
 
 msgctxt "body.3b14771f-b2b7-4e1e-89ae-42c7b11dab38"
 msgid "Common Voice Festival First Edition Mombasa"
-msgstr ""
+msgstr "Toleo la Kwanza la Tamasha la Common Voice jijini Mombasa"
 
 msgctxt "body.3b14771f-b2b7-4e1e-89ae-42c7b11dab38"
 msgid "24-25.02.2023"
@@ -90,7 +90,9 @@ msgstr "Washiriki wanapaswa kuleta uwezo wao wa kiufundi ili kusaidia kutoa mafu
 
 msgctxt "body.3b14771f-b2b7-4e1e-89ae-42c7b11dab38"
 msgid "This coding challenge will shows a typical workflow for training and testing a<b> Speech to Text model on Kiswahili data from Mozilla Common Voice</b>. Challenge instructions:"
-msgstr "Changamoto hii ya usimbaji itaonyesha mtiririko wa kawaida wa mafunzo na kujaribu muundo wa Hotuba kwa Maandishi kwenye data ya Kiswahili kutoka Mozilla Common Voice. Maelekezo ya changamoto:"
+msgstr ""
+"Changamoto hii ya usimbaji itaonyesha mtiririko wa kawaida wa mafunzo na kujaribu<b> Mfano wa Kubadilisha Usemi kuwa Maandishi kwenye data ya Kiswahili kutoka Mozilla Common Voice</b>. Maelekezo ya "
+"changamoto:"
 
 msgctxt "body.3b14771f-b2b7-4e1e-89ae-42c7b11dab38"
 msgid "Download 10k instances of Mozilla Common Voice data for Kiswahili (pre-formatted for this particular challenge)"
@@ -110,7 +112,7 @@ msgstr "Jaribu mfano na uonyeshe utendaji wake"
 
 msgctxt "body.3b14771f-b2b7-4e1e-89ae-42c7b11dab38"
 msgid "<b>We will use a Speech to Text framework known as coqui.ai. You can check out the Coqui STT documentation</b> <a id=\"a1\"><b>here</b></a><b>.</b>"
-msgstr "<b>Tutatumia mfumo wa Hotuba kwa Maandishi unaojulikana kama coqui.ai. Unaweza kuangalia nyaraka za Coqui STT <a id=\"a1\">hapa</a>.</b>"
+msgstr "<b>Tutatumia mfumo wa Kubadilisha Usemi kuwa Maandishi unaojulikana kama Coqui STT unaweza kupata nyaraka</b> <a id=\"a1\"><b>hapa</b></a><b>.</b>"
 
 msgctxt "body.3b14771f-b2b7-4e1e-89ae-42c7b11dab38"
 msgid "Submitted solutions will be ranked by the Mozilla Common Voice team and the awards announced on the 25th of February at the event!"
