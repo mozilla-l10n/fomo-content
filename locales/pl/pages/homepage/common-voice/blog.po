@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-22 11:22:28.212543+00:00\n"
+"PO-Revision-Date: 2023-03-22 07:57+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a6e1618d-f2c9-42eb-b4ee-d024fc29b8b0\n"
 
 msgctxt "header"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 msgctxt "intro"
 msgid ""
 "Common Voice is the most diverse open voice dataset in the world. Most voice datasets are owned by companies, which stifles innovation. They also under-represent almost every language in the world, "
 "as well as people of colour, disabled people, women and LGBTQIA+ people. We want to change that by mobilising people everywhere to share their voice."
 msgstr ""
+"Common Voice to najbardziej różnorodna otwarta baza głosów na świecie. Większość baz głosów należy do firm, a to hamuje innowacje. Takie bazy nie uwzględniają w odpowiednim stopniu praktycznie "
+"żadnego języka świata, osób o różnych kolorach skóry, osób niepełnosprawnych, kobiet i społeczności LGBTQIA+. Chcemy to zmienić."
 
 msgctxt "body.cdd06b95-283f-4dd9-a34d-67708c571ebd.title"
 msgid "Read about Common Voice"
-msgstr ""
+msgstr "Więcej o projekcie Common Voice"
 
 msgctxt "title"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
