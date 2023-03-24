@@ -26,16 +26,16 @@ msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
-msgid "Secure your ticket"
-msgstr "Garanta seu ingresso"
+msgid "Secure your on-demand ticket"
+msgstr ""
 
 msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
 msgstr "Chegue com uma ideia, saia com uma comunidade."
 
 msgctxt "banner_cta_label"
-msgid "Watch the live stream"
-msgstr "Assista à transmissão ao vivo"
+msgid "Watch the thank you video"
+msgstr ""
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 msgid "Tickets available now"
@@ -62,12 +62,12 @@ msgid "Each MozFest ticket includes access to pre- and post-festival events, plu
 msgstr "Cada ingresso do MozFest inclui acesso a eventos antes e após o festival, além de acesso a sessões gravadas e arte e mídia sob demanda durante junho."
 
 msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.altText"
-msgid "nadya tolokonnikova"
-msgstr "nadya tolokonnikova"
+msgid "MozFest House Amsterdam Logo"
+msgstr ""
 
 msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
-msgid "<b>Watch the recording of the MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\"</b> <a id=\"a1\">on the MozFest Plaza</a>"
-msgstr "<b>Assista à gravação do MozFest Keynote \"Nenhum ato de protesto é pequeno demais por Pussy Riot\"</b> <a id=\"a1\">no MozFest Plaza</a>"
+msgid "<a id=\"a1\"><b>Register now</b></a><b> for MozFest House: Amsterdam, taking place from June 19th - 21st, 2023.</b>"
+msgstr ""
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
 msgid ""
@@ -183,17 +183,19 @@ msgstr "Nossos últimos diálogos e debates"
 
 msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 msgid ""
-"If you’re on social media or other corners of the internet a lot, you’ve likely encountered AI systems with names like GPT-3 or DALL·E in recent months. These are some of the AI systems that have "
-"become surprisingly good at creating convincing snippets of text or computer-generated images. These models come with risks, too: for example, they can perpetuate harmful stereotypes against women "
-"or marginalized groups. How can these risks be addressed? And what part can regulation play in this?"
+"Get ready to be enlightened and empowered as they share their invaluable insights and experiences on mobilising and building grassroots movements that bring about REAL change. In a world where "
+"progress is needed more than ever, this is your chance to be a part of the solution. Don't miss out on this unique opportunity to hear from these visionaries firsthand! Watch this unforgettable "
+"conversation with Angela Davis, a world-renowned scholar, author, and champion for human rights, and Christian Smalls, an unwavering labour rights activist and President of the Amazon Labor Union, "
+"moderated by industry veteran and VP of Global Programs at Mozilla, J. Bob Alotta."
 msgstr ""
-"Se você acessa muito mídias sociais ou outros cantos da internet, provavelmente encontrou sistemas de inteligência artificial com nomes como GPT-3 ou DALL·E nos últimos meses. Estes são alguns dos "
-"sistemas de inteligência artificial que se tornaram surpreendentemente bons em criar fragmentos convincentes de texto ou imagens geradas por computador. Esses modelos também apresentam riscos: por "
-"exemplo, podem perpetuar estereótipos nocivos contra mulheres ou grupos marginalizados. Como esses riscos podem ser abordados? E que papel a regulamentação pode ter nisso?"
 
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
-msgid "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
-msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
+msgid "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
+msgstr ""
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Garanta seu ingresso"
 
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
 #~ msgid "Call for Proposals"
@@ -506,6 +508,10 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
 #~ msgid "The goal of this contribute-a-thon will be to increase participation for varying dialects and accents of Kiswahili that are typically underrepresented in voice databases."
 #~ msgstr "O objetivo desta maratona de contribuições será aumentar a participação de variados dialetos e sotaques de Kiswahili, que normalmente são sub-representados em bases de dados de voz."
+
+#~ msgctxt "banner_cta_label"
+#~ msgid "Watch the live stream"
+#~ msgstr "Assista à transmissão ao vivo"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
 #~ msgid "Opening Circle"
@@ -976,3 +982,25 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
 #~ msgid "Learn more"
 #~ msgstr "Saiba mais"
+
+#~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
+#~ msgid ""
+#~ "If you’re on social media or other corners of the internet a lot, you’ve likely encountered AI systems with names like GPT-3 or DALL·E in recent months. These are some of the AI systems that have "
+#~ "become surprisingly good at creating convincing snippets of text or computer-generated images. These models come with risks, too: for example, they can perpetuate harmful stereotypes against women "
+#~ "or marginalized groups. How can these risks be addressed? And what part can regulation play in this?"
+#~ msgstr ""
+#~ "Se você acessa muito mídias sociais ou outros cantos da internet, provavelmente encontrou sistemas de inteligência artificial com nomes como GPT-3 ou DALL·E nos últimos meses. Estes são alguns dos "
+#~ "sistemas de inteligência artificial que se tornaram surpreendentemente bons em criar fragmentos convincentes de texto ou imagens geradas por computador. Esses modelos também apresentam riscos: por "
+#~ "exemplo, podem perpetuar estereótipos nocivos contra mulheres ou grupos marginalizados. Como esses riscos podem ser abordados? E que papel a regulamentação pode ter nisso?"
+
+#~ msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
+#~ msgid "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
+#~ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
+
+#~ msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.altText"
+#~ msgid "nadya tolokonnikova"
+#~ msgstr "nadya tolokonnikova"
+
+#~ msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
+#~ msgid "<b>Watch the recording of the MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\"</b> <a id=\"a1\">on the MozFest Plaza</a>"
+#~ msgstr "<b>Assista à gravação do MozFest Keynote \"Nenhum ato de protesto é pequeno demais por Pussy Riot\"</b> <a id=\"a1\">no MozFest Plaza</a>"

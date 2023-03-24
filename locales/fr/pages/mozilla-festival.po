@@ -26,16 +26,16 @@ msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
-msgid "Secure your ticket"
-msgstr "Réservez votre billet"
+msgid "Secure your on-demand ticket"
+msgstr ""
 
 msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
 msgstr "Venez avec une idée, repartez avec une communauté."
 
 msgctxt "banner_cta_label"
-msgid "Watch the live stream"
-msgstr "Regarder le live"
+msgid "Watch the thank you video"
+msgstr ""
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 msgid "Tickets available now"
@@ -62,12 +62,12 @@ msgid "Each MozFest ticket includes access to pre- and post-festival events, plu
 msgstr "Chaque billet pour le MozFest comprend l’accès aux évènements en amont et en aval du festival, ainsi que l’accès aux sessions enregistrées et à l’art et aux médias à la demande jusqu’en juin."
 
 msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.altText"
-msgid "nadya tolokonnikova"
-msgstr "nadya tolokonnikova"
+msgid "MozFest House Amsterdam Logo"
+msgstr ""
 
 msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
-msgid "<b>Watch the recording of the MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\"</b> <a id=\"a1\">on the MozFest Plaza</a>"
-msgstr "<b>Regardez l’enregistrement de la keynote du MozFest « No Act of Protest is Too Small by Pussy Riot »</b> <a id=\"a1\">sur la MozFest Plaza</a>"
+msgid "<a id=\"a1\"><b>Register now</b></a><b> for MozFest House: Amsterdam, taking place from June 19th - 21st, 2023.</b>"
+msgstr ""
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
 msgid ""
@@ -190,21 +190,23 @@ msgstr "Notre dernière session débats et discussions"
 
 msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 msgid ""
-"If you’re on social media or other corners of the internet a lot, you’ve likely encountered AI systems with names like GPT-3 or DALL·E in recent months. These are some of the AI systems that have "
-"become surprisingly good at creating convincing snippets of text or computer-generated images. These models come with risks, too: for example, they can perpetuate harmful stereotypes against women "
-"or marginalized groups. How can these risks be addressed? And what part can regulation play in this?"
+"Get ready to be enlightened and empowered as they share their invaluable insights and experiences on mobilising and building grassroots movements that bring about REAL change. In a world where "
+"progress is needed more than ever, this is your chance to be a part of the solution. Don't miss out on this unique opportunity to hear from these visionaries firsthand! Watch this unforgettable "
+"conversation with Angela Davis, a world-renowned scholar, author, and champion for human rights, and Christian Smalls, an unwavering labour rights activist and President of the Amazon Labor Union, "
+"moderated by industry veteran and VP of Global Programs at Mozilla, J. Bob Alotta."
 msgstr ""
-"Si vous utilisez beaucoup les réseaux sociaux ou d’autres parties d’Internet, vous avez probablement croisé des systèmes d’IA portant des noms tels que GPT-3 ou DALL·E ces derniers mois. Ces "
-"systèmes d’IA sont devenus étonnamment efficaces pour générer des extraits de texte ou des images générées par ordinateur convaincants. Ces modèles comportent également des risques : par exemple, "
-"ils peuvent perpétuer des stéréotypes préjudiciables aux femmes ou aux groupes marginalisés. Comment faire face à ces risques ? Et quel rôle la règlementation peut-elle jouer ?"
 
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
-msgid "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
-msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
+msgid "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
+msgstr ""
 
 #~ msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.label"
 #~ msgid "Vote here"
 #~ msgstr "Votez ici"
+
+#~ msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
+#~ msgid "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
+#~ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
 
 #~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
 #~ msgid "MozFest Current Events"
@@ -562,6 +564,10 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgid "rmddu9xc1hs,mozfest-mega-patron"
 #~ msgstr "rmddu9xc1hs,mozfest-mega-patron"
 
+#~ msgctxt "cta_button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Réservez votre billet"
+
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Tickets Now Available"
 #~ msgstr "Les billets sont disponibles"
@@ -667,6 +673,10 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgstr ""
 #~ "L’objectif de ce marathon de la contribution sera d’augmenter la participation pour les différents dialectes et accents du kiswahili qui sont généralement sous-représentés dans les bases de données "
 #~ "vocales."
+
+#~ msgctxt "banner_cta_label"
+#~ msgid "Watch the live stream"
+#~ msgstr "Regarder le live"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
 #~ msgid "Opening Circle"
@@ -1144,6 +1154,16 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgid "Watch live on LinkedIn and YouTube on November 29, 2022 at 17:30 UTC."
 #~ msgstr "Regardez en direct sur LinkedIn et YouTube le 29 novembre 2022 à 17h30 UTC."
 
+#~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
+#~ msgid ""
+#~ "If you’re on social media or other corners of the internet a lot, you’ve likely encountered AI systems with names like GPT-3 or DALL·E in recent months. These are some of the AI systems that have "
+#~ "become surprisingly good at creating convincing snippets of text or computer-generated images. These models come with risks, too: for example, they can perpetuate harmful stereotypes against women "
+#~ "or marginalized groups. How can these risks be addressed? And what part can regulation play in this?"
+#~ msgstr ""
+#~ "Si vous utilisez beaucoup les réseaux sociaux ou d’autres parties d’Internet, vous avez probablement croisé des systèmes d’IA portant des noms tels que GPT-3 ou DALL·E ces derniers mois. Ces "
+#~ "systèmes d’IA sont devenus étonnamment efficaces pour générer des extraits de texte ou des images générées par ordinateur convaincants. Ces modèles comportent également des risques : par exemple, "
+#~ "ils peuvent perpétuer des stéréotypes préjudiciables aux femmes ou aux groupes marginalisés. Comment faire face à ces risques ? Et quel rôle la règlementation peut-elle jouer ?"
+
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
 #~ msgid "Early Bird Tickets"
 #~ msgstr "Billets Early Bird"
@@ -1156,6 +1176,10 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 20th 2022. <a id=\"a1\">Submit your proposal now.</a>"
 #~ msgstr "L’appel à propositions pour le MozFest 2023 est à présent ouvert et se clôturera le 20 décembre 2022. <a id=\"a1\">Soumettez votre proposition maintenant.</a>"
 
+#~ msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.altText"
+#~ msgid "nadya tolokonnikova"
+#~ msgstr "nadya tolokonnikova"
+
 #~ msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
 #~ msgid "<b>Join us for today's MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\" from 17:00 UTC (12:00 ET / 22:30 IST) by</b> <a id=\"a1\"><b>accessing the session page here</b></a>"
 #~ msgstr ""
@@ -1164,4 +1188,8 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 
 #~ msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
 #~ msgid "<b>Watch the recording of the MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\" </b> <a id=\"a1\">on the MozFest Plaza</a>"
+#~ msgstr "<b>Regardez l’enregistrement de la keynote du MozFest « No Act of Protest is Too Small by Pussy Riot »</b> <a id=\"a1\">sur la MozFest Plaza</a>"
+
+#~ msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
+#~ msgid "<b>Watch the recording of the MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\"</b> <a id=\"a1\">on the MozFest Plaza</a>"
 #~ msgstr "<b>Regardez l’enregistrement de la keynote du MozFest « No Act of Protest is Too Small by Pussy Riot »</b> <a id=\"a1\">sur la MozFest Plaza</a>"
