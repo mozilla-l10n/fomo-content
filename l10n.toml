@@ -1557,7 +1557,7 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/151-mo-mozuch.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/151-mo-mozuch.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/articles/ps5-vs-xbox-series-x-vs-nintendo-switch-which-is-best-for-privacy.pot"
@@ -1917,6 +1917,21 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/viber.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/viber.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/what-you-need-to-know-about-nintendo-switch-parental-controls.pot"
+l10n = "locales/{locale}/pages/homepage/blog/what-you-need-to-know-about-nintendo-switch-parental-controls.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/286-nicole-chang.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/286-nicole-chang.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/how-to-keep-your-kids-safe-with-youtube-parental-controls.pot"
+l10n = "locales/{locale}/pages/homepage/blog/how-to-keep-your-kids-safe-with-youtube-parental-controls.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
@@ -2683,11 +2698,6 @@ locales = [ "fr",]
 reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-directory.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-directory.po"
 locales = [ "fr", "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/286-nicole-chang.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/286-nicole-chang.po"
-locales = [ "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-festival/sponsor/become-sponsor.pot"
