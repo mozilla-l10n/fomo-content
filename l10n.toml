@@ -2700,6 +2700,11 @@ l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-dire
 locales = [ "fr", "sw",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Signup/223-mozfest-house-amsterdam.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/223-mozfest-house-amsterdam.po"
+locales = [ "fr", "fy-NL", "nl",]
+
+[[paths]]
 reference = "templates/pages/mozilla-festival/sponsor/become-sponsor.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/sponsor/become-sponsor.po"
 locales = [ "fr",]
