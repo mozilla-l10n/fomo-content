@@ -2720,6 +2720,11 @@ l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-award
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/house.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/house.po"
+locales = [ "fr", "fy-NL", "nl",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
