@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-23 12:38:47.209009+00:00\n"
-"PO-Revision-Date: 2022-09-16 15:34+0000\n"
+"PO-Revision-Date: 2023-03-31 11:10+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -35,6 +35,10 @@ msgid ""
 "provides access to goods and services. It’s the essential infrastructure powering business, commerce, and increasingly, society at large. For the nearly 50% of the world that is not yet online, "
 "building a positive future online that is inclusive and accessible is key. <b>The internet is a constantly evolving ecosystem that shapes our lives and livelihoods.</b>"
 msgstr ""
+"<b>Pour plus de quatre milliards de personnes, Internet fait partie de notre quotidien.</b> C’est grâce à lui que nous restons en contact avec nos amis, nos familles, nos collègues et "
+"collaborateurs. Il éduque, divertit et nous permet d’accéder à des biens et des services. C’est l’infrastructure indispensable qui fait fonctionner les entreprises, le commerce et, de façon "
+"croissante, la société dans son ensemble. Pour presque la moitié de la population mondiale qui n’est pas encore connectée, il est primordial de bâtir un avenir en ligne positif, inclusif et "
+"accessible. <b>Internet est un écosystème en perpétuelle évolution qui façonne nos vies et nos ressources.</b>"
 
 msgctxt "body.87c0b41b-2380-475e-b600-466a6542ce8c"
 msgid ""
@@ -77,11 +81,11 @@ msgstr "Bulletin de santé d’Internet"
 
 msgctxt "body.ec2971ff-d8c2-425a-9dee-733e4160543b.text"
 msgid "The <a id=\"a1\">Internet Health Report</a> documents and explains what’s happening to the health of the internet drawing on research and stories from around the world."
-msgstr ""
+msgstr "Le <a id=\"a1\">Bulletin de santé d’Internet</a> documente et explique l’évolution de la santé d’Internet en s’appuyant sur des recherches et des témoignages du monde entier."
 
 msgctxt "body.ec2971ff-d8c2-425a-9dee-733e4160543b.url"
 msgid "https://foundation.mozilla.org/insights/internet-health-report/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/insights/internet-health-report/"
 
 msgctxt "body.ba02dbc1-3fa8-40e6-b50f-07259e4259cc.altText"
 msgid "Fellowships and Awards"
@@ -98,7 +102,7 @@ msgstr ""
 
 msgctxt "body.ba02dbc1-3fa8-40e6-b50f-07259e4259cc.url"
 msgid "https://foundation.mozilla.org/fellowships/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/fellowships/"
 
 msgctxt "body.13810833-c78c-4b2d-be8f-b952a47533ec.altText"
 msgid "Mozfest"
@@ -115,7 +119,7 @@ msgstr ""
 
 msgctxt "body.13810833-c78c-4b2d-be8f-b952a47533ec.url"
 msgid "https://mozillafestival.org/"
-msgstr ""
+msgstr "https://mozillafestival.org/"
 
 msgctxt "body.189678b0-797e-46f3-88b2-fb2f5343f24d.altText"
 msgid "Advocacy"
@@ -129,7 +133,7 @@ msgstr ""
 
 msgctxt "body.189678b0-797e-46f3-88b2-fb2f5343f24d.url"
 msgid "https://foundation.mozilla.org/advocacy/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/advocacy/"
 
 msgctxt "body.3a8ab2c0-8ffa-4e09-b52d-430e789652f3.altText"
 msgid "IRL"
@@ -138,10 +142,12 @@ msgstr "IRL"
 msgctxt "body.3a8ab2c0-8ffa-4e09-b52d-430e789652f3.text"
 msgid "Mozilla's <a id=\"a1\">IRL podcast</a> provides an in-depth look at how different internet health issues affect how people interact with technology and live their lives."
 msgstr ""
+"Le <a id=\"a1\">podcast IRL</a> de Mozilla livre une analyse approfondie sur la façon dont différentes problématiques liées à la santé d’Internet affectent nos vies et nos interactions avec la "
+"technologie."
 
 msgctxt "body.3a8ab2c0-8ffa-4e09-b52d-430e789652f3.url"
 msgid "https://irlpodcast.org/"
-msgstr ""
+msgstr "https://irlpodcast.org/"
 
 #~ msgctxt "body.9dfbbdc5-a033-48c7-a2cd-b25c9eb81c2c"
 #~ msgid "A healthy internet is one in which privacy, openness and inclusion are the norms. These are values Mozilla has championed from the beginning in our"
