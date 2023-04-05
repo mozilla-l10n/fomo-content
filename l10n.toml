@@ -2730,6 +2730,16 @@ l10n = "locales/{locale}/pages/mozilla-festival/house.po"
 locales = [ "fr", "fy-NL", "nl",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/68-kevin-zawacki.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/68-kevin-zawacki.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/exposing-the-sexism-in-generative-ai.pot"
+l10n = "locales/{locale}/pages/homepage/blog/exposing-the-sexism-in-generative-ai.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]

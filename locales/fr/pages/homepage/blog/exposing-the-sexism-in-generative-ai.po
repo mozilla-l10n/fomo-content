@@ -1,0 +1,129 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-04-05 07:47:28.603411+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c1cd6be3-5ee6-470a-b7da-0e174d879a42\n"
+
+msgctxt "search_description"
+msgid "Algowritten is a project and Mozilla Technology Fund awardee that detects, describes, and aims to mitigate sexism against women in generative AI."
+msgstr ""
+
+msgctxt "body.938b3460-e12f-4792-998c-386a5f7294c8.altText"
+msgid "Algowritten"
+msgstr ""
+
+msgctxt "body.938b3460-e12f-4792-998c-386a5f7294c8.caption"
+msgid "A screenshot from the Algowritten project"
+msgstr ""
+
+msgctxt "body.62a85df8-c719-4eb4-bcd1-fad79bb4538c"
+msgid "<i>This is a profile of Algowrittten, a</i> <a id=\"a1\"><i>Mozilla Technology Fund</i></a><i> awardee</i>"
+msgstr ""
+
+msgctxt "body.62a85df8-c719-4eb4-bcd1-fad79bb4538c"
+msgid "AI-powered chatbots like ChatGPT are many things: innovative, articulate, fast."
+msgstr ""
+
+msgctxt "body.62a85df8-c719-4eb4-bcd1-fad79bb4538c"
+msgid "And sexist."
+msgstr ""
+
+msgctxt "body.62a85df8-c719-4eb4-bcd1-fad79bb4538c"
+msgid ""
+"As generative AIs have entered the mainstream in recent years, they’ve created untold reams of text, from fictional short stories to scientific papers to simple dialogues with humans. And to anyone "
+"paying attention, it’s clear this text can often reinforce sexism against women."
+msgstr ""
+
+msgctxt "body.62a85df8-c719-4eb4-bcd1-fad79bb4538c"
+msgid ""
+"“What’s interesting about text created by machines is how it makes us reflect back on our own biases,” says <a id=\"a1\">David Jackson</a>, a designer researching AI at Manchester Metropolitan "
+"University (MMU)."
+msgstr ""
+
+msgctxt "body.62a85df8-c719-4eb4-bcd1-fad79bb4538c"
+msgid ""
+"After all, these AI tools are trained on words written by humans — words that are also frequently tinged with sexism. “These are things we accept in our own writing, to some extent,” Jackson says, "
+"“but when we see a computer doing it, it becomes monstrous.”"
+msgstr ""
+
+msgctxt "body.62a85df8-c719-4eb4-bcd1-fad79bb4538c"
+msgid ""
+"Jackson, alongside MMU researcher <a id=\"a1\">Marsha Courneya</a> and professor <a id=\"a2\">Toby Heys</a>, are the creators of <a id=\"a3\">Algowritten</a>. Algowritten is a project and <a "
+"id=\"a4\">Mozilla Technology Fund</a> awardee that detects, describes, and aims to mitigate sexism against women in generative AI."
+msgstr ""
+
+msgctxt "body.741ff204-0038-4e02-96d8-929300b48071.quote"
+msgid "What’s interesting about text created by machines is how it makes us reflect back on our own biases."
+msgstr ""
+
+msgctxt "body.741ff204-0038-4e02-96d8-929300b48071.attribution"
+msgid "David Jackson, Algowritten"
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid ""
+"Algowritten is fueled by the <a id=\"a1\">Stepford app</a>, a clever approach that turns AI technology back on itself. The team specially trains GPT-3 and similar algorithms to spot sexist bias that"
+" its sibling AI creates. “We thought it would be interesting to get the tool to be reflexive — to look back at itself and figure out in its own words what was wrong,” Jackson says."
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid "“It can be used to create a feedback loop back into the machine,” Heys adds. “To create something that could be used in the wild.”"
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid ""
+"Courneya notes that one of the most common sexist habits of generative AI is “course correction toward heteronormativity. It keeps nudging you back toward the center.” For example, when the team ran"
+" work by queer science fiction author <a id=\"a1\">Samuel Delaney</a> through an AI tool, it came out more heteronormative."
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid "Similarly, AI would frequently describe women in terms of their physical beauty, and blame women for bad male behavior."
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid ""
+"The project got its start in Mozilla’s 2020 Trustworthy AI working group, when the creators gathered a <a id=\"a1\">collection</a> of AI-generated short stories across a range of genres — from "
+"science fiction and fantasy to horror and literary fiction."
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid "“We wanted to see the biases that cropped up naturally when interacting with AI as a creative tool,” explains Heys, who also assembled a group of artists and scientists to review the stories."
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid ""
+"The prevalence of sexism quickly became apparent, from stories that assumed only men can be engineers, to stories that define women by their romantic relationships with men. “Sexist bias was "
+"predominant,” Heys says."
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid "Since then, the trio has worked on a script that helps the AI to notice its own bias. “We’ve had some success with that,” Jackson notes."
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid ""
+"The team is also making the app more opinionated. For example, rather than simply saying “This paragraph is biased,” it might say, “Wow! The man in this story is treating women like objects.” “That "
+"tone of voice gets humans thinking about and looking for bias,” Jackson says."
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid "“When the AI isn’t dry, when it has the character of a human — that leads to more discussion,” Courneya adds."
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid ""
+"What’s next for Algowritten? Jackson says the project could yield an application similar to Grammarly, but for spotting sexism rather than grammatical errors. The team hopes for something more far "
+"reaching, however. “We see it as data and a set of methodologies that can be folded back into the technologies themselves,” Jackson says. “This could lay the groundwork for future development.”"
+msgstr ""
+
+msgctxt "body.4593b700-ab3a-4d86-ac3f-817bc743f864"
+msgid ""
+"They also note that their AI, like any AI, has limitations — which is perhaps the overarching lesson of the project. As an example, Heys points to times when a sexist or otherwise pejorative term is"
+" reclaimed and used by its intended targets. “It’s very difficult for that to be trained in an AI and kept up to date,” he says. “It’s very difficult to have a neutral broker.”"
+msgstr ""
+
+msgctxt "title"
+msgid "Exposing the Sexism in Generative AI"
+msgstr ""
