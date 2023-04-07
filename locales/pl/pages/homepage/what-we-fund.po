@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-02-20 14:56:13.286614+00:00\n"
+"PO-Revision-Date: 2023-04-07 10:15+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d55df07f-4243-41a1-8229-a3ad608bcf4f\n"
 
 msgctxt "search_description"
@@ -193,12 +198,16 @@ msgid ""
 "The challenges facing the internet are complex, and we know that there are few one-size-fits-all solutions. Mozilla is committed to supporting diverse innovators around the world to imagine "
 "solutions that will work for their communities."
 msgstr ""
+"Wyzwania stojące przed internetem są złożone i wiemy, że istnieje niewiele uniwersalnych rozwiązań. Mozilla angażuje się we wspieranie różnych innowatorów na całym świecie w celu wyobrażenia sobie "
+"rozwiązań, które będą działać dla ich społeczności."
 
 msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 msgid ""
 "Mozilla has distributed over $20 million in award funds since 2015 and supported more than 200 fellows. This funding has supported organizations and individuals in 46 countries across six "
 "continents."
 msgstr ""
+"Mozilla rozdzieliła ponad 20 milionów dolarów w funduszach nagród od 2015 roku i wsparła ponad 200 stypendystów. Finansowanie to wspiera organizacje i osoby prywatne w 46 krajach na sześciu "
+"kontynentach."
 
 msgctxt "body.70d80248-776e-42d9-afe1-c905a170f0d5.altText"
 msgid "Map of all the places in the world where people Mozilla has funded have come from"
