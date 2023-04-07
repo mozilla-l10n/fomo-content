@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-08 11:05:37.271639+00:00\n"
+"PO-Revision-Date: 2023-04-07 10:23+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 0a246608-2889-41a3-8564-68d88fd2098e\n"
 
 msgctxt "name"
 msgid "Mental Health Apps"
-msgstr ""
+msgstr "Zdrowie psychiczne"
 
 msgctxt "description"
 msgid "Review of mental health and prayer apps"
-msgstr ""
+msgstr "Przegląd aplikacji dotyczących zdrowia psychicznego i modlitwy"

@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-08 11:05:37.316977+00:00\n"
+"PO-Revision-Date: 2023-04-07 10:22+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f3a1a1ed-a0e3-46f8-a38b-6c04f76f9008\n"
 
 msgctxt "name"
@@ -12,4 +17,4 @@ msgstr ""
 
 msgctxt "description"
 msgid "Period and fertility tracking apps"
-msgstr ""
+msgstr "Aplikacje do śledzenia okresu i płodności"
