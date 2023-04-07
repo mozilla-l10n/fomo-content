@@ -1242,7 +1242,7 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-watch4.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-watch4.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-buds.pot"
@@ -1252,7 +1252,7 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/samsung-galaxy-smarttag.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-smarttag.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/peloton-tread.pot"
