@@ -2325,6 +2325,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-nora.po"
 locales = [ "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/house.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/house.po"
+locales = [ "es", "fr", "fy-NL", "nl",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
@@ -2723,11 +2728,6 @@ locales = [ "fr",]
 reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards/partners.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards/partners.po"
 locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-festival/house.pot"
-l10n = "locales/{locale}/pages/mozilla-festival/house.po"
-locales = [ "fr", "fy-NL", "nl",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/68-kevin-zawacki.pot"
