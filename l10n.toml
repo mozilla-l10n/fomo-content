@@ -2745,6 +2745,11 @@ l10n = "locales/{locale}/pages/homepage/blog/should-i-delete-tiktok-from-my-phon
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/short-film-dzata-reimagines-technology-innovation-from-an-african-perspective.pot"
+l10n = "locales/{locale}/pages/homepage/blog/short-film-dzata-reimagines-technology-innovation-from-an-african-perspective.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
