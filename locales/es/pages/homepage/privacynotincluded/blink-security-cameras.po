@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-04-11 09:48:38.819013+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e3c30e40-56a5-4c17-b002-395ede6f65ec\n"
+
+msgctxt "title"
+msgid "Blink Security Cameras"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"Amazon's other line of security cameras, they also own Ring, are these indoor and outdoor Blink security cams. They tend to be cheaper than Ring cameras, they offer local storage (yay!), come in a "
+"mini-cam, an indoor cam, an outdoor cam, and a floodlight cam, and feature all the usual: HD video, two-way audio, motion detection and night vision. It's Amazon, so of course these work with Alexa."
+" You can keep on eye on everything with the Blink Home Monitor app on your phone. As they say on their website, \"Blink and you're home,\" which, honestly, I have no idea what that means."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Blink was acquired by Amazon in December, 2017. Amazon's other security camera maker, Ring, has had a <a id=\"a1\">plethora of privacy and security issues</a> they've had to deal with over the past "
+"couple years. Blink is not Ring. Blink cameras don't easily work on the Ring Neighbors app that has raised concerns for us around public safety and racism. You can manually upload a Blink video to "
+"the Neighbors app, but you can do that with any video. And these Blink cameras have a local storage option that means you aren’t required to store your video in the Cloud to access it, which is a "
+"much better privacy option."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Blink cameras have had a few <a id=\"a1\">reported</a> security <a id=\"a2\">vulnerabilities</a>, often found by <a id=\"a3\">security researchers</a> and fixed quickly with firmware updates, which "
+"is how it should be (and a good reminder to keep your device’s firmware up-to-date!). It’s still concerning when security vulnerabilities like the ones found in Blink could allow bad guys to hijack "
+"your camera. This is always a concern with any security camera though."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Blink says they “are not in the business of selling our customers’ personal information to others,” which is good. However, they are an Amazon company, so expect that Amazon will try and sell you "
+"lots of stuff based on the personal information Blink does collect on you. All in all, these Blink security cameras don't worry us too much as far as security cameras go. Still, they’re cameras "
+"inside your house, so it's good to turn them off when you are home if you can."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid "Blink (an Amazon company) does not sell customer information."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"Blink Recordings are streamed to the cloud. You give Blink all permissions they need to use your Blink Recordings to do so. These permissions include, for example, the rights to copy your Blink "
+"Recordings, modify your Blink Recordings to generate clips, use information about your Blink Recordings to organize them on your behalf, and review your Blink Recordings to provide technical "
+"support."
+msgstr ""
+
+msgctxt "user_friendly_privacy_policy_helptext"
+msgid "A separate privacy policy is provided"
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "Blink requires 2-step verification for all logins to the user’s account by receiving a text message containing the OTP which is entered by the user in-app to authenticate."
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "For Blink, security researchers can report a vulnerability by emailing <a id=\"a1\">security@amazon.com</a>."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Turn your the cameras inside your home off when you are there."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Store video locally as much as possible rather than in the Cloud."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Set up two-factor authentication on your account."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Manage your Alexa privacy settings"
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Name, email, phone number, address"
+msgstr ""
+
+msgctxt "biometric_data_collected"
+msgid "Video and voice recordings"
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"Blink's privacy statement is not clear regarding deletion rights and retention details for data. It says that some groups of people are not able to request access to or deletion of data. They also "
+"send you through customer service bureaucracy to check your deletion rights."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "In <a id=\"a1\">December 2019</a>, Amazon fixed a security flaw that would allow hackers to hijack the Blink camera."
+msgstr ""
