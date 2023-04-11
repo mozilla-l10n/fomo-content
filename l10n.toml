@@ -2760,6 +2760,11 @@ l10n = "locales/{locale}/pages/homepage/blog/short-film-dzata-reimagines-technol
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/what-if-young-people-could-design-a-better-internet.pot"
+l10n = "locales/{locale}/pages/homepage/blog/what-if-young-people-could-design-a-better-internet.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
