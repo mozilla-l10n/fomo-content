@@ -2335,6 +2335,16 @@ l10n = "locales/{locale}/pages/mozilla-festival/house.po"
 locales = [ "es", "fr", "fy-NL", "nl",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/evo-robot.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/evo-robot.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/wyze-cams.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/wyze-cams.po"
+locales = [ "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
