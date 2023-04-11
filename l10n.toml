@@ -2040,6 +2040,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/5-voice-technology.
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/should-i-delete-tiktok-from-my-phone.pot"
+l10n = "locales/{locale}/pages/homepage/blog/should-i-delete-tiktok-from-my-phone.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2737,11 +2742,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/blog/exposing-the-sexism-in-generative-ai.pot"
 l10n = "locales/{locale}/pages/homepage/blog/exposing-the-sexism-in-generative-ai.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/should-i-delete-tiktok-from-my-phone.pot"
-l10n = "locales/{locale}/pages/homepage/blog/should-i-delete-tiktok-from-my-phone.po"
 locales = [ "fr",]
 
 [[paths]]
