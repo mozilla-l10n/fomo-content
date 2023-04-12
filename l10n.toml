@@ -2775,6 +2775,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/509-lucie-click.po"
 locales = [ "nl",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/mozfest-house-is-coming-to-amsterdam-june-20-21.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-is-coming-to-amsterdam-june-20-21.po"
+locales = [ "nl",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.pot"
 l10n = "locales/{locale}/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.po"
 locales = [ "sw",]
