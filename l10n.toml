@@ -2765,6 +2765,11 @@ l10n = "locales/{locale}/pages/homepage/blog/what-if-young-people-could-design-a
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
