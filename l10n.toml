@@ -2775,6 +2775,11 @@ l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/mozilla-technology-f
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/lastpass-1password-password-managers-safe.pot"
+l10n = "locales/{locale}/pages/homepage/blog/lastpass-1password-password-managers-safe.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
