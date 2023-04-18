@@ -37,12 +37,12 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.Signup/35-minimalist-signup-snippet.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Signup/35-minimalist-signup-snippet.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/newsletter.pot"
 l10n = "locales/{locale}/pages/homepage/newsletter.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/eu-misinformation/action.pot"
