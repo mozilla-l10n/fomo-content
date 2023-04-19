@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-04-19 07:09:27.649534+00:00\n"
+"PO-Revision-Date: 2023-04-19 07:13+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: be1881b9-3f4f-4aee-bb12-9ffc74f53445\n"
 
 msgctxt "body.7eb30430-9217-4b38-a192-135d24f55f3d"
 msgid "You're on the list!"
-msgstr ""
+msgstr "Vous êtes sur la liste !"
 
 msgctxt "body.7eb30430-9217-4b38-a192-135d24f55f3d"
 msgid "We're so glad you're here. We know it's been a while, so we've put together a round-up of a few things you may have missed."
@@ -16,11 +21,11 @@ msgstr ""
 
 msgctxt "body.7eb30430-9217-4b38-a192-135d24f55f3d"
 msgid "Made a mistake? <a id=\"a1\">You can update your preferences here.</a>"
-msgstr ""
+msgstr "Vous avez fait une erreur ? <a id=\"a1\">Vous pouvez mettre à jour vos préférences ici.</a>"
 
 msgctxt "body.1c0c0e47-4900-47b4-ac06-6e21a8c73d36"
 msgid "Three things to do"
-msgstr ""
+msgstr "Trois choses à faire"
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.421a5127-97ef-49f1-87bb-3f644b6e3291.title"
 msgid "Hold TikTok Accountable"
@@ -28,19 +33,19 @@ msgstr ""
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.421a5127-97ef-49f1-87bb-3f644b6e3291.body"
 msgid "In Google’s app store, TikTok claimed it doesn’t share your data with third parties. Our research showed otherwise."
-msgstr ""
+msgstr "Sur l’app store de Google, TikTok a affirmé ne pas partager vos données avec des tiers. Nos recherches ont montré le contraire."
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.421a5127-97ef-49f1-87bb-3f644b6e3291.link_url"
 msgid "https://foundation.mozilla.org/privacynotincluded/articles/tell-tiktok-stop-misleading-android-users-and-provide-full-transparency-about-your-privacy-practices/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/privacynotincluded/articles/tell-tiktok-stop-misleading-android-users-and-provide-full-transparency-about-your-privacy-practices/"
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.421a5127-97ef-49f1-87bb-3f644b6e3291.link_label"
 msgid "Sign the petition"
-msgstr ""
+msgstr "Signer la pétition"
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.07c7ba23-2ed7-4fe6-a223-a9d2e7ba8290.title"
 msgid "New Reports from *Privacy Not Included"
-msgstr ""
+msgstr "Nouveaux rapports de *Confidentialité non incluse"
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.07c7ba23-2ed7-4fe6-a223-a9d2e7ba8290.body"
 msgid "Find out which of your favorite connected devices and apps received the *Privacy Not Included label?"
@@ -48,15 +53,15 @@ msgstr ""
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.07c7ba23-2ed7-4fe6-a223-a9d2e7ba8290.link_url"
 msgid "https://foundation.mozilla.org/privacynotincluded/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/privacynotincluded/"
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.07c7ba23-2ed7-4fe6-a223-a9d2e7ba8290.link_label"
 msgid "*Privacy Not Included guide"
-msgstr ""
+msgstr "Guide d’achat *Confidentialité non incluse"
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.c434ba1a-e861-48fd-bb85-2654a77aaeed.title"
 msgid "Attend MozFest On-Demand"
-msgstr ""
+msgstr "Assister au MozFest à la demande"
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.c434ba1a-e861-48fd-bb85-2654a77aaeed.body"
 msgid "MozFest may be over but you can still watch 150+ sessions with a pay-what-you-can on-demand ticket."
@@ -64,27 +69,27 @@ msgstr ""
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.c434ba1a-e861-48fd-bb85-2654a77aaeed.link_url"
 msgid "https://www.mozillafestival.org/"
-msgstr ""
+msgstr "https://www.mozillafestival.org/"
 
 msgctxt "body.26e1ebe0-4fd6-442e-b301-acefbb224ba9.cards.c434ba1a-e861-48fd-bb85-2654a77aaeed.link_label"
 msgid "Learn more"
-msgstr ""
+msgstr "En savoir plus"
 
 msgctxt "body.21a79bb8-f5b7-4a76-a133-30477c7a0009"
 msgid "Three things to read"
-msgstr ""
+msgstr "Trois choses à lire"
 
 msgctxt "body.39de9fa3-5ebd-4bd2-8c77-4c18532d1f21.cards.86ce8c35-9fc7-4e79-b398-7d818452f704.title"
 msgid "Did ChatGPT Write This? Here’s How To Tell."
-msgstr ""
+msgstr "ChatGPT a-t-il écrit ceci ? Voici comment le savoir."
 
 msgctxt "body.39de9fa3-5ebd-4bd2-8c77-4c18532d1f21.cards.86ce8c35-9fc7-4e79-b398-7d818452f704.body"
 msgid "ChatGPT is being used to write papers, news articles and even text message responses. Here’s how to tell if the text you’re seeing was written by AI."
-msgstr ""
+msgstr "ChatGPT est utilisé pour rédiger des documents, des articles d’actualité et même des réponses par SMS. Voici comment savoir si le texte que vous voyez a été écrit par une IA."
 
 msgctxt "body.39de9fa3-5ebd-4bd2-8c77-4c18532d1f21.cards.86ce8c35-9fc7-4e79-b398-7d818452f704.link_url"
 msgid "https://foundation.mozilla.org/blog/how-to-tell-chat-gpt-generated-text/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/blog/how-to-tell-chat-gpt-generated-text/"
 
 msgctxt "body.39de9fa3-5ebd-4bd2-8c77-4c18532d1f21.cards.86ce8c35-9fc7-4e79-b398-7d818452f704.link_label"
 msgid "Read the blog"
@@ -100,15 +105,15 @@ msgstr ""
 
 msgctxt "body.39de9fa3-5ebd-4bd2-8c77-4c18532d1f21.cards.19aa8583-ba3d-49cb-a56f-9eaff43c0876.link_url"
 msgid "https://foundation.mozilla.org/blog/study-reveals-ai-transparency-is-rarely-prioritized-among-tech-builders/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/blog/study-reveals-ai-transparency-is-rarely-prioritized-among-tech-builders/"
 
 msgctxt "body.39de9fa3-5ebd-4bd2-8c77-4c18532d1f21.cards.19aa8583-ba3d-49cb-a56f-9eaff43c0876.link_label"
 msgid "Read the results"
-msgstr ""
+msgstr "Lire les résultats"
 
 msgctxt "body.39de9fa3-5ebd-4bd2-8c77-4c18532d1f21.cards.5dc8fb39-4403-43b4-8253-0f200da6287d.title"
 msgid "Challenging Algorithmic Bias Against Black Women"
-msgstr ""
+msgstr "Combattre les biais algorithmiques envers les femmes noires"
 
 msgctxt "body.39de9fa3-5ebd-4bd2-8c77-4c18532d1f21.cards.5dc8fb39-4403-43b4-8253-0f200da6287d.body"
 msgid "Mozilla Creative Media Awardee TRUTH uses positive storytelling to address harmful online narratives about Black women."
