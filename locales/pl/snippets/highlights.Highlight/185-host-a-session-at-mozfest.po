@@ -12,12 +12,12 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 713a8baa-3331-442f-87d9-ae3c837abbc8\n"
 
 msgctxt "title"
-msgid "Get A MozFest 2023 Ticket"
-msgstr "Kup bilet na MozFest 2023"
+msgid "Attend MozFest On-Demand"
+msgstr ""
 
 msgctxt "description"
-msgid "Buy your ticket to MozFest to experience Mozilla Foundation’s largest virtual event of the year. Tickets available now!"
-msgstr "Kup bilet na MozFest, aby wziąć udział w największym wirtualnym wydarzeniu roku organizowanym przez Fundację Mozilla. Bilety już w sprzedaży!"
+msgid "MozFest may be over but you can still watch 150+ sessions with a pay-what-you-can on-demand ticket."
+msgstr ""
 
 msgctxt "link_label"
 msgid "Secure your ticket"
@@ -26,3 +26,11 @@ msgstr "Zarezerwuj miejsce"
 msgctxt "footer"
 msgid "<a id=\"a1\">Submit A Session</a>"
 msgstr "<a id=\"a1\">Prześlij sesję</a>"
+
+#~ msgctxt "title"
+#~ msgid "Get A MozFest 2023 Ticket"
+#~ msgstr "Kup bilet na MozFest 2023"
+
+#~ msgctxt "description"
+#~ msgid "Buy your ticket to MozFest to experience Mozilla Foundation’s largest virtual event of the year. Tickets available now!"
+#~ msgstr "Kup bilet na MozFest, aby wziąć udział w największym wirtualnym wydarzeniu roku organizowanym przez Fundację Mozilla. Bilety już w sprzedaży!"

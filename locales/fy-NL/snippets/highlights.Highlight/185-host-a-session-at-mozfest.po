@@ -12,12 +12,12 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 850e1eb4-0bb3-4d86-a901-f73cbd7506c1\n"
 
 msgctxt "title"
-msgid "Get A MozFest 2023 Ticket"
-msgstr "Keapje in MozFest 2023-ticket"
+msgid "Attend MozFest On-Demand"
+msgstr ""
 
 msgctxt "description"
-msgid "Buy your ticket to MozFest to experience Mozilla Foundation’s largest virtual event of the year. Tickets available now!"
-msgstr "Keapje jo ticket foar MozFest om it grutste firtuele evenemint fan it jier fan Mozilla Foundation te belibjen. Kaarten no beskikber!"
+msgid "MozFest may be over but you can still watch 150+ sessions with a pay-what-you-can on-demand ticket."
+msgstr ""
 
 msgctxt "link_label"
 msgid "Secure your ticket"
@@ -28,12 +28,20 @@ msgid "<a id=\"a1\">Submit A Session</a>"
 msgstr "<a id=\"a1\">In sesje yntsjinje</a>"
 
 #~ msgctxt "title"
+#~ msgid "Get A MozFest 2023 Ticket"
+#~ msgstr "Keapje in MozFest 2023-ticket"
+
+#~ msgctxt "title"
 #~ msgid "Host A Session At MozFest"
 #~ msgstr "Organisearje in sesje op MozFest"
 
 #~ msgctxt "description"
 #~ msgid "MozFest is looking for participatory, collaborative and interactive session ideas! The Call for Proposals is open now through 16 December."
 #~ msgstr "MozFest siket nei partisipearjende, gearwurkjende en ynteraktive sesjes! De oprop foar foarstellen is no iepen oant 16 desimber."
+
+#~ msgctxt "description"
+#~ msgid "Buy your ticket to MozFest to experience Mozilla Foundation’s largest virtual event of the year. Tickets available now!"
+#~ msgstr "Keapje jo ticket foar MozFest om it grutste firtuele evenemint fan it jier fan Mozilla Foundation te belibjen. Kaarten no beskikber!"
 
 #~ msgctxt "link_label"
 #~ msgid "Submit A Session"
