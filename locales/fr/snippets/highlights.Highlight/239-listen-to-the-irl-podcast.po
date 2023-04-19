@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-04-19 20:44:46.584653+00:00\n"
+"PO-Revision-Date: 2023-04-19 21:46+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d61314c4-a22b-4dc8-bac4-fc2a2b1bfebb\n"
 
 msgctxt "title"
 msgid "Listen to the IRL Podcast"
-msgstr ""
+msgstr "Écouter le podcast IRL"
 
 msgctxt "description"
 msgid "Our annual Internet Health Report is now an award-winning podcast. Meet champions who insist there is a better way to build, deploy, and comprehend AI’s potential."
@@ -16,8 +21,8 @@ msgstr ""
 
 msgctxt "link_label"
 msgid "Listen Now"
-msgstr ""
+msgstr "Écouter maintenant"
 
 msgctxt "footer"
 msgid "<a id=\"a1\">Listen Now</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Écouter maintenant</a>"
