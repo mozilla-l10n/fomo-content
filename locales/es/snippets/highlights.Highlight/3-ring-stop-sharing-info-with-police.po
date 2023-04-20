@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-04-19 20:44:34.799557+00:00\n"
+"PO-Revision-Date: 2023-04-20 07:30+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 74dcce0b-7e99-4489-b982-108df0a35e51\n"
 
 msgctxt "title"
@@ -20,4 +25,4 @@ msgstr ""
 
 msgctxt "footer"
 msgid "Thanks"
-msgstr ""
+msgstr "Gracias"
