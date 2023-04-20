@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-04-19 20:44:59.500522+00:00\n"
+"PO-Revision-Date: 2023-04-20 17:05+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8bc4060f-562c-40a3-8a94-134a83704dc0\n"
 
 msgctxt "title"
@@ -20,4 +25,4 @@ msgstr ""
 
 msgctxt "footer"
 msgid "Thanks"
-msgstr ""
+msgstr "Obrigado"
