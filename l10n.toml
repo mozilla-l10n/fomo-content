@@ -2045,6 +2045,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.ResearchTopic/5-voice-technology.
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.BuyersGuideCallToAction/1-we-all-love-the-web-join-mozilla-in-defending-it.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideCallToAction/1-we-all-love-the-web-join-mozilla-in-defending-it.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/should-i-delete-tiktok-from-my-phone.pot"
 l10n = "locales/{locale}/pages/homepage/blog/should-i-delete-tiktok-from-my-phone.po"
 locales = [ "de", "es", "fr", "pt-BR",]
