@@ -368,6 +368,17 @@ msgstr "Google verwendet die Verarbeitung natürlicher Sprache, um Sie zu verste
 #~ "innerhalb einer Woche Ihre Gewohnheiten und passt sich daran an. Mit der App können Sie von überall die Temperatur in Ihrem Haus bestimmen. Außerdem schickt sie Nachrichten, wenn etwas nicht stimmt."
 #~ " Aber das Beste daran: Sie können mit dem Gerät Energie und Kosten sparen. Bleibt nur die Frage: Auf wessen Seite stellt sich das Thermostat, wenn Sie es kuschelig mögen, Ihr Partner aber eher kühl?"
 
+#~ msgctxt "blurb"
+#~ msgid ""
+#~ "Learning is fun! Owning a thermostat that learns all about how warm and cool you like your house is maybe fun too? According to Google, use this thermostat for a week and it'll adapt to you. The app"
+#~ " lets you control the temperature in your home from anywhere and sends alerts when things don't look quite right. It'll even let you know when it's time to change your furnace filter. Best of all, "
+#~ "that learning can help save energy and money. The big question is, can it learn who’s side to pick when you like it hot and your partner likes it cold?"
+#~ msgstr ""
+#~ "Lernen macht Spaß! Es macht vielleicht auch Spaß, einen Thermostat zu besitzen, der alles darüber lernt, wie warm und kühl Sie Ihr Haus mögen? Verwenden Sie diesen Thermostat laut Google eine Woche "
+#~ "lang und er wird sich an Sie anpassen. Mit der App können Sie die Temperatur in Ihrem Zuhause von überall aus steuern und sendet einen Alarm aus, wenn etwas nicht stimmt. Sie werden sogar "
+#~ "informiert, wenn es Zeit ist, Ihren Ofenfilter zu wechseln. Das Beste ist, dass Lernen helfen kann, Energie und Geld zu sparen. Die große Frage ist, kann das Gerät lernen, für welche Seite es sich "
+#~ "entscheiden soll, wenn Sie es heiß mögen und Ihr Partner kalt?"
+
 #~ msgctxt "price"
 #~ msgid "249"
 #~ msgstr "249"
@@ -382,56 +393,6 @@ msgstr "Google verwendet die Verarbeitung natürlicher Sprache, um Sie zu verste
 #~ "über Sie lernen, wie es nur kann. Während also Videoaufzeichnungen, Sprachaufnahmen und Messwerte aus Ihrem Zuhause nicht genutzt werden, um Ihnen gezielt Werbung zu zeigen, könnten Transkripte "
 #~ "Ihrer Sprachinteraktionen genau das tun. Deshalb ist es eine gute Idee, sich die Zeit zu nehmen und die Privatsphäre-Einstellungen zu justieren. Immerhin hat das Thermostat kein integriertes "
 #~ "Mikrofon."
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "Google says that your personal data is never sold to third parties. Non-personally identifiable information may be shared with partners."
-#~ msgstr "Google gibt an, Ihre persönlichen Daten niemals an Dritte zu verkaufen. Nicht persönlich identifizierbare Informationen können an Partner weitergegeben werden."
-
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Uses encryption in transit and at rest."
-#~ msgstr "Nutzt in Transit und Ruhezustand Verschlüsselung."
-
-#~ msgctxt "manage_vulnerabilities_helptext"
-#~ msgid "Google has a Security Rewards program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://www.google.com/about/appsecurity/programs-home/"
-#~ msgstr ""
-#~ "Google hat ein Security Rewards Programm, was bedeutet, das jeder, der eine Sicherheitslücke entdeckt und diese verantwortungsvoll meldet, dafür bezahlt werden kann. "
-#~ "https://www.google.com/about/appsecurity/programs-home/"
-
-#~ msgctxt "privacy_policy_helptext"
-#~ msgid "All things Nest have been moved over to the Google Store. Google has a page detailing their privacy principles for Nest products."
-#~ msgstr ""
-#~ "Alle mit Nest in Verbindung stehenden Produkte wurden in den Google Store verlagert. Google hat eine Webseite, auf der die Datenschutzprinzipien von Nest Produkten im Detail beschrieben werden."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number"
-#~ msgstr "Name, E-Mail, Telefonnummer"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "You can review and delete your data in the Nest app or via the Google Privacy Dashboard."
-#~ msgstr "Sie können Ihre Daten in der Nest-App oder über das Google Privacy Dashboard überprüfen und löschen."
-
-#~ msgctxt "track_record_details"
-#~ msgid ""
-#~ "In 2018, personal information was exposed in several incidents, resulting from access by app developers, exposure by mobile apps, or a bug in Google + API. Google has also stored location data "
-#~ "without permission."
-#~ msgstr ""
-#~ "2018 gab es mehrere Vorfälle, bei denen persönliche Informationen öffentlich wurden als Folge von Zugriff durch Web Developer, Apps oder einem Bug bei Google + API. Google hat außerdem Standortdaten"
-#~ " ohne Erlaubnis gespeichert."
-
-#~ msgctxt "ai_helptext"
-#~ msgid "Google publishes academic papers about it's AI research (https://ai.google/) and makes several tools available via open source."
-#~ msgstr "Google veröffentlicht akademische Paper über seine KI-Forschung (https://ai.google/) und stellt mehrere Tools via Open Source zur Verfügung."
-
-#~ msgctxt "blurb"
-#~ msgid ""
-#~ "Learning is fun! Owning a thermostat that learns all about how warm and cool you like your house is maybe fun too? According to Google, use this thermostat for a week and it'll adapt to you. The app"
-#~ " lets you control the temperature in your home from anywhere and sends alerts when things don't look quite right. It'll even let you know when it's time to change your furnace filter. Best of all, "
-#~ "that learning can help save energy and money. The big question is, can it learn who’s side to pick when you like it hot and your partner likes it cold?"
-#~ msgstr ""
-#~ "Lernen macht Spaß! Es macht vielleicht auch Spaß, einen Thermostat zu besitzen, der alles darüber lernt, wie warm und kühl Sie Ihr Haus mögen? Verwenden Sie diesen Thermostat laut Google eine Woche "
-#~ "lang und er wird sich an Sie anpassen. Mit der App können Sie die Temperatur in Ihrem Zuhause von überall aus steuern und sendet einen Alarm aus, wenn etwas nicht stimmt. Sie werden sogar "
-#~ "informiert, wenn es Zeit ist, Ihren Ofenfilter zu wechseln. Das Beste ist, dass Lernen helfen kann, Energie und Geld zu sparen. Die große Frage ist, kann das Gerät lernen, für welche Seite es sich "
-#~ "entscheiden soll, wenn Sie es heiß mögen und Ihr Partner kalt?"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -460,6 +421,10 @@ msgstr "Google verwendet die Verarbeitung natürlicher Sprache, um Sie zu verste
 #~ " Das ist zwar ärgerlich, lohnt sich wahrscheinlich aber für etwas mehr Privatsphäre."
 
 #~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "Google says that your personal data is never sold to third parties. Non-personally identifiable information may be shared with partners."
+#~ msgstr "Google gibt an, Ihre persönlichen Daten niemals an Dritte zu verkaufen. Nicht persönlich identifizierbare Informationen können an Partner weitergegeben werden."
+
+#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "While voice recordings and home environment sensor readings won't be used for ad personalization, transcripts of your voice interactions may be. Non-personally identifiable information may be shared"
 #~ " with partners. Google says that your personal data is never sold to third parties. Google says they keep video footage, audio recordings, and home environment sensor readings separate from "
@@ -474,21 +439,32 @@ msgstr "Google verwendet die Verarbeitung natürlicher Sprache, um Sie zu verste
 #~ "ihre Daten und es verkauft diese Daten nicht an Dritte. Google gibt an, dass es von Werbetreibenden dafür bezahlt wird, Ihnen basierend auf Ihren personenbezogenen Daten Anzeigen zu präsentieren. "
 #~ "Google sagt, dass Daten außerhalb des Unternehmens nur mit Zustimmung des Nutzers versendet werden."
 
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Uses encryption in transit and at rest."
+#~ msgstr "Nutzt in Transit und Ruhezustand Verschlüsselung."
+
+#~ msgctxt "manage_vulnerabilities_helptext"
+#~ msgid "Google has a Security Rewards program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://www.google.com/about/appsecurity/programs-home/"
+#~ msgstr ""
+#~ "Google hat ein Security Rewards Programm, was bedeutet, das jeder, der eine Sicherheitslücke entdeckt und diese verantwortungsvoll meldet, dafür bezahlt werden kann. "
+#~ "https://www.google.com/about/appsecurity/programs-home/"
+
 #~ msgctxt "manage_vulnerabilities_helptext"
 #~ msgid "Google has a <a id=\"a1\">Security Rewards program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
 #~ msgstr "Google hat ein <a id=\"a1\">Sicherheitsprämienprogramm</a>, was bedeutet, dass jeder, der ein Sicherheitsproblem findet und es verantwortungsvoll offenlegt, dafür bezahlt werden kann."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Visit privacy controls to adjust the amount of data collected."
-#~ msgstr "Besuchen Sie die Datenschutzeinstellungen, um die Menge der gesammelten Daten anzupassen."
+#~ msgctxt "privacy_policy_helptext"
+#~ msgid "All things Nest have been moved over to the Google Store. Google has a page detailing their privacy principles for Nest products."
+#~ msgstr ""
+#~ "Alle mit Nest in Verbindung stehenden Produkte wurden in den Google Store verlagert. Google hat eine Webseite, auf der die Datenschutzprinzipien von Nest Produkten im Detail beschrieben werden."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Delete your historical data from time to time."
-#~ msgstr "Löschen Sie Ihre Historie von Zeit zu Zeit."
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number"
+#~ msgstr "Name, E-Mail, Telefonnummer"
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Review <a id=\"a1\">Nest privacy tips</a>."
-#~ msgstr "Lesen Sie <a id=\"a1\">die Datenschutztipps von Nest</a>."
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "You can review and delete your data in the Nest app or via the Google Privacy Dashboard."
+#~ msgstr "Sie können Ihre Daten in der Nest-App oder über das Google Privacy Dashboard überprüfen und löschen."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -498,6 +474,14 @@ msgstr "Google verwendet die Verarbeitung natürlicher Sprache, um Sie zu verste
 #~ "Google bietet verschiedene Datenschutzkontrollen, auf die über die Google-Datenschutztools zugegriffen werden kann. Es gibt mehrere klar definierte Möglichkeiten, personenbezogene Daten zu löschen, "
 #~ "darunter das Löschen von Daten aus der Nest-App oder das Löschen eines ganzen Google-Kontos. Ein Auto-Timer kann für 3 oder 18 Monate eingestellt werden. Die Aufbewahrungsdetails sind auch in der "
 #~ "Datenschutzerklärung aufgeführt."
+
+#~ msgctxt "track_record_details"
+#~ msgid ""
+#~ "In 2018, personal information was exposed in several incidents, resulting from access by app developers, exposure by mobile apps, or a bug in Google + API. Google has also stored location data "
+#~ "without permission."
+#~ msgstr ""
+#~ "2018 gab es mehrere Vorfälle, bei denen persönliche Informationen öffentlich wurden als Folge von Zugriff durch Web Developer, Apps oder einem Bug bei Google + API. Google hat außerdem Standortdaten"
+#~ " ohne Erlaubnis gespeichert."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""
@@ -511,6 +495,22 @@ msgstr "Google verwendet die Verarbeitung natürlicher Sprache, um Sie zu verste
 #~ msgctxt "track_record_details"
 #~ msgid "In December 2018, <a id=\"a1\">a bug exposed</a> the data of 52.5 million Google+ users."
 #~ msgstr "Im Dezember 2018 hat <a id=\"a1\">ein Fehler</a> die Offenlegung von Daten von 52,5 Millionen Google+-Nutzern verursacht."
+
+#~ msgctxt "ai_helptext"
+#~ msgid "Google publishes academic papers about it's AI research (https://ai.google/) and makes several tools available via open source."
+#~ msgstr "Google veröffentlicht akademische Paper über seine KI-Forschung (https://ai.google/) und stellt mehrere Tools via Open Source zur Verfügung."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Visit privacy controls to adjust the amount of data collected."
+#~ msgstr "Besuchen Sie die Datenschutzeinstellungen, um die Menge der gesammelten Daten anzupassen."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Delete your historical data from time to time."
+#~ msgstr "Löschen Sie Ihre Historie von Zeit zu Zeit."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Review <a id=\"a1\">Nest privacy tips</a>."
+#~ msgstr "Lesen Sie <a id=\"a1\">die Datenschutztipps von Nest</a>."
 
 #~ msgctxt "ai_what_can_it_do"
 #~ msgid "With Auto-Schedule, your Nest thermostat learns what temperatures you like at different times of the day."

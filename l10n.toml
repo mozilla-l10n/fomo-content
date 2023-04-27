@@ -2120,11 +2120,6 @@ l10n = "locales/{locale}/pages/homepage/blog/mozilla-unam-host-voice-technology-
 locales = [ "es",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/modern-health.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/modern-health.po"
-locales = [ "es",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/wysa.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/wysa.po"
 locales = [ "es",]
