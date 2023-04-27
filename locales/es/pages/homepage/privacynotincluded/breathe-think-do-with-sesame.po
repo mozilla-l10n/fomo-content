@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-03 13:20:23.818342+00:00\n"
-"PO-Revision-Date: 2022-06-21 07:56+0000\n"
+"PO-Revision-Date: 2023-04-27 10:16+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +66,7 @@ msgstr ""
 
 msgctxt "worst_case"
 msgid "Read our 2022 review:"
-msgstr ""
+msgstr "Lee nuestra reseña de 2022:"
 
 msgctxt "worst_case"
 msgid ""
@@ -141,11 +141,11 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "To report potential security vulnerabilities, please write to cyber.security@sesame.org."
-msgstr ""
+msgstr "Para informar sobre posibles vulnerabilidades de seguridad, escriba a cyber.security@sesame.org."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Parents should read up and implement the guidelines on how to protect children online."
-msgstr ""
+msgstr "Los padres deben leer e implementar las pautas sobre cómo proteger a los niños en línea."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Never share your child's personal information online"
@@ -157,44 +157,48 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not log in using third-party accounts"
-msgstr ""
+msgstr "No inicies sesión con cuentas de terceros"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not connect to any third party via the app, or at least make sure that a third party employs decent privacy practices"
-msgstr ""
+msgstr "No te conectes a ningún tercero a través de la aplicación, o al menos asegúrate de que el tercero en cuestión tenga prácticas de privacidad decentes."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not give consent for sharing of personal data for marketing and advertisement."
-msgstr ""
+msgstr "No otorgues tu consentimiento para compartir datos personales con fines de marketing y publicidad."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not use social media plug-ins."
-msgstr ""
+msgstr "No utilices complementos de redes sociales."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Actualiza tu aplicación con regularidad"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limita el rastreo de anuncios a través del dispositivo (por ejemplo, en el iPhone, ve a Privacidad -&gt; Publicidad de Apple -&gt; Anuncios personalizados) y de los gigantes publicitarios (para "
+"Google, ve a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr ""
+msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Cuando inicies el registro, no aceptes el seguimiento de tus datos si es posible."
 
 msgctxt "personal_data_collected"
 msgid "Name, postal address, telephone number, or email address."
