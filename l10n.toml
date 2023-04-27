@@ -1315,11 +1315,6 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/7-cups.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/modern-health.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/modern-health.po"
-locales = [ "de", "es", "fr", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/happify.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/happify.po"
 locales = [ "de", "es", "fr", "pt-BR",]
@@ -2122,6 +2117,11 @@ locales = [ "es",]
 [[paths]]
 reference = "templates/pages/homepage/blog/mozilla-unam-host-voice-technology-hackathon-in-mexico-city.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozilla-unam-host-voice-technology-hackathon-in-mexico-city.po"
+locales = [ "es",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/modern-health.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/modern-health.po"
 locales = [ "es",]
 
 [[paths]]
