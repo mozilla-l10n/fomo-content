@@ -1315,6 +1315,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/7-cups.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/modern-health.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/modern-health.po"
+locales = [ "de", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/happify.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/happify.po"
 locales = [ "de", "es", "fr", "pt-BR",]
