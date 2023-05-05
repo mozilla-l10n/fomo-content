@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-03 13:20:18.853975+00:00\n"
-"PO-Revision-Date: 2022-05-13 14:01+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2023-05-05 14:01+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -34,7 +34,7 @@ msgstr ""
 
 msgctxt "worst_case"
 msgid "First reviewed April 20, 2022. Review updated, April 25, 2023"
-msgstr ""
+msgstr "Zuerst rezensiert am 20. April 2022. Rezension aktualisiert am 25. April 2023"
 
 msgctxt "worst_case"
 msgid ""
@@ -58,7 +58,7 @@ msgstr ""
 
 msgctxt "worst_case"
 msgid "Read our review from 2022:"
-msgstr ""
+msgstr "Lesen Sie unsere Rezension aus dem Jahr 2022:"
 
 msgctxt "worst_case"
 msgid ""
@@ -134,6 +134,9 @@ msgid ""
 "available through the Services for medical diagnosis, treatment, and general analysis reporting purposes. An organization will not be able to view any message like text such as clinician messages, "
 "team chat messages, linking messages.\""
 msgstr ""
+"„Wenn Ihr Konto mit Ärzteverbänden verlinkt ist, können die Verbände Informationen, einschließlich geschützter Gesundheitsdaten, über Sie einsehen. Verknüpfte Organisationen können die über die "
+"Dienste verfügbaren Informationen für medizinische Diagnosen, Behandlungen und allgemeine Analyseberichte verwenden. Diese Organisationen sind nicht in der Lage, Textnachrichten wie Nachrichten von "
+"Ärzten, Team-Chat-Nachrichten oder verlinkte Nachrichten einzusehen.“"
 
 msgctxt "uses_encryption_helptext"
 msgid "Data is encrypted in transit (TLS). PHI and PII are encrypted in the database (AES). A KMS is used to manage keys. EBS (disks) partitions are encrypted. Backups are encrypted."
@@ -159,32 +162,38 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Choose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Wählen Sie ein starkes Passwort! Dafür können Sie auch ein Passwortkontrollprogramm anwenden, wie 1Password, KeePass etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not use social media plug-ins."
-msgstr ""
+msgstr "Verwenden Sie keine Social-Media-Plug-ins."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Nutzen Sie Ihre Datenschutzeinstellungen, um den Zugriff auf Ihre personenbezogenen Daten per App zu beschränken (d. h., geben Sie Kamera, Mikrofon, Bildern und Standort keinen Zugriff, es sei denn "
+"es ist notwendig)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Halten Sie Ihre App regelmäßig auf dem neuesten Stand"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Schränken Sie das Anzeigen-Tracking über Ihr Gerät (z. B. auf dem iPhone unter „Datenschutz“ &gt; „Werbung“ &gt; „Ad-Tracking beschränken“) und die größten Werbenetzwerke ein (bei Google öffnen Sie "
+"Ihr Google-Konto und schalten Sie die Anzeigenpersonalisierung aus)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Verlangen Sie, dass Ihre Daten gelöscht werden, sobald Sie die App nicht mehr verwenden. Durch das einfache Löschen einer App von Ihrem Gerät werden Ihre persönlichen Daten gewöhnlich nicht "
+"gelöscht."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu, falls möglich."
 
 msgctxt "personal_data_collected"
 msgid "Email, name, age, gender, city/town"
