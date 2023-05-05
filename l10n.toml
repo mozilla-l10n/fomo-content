@@ -1335,16 +1335,6 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/headspace.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/recovery-record-eating-disorder-management.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/recovery-record-eating-disorder-management.po"
-locales = [ "de",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/minddoc.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/minddoc.po"
-locales = [ "de",]
-
-[[paths]]
 reference = "templates/snippets/highlights.Highlight/173-could-you-be-the-next-common-voice-language-rep.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/173-could-you-be-the-next-common-voice-language-rep.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
