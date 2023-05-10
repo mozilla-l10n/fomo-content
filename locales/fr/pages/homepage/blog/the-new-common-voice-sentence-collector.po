@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-05-10 07:56:18.963009+00:00\n"
-"PO-Revision-Date: 2023-05-10 09:01+0000\n"
+"PO-Revision-Date: 2023-05-10 09:18+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -51,17 +51,19 @@ msgstr ""
 
 msgctxt "body.7bf12a6e-7fef-4c4b-9b43-9f025f12a8ed.altText"
 msgid "The selected dropdown for the Common Voice Sentence Collector showing the Write and Review options."
-msgstr ""
+msgstr "La liste déroulante sélectionnée pour le collecteur de phrases Common Voice contenant les options de rédaction et de relecture."
 
 msgctxt "body.f276418c-f899-40a5-9bed-b99f3f6075c4"
 msgid ""
 "From the Write screen, you’ll be able to write an original sentence or paste in one from a CC0 source. Add where you found your sentence (or write “self” if it’s your original work!) and confirm "
 "that there’s no copyright attached to submit your new sentence. At the moment, the Sentence Collector is designed to accept one single sentence submission at a time."
 msgstr ""
+"Depuis l’écran de rédaction, vous pourrez rédiger une phrase originale ou en coller une à partir d’une source CC0. Ajoutez la source de votre phrase (ou écrivez « moi-même » si vous l’avez rédigée)."
+" Pour le moment, le collecteur de phrases est conçu pour accepter une seule phrase à la fois."
 
 msgctxt "body.4d9e36b0-a486-413e-bac1-b000d356a9e2.altText"
 msgid "A text field allowing space to write an original sentence to add to the Common Voice dataset."
-msgstr ""
+msgstr "Un champ de texte laissant un espace pour écrire une phrase originale à ajouter au jeu de données Common Voice."
 
 msgctxt "body.8e7b870a-7fe2-4e72-a64f-71c556964dbe"
 msgid "To review sentences, navigate to the “Review” tab."
@@ -72,6 +74,8 @@ msgid ""
 "If the sentence shown makes sense in your language and meets the guidelines on the right hand panel, press yes to confirm. If the sentence does not meet guidelines, press no to keep it out of the "
 "corpus. Not sure if this sentence is a good fit? You can click “skip” and other reviewers will check it out later."
 msgstr ""
+"Si la phrase affichée a du sens dans votre langue et respecte les consignes du panneau de droite, appuyez sur oui pour confirmer. Si la phrase ne correspond pas aux critères, appuyez sur « non » "
+"pour la garder en dehors du corpus. Vous ne savez pas si cette phrase convient ? Vous pouvez cliquer sur « Passer » : d’autres personnes la vérifieront plus tard."
 
 msgctxt "body.8e7b870a-7fe2-4e72-a64f-71c556964dbe"
 msgid "What if I want to make a bulk contribution?"
