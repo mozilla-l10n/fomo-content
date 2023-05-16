@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-05-16 14:38:56.383745+00:00\n"
+"PO-Revision-Date: 2023-05-16 14:43+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 83291145-2ee9-400a-9453-dbc21854c2ab\n"
 
 msgctxt "intro"
 msgid "Datasets from Mozilla's YouTube RegretsReporter project are available to support further investigations into YouTube's recommendation algorithm."
-msgstr ""
+msgstr "Les jeux de données du projet YouTube RegretsReporter de Mozilla sont disponibles pour permettre des recherches plus approfondies sur l’algorithme de recommandation de YouTube."
 
 msgctxt "body.dcc514cb-51a1-4a8a-a542-7647b2a01dba"
 msgid "RegretsReporter Dataset"
-msgstr ""
+msgstr "Jeu de données de RegretsReporter"
 
 msgctxt "body.dcc514cb-51a1-4a8a-a542-7647b2a01dba"
 msgid ""
@@ -23,23 +28,23 @@ msgstr ""
 
 msgctxt "body.dcc514cb-51a1-4a8a-a542-7647b2a01dba"
 msgid "Learn more about our <a id=\"a1\">YouTube RegretsReporter work</a>."
-msgstr ""
+msgstr "En savoir plus sur <a id=\"a1\">nos travaux avec YouTube RegretsReporter</a>."
 
 msgctxt "body.19fc9a17-7619-4ad0-9d3a-8991b8dfdd8a.label"
 msgid "Dataset download page"
-msgstr ""
+msgstr "Page de téléchargement du jeu de données"
 
 msgctxt "body.19fc9a17-7619-4ad0-9d3a-8991b8dfdd8a.URL"
 msgid "https://huggingface.co/datasets/mozilla-foundation/youtube_regrets"
-msgstr ""
+msgstr "https://huggingface.co/datasets/mozilla-foundation/youtube_regrets"
 
 msgctxt "body.a163ae9d-9979-482c-bd7f-6733b8703e74"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.c39be262-6a00-4869-99af-f1713da4edfb.title"
 msgid "What is RegretsReporter?"
-msgstr ""
+msgstr "Qu’est-ce que RegretsReporter ?"
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.c39be262-6a00-4869-99af-f1713da4edfb.content.229d7b2f-58cf-4c8e-aefa-f7d1a598dfa7"
 msgid ""
