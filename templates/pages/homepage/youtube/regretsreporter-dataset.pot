@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-05-16 14:38:56.374660+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "intro"
+msgid "Datasets from Mozilla's YouTube RegretsReporter project are available to support further investigations into YouTube's recommendation algorithm."
+msgstr ""
+
+msgctxt "body.dcc514cb-51a1-4a8a-a542-7647b2a01dba"
+msgid "RegretsReporter Dataset"
+msgstr ""
+
+msgctxt "body.dcc514cb-51a1-4a8a-a542-7647b2a01dba"
+msgid ""
+"The RegretsReporter dataset allows people around the world to conduct their own investigations into YouTube's recommendation algorithm. This data has already powered impactful research from Mozilla "
+"that has shaped public policy and led to YouTube releasing more information about how their algorithm works. By making anonymous RegretsReporter data available to more researchers, investigators and"
+" journalists around the world, we can continue to monitor the impact that YouTube's recommendation algorithm has on local communities and help to hold YouTube accountable."
+msgstr ""
+
+msgctxt "body.dcc514cb-51a1-4a8a-a542-7647b2a01dba"
+msgid "Learn more about our <a id=\"a1\">YouTube RegretsReporter work</a>."
+msgstr ""
+
+msgctxt "body.19fc9a17-7619-4ad0-9d3a-8991b8dfdd8a.label"
+msgid "Dataset download page"
+msgstr ""
+
+msgctxt "body.19fc9a17-7619-4ad0-9d3a-8991b8dfdd8a.URL"
+msgid "https://huggingface.co/datasets/mozilla-foundation/youtube_regrets"
+msgstr ""
+
+msgctxt "body.a163ae9d-9979-482c-bd7f-6733b8703e74"
+msgid "FAQ"
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.c39be262-6a00-4869-99af-f1713da4edfb.title"
+msgid "What is RegretsReporter?"
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.c39be262-6a00-4869-99af-f1713da4edfb.content.229d7b2f-58cf-4c8e-aefa-f7d1a598dfa7"
+msgid ""
+"RegretsReporter is a browser extension that powers the world’s largest crowdsourced investigation into YouTube’s recommendation system. YouTube’s recommendation system is one of the biggest AI "
+"systems in the world, yet there is almost no transparency into how the system works and what kinds of videos it surfaces to people. To date, more than 60,000 people from 191 countries have installed"
+" RegretsReporter to donate their YouTube data to researchers at Mozilla who are advocating for more trustworthy AI systems. This data has helped researchers at Mozilla uncover <a "
+"id=\"a1\">dangerous</a> <a id=\"a2\">flaws</a> in YouTube’s recommendation system—flaws which policymakers in Europe and the US have since taken notice of."
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.803da78b-15d8-40a7-8261-4e0f42feaafe.title"
+msgid "What does the dataset contain?"
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.803da78b-15d8-40a7-8261-4e0f42feaafe.content.776f1c43-ddd0-4280-8882-c698742be78b"
+msgid ""
+"The dataset includes information about videos that our respondents either “regretted” (in our first study) or pressed “don’t recommend” (in our second study. In both cases, this set of videos "
+"represents unwanted content by our participants. For our second study, we also report the complete set of videos that was recommended to our participants. The dataset also contains data from the Viu"
+" Política project, a research collaboration into political propaganda on YouTube in Brazil from the University of Exeter and Instituto Vero."
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.cabaa315-b2c6-4232-b8c7-3aa1b8e77b77.title"
+msgid "Why are you releasing data?"
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.cabaa315-b2c6-4232-b8c7-3aa1b8e77b77.content.2abc9cfa-549f-4489-8235-e120a17a360e"
+msgid ""
+"We are releasing RegretsReporter data so that more people can research YouTube’s recommendation system and the impact that it may have on their communities. Our aim is to create more transparency "
+"around AI systems, which can lead to accountability for harms and ultimately, safer and more trustworthy products on the market. We believe this data, which is anonymous and does not include any "
+"identifying information, will be valuable to independent researchers, journalists and responsible technologists who are working towards this vision."
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.13aaaf4b-43a9-480f-a381-e16e361385a2.title"
+msgid "Who can access this data?"
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.13aaaf4b-43a9-480f-a381-e16e361385a2.content.2a76f627-a289-40d1-9d60-fea48a8ea25f"
+msgid "The data is available to anyone under a cc0-1.0 licence."
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.7819e9ec-1029-4959-812a-0dd14755a339.title"
+msgid "What can this data be used for?"
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.7819e9ec-1029-4959-812a-0dd14755a339.content.45fec8b3-83fe-424b-9c44-d7a2960c742b"
+msgid ""
+"The RegretsReporter dataset can be used for investigations and research into YouTube videos that the RegretsReporter volunteer community finds objectionable, offensive or otherwise harmful. For "
+"example, Mozilla’s <a id=\"a1\">own investigation</a> using this data revealed that YouTube’s algorithm recommended videos with misinformation, violent content, hate speech, and scams and that "
+"people in non-English speaking countries were far more likely to encounter these videos than others. Since this dataset includes data from people spanning more than 191 countries, including data "
+"collected specifically for a research project on political propaganda in Brazil, we envision that it could be analysed by researchers with more localised context to produce impactful research. In "
+"addition, the recommendations data contained in the dataset can be used to study the behaviour of YouTube’s recommendation engine over time."
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.6e93dc93-eb40-4ab9-b360-a1070ae63e70.title"
+msgid "How are you protecting people's privacy?"
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.6e93dc93-eb40-4ab9-b360-a1070ae63e70.content.64f04b6a-1357-41f9-9601-71318e5f2079"
+msgid ""
+"The data shared is not linked to the participants who contributed it, consisting of only information about videos, the date they were regretted or recommended, and the country in which the activity "
+"took place."
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.8992cc46-ac80-48f2-b8bd-55e4cf0b5fdd.title"
+msgid "Can you provide support for researchers who want to use this data?"
+msgstr ""
+
+msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.8992cc46-ac80-48f2-b8bd-55e4cf0b5fdd.content.9804f41e-cf97-4ccd-b01a-c2986f34e78a"
+msgid ""
+"Our team has limited capacity to provide individualized support to people and teams looking to use RegretsReporter data, but we are happy to help out where we can. Please review our <a "
+"id=\"a1\">detailed technical data spec</a> for more information about the dataset and how to use it. If you have a more specific request, please write a brief email to "
+"extensions@mozillafoundation.org telling us who you are and what you want to do with RegretsReporter data, and we will get back to you if we can support your request."
+msgstr ""
+
+msgctxt "body.eeaa6106-94f5-45e7-80a3-45882723495b"
+msgid "Questions? Contact us at <a id=\"a1\">extensions@mozillafoundation.org</a>."
+msgstr ""
+
+msgctxt "title"
+msgid "RegretsReporter Dataset"
+msgstr ""
