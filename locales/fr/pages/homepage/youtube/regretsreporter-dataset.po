@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-05-16 14:38:56.383745+00:00\n"
-"PO-Revision-Date: 2023-05-16 15:06+0000\n"
+"PO-Revision-Date: 2023-05-16 15:42+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -96,6 +96,12 @@ msgid ""
 "collected specifically for a research project on political propaganda in Brazil, we envision that it could be analysed by researchers with more localised context to produce impactful research. In "
 "addition, the recommendations data contained in the dataset can be used to study the behaviour of YouTube’s recommendation engine over time."
 msgstr ""
+"Le jeu de données RegretsReporter peut être utilisé pour les enquêtes et les recherches sur les vidéos YouTube que la communauté des bénévoles de RegretsReporter trouve inacceptables, offensantes ou"
+" dangereuses. Par exemple, <a id=\"a1\">l’enquête de Mozilla</a> qui a utilisé ces données a révélé que l’algorithme de YouTube recommandait des vidéos comportant de la désinformation, des contenus "
+"violents, des propos haineux et des escroqueries, et que les personnes dans les pays non anglophones sont bien plus susceptibles de voir ces vidéos que d’autres. Étant donné que ce jeu de données "
+"comprend des données de personnes originaires de plus de 191 pays, y compris des données collectées spécifiquement pour un projet de recherche sur la propagande politique au Brésil, nous pensons "
+"qu’elles pourraient être analysées par des chercheurs et chercheuses avec un contexte plus localisé pour produire des recherches percutantes. De plus, les données de recommandations contenues dans "
+"le jeu de données peuvent être utilisées pour étudier le comportement du moteur de recommandations de YouTube au fil du temps."
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.6e93dc93-eb40-4ab9-b360-a1070ae63e70.title"
 msgid "How are you protecting people's privacy?"
