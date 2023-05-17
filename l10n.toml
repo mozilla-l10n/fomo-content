@@ -2850,6 +2850,16 @@ l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-is-coming-to-amsterda
 locales = [ "nl",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/429-tarcizio-silva.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/429-tarcizio-silva.po"
+locales = [ "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/regulating-ai-in-brazil-could-it-mitigate-algorithmic-racism.pot"
+l10n = "locales/{locale}/pages/homepage/blog/regulating-ai-in-brazil-could-it-mitigate-algorithmic-racism.po"
+locales = [ "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.pot"
 l10n = "locales/{locale}/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.po"
 locales = [ "sw",]
