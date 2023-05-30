@@ -41,23 +41,19 @@ msgid "<i>All information provided during ticket purchases will be handled in ac
 msgstr "<i>Toda la información proporcionada durante la compra de boletos se maneja conforme a la </i> <a id=\"a1\">Política de privacidad del evento MozFest</a><i>.</i>"
 
 msgctxt "body.83558922-13b9-4561-8285-a50881990342"
-msgid "By registering for MozFest, you can:"
-msgstr "Al registrarte al MozFest, puedes:"
-
-msgctxt "body.83558922-13b9-4561-8285-a50881990342"
-msgid "Watch hours of on-demand sessions and content after the festival ends."
-msgstr "Ver horas de sesiones y contenido bajo demanda cuando termine el festival."
-
-msgctxt "body.83558922-13b9-4561-8285-a50881990342"
-msgid "Discover talks by leading voices from across the internet health movement."
-msgstr "Descubra las charlas de las voces más destacadas del movimiento de la salud en Internet."
-
-msgctxt "body.83558922-13b9-4561-8285-a50881990342"
-msgid "Connect with our Slack community of over 4000 past, present and future MozFest participants"
-msgstr "Conectarte con nuestra comunidad en Slack de más de 4000 participantes anteriores, actuales y futuros en el MozFest."
-
-msgctxt "body.83558922-13b9-4561-8285-a50881990342"
 msgid "There are different types of registrations available depending on the event you wish to attend."
+msgstr ""
+
+msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+msgid "<a id=\"a1\">MozFest House: Amsterdam</a>"
+msgstr ""
+
+msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+msgid "<a id=\"a1\">MozFest Virtual: On-Demand</a>"
+msgstr ""
+
+msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+msgid "<a id=\"a1\">MozFest Patrons</a>"
 msgstr ""
 
 msgctxt "body.3fea9dd1-a2db-412d-bd7c-cbdc651b841a"
@@ -225,16 +221,16 @@ msgid "A Tera contribution of €1,000 will give you access to:"
 msgstr "Una teracontribución de 1.000 € te da acceso a:"
 
 msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
-msgid "Everything that is included in the MozFest Virtual: Pay What You Can."
+msgid "Everything that is included in the MozFest Virtual: Pay What You Can, Mega and Giga contribution levels"
 msgstr ""
-
-msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
-msgid "All the benefits of the Mega and Giga contribution levels"
-msgstr "Todos los beneficios de los niveles de contribución mega y giga."
 
 msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
 msgid "Invitations to join sessions part of this year's Funders Track"
 msgstr "Invitaciones para que participes en las sesiones del Funders Track de este año."
+
+msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
+msgid "A Full Festival Pass for MozFest House: Amsterdam"
+msgstr ""
 
 msgctxt "body.561e031c-39ce-4ca8-9354-6ddf9edf84a7.button_label"
 msgid "Become a Tera level Patron"
@@ -278,8 +274,16 @@ msgstr "mozfest-patron-tera"
 #~ msgstr "Necesitamos de tus donaciones para llevar a cabo nuestra misión de ayudar a mantener la web abierta y libre, así que tu apoyo hace mucho."
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "By registering for MozFest, you can:"
+#~ msgstr "Al registrarte al MozFest, puedes:"
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "Access to hundreds of sessions across the four days of the festival."
 #~ msgstr "Tener acceso a cientos de sesiones durante los cuatro días del festival."
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "Watch hours of on-demand sessions and content after the festival ends."
+#~ msgstr "Ver horas de sesiones y contenido bajo demanda cuando termine el festival."
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "Attend talks by leading voices from across the internet health movement."
@@ -292,6 +296,10 @@ msgstr "mozfest-patron-tera"
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "Engage with artists as they respond to outcomes from sessions."
 #~ msgstr "Interactuar con artistas cuando respondan al resultado de las sesiones."
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "Connect with our Slack community of over 4000 past, present and future MozFest participants"
+#~ msgstr "Conectarte con nuestra comunidad en Slack de más de 4000 participantes anteriores, actuales y futuros en el MozFest."
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "MozFest Early Bird"
@@ -320,6 +328,10 @@ msgstr "mozfest-patron-tera"
 #~ msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
 #~ msgid "Everything that is included in the Pay What You Can."
 #~ msgstr "Todo lo que está incluido en el boleto Paga lo que puedas."
+
+#~ msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
+#~ msgid "All the benefits of the Mega and Giga contribution levels"
+#~ msgstr "Todos los beneficios de los niveles de contribución mega y giga."
 
 #~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
 #~ msgid "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega"
@@ -350,9 +362,29 @@ msgstr "mozfest-patron-tera"
 #~ msgstr "mozfest-virtual-on-demand,mozfest-patron-mega"
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "Discover talks by leading voices from across the internet health movement."
+#~ msgstr "Descubra las charlas de las voces más destacadas del movimiento de la salud en Internet."
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "There are two types of registrations available, Pay What You Can, which starts at €0, or you can <a id=\"a1\">become a MozFest Patron</a>, offering additional benefits, starting at €250."
 #~ msgstr "Hay dos tipos de registros: Paga lo que puedas, a partir de € 0, o puedes <a id=\"a1\">convertirte en un patrocinador del MozFest</a>, con beneficios adicionales, a partir de € 250."
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "MozFest On-Demand Tickets"
 #~ msgstr "Boletos MozFest bajo demanda"
+
+#~ msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+#~ msgid "By registering for MozFest, you can:"
+#~ msgstr "Al registrarte al MozFest, puedes:"
+
+#~ msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+#~ msgid "Watch hours of on-demand sessions and content after the festival ends."
+#~ msgstr "Ver horas de sesiones y contenido bajo demanda cuando termine el festival."
+
+#~ msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+#~ msgid "Discover talks by leading voices from across the internet health movement."
+#~ msgstr "Descubra las charlas de las voces más destacadas del movimiento de la salud en Internet."
+
+#~ msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+#~ msgid "Connect with our Slack community of over 4000 past, present and future MozFest participants"
+#~ msgstr "Conectarte con nuestra comunidad en Slack de más de 4000 participantes anteriores, actuales y futuros en el MozFest."

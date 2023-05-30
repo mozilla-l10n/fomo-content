@@ -2085,6 +2085,11 @@ l10n = "locales/{locale}/pages/homepage/youtube/regretsreporter-dataset.po"
 locales = [ "de", "fr",]
 
 [[paths]]
+reference = "templates/pages/mozilla-festival/thank-you.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/thank-you.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2303,11 +2308,6 @@ locales = [ "es", "fr",]
 reference = "templates/pages/homepage/blog/strategies-for-language-inclusion-at-mozfest-2023.pot"
 l10n = "locales/{locale}/pages/homepage/blog/strategies-for-language-inclusion-at-mozfest-2023.po"
 locales = [ "es",]
-
-[[paths]]
-reference = "templates/pages/mozilla-festival/thank-you.pot"
-l10n = "locales/{locale}/pages/mozilla-festival/thank-you.po"
-locales = [ "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-festival/facilitator-guide/language-inclusivity.pot"
