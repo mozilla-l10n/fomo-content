@@ -2840,11 +2840,6 @@ l10n = "locales/{locale}/pages/homepage/campaigns/tell-slack-make-dms-safe.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/articles/what-does-giving-your-consent-really-mean.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/what-does-giving-your-consent-really-mean.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
