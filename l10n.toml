@@ -2095,6 +2095,11 @@ l10n = "locales/{locale}/pages/homepage/blog/how-to-tell-chat-gpt-generated-text
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/campaigns/tell-slack-make-dms-safe.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tell-slack-make-dms-safe.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2832,11 +2837,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/data-futures-lab.pot"
 l10n = "locales/{locale}/pages/homepage/data-futures-lab.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/tell-slack-make-dms-safe.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tell-slack-make-dms-safe.po"
 locales = [ "fr",]
 
 [[paths]]
