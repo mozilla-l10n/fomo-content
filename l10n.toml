@@ -2082,7 +2082,7 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 [[paths]]
 reference = "templates/pages/homepage/youtube/regretsreporter-dataset.pot"
 l10n = "locales/{locale}/pages/homepage/youtube/regretsreporter-dataset.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-festival/thank-you.pot"
