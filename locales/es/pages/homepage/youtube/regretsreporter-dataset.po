@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-05 11:31:41.210954+00:00\n"
+"PO-Revision-Date: 2023-06-05 11:37+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 75ea0bb6-dc83-4a67-90e4-ada7d757c51d\n"
 
 msgctxt "intro"
@@ -12,7 +17,7 @@ msgstr ""
 
 msgctxt "body.dcc514cb-51a1-4a8a-a542-7647b2a01dba"
 msgid "RegretsReporter Dataset"
-msgstr ""
+msgstr "Conjunto de datos de RegretsReporter"
 
 msgctxt "body.dcc514cb-51a1-4a8a-a542-7647b2a01dba"
 msgid ""
@@ -31,15 +36,15 @@ msgstr ""
 
 msgctxt "body.19fc9a17-7619-4ad0-9d3a-8991b8dfdd8a.URL"
 msgid "https://huggingface.co/datasets/mozilla-foundation/youtube_regrets"
-msgstr ""
+msgstr "https://huggingface.co/datasets/mozilla-foundation/youtube_regrets"
 
 msgctxt "body.a163ae9d-9979-482c-bd7f-6733b8703e74"
 msgid "FAQ"
-msgstr ""
+msgstr "Preguntas frecuentes"
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.c39be262-6a00-4869-99af-f1713da4edfb.title"
 msgid "What is RegretsReporter?"
-msgstr ""
+msgstr "¿Qué es RegretsReporter?"
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.c39be262-6a00-4869-99af-f1713da4edfb.content.229d7b2f-58cf-4c8e-aefa-f7d1a598dfa7"
 msgid ""
@@ -51,7 +56,7 @@ msgstr ""
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.803da78b-15d8-40a7-8261-4e0f42feaafe.title"
 msgid "What does the dataset contain?"
-msgstr ""
+msgstr "¿Qué contiene el conjunto de datos?"
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.803da78b-15d8-40a7-8261-4e0f42feaafe.content.776f1c43-ddd0-4280-8882-c698742be78b"
 msgid ""
@@ -62,7 +67,7 @@ msgstr ""
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.cabaa315-b2c6-4232-b8c7-3aa1b8e77b77.title"
 msgid "Why are you releasing data?"
-msgstr ""
+msgstr "¿Por qué estás publicando datos?"
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.cabaa315-b2c6-4232-b8c7-3aa1b8e77b77.content.2abc9cfa-549f-4489-8235-e120a17a360e"
 msgid ""
@@ -73,7 +78,7 @@ msgstr ""
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.13aaaf4b-43a9-480f-a381-e16e361385a2.title"
 msgid "Who can access this data?"
-msgstr ""
+msgstr "¿Quién puede acceder a estos datos?"
 
 msgctxt "body.fdbf01c8-9e45-4fb1-b427-bf10bb6b2add.accordion_items.13aaaf4b-43a9-480f-a381-e16e361385a2.content.2a76f627-a289-40d1-9d60-fea48a8ea25f"
 msgid "The data is available to anyone under a cc0-1.0 licence."
@@ -119,4 +124,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "RegretsReporter Dataset"
-msgstr ""
+msgstr "Conjunto de datos de RegretsReporter"
