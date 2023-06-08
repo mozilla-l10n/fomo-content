@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-08 16:45:40.126038+00:00\n"
-"PO-Revision-Date: 2023-06-08 16:59+0000\n"
+"PO-Revision-Date: 2023-06-08 18:32+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -20,6 +20,8 @@ msgid ""
 "If you need help with a <a id=\"a1\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative will get back to you as soon"
 " as possible."
 msgstr ""
+"Si vous avez besoin d’aide avec <a id=\"a1\">un don</a> à la Fondation Mozilla, veuillez sélectionner l’objet de votre demande depuis la liste déroulante et un agent en charge de l’assistance aux "
+"dons vous répondra dès que possible."
 
 msgctxt "body.657973e0-d304-410d-a886-fda1bbe5b976"
 msgid "Contact us"
@@ -114,6 +116,8 @@ msgstr ""
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.bb13a784-0a29-4bf7-b591-3264c804a6af.content.c29d714a-b206-4fe2-8e1f-0e4e83e21286"
 msgid "<b>Give in your local currency!</b> On our <a id=\"a1\">online form</a>, use the drop down menu next to the donation amount. You will be charged in the currency you choose to donate with."
 msgstr ""
+"<b>Faites un don dans votre monnaie locale !</b> Sur notre <a id=\"a1\">formulaire en ligne</a>, utilisez le menu déroulant à côté du montant du don. Vous serez facturé·e dans la devise que vous "
+"aurez choisie pour faire votre don."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.bb13a784-0a29-4bf7-b591-3264c804a6af.content.c29d714a-b206-4fe2-8e1f-0e4e83e21286"
 msgid ""
@@ -216,7 +220,7 @@ msgstr "94105"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.369e1267-eb41-4527-9c8c-c4fca011baf9.content.8d6bcf7b-97ed-4163-8769-fe72112ec756"
 msgid "Designate your check with the following information:"
-msgstr ""
+msgstr "Ajoutez les informations suivantes sur votre chèque :"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.369e1267-eb41-4527-9c8c-c4fca011baf9.content.8d6bcf7b-97ed-4163-8769-fe72112ec756"
 msgid "Payable to: Mozilla Foundation"
@@ -273,11 +277,11 @@ msgstr ""
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.34370d95-580a-4b6c-8fdb-a2e6fbb5c900.title"
 msgid "What are your transaction costs on donations?"
-msgstr ""
+msgstr "Quels sont vos frais de transaction pour les dons ?"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.34370d95-580a-4b6c-8fdb-a2e6fbb5c900.content.1239a3fa-0723-488c-b3f2-64e63343dbe4"
 msgid "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs."
-msgstr ""
+msgstr "Lorsque vous choisissez de couvrir nos frais de transaction, vous couvrez à la fois les frais de traitement et les frais de la plateforme de dons."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.34370d95-580a-4b6c-8fdb-a2e6fbb5c900.content.1239a3fa-0723-488c-b3f2-64e63343dbe4"
 msgid ""
@@ -291,15 +295,15 @@ msgstr ""
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.7d19227b-8783-435e-b31e-ee94f72e263c.title"
 msgid "Are there additional fees on my donation?"
-msgstr ""
+msgstr "Mon don entraîne-t-il des frais supplémentaires ?"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.7d19227b-8783-435e-b31e-ee94f72e263c.content.e09d899d-8c38-431a-9633-fc96eaecf4af"
 msgid "We do not collect any additional fees or taxes."
-msgstr ""
+msgstr "Nous ne facturons pas de frais ni de taxes supplémentaires."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.7d19227b-8783-435e-b31e-ee94f72e263c.content.e09d899d-8c38-431a-9633-fc96eaecf4af"
 msgid "When you donate in your local currency you are not charged a conversion fee by your credit card."
-msgstr ""
+msgstr "Lorsque vous faites un don dans votre monnaie locale, aucuns frais de conversion ne sont prélevés sur votre carte bancaire."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.7d19227b-8783-435e-b31e-ee94f72e263c.content.e09d899d-8c38-431a-9633-fc96eaecf4af"
 msgid "Optionally, you can choose to cover our transaction costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form."
@@ -330,7 +334,7 @@ msgstr ""
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.6525d073-5e7c-4f0b-9a24-d29bde015d4f.content.4fffe531-e928-44b2-9342-d4ba14cb9f18"
 msgid "To learn how your donation is put to use, click <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Pour savoir comment votre don sera utilisé, <a id=\"a1\">cliquez ici</a>."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.6525d073-5e7c-4f0b-9a24-d29bde015d4f.content.4fffe531-e928-44b2-9342-d4ba14cb9f18"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
