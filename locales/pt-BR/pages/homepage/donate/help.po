@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-12 08:08:31.308191+00:00\n"
-"PO-Revision-Date: 2023-06-12 23:04+0000\n"
+"PO-Revision-Date: 2023-06-12 23:12+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -242,11 +242,11 @@ msgstr "Condições"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.369e1267-eb41-4527-9c8c-c4fca011baf9.content.8d6bcf7b-97ed-4163-8769-fe72112ec756"
 msgid "The Mozilla Foundation can <b>only</b> accept checks in U.S. dollars (USD)."
-msgstr ""
+msgstr "A Fundação Mozilla <b>somente</b> pode aceitar cheques em dólares americanos (USD)."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.369e1267-eb41-4527-9c8c-c4fca011baf9.content.8d6bcf7b-97ed-4163-8769-fe72112ec756"
 msgid "We <b>cannot</b> accept contributions for MZLA/Thunderbird. Contributions to MZLA/Thunderbird via check can be made by following <a id=\"a1\">these instructions</a>."
-msgstr ""
+msgstr "Nós <b>não podemos</b> aceitar contribuições para MZLA/Thunderbird. Contribuições para MZLA/Thunderbird via cheque podem ser feitas seguindo <a id=\"a1\">estas instruções</a>."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.898ba688-76a7-4d09-b9d0-0f2270e46e44.title"
 msgid "Is my donation tax deductible?"
@@ -265,6 +265,8 @@ msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please <a id=\"a1\">contact us</a>."
 msgstr ""
+"Se você fizer uma doação online para a Mozilla, deve receber imediatamente por email um recibo de sua doação, que pode usar para preparação de declaração de impostos nos EUA. Verifique a pasta de "
+"spam caso esse email não chegue na sua caixa de entrada. Se precisar de uma cópia adicional do recibo para preparação de declaração de impostos nos EUA, <a id=\"a1\">entre em contato conosco </a>."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.898ba688-76a7-4d09-b9d0-0f2270e46e44.content.c82dfb8e-cf62-4804-b68f-e35438ebe4fc"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
@@ -280,21 +282,24 @@ msgstr ""
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.34370d95-580a-4b6c-8fdb-a2e6fbb5c900.title"
 msgid "What are your transaction costs on donations?"
-msgstr ""
+msgstr "Quais são seus custos de transação em doações?"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.34370d95-580a-4b6c-8fdb-a2e6fbb5c900.content.1239a3fa-0723-488c-b3f2-64e63343dbe4"
 msgid "When you opt to cover our transaction costs, you're covering both our processing and donation platform costs."
-msgstr ""
+msgstr "Quando você opta por cobrir nossos custos de transação, está cobrindo nossos custos de processamento e plataforma de doação."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.34370d95-580a-4b6c-8fdb-a2e6fbb5c900.content.1239a3fa-0723-488c-b3f2-64e63343dbe4"
 msgid ""
 "The costs associated with our robust online donation system allow us to continue scaling sustainably as our supporter-base grows. The donation platform and payment processors we use ensure we can "
 "accept a wide range of currencies/payment methods and remain PCI compliant in all of the countries that we accept donations from."
 msgstr ""
+"Os custos associados ao nosso robusto sistema de doação online nos permitem continuar crescendo de forma sustentável à medida que cresce nossa base de apoiadores. A plataforma de doação e os "
+"processadores de pagamento que usamos garantem que podemos aceitar uma ampla variedade de moedas e métodos de pagamento e permanecer em conformidade com PCI em todos os países em que aceitamos "
+"doações."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.34370d95-580a-4b6c-8fdb-a2e6fbb5c900.content.1239a3fa-0723-488c-b3f2-64e63343dbe4"
 msgid "The transaction costs donors may choose to cover are based on an estimate of our overall costs. Due to many factors actual costs may fluctuate."
-msgstr ""
+msgstr "Os custos de transação que os doadores podem optar por cobrir são baseados em uma estimativa de nossos custos gerais. Devido a muitos fatores, os custos reais podem variar."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.7d19227b-8783-435e-b31e-ee94f72e263c.title"
 msgid "Are there additional fees on my donation?"
@@ -306,7 +311,7 @@ msgstr "Não cobramos quaisquer taxas ou impostos adicionais."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.7d19227b-8783-435e-b31e-ee94f72e263c.content.e09d899d-8c38-431a-9633-fc96eaecf4af"
 msgid "When you donate in your local currency you are not charged a conversion fee by your credit card."
-msgstr ""
+msgstr "Quando você faz uma doação em sua moeda local, não é cobrada taxa de conversão em seu cartão de crédito."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.7d19227b-8783-435e-b31e-ee94f72e263c.content.e09d899d-8c38-431a-9633-fc96eaecf4af"
 msgid "Optionally, you can choose to cover our transaction costs on your donation. This is completely voluntary and you may opt in or out using the checkbox on our donation form."
