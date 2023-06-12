@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-12 08:07:55.192189+00:00\n"
+"PO-Revision-Date: 2023-06-12 08:13+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 5d60804f-4ce0-4da1-8418-f622eefb9cf1\n"
 
 msgctxt "title"
 msgid "Donate Help"
-msgstr ""
+msgstr "Ayuda para donaciones"
 
 msgctxt "body.657973e0-d304-410d-a886-fda1bbe5b976"
 msgid ""
@@ -18,11 +23,11 @@ msgstr ""
 
 msgctxt "body.657973e0-d304-410d-a886-fda1bbe5b976"
 msgid "Contact us"
-msgstr ""
+msgstr "Contacta con nosotros"
 
 msgctxt "body.aa6ef740-3690-4b17-ac72-e6af94a32047.altText"
 msgid "Form"
-msgstr ""
+msgstr "Formulario"
 
 msgctxt "body.3230f2bf-4878-40c7-a856-c8ae29157f15"
 msgid "Quick Links"
@@ -30,19 +35,19 @@ msgstr ""
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.alt_text"
 msgid "Firefox logo"
-msgstr ""
+msgstr "Logo de Firefox"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.title"
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.body"
 msgid "Web browser for Windows, Mac and Linux"
-msgstr ""
+msgstr "Navegador para Windows, Mac y Linux"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.link_url"
 msgid "https://support.mozilla.org/questions/firefox"
-msgstr ""
+msgstr "https://support.mozilla.org/questions/firefox"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.link_label"
 msgid "Firefox support"
@@ -50,7 +55,7 @@ msgstr ""
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.alt_text"
 msgid "Thunderbird logo"
-msgstr ""
+msgstr "Logo de Thunderbird"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.title"
 msgid "Thunderbird Support"
@@ -58,11 +63,11 @@ msgstr ""
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.body"
 msgid "Email software for Windows, Mac and Linux"
-msgstr ""
+msgstr "Programa de correo electrónico para Windows, Mac y Linux"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.link_url"
 msgid "https://blog.thunderbird.net/2022/10/need-help-with-thunderbird-heres-how-to-get-support/"
-msgstr ""
+msgstr "https://blog.thunderbird.net/2022/10/need-help-with-thunderbird-heres-how-to-get-support/"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.link_label"
 msgid "Visit Thunderbrid support"
