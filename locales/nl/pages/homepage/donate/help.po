@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-12 08:08:16.522702+00:00\n"
+"PO-Revision-Date: 2023-06-12 11:22+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1c046211-ea2b-4794-bbc8-603fa40de711\n"
 
 msgctxt "title"
@@ -18,11 +23,11 @@ msgstr ""
 
 msgctxt "body.657973e0-d304-410d-a886-fda1bbe5b976"
 msgid "Contact us"
-msgstr ""
+msgstr "Contact"
 
 msgctxt "body.aa6ef740-3690-4b17-ac72-e6af94a32047.altText"
 msgid "Form"
-msgstr ""
+msgstr "Formulier"
 
 msgctxt "body.3230f2bf-4878-40c7-a856-c8ae29157f15"
 msgid "Quick Links"
@@ -30,31 +35,31 @@ msgstr ""
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.alt_text"
 msgid "Firefox logo"
-msgstr ""
+msgstr "Firefox-logo"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.title"
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.body"
 msgid "Web browser for Windows, Mac and Linux"
-msgstr ""
+msgstr "Webbrowser voor Windows, Mac en Linux"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.link_url"
 msgid "https://support.mozilla.org/questions/firefox"
-msgstr ""
+msgstr "https://support.mozilla.org/nl/questions/firefox"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.link_label"
 msgid "Firefox support"
-msgstr ""
+msgstr "Firefox-ondersteuning"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.alt_text"
 msgid "Thunderbird logo"
-msgstr ""
+msgstr "Thunderbird-logo"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.title"
 msgid "Thunderbird Support"
-msgstr ""
+msgstr "Thunderbird-ondersteuning"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.body"
 msgid "Email software for Windows, Mac and Linux"
