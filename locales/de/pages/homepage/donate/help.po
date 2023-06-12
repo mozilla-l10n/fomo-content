@@ -1,114 +1,125 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-12 08:07:41.700824+00:00\n"
+"PO-Revision-Date: 2023-06-12 14:50+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 66468b2a-1034-4891-a207-35e3fc4826de\n"
 
 msgctxt "title"
 msgid "Donate Help"
-msgstr ""
+msgstr "Hilfe zum Thema „Spenden“"
 
 msgctxt "body.657973e0-d304-410d-a886-fda1bbe5b976"
 msgid ""
 "If you need help with a <a id=\"a1\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative will get back to you as soon"
 " as possible."
 msgstr ""
+"Wenn Sie Hilfe bei einer <a id=\"a1\">Spende</a> an die Mozilla Foundation benötigen, wählen Sie bitte den Grund für Ihre Anfrage aus der Auswahlliste und ein Spenderbetreuer wird Sie so bald wie "
+"möglich wieder kontaktieren."
 
 msgctxt "body.657973e0-d304-410d-a886-fda1bbe5b976"
 msgid "Contact us"
-msgstr ""
+msgstr "Kontakt"
 
 msgctxt "body.aa6ef740-3690-4b17-ac72-e6af94a32047.altText"
 msgid "Form"
-msgstr ""
+msgstr "Formular"
 
 msgctxt "body.3230f2bf-4878-40c7-a856-c8ae29157f15"
 msgid "Quick Links"
-msgstr ""
+msgstr "Schnellzugriff-Links"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.alt_text"
 msgid "Firefox logo"
-msgstr ""
+msgstr "Firefox-Logo"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.title"
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.body"
 msgid "Web browser for Windows, Mac and Linux"
-msgstr ""
+msgstr "Internetbrowser für Windows, Mac und Linux"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.link_url"
 msgid "https://support.mozilla.org/questions/firefox"
-msgstr ""
+msgstr "https://support.mozilla.org/questions/firefox"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.f39a25e4-c4d6-4f27-a244-ede0a0ea85b1.link_label"
 msgid "Firefox support"
-msgstr ""
+msgstr "Firefox-Hilfe"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.alt_text"
 msgid "Thunderbird logo"
-msgstr ""
+msgstr "Thunderbird-Logo"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.title"
 msgid "Thunderbird Support"
-msgstr ""
+msgstr "Thunderbird-Hilfe"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.body"
 msgid "Email software for Windows, Mac and Linux"
-msgstr ""
+msgstr "E-Mail-Programm für Windows, Mac und Linux"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.link_url"
 msgid "https://blog.thunderbird.net/2022/10/need-help-with-thunderbird-heres-how-to-get-support/"
-msgstr ""
+msgstr "https://blog.thunderbird.net/2022/10/need-help-with-thunderbird-heres-how-to-get-support/"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.0f9482a6-a556-4ee8-8f18-d79510808fff.link_label"
 msgid "Visit Thunderbrid support"
-msgstr ""
+msgstr "Thunderbird-Hilfe besuchen"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.6157fdb7-96bd-4541-ad15-adec6cc51b03.alt_text"
 msgid "VPN logo"
-msgstr ""
+msgstr "VPN-Logo"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.6157fdb7-96bd-4541-ad15-adec6cc51b03.title"
 msgid "Mozilla VPN"
-msgstr ""
+msgstr "Mozilla VPN"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.6157fdb7-96bd-4541-ad15-adec6cc51b03.body"
 msgid "VPN for Windows 10, Mac, Linux, Android, and iOS devices"
-msgstr ""
+msgstr "VPN für Windows 10, Mac, Linux, Android und iOS-Geräte"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.6157fdb7-96bd-4541-ad15-adec6cc51b03.link_url"
 msgid "https://support.mozilla.org/products/firefox-private-network-vpn"
-msgstr ""
+msgstr "https://support.mozilla.org/products/firefox-private-network-vpn"
 
 msgctxt "body.7df6198a-2e83-4e23-8279-c269a0d28ceb.cards.6157fdb7-96bd-4541-ad15-adec6cc51b03.link_label"
 msgid "VPN support"
-msgstr ""
+msgstr "VPN-Hilfe"
 
 msgctxt "body.65966a13-6309-4067-8060-83e519577577"
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Häufig gestellte Fragen"
 
 msgctxt "body.65966a13-6309-4067-8060-83e519577577"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Hier finden Sie die am häufigsten gestellten Fragen zu Spenden an die Mozilla Foundation."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.bb13a784-0a29-4bf7-b591-3264c804a6af.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Wie kann ich spenden?"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.bb13a784-0a29-4bf7-b591-3264c804a6af.content.c29d714a-b206-4fe2-8e1f-0e4e83e21286"
 msgid ""
 "<a id=\"a1\"><b>Visit this link to make a secure online donation</b></a><b> right now by credit card or PayPal.</b> Google Pay, Apple Pay, and bank transfers through SEPA, iDEAL and ACH are also "
 "available online."
 msgstr ""
+"<a id=\"a1\"><b>Besuchen Sie diesen Link, um eine sichere Online-Spende zu tätigen</b></a><b> – Sie haben die Wahl zwischen Kreditkarte oder PayPal.</b> Google Pay, Apple Pay und Banküberweisungen "
+"über SEPA, iDEAL und ACH sind ebenfalls online verfügbar."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.bb13a784-0a29-4bf7-b591-3264c804a6af.content.c29d714a-b206-4fe2-8e1f-0e4e83e21286"
 msgid "<b>Give in your local currency!</b> On our <a id=\"a1\">online form</a>, use the drop down menu next to the donation amount. You will be charged in the currency you choose to donate with."
 msgstr ""
+"<b>Spenden Sie in Ihrer lokalen Währung!</b> Verwenden Sie in unserem <a id=\"a1\">Online-Formular</a> das Aufklappfeld neben dem Spendenbetrag. Ihre Spende wird in der Währung abgebucht, in der Sie"
+" spenden möchten."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.bb13a784-0a29-4bf7-b591-3264c804a6af.content.c29d714a-b206-4fe2-8e1f-0e4e83e21286"
 msgid ""
