@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-12 08:08:14.178533+00:00\n"
-"PO-Revision-Date: 2023-06-14 10:01+0000\n"
+"PO-Revision-Date: 2023-06-14 10:11+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language: fy_NL\n"
 "MIME-Version: 1.0\n"
@@ -158,6 +158,9 @@ msgid ""
 "you donate to Mozilla online your payment information is processed by third party vendors, <a id=\"a1\">Fundraise Up</a> and <a id=\"a2\">PayPal</a> or <a id=\"a3\">Stripe</a>. Their collection and "
 "use of your data is also governed by their respective privacy policies."
 msgstr ""
+"Al ús donaasjeferwurkingspartners moatte in privacykontrôle troch Mozilla ûndergean. De leveransiers dy’t jo ynformaasje ûntfange, binne kontraktueel ferplichte om de gegevens te behanneljen op "
+"manieren dy’t wy goedkarre. As jo online oan Mozilla donearje, wurde jo betellingsgegevens ferwurke troch eksterne leveransiers, <a id=\"a1\">Fundraise Up</a> en <a id=\"a2\">PayPal</a> of <a "
+"id=\"a3\">Stripe</a>. De samling en gebrûk fan jo gegevens falt ek ûnder harren respektyflike privacybelied."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.9f5f15fb-1181-481c-8cbe-15d3f175483a.title"
 msgid "Why do you need my address in order to process a donation?"
@@ -179,17 +182,19 @@ msgstr "Is myn donaasje feilich?"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.949126bc-4aec-4ed8-8e9c-05cb7a32be44.content.3b16e700-681a-40b0-bb90-7c850d1d9142"
 msgid "Yes, we use industry-standard SSL technology to keep your information secure."
-msgstr ""
+msgstr "Ja, wy brûke de yn de yndustry gebrûklike SSL-technology om jo ynformaasje feilich te hâlden."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.949126bc-4aec-4ed8-8e9c-05cb7a32be44.content.3b16e700-681a-40b0-bb90-7c850d1d9142"
 msgid ""
 "We partner with Stripe, the industry's established payment processor trusted by some of the world's largest companies. Your sensitive financial information never touches our servers. We send all "
 "data directly to Stripe's PCI-compliant servers through SSL."
 msgstr ""
+"Wy wurkje gear mei Stripe, de bekende betellingsferwurker yn de yndustry dy’t fertroud wurdt troch guon fan de grutste bedriuwen yn de wrâld. Jo gefoelige finansjele ynformaasje berikt nea ús "
+"servers. Wy stjoere alle gegevens daliks nei de PCI-kompatibele servers fan Stripe fia SSL."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.949126bc-4aec-4ed8-8e9c-05cb7a32be44.content.3b16e700-681a-40b0-bb90-7c850d1d9142"
 msgid "We understand that your privacy is very important. For complete information please refer to the Mozilla <a id=\"a1\">Privacy Policy</a>."
-msgstr ""
+msgstr "Wy begripe dat jo privacy hiel wichtich is. Foar folsleine ynformaasje ferwize wy nei it Mozilla <a id=\"a1\">Privacybelied</a>."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.369e1267-eb41-4527-9c8c-c4fca011baf9.title"
 msgid "Where do I send a check?"
@@ -205,7 +210,7 @@ msgstr "Mozilla Foundation"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.369e1267-eb41-4527-9c8c-c4fca011baf9.content.8d6bcf7b-97ed-4163-8769-fe72112ec756"
 msgid "attn: Donor Care"
-msgstr ""
+msgstr "attn: Donor Care"
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.369e1267-eb41-4527-9c8c-c4fca011baf9.content.8d6bcf7b-97ed-4163-8769-fe72112ec756"
 msgid "2 Harrison Street, Suite 175"
@@ -241,7 +246,7 @@ msgstr "De Mozilla Foundation kin <b>allinnich</b> sjeks akseptearje yn Amerikaa
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.369e1267-eb41-4527-9c8c-c4fca011baf9.content.8d6bcf7b-97ed-4163-8769-fe72112ec756"
 msgid "We <b>cannot</b> accept contributions for MZLA/Thunderbird. Contributions to MZLA/Thunderbird via check can be made by following <a id=\"a1\">these instructions</a>."
-msgstr ""
+msgstr "Wy <b>kinne</b> gjin bydragen akseptearje foar MZLA/Thunderbird. Bydragen oan MZLA/Thunderbird fia sjek kinne dien wurde troch <a id=\"a1\">dizze ynstruksjes</a> te folgjen."
 
 msgctxt "body.ee7c14cb-f333-48e4-a713-250a87395a50.accordion_items.898ba688-76a7-4d09-b9d0-0f2270e46e44.title"
 msgid "Is my donation tax deductible?"
