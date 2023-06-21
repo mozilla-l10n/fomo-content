@@ -1,32 +1,41 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-21 07:32:47.779356+00:00\n"
+"PO-Revision-Date: 2023-06-21 07:52+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 11be6b62-2e28-4bae-9079-7c4cf9391717\n"
 
 msgctxt "body.d979dbb5-9a86-408a-86e9-48bd3566e66d"
 msgid "TikTok's addictive algorithm keeps you watching, sometimes for hours on end. Yet very little is understood about how it works, and TikTok doesn't provide robust tools for researchers."
 msgstr ""
+"L’algorithme addictif de TikTok nous incite à regarder toujours plus de vidéos, parfois pendant plusieurs heures d’affilée. Pourtant, on sait très peu de choses sur son fonctionnement et TikTok ne "
+"fournit aucun outil fiable aux chercheurs qui s’intéressent à ce sujet."
 
 msgctxt "body.d979dbb5-9a86-408a-86e9-48bd3566e66d"
 msgid ""
 "We want to build a new, open source mobile app that will let TikTok users contribute their data so that experts can study how TikTok's algorithm works. <b>Can you add a contribution to Mozilla and "
 "help build this open-source TikTok Reporter app?</b>"
 msgstr ""
+"C’est pourquoi nous souhaitons développer une nouvelle application mobile en open source qui permette aux utilisateurs de TikTok de partager leurs données afin que des experts puissent étudier le "
+"fonctionnement de son algorithme. <b>Pourriez-vous contribuer financièrement à ce projet de Mozilla en faveur de la transparence sur Internet, dans l’intérêt de tous les utilisateurs ?</b>"
 
 msgctxt "body.18029f6a-ab4f-4800-b0e5-0540cea10ea1.label"
 msgid "Donate Now"
-msgstr ""
+msgstr "Faire un don"
 
 msgctxt "body.18029f6a-ab4f-4800-b0e5-0540cea10ea1.URL"
 msgid "https://foundation.mozilla.org/?form=FUNXBEJRNED&amp;utm_medium=FMO&amp;utm_source=Homepage&amp;utm_campaign=23-TikTok-Rep&amp;utm_content=link_1&amp;c_id=7014x000000eQOC"
-msgstr ""
+msgstr "https://foundation.mozilla.org/?form=FUNXBEJRNED&amp;utm_medium=FMO&amp;utm_source=Homepage&amp;utm_campaign=23-TikTok-Rep&amp;utm_content=link_1&amp;c_id=7014x000000eQOC"
 
 msgctxt "body.e75b9cf6-0d1a-4780-b40b-68e04fa041fa.alt_text"
 msgid "\"\""
-msgstr ""
+msgstr "\"\""
 
 msgctxt "body.e75b9cf6-0d1a-4780-b40b-68e04fa041fa.title"
 msgid "TikTok Reporter: an Open Source Investigation powered by you!"
@@ -34,11 +43,11 @@ msgstr ""
 
 msgctxt "body.02098f8f-f4d1-4e87-815c-840cab16e8d6.altText"
 msgid "\"\""
-msgstr ""
+msgstr "\"\""
 
 msgctxt "body.02098f8f-f4d1-4e87-815c-840cab16e8d6.text"
 msgid "The Opportunity"
-msgstr ""
+msgstr "L’opportunité"
 
 msgctxt "body.02098f8f-f4d1-4e87-815c-840cab16e8d6.text"
 msgid ""
@@ -48,7 +57,7 @@ msgstr ""
 
 msgctxt "body.87f199f3-6a32-47d1-a20e-b2eef243a047.altText"
 msgid "\"\""
-msgstr ""
+msgstr "\"\""
 
 msgctxt "body.87f199f3-6a32-47d1-a20e-b2eef243a047.text"
 msgid "The Ask"
@@ -60,11 +69,11 @@ msgstr ""
 
 msgctxt "body.87f199f3-6a32-47d1-a20e-b2eef243a047.text"
 msgid "<a id=\"a1\"><b>Donate now</b></a>"
-msgstr ""
+msgstr "<a id=\"a1\"><b>Faire un don</b></a>"
 
 msgctxt "body.89240135-188d-44f2-a7b9-62c8534123c5.altText"
 msgid "\"\""
-msgstr ""
+msgstr "\"\""
 
 msgctxt "body.89240135-188d-44f2-a7b9-62c8534123c5.text"
 msgid "The Promise"
@@ -84,7 +93,7 @@ msgstr ""
 
 msgctxt "body.d948abf2-68b9-46cd-8afb-f80561a75584.cards.c360852a-a437-4022-9636-60b27c1a6d14.link_url"
 msgid "https://foundation.mozilla.org/blog/mozilla-launches-open-source-research-investigations-team-to-probe-platform-algorithms-ai-globally/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/blog/mozilla-launches-open-source-research-investigations-team-to-probe-platform-algorithms-ai-globally/"
 
 msgctxt "body.d948abf2-68b9-46cd-8afb-f80561a75584.cards.c360852a-a437-4022-9636-60b27c1a6d14.link_label"
 msgid "Read more"
@@ -92,7 +101,7 @@ msgstr ""
 
 msgctxt "body.d948abf2-68b9-46cd-8afb-f80561a75584.cards.5b0782cf-aa49-47d6-b570-1aa82fa77cfa.title"
 msgid "YouTube RegretsReporter"
-msgstr ""
+msgstr "YouTube RegretsReporter"
 
 msgctxt "body.d948abf2-68b9-46cd-8afb-f80561a75584.cards.5b0782cf-aa49-47d6-b570-1aa82fa77cfa.body"
 msgid "Mozilla’s updated RegretsReporter browser extension helps you eliminate harmful YouTube recommendations — the clickbait, the outrage, and all the other content you wish you never saw."
@@ -100,7 +109,7 @@ msgstr ""
 
 msgctxt "body.d948abf2-68b9-46cd-8afb-f80561a75584.cards.5b0782cf-aa49-47d6-b570-1aa82fa77cfa.link_url"
 msgid "https://foundation.mozilla.org/youtube/regretsreporter/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/youtube/regretsreporter/"
 
 msgctxt "body.d948abf2-68b9-46cd-8afb-f80561a75584.cards.5b0782cf-aa49-47d6-b570-1aa82fa77cfa.link_label"
 msgid "Read more"
@@ -116,7 +125,7 @@ msgstr ""
 
 msgctxt "body.d948abf2-68b9-46cd-8afb-f80561a75584.cards.5faf2881-2189-40e7-a179-770897bfaee3.link_url"
 msgid "https://foundation.mozilla.org/blog/mozilla-investigation-partisan-influencers-dark-money-are-evading-tiktoks-ad-policy/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/blog/mozilla-investigation-partisan-influencers-dark-money-are-evading-tiktoks-ad-policy/"
 
 msgctxt "body.d948abf2-68b9-46cd-8afb-f80561a75584.cards.5faf2881-2189-40e7-a179-770897bfaee3.link_label"
 msgid "Read more"
@@ -124,7 +133,7 @@ msgstr ""
 
 msgctxt "body.7545d0a5-71b3-46d7-80b0-c427499db5a7.altText"
 msgid "\"\""
-msgstr ""
+msgstr "\"\""
 
 msgctxt "body.7545d0a5-71b3-46d7-80b0-c427499db5a7.text"
 msgid "We need your support to raise $100,000 by July 30th to support our research and advocacy efforts, including the development of a TikTok RegretsReporter tool."
@@ -132,8 +141,8 @@ msgstr ""
 
 msgctxt "body.7545d0a5-71b3-46d7-80b0-c427499db5a7.text"
 msgid "<a id=\"a1\"><b>Donate now</b></a>"
-msgstr ""
+msgstr "<a id=\"a1\"><b>Faire un don</b></a>"
 
 msgctxt "title"
 msgid "Donate to Build Mozilla's TikTok Reporter App"
-msgstr ""
+msgstr "Faites un don pour permettre à Mozilla de développer l’application TikTok Reporter"
