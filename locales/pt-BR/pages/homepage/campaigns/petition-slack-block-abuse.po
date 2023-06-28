@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-09-23 21:05:22.634597+00:00\n"
+"PO-Revision-Date: 2023-06-28 11:12+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 026f845c-8eae-406f-b185-19ddedb945fd\n"
 
 msgctxt "search_description"
@@ -47,7 +52,7 @@ msgid ""
 "generic email address – <a id=\"a1\">allowing abusive language</a> to reach their targets."
 msgstr ""
 "O Slack conhece bem o problema. No início deste ano, a empresa renovou às pressas seu recurso \"Slack Connect\" após críticas públicas de que não estava moderando as mensagens de convite que enviou "
-"de um e-mail genérico – <a id=\"a1\">permitindo que uma linguagem abusiva</a> chegasse a seus alvos."
+"de um email genérico, <a id=\"a1\">permitindo que linguagem abusiva</a> chegasse a seus alvos."
 
 msgctxt "body.16e7afa7-1a82-4a1f-bfbc-9d932bcaa051"
 msgid ""
