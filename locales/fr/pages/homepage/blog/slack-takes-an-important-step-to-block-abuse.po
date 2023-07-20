@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-07-20 09:32:51.597172+00:00\n"
+"PO-Revision-Date: 2023-07-20 09:40+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a0bb075f-f5ad-4f11-b754-895e4db3fde0\n"
 
 msgctxt "search_description"
@@ -11,14 +16,16 @@ msgid ""
 "Slack is a hugely popular messaging app, but is missing one of the most basic of messaging features: a block button. Now, on the heels of campaigning by Mozilla, Fight for the Future, Convocation "
 "Research + Design, and dozens of ally organizations, that may be changing."
 msgstr ""
+"Slack est une application de messagerie très populaire, mais à laquelle il manque l’une des fonctionnalités les plus élémentaires : un bouton de blocage. Grâce aux campagnes de Mozilla, Fight for "
+"the Future, Convocation Research + Design et de dizaines d’organisations alliées, la situation pourrait changer."
 
 msgctxt "body.56f57ac8-f6b8-48bc-b5ff-901b431aa092"
 msgid "Slack is a hugely popular messaging app, but is missing one of the most basic of messaging features: a block button."
-msgstr ""
+msgstr "Slack est une application de messagerie très populaire, mais à laquelle il manque l’une des fonctionnalités les plus élémentaires : un bouton de blocage."
 
 msgctxt "body.56f57ac8-f6b8-48bc-b5ff-901b431aa092"
 msgid "Now, on the heels of campaigning by Mozilla, Fight for the Future, Convocation Research + Design, and dozens of ally organizations, that may be changing."
-msgstr ""
+msgstr "Désormais, suite aux campagnes de Mozilla, Fight for the Future, Convocation Research + Design et de dizaines d’organisations alliées, la situation pourrait changer."
 
 msgctxt "body.56f57ac8-f6b8-48bc-b5ff-901b431aa092"
 msgid ""
@@ -30,10 +37,12 @@ msgstr ""
 msgctxt "body.1ae4f4a7-a073-4c64-8d52-1afbdbcaef63.quote"
 msgid "Slack is a hugely popular messaging app, but is missing one of the most basic of messaging features: a block button. But now, that may be changing."
 msgstr ""
+"Slack est une application de messagerie très populaire, mais à laquelle il manque l’une des fonctionnalités les plus élémentaires : un bouton de blocage. Mais à présent, la situation pourrait "
+"changer."
 
 msgctxt "body.1ae4f4a7-a073-4c64-8d52-1afbdbcaef63.attribution"
 msgid "Reem Suleiman, Mozilla"
-msgstr ""
+msgstr "Reem Suleiman, Mozilla"
 
 msgctxt "body.c0624081-d7d0-4722-9732-6ff34222a330"
 msgid ""
@@ -51,7 +60,7 @@ msgstr ""
 
 msgctxt "body.c0624081-d7d0-4722-9732-6ff34222a330"
 msgid "Also in May, Mozilla, Fight for the Future, and others <a id=\"a1\">protested</a> outside Slack headquarters, with a mobile billboard that read “Slack Isn’t Safe.”"
-msgstr ""
+msgstr "Toujours en mai, Mozilla, Fight for the Future et d’autres ont <a id=\"a1\">manifesté</a> devant le siège de Slack, avec un panneau d’affichage mobile indiquant « Slack n’est pas sûr »."
 
 msgctxt "body.c0624081-d7d0-4722-9732-6ff34222a330"
 msgid ""
@@ -74,4 +83,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "Slack Takes an Important Step to Block Abuse"
-msgstr ""
+msgstr "Slack prend une mesure importante pour bloquer les abus"
