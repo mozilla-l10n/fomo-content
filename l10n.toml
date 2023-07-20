@@ -2885,6 +2885,16 @@ l10n = "locales/{locale}/pages/homepage/data-futures-lab/grantmaking.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/364-reem-suleiman.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/364-reem-suleiman.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/slack-takes-an-important-step-to-block-abuse.pot"
+l10n = "locales/{locale}/pages/homepage/blog/slack-takes-an-important-step-to-block-abuse.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
