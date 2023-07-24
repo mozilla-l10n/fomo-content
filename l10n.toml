@@ -2895,6 +2895,11 @@ l10n = "locales/{locale}/pages/homepage/blog/slack-takes-an-important-step-to-bl
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/research/library/user-controls/report.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/user-controls/report.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
