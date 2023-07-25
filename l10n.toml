@@ -2900,6 +2900,51 @@ l10n = "locales/{locale}/pages/homepage/research/library/user-controls/report.po
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.RCCContentType/1-instructors-guide.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/1-instructors-guide.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCContentType/2-syllabus.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/2-syllabus.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCContentType/3-lecture.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/3-lecture.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCContentType/4-project.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/4-project.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCContentType/5-assignment.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/5-assignment.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCContentType/6-dataset.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/6-dataset.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/responsible-computing-challenge-playbook.pot"
+l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/responsible-computing-challenge-playbook/curriculum.pot"
+l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook/curriculum.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/responsible-computing-challenge-playbook/browse-contributors.pot"
+l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook/browse-contributors.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
