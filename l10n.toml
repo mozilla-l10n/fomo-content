@@ -3150,6 +3150,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/5-computer-grap
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/research/library/user-controls/report/executive-summary.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/user-controls/report/executive-summary.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
