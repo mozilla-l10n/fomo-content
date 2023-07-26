@@ -29,40 +29,15 @@ msgstr "Fale para o YouTube: Corrija suas ferramentas de feedback e dê controle
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 msgid ""
-"YouTube’s algorithm often promotes a minefield of controversial videos. With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the "
-"“Does This Button Work” <a id=\"a1\">report</a>, is alarming:"
+"With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – and we found that <b>users are not in control</b> of their experience on the video platform, even after using "
+"the feedback mechanisms."
 msgstr ""
-"O algoritmo do YouTube geralmente promove um campo minado de vídeos controversos. Com a ajuda de 20 mil apoiadores da Mozilla, estudamos os mecanismos de feedback do YouTube. Nossa descoberta, "
-"publicada no <a id=\"a1\">relatório</a> “Does This Button Work” (\"Este botão funciona?\"), é alarmante:"
-
-msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-msgid "<b>Users are not in control</b> of their experience on the video platform"
-msgstr "<b>Os usuários não controlam</b> suas experiências na plataforma"
-
-msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-msgid "Even after using the feedback mechanisms, <b>YouTube’s algorithm often recommends unwanted videos</b>"
-msgstr "Mesmo após usar os mecanismos de informação, <b>o algoritmo do YouTube geralmente recomenda vídeos indesejados</b>"
 
 msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 msgid ""
-"This is <b>even more worrying in the context of the previous YouTube research</b> we have done: In our 2021 “YouTube Regrets” study, we found that YouTube’s <b>algorithm promotes videos containing "
-"misinformation, hate speech and violence</b>."
+"The good news is: <b>YouTube can solve this problem</b> - if they want to. <b>It’s time for the company to fix its feedback tools</b> and put people in the driver’s seat. <b>Sign our petition now "
+"and help us put pressure on YouTube.</b>"
 msgstr ""
-"Isso é <b>ainda mais preocupante sob o contexto da pesquisa anterior que fizemos</b>: em nosso estudo \"YouTube Regrets\" (\"Arrependimentos do YouTube\") de 2021, descobrimos que o algoritmo da "
-"plataforma <b>promove vídeos contendo desinformação, discurso de ódio e violência</b>."
-
-msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-msgid "A video recommender system that has been found to regularly recommend dangerous content and also does not consistently listen to user feedback desperately needs to be fixed."
-msgstr ""
-"Um sistema de recomendação de vídeos que se revelou recomendar regularmente conteúdo perigoso e também não ouvir consistentemente as opiniões dos usuários precisa desesperadamente ser corrigido."
-
-msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-msgid "The good news is: <b>YouTube can solve this problem</b> - if they want to. <b>It’s time for the company to fix its feedback tools</b> and put people in the driver’s seat."
-msgstr "A boa notícia é que o <b>YouTube pode resolver esse problema</b> (se quiser). <b>É hora da empresa consertar suas ferramentas de feedback</b> e colocar as pessoas no comando."
-
-msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-msgid "Sign our petition now and help us put pressure on YouTube."
-msgstr "Assine nossa petição agora mesmo e nos ajude a pressionar o YouTube."
 
 #~ msgctxt "body.b831417c-68f6-4994-92dd-0be4baf067ee.altText"
 #~ msgid "An image depicting a series of inputs feeding into a YouTube icon, projecting onto a screen"
@@ -71,6 +46,14 @@ msgstr "Assine nossa petição agora mesmo e nos ajude a pressionar o YouTube."
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid "Even after using the feedback mechanisms, <b>YouTube’s algorithm recommends unwanted videos</b>"
 #~ msgstr "Mesmo depois de usar os mecanismos de feedback, <b>o algoritmo do YouTube recomenda vídeos indesejados</b>"
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid ""
+#~ "This is <b>even more worrying in the context of the previous YouTube research</b> we have done: In our 2021 “YouTube Regrets” study, we found that YouTube’s <b>algorithm promotes videos containing "
+#~ "misinformation, hate speech and violence</b>."
+#~ msgstr ""
+#~ "Isso é <b>ainda mais preocupante sob o contexto da pesquisa anterior que fizemos</b>: em nosso estudo \"YouTube Regrets\" (\"Arrependimentos do YouTube\") de 2021, descobrimos que o algoritmo da "
+#~ "plataforma <b>promove vídeos contendo desinformação, discurso de ódio e violência</b>."
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid ""
@@ -90,8 +73,20 @@ msgstr "Assine nossa petição agora mesmo e nos ajude a pressionar o YouTube."
 #~ "Com a ajuda de 20 mil apoiadores da Mozilla, estudamos os mecanismos de feedback do YouTube. Nossa descoberta, publicada no relatório “Does This Button Work” (\"Este botão funciona?\"), é alarmante:"
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "<b>Users are not in control</b> of their experience on the video platform"
+#~ msgstr "<b>Os usuários não controlam</b> suas experiências na plataforma"
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid "A video recommender system that is already dangerous by default and, as it turns out, does not listen to user feedback desperately needs to be fixed."
 #~ msgstr "Um sistema de recomendações de vídeos que já é perigoso por padrão e, como vimos, não escuta o feedback de seus usuários, precisa urgentemente ser corrigido."
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "The good news is: <b>YouTube can solve this problem</b> - if they want to. <b>It’s time for the company to fix its feedback tools</b> and put people in the driver’s seat."
+#~ msgstr "A boa notícia é que o <b>YouTube pode resolver esse problema</b> (se quiser). <b>É hora da empresa consertar suas ferramentas de feedback</b> e colocar as pessoas no comando."
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "Sign our petition now and help us put pressure on YouTube."
+#~ msgstr "Assine nossa petição agora mesmo e nos ajude a pressionar o YouTube."
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid ""
@@ -102,6 +97,15 @@ msgstr "Assine nossa petição agora mesmo e nos ajude a pressionar o YouTube."
 #~ "caça-cliques</b>, mesmo após você clicar em “não gostei” ou “não recomendar”?"
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "Even after using the feedback mechanisms, <b>YouTube’s algorithm often recommends unwanted videos</b>"
+#~ msgstr "Mesmo após usar os mecanismos de informação, <b>o algoritmo do YouTube geralmente recomenda vídeos indesejados</b>"
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "A video recommender system that has been found to regularly recommend dangerous content and also does not consistently listen to user feedback desperately needs to be fixed."
+#~ msgstr ""
+#~ "Um sistema de recomendação de vídeos que se revelou recomendar regularmente conteúdo perigoso e também não ouvir consistentemente as opiniões dos usuários precisa desesperadamente ser corrigido."
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid "So have we - and we <a id=\"a1\">looked into it</a>."
 #~ msgstr "Nós também, e <a id=\"a1\">fomos investigar</a>."
 
@@ -110,3 +114,11 @@ msgstr "Assine nossa petição agora mesmo e nos ajude a pressionar o YouTube."
 #~ msgstr ""
 #~ "Com a ajuda de 20 mil apoiadores da Mozilla, estudamos os mecanismos de feedback do YouTube. Nossa descoberta, publicada no <a id=\"a1\">relatório</a> “Does This Button Work” (\"Este botão "
 #~ "funciona?\"), é alarmante:"
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid ""
+#~ "YouTube’s algorithm often promotes a minefield of controversial videos. With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the "
+#~ "“Does This Button Work” <a id=\"a1\">report</a>, is alarming:"
+#~ msgstr ""
+#~ "O algoritmo do YouTube geralmente promove um campo minado de vídeos controversos. Com a ajuda de 20 mil apoiadores da Mozilla, estudamos os mecanismos de feedback do YouTube. Nossa descoberta, "
+#~ "publicada no <a id=\"a1\">relatório</a> “Does This Button Work” (\"Este botão funciona?\"), é alarmante:"
