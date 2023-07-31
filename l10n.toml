@@ -2125,6 +2125,16 @@ l10n = "locales/{locale}/pages/homepage/donate/help.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/data-futures-lab.pot"
+l10n = "locales/{locale}/pages/homepage/data-futures-lab.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/slack-microsoft-teams-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/slack-microsoft-teams-privacy.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2840,11 +2850,6 @@ l10n = "locales/{locale}/pages/homepage/newsletter/thank-you-for-being-part-of-t
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/slack-microsoft-teams-privacy.pot"
-l10n = "locales/{locale}/pages/homepage/blog/slack-microsoft-teams-privacy.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/shady-mental-health-apps-inch-toward-privacy-and-security-improvements-but-many-still-siphon-personal-data.pot"
 l10n = "locales/{locale}/pages/homepage/blog/shady-mental-health-apps-inch-toward-privacy-and-security-improvements-but-many-still-siphon-personal-data.po"
 locales = [ "fr",]
@@ -2857,11 +2862,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/blog/the-new-common-voice-sentence-collector.pot"
 l10n = "locales/{locale}/pages/homepage/blog/the-new-common-voice-sentence-collector.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/data-futures-lab.pot"
-l10n = "locales/{locale}/pages/homepage/data-futures-lab.po"
 locales = [ "fr",]
 
 [[paths]]
