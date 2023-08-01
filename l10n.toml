@@ -2135,6 +2135,11 @@ l10n = "locales/{locale}/pages/homepage/blog/slack-microsoft-teams-privacy.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.DonationModal/46-youtube-feedback-controls.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/46-youtube-feedback-controls.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
