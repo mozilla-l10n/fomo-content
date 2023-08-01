@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-08-01 13:31:21.608807+00:00\n"
+"PO-Revision-Date: 2023-08-01 15:03+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 51d2619c-fd68-401a-a46b-09535d24316b\n"
 
 msgctxt "header"
 msgid "Thanks for signing! Can you support this campaign with a donation?"
-msgstr ""
+msgstr "Vielen Dank für Ihre Unterschrift! Können Sie diese Kampagne mit einer Spende unterstützen?"
 
 msgctxt "body"
 msgid ""
 "Mozilla is a nonprofit organization fighting for a healthy internet. We depend on contributions from people like you to carry out this work and hold companies like YouTube accountable. Can you "
 "support our YouTube campaign by making a donation today?"
 msgstr ""
+"Mozilla ist eine gemeinnützige Organisation, die sich für ein gesundes Internet einsetzt. Wir sind auf Spenden von Menschen wie Ihnen angewiesen, um diese Arbeit leisten zu können und Unternehmen "
+"wie YouTube zur Verantwortung zu ziehen. Können Sie heute unsere YouTube-Kampagne unterstützen, indem Sie spenden?"
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Ja, ich spende"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Nein, danke"
