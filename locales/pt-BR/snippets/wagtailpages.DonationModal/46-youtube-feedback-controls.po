@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-08-01 13:32:13.488499+00:00\n"
+"PO-Revision-Date: 2023-08-02 05:30+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 99322479-e33a-4826-b5f7-b19946683280\n"
 
 msgctxt "header"
@@ -15,11 +20,13 @@ msgid ""
 "Mozilla is a nonprofit organization fighting for a healthy internet. We depend on contributions from people like you to carry out this work and hold companies like YouTube accountable. Can you "
 "support our YouTube campaign by making a donation today?"
 msgstr ""
+"Mozilla é uma organização sem fins lucrativos que luta por uma internet saudável. Dependemos de contribuições de pessoas como você para realizar este trabalho e responsabilizar empresas como o "
+"YouTube. Pode apoiar nossa campanha sobre o YouTube fazendo uma doação?"
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Sim, vou contribuir"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Não, obrigado"
