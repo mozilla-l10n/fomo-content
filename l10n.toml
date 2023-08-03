@@ -1707,7 +1707,7 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/69-becca-ricks.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/69-becca-ricks.po"
-locales = [ "de", "fr",]
+locales = [ "de",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/11-kaili-lambe.pot"
