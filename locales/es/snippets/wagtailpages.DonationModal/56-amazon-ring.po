@@ -1,23 +1,30 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-08-08 12:27:13.445873+00:00\n"
+"PO-Revision-Date: 2023-08-08 12:46+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 52a29afe-1df4-45dc-8a3c-75b0b2d8d374\n"
 
 msgctxt "header"
 msgid "Thank you for signing our petition. Can you take the next step and add a donation to Mozilla?"
-msgstr ""
+msgstr "Gracias por firmar la petición. ¿Puedes dar un paso más y agregar una donación para Mozilla?"
 
 msgctxt "body"
 msgid "Amazon has been resistant to pressure so far, so we need to do everything we can to make sure this security flaw gets fixed. Can you add a donation to Mozilla to help force Amazon to act?"
 msgstr ""
+"Amazon ha resistido la presión hasta ahora, así que necesitamos hacer todo lo posible por asegurarnos de que arregle esta falla de seguridad. ¿Podrías añadir una donación a Mozilla para ayudar a que"
+" obliguemos a Amazon a actuar?"
 
 msgctxt "donate_text"
 msgid "Yes, I'll Donate"
-msgstr ""
+msgstr "Sí, voy a donar"
 
 msgctxt "dismiss_text"
 msgid "No, I'll Share Instead"
-msgstr ""
+msgstr "No, pero voy a compartir"
