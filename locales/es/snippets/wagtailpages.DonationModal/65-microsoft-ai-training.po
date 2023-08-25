@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-08-25 08:00:15.954229+00:00\n"
+"PO-Revision-Date: 2023-08-25 08:20+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: c56ba891-8d22-4791-bd74-80f8e0109f41\n"
 
 msgctxt "header"
 msgid "Thanks for signing! Can you make a donation to support this campaign against Microsoft?"
-msgstr ""
+msgstr "¡Gracias por firmar! ¿Puedes hacer una donación para apoyar esta campaña contra Microsoft?"
 
 msgctxt "body"
 msgid ""
 "Mozilla is a nonprofit organization fighting for a healthy internet, where privacy is included by design and you have more control over your personal information. We depend on contributions from "
 "people like you to win campaigns like this. Can you donate today?"
 msgstr ""
+"Mozilla es una organización sin fines de lucro que lucha por un Internet saludable donde la privacidad venga incluida desde el diseño y tú tengas más control de tu información personal. Dependemos "
+"de las contribuciones de personas como tú para ganar campañas como esta. ¿Puedes donar hoy?"
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Sí, quiero donar"
 
 msgctxt "dismiss_text"
 msgid "No thanks, but I'll share instead"
-msgstr ""
+msgstr "No, pero voy a compartir"
