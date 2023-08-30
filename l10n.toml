@@ -2180,6 +2180,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/volkswagen.po"
 locales = [ "de",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/subaru.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/subaru.po"
+locales = [ "de",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
