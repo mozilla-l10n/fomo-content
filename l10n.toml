@@ -2295,6 +2295,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/audi.po"
 locales = [ "de",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.DonationModal/71-pni-cars-petition.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/71-pni-cars-petition.po"
+locales = [ "de",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
