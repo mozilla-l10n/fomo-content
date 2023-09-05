@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-08-31 10:39:30.033806+00:00\n"
-"PO-Revision-Date: 2023-09-04 13:27+0000\n"
+"PO-Revision-Date: 2023-09-05 08:32+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,11 @@ msgid ""
 " horn, and check and see how much gas you have left in the tank. General Motors and Buick also offer OnStar connected services (OnStar is the OG connected car service, first offered way back in "
 "1996) for things like automatic crash response and stole vehicle assistance. So, how is Buick, their OnStar connected services, and General Motors at privacy? Not very good, unfortunately."
 msgstr ""
+"Buick ist eine amerikanische Automarke, die der Muttergesellschaft General Motors gehört. Buick wurde 1899 gegründet und war einst berühmt für seine holzgetäfelten Kombis, die Familien in den 1970er"
+" und 80er Jahren auf epische Roadtrips mitnahmen. Zu den heutigen Buick-Modellen gehören Encore, Enclave und Envista. Mit <a id=\"a1\">der myBuick-App</a> können Nutzer*innen ferngesteuerte Auto-"
+"Dinge wie Starten und Stoppen, Verriegeln und Entriegeln Ihres Autos, Hupen und Überprüfen und sehen, wie viel Benzin Sie noch im Tank haben. General Motors und Buick bieten auch OnStar Connected "
+"Services (OnStar ist der OG Connected Car Service, der erstmals 1996 angeboten wurde) für Dinge wie automatische Crash-Reaktion und Unterstützung bei gestohlenen Fahrzeugen an. Wie ist also die "
+"Privatsphäre von Buick, seinen OnStar-verbundenen Diensten und General Motors? Leider nicht sehr gut."
 
 msgctxt "worst_case"
 msgid ""
@@ -525,7 +530,7 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "In April 2022, GM <a id=\"a1\">suffered</a> a credential stuffing attack."
-msgstr ""
+msgstr "Im April 2022 <a id=\"a1\">erlitt GM</a> einen Credential Stuffing-Angriff."
 
 msgctxt "track_record_details"
 msgid ""
