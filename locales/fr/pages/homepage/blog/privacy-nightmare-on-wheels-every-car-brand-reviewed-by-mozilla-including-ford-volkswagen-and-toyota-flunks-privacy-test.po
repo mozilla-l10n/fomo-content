@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-09-06 06:13:38.662896+00:00\n"
+"PO-Revision-Date: 2023-09-06 06:33+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 84397f7e-3917-462f-9aca-fcb3f3ab91d6\n"
 
 msgctxt "search_description"
@@ -185,3 +190,5 @@ msgstr ""
 msgctxt "title"
 msgid "‘Privacy Nightmare on Wheels’:  Every Car Brand Reviewed By Mozilla — Including Ford, Volkswagen and Toyota — Flunks Privacy Test"
 msgstr ""
+"« Les murs ont des oreilles… et votre voiture aussi ! » Le constat est sans appel : tous les constructeurs automobiles passés en revue par Mozilla, y compris Ford, Volkswagen et Toyota, présentent "
+"d’importantes lacunes en termes de confidentialité"
