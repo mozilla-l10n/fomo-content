@@ -3110,31 +3110,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/1-instructors-guid
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/2-syllabus.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/2-syllabus.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/3-lecture.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/3-lecture.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/4-project.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/4-project.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/5-assignment.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/5-assignment.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/6-dataset.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/6-dataset.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/responsible-computing-challenge-playbook.pot"
 l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook.po"
 locales = [ "fr",]
@@ -3252,31 +3227,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.RCCTopic/6-surveillance.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/6-surveillance.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/9-research-report.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/9-research-report.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/10-podcast.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/10-podcast.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/11-mozilla-blogs.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/11-mozilla-blogs.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/8-interactive-resource.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/8-interactive-resource.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/7-case.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/7-case.po"
 locales = [ "fr",]
 
 [[paths]]
