@@ -3115,11 +3115,6 @@ l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/12-freedom-of-expression.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/12-freedom-of-expression.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.RCCTopic/9-e-waste.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/9-e-waste.po"
 locales = [ "fr",]
@@ -3145,43 +3140,8 @@ l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/15-cryptography-and-law.
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/11-social-media-and-social-networks.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/11-social-media-and-social-networks.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.RCCTopic/1-privacy.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/1-privacy.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/22-poloarization.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/22-poloarization.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/10-plagarism.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/10-plagarism.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/2-open-computing.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/2-open-computing.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/21-misinformation.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/21-misinformation.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/14-internet-accessdigitial-divide.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/14-internet-accessdigitial-divide.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/3-intellectual-property.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/3-intellectual-property.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3200,28 +3160,8 @@ l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/18-discriminiation.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/16-data-reliability.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/16-data-reliability.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/23-dark-web.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/23-dark-web.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/5-cybersecurity.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/5-cybersecurity.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.RCCTopic/13-workplace-automation.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/13-workplace-automation.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/7-technology-and-wealth.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/7-technology-and-wealth.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3255,11 +3195,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/8-programming-l
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/4-networking.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/4-networking.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.RCCCurricularArea/2-human-computer-interface.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/2-human-computer-interface.po"
 locales = [ "fr",]
@@ -3275,23 +3210,8 @@ l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/11-hardware-sys
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/3-game-design.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/3-game-design.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/7-data-science.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/7-data-science.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.RCCCurricularArea/6-databases-and-information-security.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/6-databases-and-information-security.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/5-computer-graphics.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/5-computer-graphics.po"
 locales = [ "fr",]
 
 [[paths]]
