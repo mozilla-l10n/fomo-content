@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-09-14 09:31:34.390929+00:00\n"
-"PO-Revision-Date: 2023-09-14 13:06+0000\n"
+"PO-Revision-Date: 2023-09-14 13:29+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -21,6 +21,10 @@ msgid ""
 "Amazon Web Services (AWS) to Google Cloud Platform (GCP) in coming weeks. This move is part of a wider effort by the Mozilla Foundation to move projects onto a single hosting provider to streamline "
 "costs and service needs. We’ll be moving from AWS to GCP on <b>08:00 UTC Monday September 18th, 2023</b>."
 msgstr ""
+"L’équipe Common Voice a à cœur de proposer à nos contributeur·trice·s et aux utilisateur·trice·s de nos jeux de données l’expérience la plus stable possible à long terme. Dans le cadre de cet "
+"engagement, nous allons migrer Common Voice d’Amazon Web Services (AWS) vers Google Cloud Platform (GCP) dans les prochaines semaines. Cette migration fait partie d’une initiative plus large de la "
+"Fondation Mozilla visant à déplacer les projets chez un fournisseur d’hébergement unique afin de rationaliser les coûts et les besoins de services. Nous passerons d’AWS à GCP le lundi "
+"18 septembre 2023 à <b>08:00 UTC.</b>"
 
 msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
 msgid "What does this mean for Common Voice uptime and services?"
@@ -29,7 +33,7 @@ msgstr "Qu’est-ce que cela implique pour la disponibilité et les services Com
 msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
 msgid "Because we’ll be switching cloud hosting providers, the Common Voice platform will be temporarily unavailable for up to 120 minutes starting from <b>08:00 UTC Monday September 18th, 2023</b>."
 msgstr ""
-"Dans le cadre de notre changement de fournisseur d’hébergement cloud, la plateforme Common Voice sera temporairement indisponible pendant 120 minutes à partir de <b>08h00 UTC le lundi "
+"Dans le cadre de notre changement de fournisseur d’hébergement cloud, la plateforme Common Voice sera temporairement indisponible pendant 120 minutes à partir de <b>08h00 UTC le lundi "
 "18 septembre 2023</b>."
 
 msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
