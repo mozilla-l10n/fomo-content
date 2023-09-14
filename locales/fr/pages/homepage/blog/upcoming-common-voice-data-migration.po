@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-09-14 09:31:34.390929+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 734ec2db-be62-4d0c-89e6-32f478e2627a\n"
+
+msgctxt "search_description"
+msgid "Common Voice will be migrating from AWS to GCP on September 18th and will have up to 2 hours of interrupted service."
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid ""
+"The Common Voice team is passionate about offering our contributors and our dataset users the most stable long term experience possible. As part of that commitment, we’re moving our hosting from "
+"Amazon Web Services (AWS) to Google Cloud Platform (GCP) in coming weeks. This move is part of a wider effort by the Mozilla Foundation to move projects onto a single hosting provider to streamline "
+"costs and service needs. We’ll be moving from AWS to GCP on <b>08:00 UTC Monday September 18th, 2023</b>."
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "What does this mean for Common Voice uptime and services?"
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "Because we’ll be switching cloud hosting providers, the Common Voice platform will be temporarily unavailable for up to 120 minutes starting from <b>08:00 UTC Monday September 18th, 2023</b>."
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid ""
+"If the migration passes all our quality control checks at 09:30 UTC, there should be no additional platform downtime. If our quality control checks don’t pass, we’ll roll back the system to our "
+"original hosting to make sure that the Common Voice platform remains available while we troubleshoot any issues."
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid ""
+"Bulk sentence uploads which have been slowed or stalled during the migration process should be unblocked and run as usual after the migration process is complete. A planned update to uploading bulk "
+"sentences should be coming in the near future, following this migration process. Check back in coming weeks for a faster, easier way to upload bulk sentences to your Common Voice language(s) or "
+"choice!"
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "What does this mean for Common Voice medium term?"
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid ""
+"There should be no changes to the functionality of the platform or the availability of datasets after the changeover on September 18th. But if you do notice unexpected behavior or have any problems "
+"with access, we would appreciate you letting us know about your experience by <a id=\"a1\">raising an issue</a> on Github or contacting the team at commonvoice@mozilla.com."
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "What does this mean for Common Voice long term?"
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid ""
+"Longer term, we don’t expect the user experience of the Common Voice platform to radically change due to this cloud migration process. We hope that after this migration that our user, researcher and"
+" contributor communities don’t need to worry about our hosting again for the foreseeable future."
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid ""
+"After the work on this migration process is complete, we will be bringing you a series of updates and new features to the Common Voice platform to help enrich your experience. If you have any "
+"suggestions for what you would like us to work on next, our contact details are below."
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "Contact Us"
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "We would love to hear from the community about this migration process, how you use Common Voice or hear your suggestions in general! There’s a range of different ways to get in touch with us:"
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "Raise a <a id=\"a1\">GitHub issue</a> about a problem, bug or feature request"
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "Come <a id=\"a1\">chat with us</a> and each other in our Matrix instance"
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "Come <a id=\"a1\">chat with us asynchronously</a> in our forums"
+msgstr ""
+
+msgctxt "body.1052c277-e68d-426e-8c3e-19efd93977fa"
+msgid "Email the team directly at commonvoice@mozilla.com"
+msgstr ""
+
+msgctxt "title"
+msgid "Upcoming Common Voice Data Migration"
+msgstr ""

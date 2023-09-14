@@ -3245,6 +3245,11 @@ l10n = "locales/{locale}/pages/homepage/campaigns/sign-our-petition-to-stop-fran
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/upcoming-common-voice-data-migration.pot"
+l10n = "locales/{locale}/pages/homepage/blog/upcoming-common-voice-data-migration.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
