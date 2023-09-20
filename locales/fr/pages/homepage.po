@@ -24,12 +24,12 @@ msgid "Homepage"
 msgstr "Page d’accueil"
 
 msgctxt "hero_headline"
-msgid "Cars Are A Privacy Nightmare"
-msgstr "Les voitures sont un véritable cauchemar sur le plan de la vie privée"
+msgid "MozFest House Kenya: See The Lineup"
+msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Read The Latest *Privacy Not Included Guide"
-msgstr "Lire le dernier guide *Confidentialité non incluse"
+msgid "Learn More"
+msgstr "En savoir plus"
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -72,20 +72,20 @@ msgid "Take action"
 msgstr "Passez à l’action"
 
 msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
-msgid "Tell TikTok: Stop misleading Android users"
-msgstr "Dites-le à TikTok : arrêtez de tromper les utilisateurs d’Android"
+msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
+msgstr ""
 
 msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
-msgid "Tell Slack: Make DMs Safe"
-msgstr "Dites à Slack de renforcer la sécurité des messages privés"
+msgid "TikTok: Stop Misleading Android Users"
+msgstr ""
 
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-msgid "Tell Tinder: It’s time for pricing algorithm transparency"
-msgstr "Dites à Tinder qu’il est temps d’être transparente au sujet de ses algorithmes de tarification"
+msgid "Stop France From Forcing Browsers To Censor Websites"
+msgstr ""
 
 msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
-msgid "Tell YouTube: Give users real control over recommendations!"
-msgstr "Dites-le à YouTube : laissez les internautes contrôler leurs recommandations !"
+msgid "Car Companies: Stop Your Data Collection Programs"
+msgstr ""
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -280,6 +280,10 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Aidez à empêcher la censure des sites web en France"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Cars Are A Privacy Nightmare"
+#~ msgstr "Les voitures sont un véritable cauchemar sur le plan de la vie privée"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Cars!* (*Privacy Not Included)"
 #~ msgstr "Les voitures* (*Confidentialité non incluse)"
 
@@ -330,10 +334,6 @@ msgstr "Logo de Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Call For Projects Now Open"
 #~ msgstr "L’appel à projets est ouvert"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Learn More"
-#~ msgstr "En savoir plus"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn More Here"
@@ -395,6 +395,10 @@ msgstr "Logo de Consumers International"
 #~ msgid "Sign the Petition"
 #~ msgstr "Signer la pétition"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Latest *Privacy Not Included Guide"
+#~ msgstr "Lire le dernier guide *Confidentialité non incluse"
+
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
 #~ msgstr "Les choses à savoir à propos de Venmo"
@@ -435,14 +439,30 @@ msgstr "Logo de Consumers International"
 #~ msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
 #~ msgstr "Dites à Tinder qu’il est temps d’être transparente au sujet de ses algorithmes de tarification !"
 
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Tell Tinder: It’s time for pricing algorithm transparency"
+#~ msgstr "Dites à Tinder qu’il est temps d’être transparente au sujet de ses algorithmes de tarification"
+
 #~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 #~ msgid "Tell YouTube: Give users real control over their video recommendations!"
 #~ msgstr "Dites-le à YouTube : laissez les internautes contrôler leurs recommandations vidéo !"
+
+#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+#~ msgid "Tell TikTok: Stop misleading Android users"
+#~ msgstr "Dites-le à TikTok : arrêtez de tromper les utilisateurs d’Android"
 
 #~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
 #~ msgid "Let’s open the door for social media researchers."
 #~ msgstr "Ouvrons la porte aux chercheurs et chercheuses en réseaux sociaux."
 
+#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
+#~ msgid "Tell Slack: Make DMs Safe"
+#~ msgstr "Dites à Slack de renforcer la sécurité des messages privés"
+
 #~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 #~ msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
 #~ msgstr "Investir dans notre planète - L’intersectionnalité du climat et de la technologie"
+
+#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
+#~ msgid "Tell YouTube: Give users real control over recommendations!"
+#~ msgstr "Dites-le à YouTube : laissez les internautes contrôler leurs recommandations !"
