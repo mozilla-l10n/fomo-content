@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-09-29 07:13:45.942614+00:00\n"
+"PO-Revision-Date: 2023-09-29 07:21+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d84e694b-5207-4313-954c-ac702e2a4a9c\n"
 
 msgctxt "header"
 msgid "Thanks for taking action. Can you do 2 more things?"
-msgstr ""
+msgstr "Danke, dass sie sich für das Internet stark machen. Zwei kleine Bitten noch an Sie …"
 
 msgctxt "body"
 msgid ""
@@ -16,11 +21,14 @@ msgid ""
 "<br/> <br/>First, if you've never received emails from Mozilla before, look in your email in a few minutes for a message. If you want to receive updates on this campaign and others, you must click the link in your inbox to opt-in for emails.\r"
 "<br/> <br/>Second, can you add a donation to Mozilla to help us bring back net neutrality? Most people give around $28 USD, and your contribution will support our work to reclaim the internet from big tech."
 msgstr ""
+"Vielen Dank, dass Sie sich aktiv für die Netzneutralität ausgesprochen haben! Zwei Dinge gibt es noch, um die wir Sie gerne bitten möchten.\r"
+"<br/> <br/>Erstens: Falls Sie bislang keine E-Mails von Mozilla erhalten haben, schauen Sie in ein paar Minuten in Ihren Posteingang. Sie finden darin eine E-Mail mit einem Link, den Sie anklicken müssen, um zu bestätigen, dass Sie Updates zu dieser und anderen Kampagnen erhalten möchten.\r"
+"<br/> <br/>Zweitens: Wären Sie bereit, Mozilla mit einer Spende dabei zu unterstützen, die Netzneutralität zurückzuholen? Die meisten helfen uns mit XX € dabei, das freie Internet durch unsere Arbeit vor den Klauen datenhungriger Technikunternehmen zu schützen."
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Ja, ich spende gern"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Nein, danke"
