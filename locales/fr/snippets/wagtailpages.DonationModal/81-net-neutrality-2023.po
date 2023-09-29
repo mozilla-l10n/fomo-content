@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-09-29 07:14:12.251667+00:00\n"
+"PO-Revision-Date: 2023-09-29 07:19+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f259cdfa-cdc2-4e28-8478-55da7254c4f9\n"
 
 msgctxt "header"
 msgid "Thanks for taking action. Can you do 2 more things?"
-msgstr ""
+msgstr "Merci d’avoir soutenu notre action. Nous avons encore 2 (petites) choses à vous demander."
 
 msgctxt "body"
 msgid ""
@@ -16,11 +21,14 @@ msgid ""
 "<br/> <br/>First, if you've never received emails from Mozilla before, look in your email in a few minutes for a message. If you want to receive updates on this campaign and others, you must click the link in your inbox to opt-in for emails.\r"
 "<br/> <br/>Second, can you add a donation to Mozilla to help us bring back net neutrality? Most people give around $28 USD, and your contribution will support our work to reclaim the internet from big tech."
 msgstr ""
+"Merci d’avoir apporté votre soutien à la neutralité du net. Nous avons encore deux choses à vous demander.\r"
+"<br/> <br/>Premièrement, si vous n’avez encore jamais reçu d’e-mail de Mozilla, pourriez-vous vous connecter à votre boîte de réception dans quelques minutes ? Vous y trouverez un message de notre part. Cliquez sur le lien qu’il contient pour recevoir nos e-mails et être tenu·e au courant des suites de cette campagne, mais aussi des autres.\r"
+"<br/> <br/>Deuxièmement, seriez-vous prêt·e à faire un don à Mozilla pour nous aider à rétablir la neutralité du net ? La plupart des gens donnent environ 28 € et votre contribution permettra de soutenir nos actions visant à empêcher les géants de la technologie de faire main basse sur Internet."
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Oui, je participe"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Non merci"
