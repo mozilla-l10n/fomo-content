@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-09-29 07:14:26.647417+00:00\n"
+"PO-Revision-Date: 2023-09-29 07:21+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 16405ded-4c43-4e89-a2d3-d51a31c62842\n"
 
 msgctxt "header"
 msgid "Thanks for taking action. Can you do 2 more things?"
-msgstr ""
+msgstr "Agradecemos a sua atitude. Antes de ir, poderia fazer duas coisinhas?"
 
 msgctxt "body"
 msgid ""
@@ -16,11 +21,14 @@ msgid ""
 "<br/> <br/>First, if you've never received emails from Mozilla before, look in your email in a few minutes for a message. If you want to receive updates on this campaign and others, you must click the link in your inbox to opt-in for emails.\r"
 "<br/> <br/>Second, can you add a donation to Mozilla to help us bring back net neutrality? Most people give around $28 USD, and your contribution will support our work to reclaim the internet from big tech."
 msgstr ""
+"Agradecemos por manifestar seu apoio à neutralidade da rede. Queremos lhe pedir mais duas coisas.\r"
+"<br/> <br/>Primeiro, se você nunca recebeu e-mails da Mozilla antes, fique de olho na sua caixa de entrada. Você receberá uma mensagem em alguns minutos. Se quiser receber atualizações sobre esta e outras campanhas, é só clicar no link nesse e-mail para confirmar seu interesse.\r"
+"<br/> <br/>Segundo, que tal contribuir com uma doação e ajudar a Mozilla a trazer de volta a neutralidade da rede? A maioria das pessoas contribui com cerca de R$ 28. Essa contribuição será usada para resgatar a internet das mãos das grandes empresas de tecnologia."
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Sim, conte comigo"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Agradeço, mas não"
