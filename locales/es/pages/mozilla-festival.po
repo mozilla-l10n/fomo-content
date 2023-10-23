@@ -12,13 +12,12 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 7c217d84-daca-47e2-847a-ed121d812464\n"
 
 msgctxt "seo_title"
-msgid "Mozilla Festival 2023"
-msgstr "Festival Mozilla 2023"
+msgid "Mozilla Festival"
+msgstr "Festival Mozilla"
 
 msgctxt "search_description"
-msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in September 2023?"
+msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI."
 msgstr ""
-"Activistas del movimiento de la salud de Internet se reunirán en el MozFest para generar cambios en tecnología, arte, responsabilidad social, ética e IA. ¿Te unirás a nosotros en septiembre de 2023?"
 
 msgctxt "title"
 msgid "Mozilla Festival"
@@ -33,7 +32,7 @@ msgid "Arrive with an idea, leave with a community."
 msgstr "Llegas con una idea, te vas con una comunidad."
 
 msgctxt "banner_cta_label"
-msgid "Watch the MozFest House: Kenya aftermovie"
+msgid "Watch the aftermovie"
 msgstr ""
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
@@ -222,21 +221,29 @@ msgid "<b>Discover the award-winning</b> <a id=\"a1\"><b>MozFest Book</b></a>, a
 msgstr "<b>Descubre el galardonado</b> <a id=\"a1\"><b>MozFest Book</b></a>, una celebración de nuestro pasado y futuro."
 
 msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
-msgid "Our Latest Dialogues and Debates"
-msgstr "Nuestros últimos diálogos y debates"
+msgid "Our Next Dialogues and Debates"
+msgstr ""
 
 msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
-msgid "Catch up on the latest in our amazing Dialogues and Debates series!"
+msgid "Tuesday 24th October 2023 at 9AM EST / 3PM CEST / 4PM EAT"
 msgstr ""
 
 msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 msgid ""
-"Daniel Motaung is a former content moderator and unionizer, working towards a fairer future of digital work on the African continent. Watch his captivating keynote address followed by an in-depth "
-"discussion with Koliwe Majama, Senior Program Manager at Mozilla."
+"Join our luminary panelists, Harvey Binamu, Lawrence Mute, Sandra Kwikiriza, Weam Shawgi Hassan, and our moderator, Roselyn Odoyo as we delve into tech and AI's impact on African communities, tackle"
+" the hurdles of misinformation, and uncover ways to craft a better digital experience."
 msgstr ""
 
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
-msgid "https://www.youtube.com/embed/ledRDgfnjtk?si=POwAUQNuenOE2LPi"
+msgid "https://www.youtube.com/embed/nTAV410IHfM"
+msgstr ""
+
+msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.caption"
+msgid "Watch all the MozFest 2023 Dialogues and Debates on YouTube"
+msgstr ""
+
+msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.captionURL"
+msgid "https://www.youtube.com/playlist?list=PLnRGhgZaGeBvI1P49NCeY1GyExB14Dmgs"
 msgstr ""
 
 #~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
@@ -380,6 +387,10 @@ msgstr ""
 #~ msgstr "Únete a Slack"
 
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
+#~ msgid "Our Latest Dialogues and Debates"
+#~ msgstr "Nuestros últimos diálogos y debates"
+
+#~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid ""
 #~ "Technology further codifies biases and categorizes personhood, not simply a reflection of the society that creates it but possibly an imperfect and flawed mirror of it. That has resulted in software"
 #~ " and AI systems that are at odds with fluidity, that endanger the privacy and security of the LGBTQIA+ community, and often infer heteronormative assumptions and forces binary gender "
@@ -484,6 +495,10 @@ msgstr ""
 #~ msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2023?"
 #~ msgstr ""
 #~ "Activistas del movimiento de la salud de Internet se reunirán en el MozFest para generar cambios en tecnología, arte, responsabilidad social, ética e IA. ¿Te unirás a nosotros en marzo de 2023?"
+
+#~ msgctxt "seo_title"
+#~ msgid "Mozilla Festival 2023"
+#~ msgstr "Festival Mozilla 2023"
 
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."
@@ -800,3 +815,8 @@ msgstr ""
 #~ msgctxt "body.ed226723-8560-4fb7-b4c3-c7033981b832.button.939f27b3-07ef-4345-ad34-4af54bd1d7cf.label"
 #~ msgid "Explore All Sessions"
 #~ msgstr "Explorar todas las sesiones"
+
+#~ msgctxt "search_description"
+#~ msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in September 2023?"
+#~ msgstr ""
+#~ "Activistas del movimiento de la salud de Internet se reunirán en el MozFest para generar cambios en tecnología, arte, responsabilidad social, ética e IA. ¿Te unirás a nosotros en septiembre de 2023?"
