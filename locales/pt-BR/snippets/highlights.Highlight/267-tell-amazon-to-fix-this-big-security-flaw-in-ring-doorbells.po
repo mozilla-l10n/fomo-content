@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-10-12 13:01:13.660146+00:00\n"
+"PO-Revision-Date: 2023-11-01 13:46+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 14597faa-b715-478d-8439-75feb35fc1a3\n"
 
 msgctxt "title"
 msgid "Tell Amazon to Fix this Big Security Flaw in Ring Doorbells"
-msgstr ""
+msgstr "Diga à Amazon para corrigir a grave falha de segurança nas campainhas Ring"
 
 msgctxt "description"
 msgid "Research commissioned by Mozilla exposed that attackers can easily take Ring devices."
@@ -16,8 +21,8 @@ msgstr ""
 
 msgctxt "link_label"
 msgid "Join The Campaign"
-msgstr ""
+msgstr "Participe da campanha"
 
 msgctxt "footer"
 msgid "Amazon is still ignoring a major security issue with its Ring Doorbell."
-msgstr ""
+msgstr "A Amazon continua ignorando um grande problema de segurança em suas campainhas Ring."
