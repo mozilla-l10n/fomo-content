@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-06 13:50:15.347824+00:00\n"
+"PO-Revision-Date: 2023-11-06 14:00+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 7ca03744-55c6-43d3-bbb8-0496c8dd1f2e\n"
 
 msgctxt "header"
 msgid "Thanks for signing! Here's what else you can do."
-msgstr ""
+msgstr "¡Gracias por firmar! A continuación te decimos qué más puedes hacer."
 
 msgctxt "body"
 msgid ""
@@ -16,11 +21,14 @@ msgid ""
 "for a message. If you want to receive updates on trustworthy AI and our other campaigns, you must click the link in your inbox to opt-in for emails. Second, can you add a donation to Mozilla to help"
 " us fight for trustworthy AI? Most people give around $27 USD, and your contribution will support our work on AI."
 msgstr ""
+"Gracias por unirte al movimiento de Mozilla por una IA confiable. Queremos pedirte dos cosas más. Primero, si nunca antes has recibido mensajes de correo electrónico de Mozilla, revisa en unos "
+"minutos más si recibiste uno. Si deseas recibir actualizaciones respecto a una IA confiable y nuestras demás campañas, da clic en el enlace para aceptar nuestros correos. Segundo, ¿puedes agregar "
+"una donación a Mozilla para ayudarnos a luchar por una IA confiable? Muchas personas donan unos $27 y tu contribución apoyará nuestro trabajo sobre la IA."
 
 msgctxt "donate_text"
 msgid "Yes, I'll add a donation"
-msgstr ""
+msgstr "Sí, haré una donación."
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "No, gracias"
