@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-06 13:50:38.049833+00:00\n"
+"PO-Revision-Date: 2023-11-06 14:03+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 9302ef2a-a275-4a00-8269-ebcbaa3f2bdc\n"
 
 msgctxt "header"
 msgid "Thanks for signing! Here's what else you can do."
-msgstr ""
+msgstr "Dziękujemy za podpisanie petycji! Zobacz, jak jeszcze możesz nam pomóc."
 
 msgctxt "body"
 msgid ""
@@ -16,11 +21,14 @@ msgid ""
 "for a message. If you want to receive updates on trustworthy AI and our other campaigns, you must click the link in your inbox to opt-in for emails. Second, can you add a donation to Mozilla to help"
 " us fight for trustworthy AI? Most people give around $27 USD, and your contribution will support our work on AI."
 msgstr ""
+"Dziękujemy za dołączenie do ruchu Mozilli na rzecz godnej zaufania SI. Chcielibyśmy prosić Cię jeszcze o dwie rzeczy. Po pierwsze, jeśli nie zdarzyło Ci się wcześniej otrzymać wiadomości e-mail od "
+"Mozilli, sprawdź swoją skrzynkę za kilka minut. Jeśli chcesz otrzymywać aktualności dotyczące tej i innych kampanii, kliknij link w otrzymanej wiadomości, aby wyrazić zgodę na e-maile. Po drugie, "
+"czy możesz przekazać Mozilli datek na pomoc w walce o godną zaufania SI? Wpłaty wynoszą zwykle ok. 112 PLN. Twój datek pomoże w naszych działaniach na rzecz sztucznej inteligencji."
 
 msgctxt "donate_text"
 msgid "Yes, I'll add a donation"
-msgstr ""
+msgstr "Tak, chcę przekazać datek"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Nie, dziękuję"
