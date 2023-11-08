@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-23 10:05:09.663209+00:00\n"
-"PO-Revision-Date: 2022-11-14 17:01+0000\n"
+"PO-Revision-Date: 2023-11-08 15:42+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr "Ne connectez pas votre application Garmin à des réseaux sociaux comme 
 
 msgctxt "tips_to_protect_yourself"
 msgid "When you no longer use the app, go to \"Delete account\" in the app menu"
-msgstr ""
+msgstr "Lorsque vous n’utilisez plus l’application, accédez à « Supprimer le compte » dans le menu de l’application"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn off precise location sharing!"
@@ -170,6 +170,7 @@ msgstr "Choisissez un mot de passe compliqué. Vous pouvez utiliser un gestionna
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)"
 msgstr ""
+"Utilisez les contrôles de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (ne donnez pas accès à votre caméra, microphone, images et vidéos)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
@@ -186,20 +187,24 @@ msgstr "Ne vous inscrivez pas avec un compte tiers. Il vaut mieux vous connecter
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Choisissez un mot de passe compliqué. Vous pouvez utiliser un gestionnaire de mots de passe comme 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utilisez les contrôles de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (ne donnez pas accès à votre caméra, microphone, images et "
+"emplacement, sauf si nécessaire)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Mettez votre application à jour régulièrement"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limitez le suivi publicitaire via votre appareil (sur iPhone par exemple, accédez à Confidentialité -&gt; Publicité -&gt; Limiter le suivi publicitaire) et les plus grands réseaux publicitaires "
+"(pour Google, accédez à votre compte Google et désactivez la personnalisation des annonces)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
@@ -250,6 +255,9 @@ msgid ""
 "We request individuals under the age of 13 in the U.S. and under the age of 16 in the rest of the world not provide personal data to Garmin. If we learn that we have collected personal data from a "
 "child under the age of 13 in the U.S. or under 16 in the rest of the world, we will take steps to delete the information as soon as possible."
 msgstr ""
+"Nous demandons aux personnes de moins de 13 ans résidant aux États-Unis et de moins de 16 ans dans le reste du monde de ne pas fournir de données personnelles à Garmin. Si nous apprenons que nous "
+"avons collecté des données personnelles d’une personne de moins de 13 ans aux États-Unis ou de moins de 16 ans dans le reste du monde, nous prendrons des mesures pour supprimer ces données aussi "
+"vite que possible."
 
 msgctxt "ai_helptext"
 msgid "Garmin uses Machine Learning (ML) to provide personalized insights to customers who wish to receive them as they pursue their fitness and wellness goals."
