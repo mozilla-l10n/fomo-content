@@ -1,4 +1,4 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:36.567401+00:00\n"
@@ -271,11 +271,13 @@ msgstr "En juillet 2023, Apple et Amazon ont été condamnés à <a id=\"a1\">ve
 
 msgctxt "track_record_details"
 msgid "In January 2023, Apple was <a id=\"a1\">fined</a> €8M in French privacy case."
-msgstr ""
+msgstr "En janvier 2023, Apple a été condamné à <a id=\"a1\">verser une amende</a> de 8 millions d'euros dans le cadre du procès sur la protection de la vie privée en France."
 
 msgctxt "track_record_details"
 msgid "<a id=\"a1\">In 2022</a>, Apple identified and patched serious security vulnerabiiliites, one that could allow hackers <a id=\"a2\">take full control</a> of iOS devices."
 msgstr ""
+"<a id=\"a1\">En 2022</a>, Apple a identifié et corrigé de sérieuses failles de sécurité, l’une d’entre elles pouvant permettre à des hackers de <a id=\"a2\">prendre le contrôle total</a> des "
+"appareils fonctionnant sous iOS."
 
 msgctxt "track_record_details"
 msgid "<a id=\"a1\">In 2022</a>, Apple allegedly gave user data to <a id=\"a2\">hackers who faked</a> being law enforcement and forged requests for information."
@@ -302,7 +304,7 @@ msgstr ""
 
 msgctxt "child_safety_blurb"
 msgid "Apple Privacy Policy"
-msgstr ""
+msgstr "Politique de confidentialité d'Apple"
 
 msgctxt "child_safety_blurb"
 msgid ""
@@ -328,6 +330,8 @@ msgid ""
 "Apple states in its privacy policy, \"Apple does not use algorithms or profiling to make any decision that would significantly affect you without the opportunity for human review.\" Apple employs "
 "machine learning in many different ways, from using it to to improve Siri to using it to sharpen the photos that you take."
 msgstr ""
+"Apple déclare dans sa politique de confidentialité : « Apple n'utilise pas d'algorithmes ou de méthodes de profilage pour prendre des décisions qui vous affecteraient de manière significative sans "
+"la possibilité de recourir à un jugement humain ». Apple utilise l'apprentissage automatique de différentes manières, que ce soit pour améliorer Siri ou pour améliorer la qualité de vos photos."
 
 #~ msgctxt "price"
 #~ msgid "329 - $999"
