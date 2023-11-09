@@ -88,10 +88,10 @@ msgctxt "worst_case"
 msgid ""
 "Oh, let’s not forget Amazon’s terrible, awful, no-good track record at protecting and respecting their customers' data. So far in 2023 alone, Amazon has been been charged by the FTC in the US for <a"
 " id=\"a1\">violating children's privacy laws</a> by keeping kids voice recordings and location data for years and<a id=\"a2\"> undermining parent's deletion requests</a> of their kids data. This <a "
-"id=\"a3\">resulted in Amazon</a> agreeing to pay a $25 million penalty. Then Amazon got sued by the FTC for <a id=\"a4\">enrolling people in Amazon Prime without their consen</a>t and then making it"
+"id=\"a3\">resulted in Amazon</a> agreeing to pay a $25 million penalty. Then Amazon got sued by the FTC for <a id=\"a4\">enrolling people in Amazon Prime without their consent</a> and then making it"
 " way too hard to cancel the subscription. Amazon also <a id=\"a5\">had to settle with the FTC again</a> for $5,8 million for <a id=\"a6\">poor privacy and security in their Ring cameras</a> that let"
-" employees spy on customers through the cameras. Shoot, last year we here at *Privacy Not Included f<a id=\"a7\">ound a security vulnerability in Ring cameras and reported to Amazon to fix</a>. "
-"They, so far as we can tell, have done nothing to fix this security issue. All this and then in September, 2023 <a id=\"a8\">the FTC and 17 US state Attorneys Genera</a>l sued Amazon for \"illegally"
+" employees spy on customers through the cameras. Shoot, last year we here at *Privacy Not Included <a id=\"a7\">found a security vulnerability in Ring cameras and reported to Amazon to fix</a>. "
+"They, so far as we can tell, have done nothing to fix this security issue. All this and then in September, 2023 <a id=\"a8\">the FTC and 17 US state Attorneys General</a> sued Amazon for \"illegally"
 " maintaining monopoly power.\""
 msgstr ""
 
@@ -256,16 +256,75 @@ msgstr "Amazon tiene un <a id=\"a1\">programa de cazadores de bugs</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
-"- Manage your preferences for third parties and <a id=\"a1\">reset your Alexa Advertising IDs</a>, by visiting <b>Settings &gt; Alexa Privacy &gt; Manage Skill Permissions and Ad Preferences</b> in "
-"the Alexa app and Echo Show devices.<br/>- <a id=\"a2\">Switch off interest-based ads</a> delivered by Amazon on Alexa. You can manage this setting at <b>Settings &gt; Alexa Privacy &gt; Manage Your"
-" Alexa Data</b> in the Alexa app and Echo Show devices.<br/>- Manage your <a id=\"a3\">Alexa privacy settings</a><br/>- Turn on \"<a id=\"a4\">Do Not Send Voice Recordings</a>\"<br/> - Turn the "
-"microphone off when you do not need it<br/>- Regularly delete your voice history or set an auto-deletion of the old voice data<br/>- Minimize usage of Alexa Skills to only the most trusted "
-"ones<br/>- When using Amazon Skills, be mindful that they are not operating under Amazon's privacy policy. Better not share sensitive data with Skills' developers.<br/>- Set up Anonymous Mode when "
-"using the app to protect your data<br/>- Do not sign up with third-party accounts. Better just log in with email and strong password.<br/>- Chose a strong password! You may use a password control "
-"tool like 1Password, KeePass etc<br/>- Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless "
-"neccessary)<br/>- Keep your app regularly updated<br/>- Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, "
-"go to Google account and turn off ad personalization)<br/>- Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal "
-"data.<br/>- When starting a sign-up, do not agree to tracking of your data if possible."
+"Manage your preferences for third parties and <a id=\"a1\">reset your Alexa Advertising IDs</a>, by visiting <b>Settings &gt; Alexa Privacy &gt; Manage Skill Permissions and Ad Preferences</b> in "
+"the Alexa app and Echo Show devices."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid ""
+"<a id=\"a1\">Switch off interest-based ads</a> delivered by Amazon on Alexa. You can manage this setting at <b>Settings &gt; Alexa Privacy &gt; Manage Your Alexa Data</b> in the Alexa app and Echo "
+"Show devices."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Manage your <a id=\"a1\">Alexa privacy settings</a>"
+msgstr "Administra tu <a id=\"a1\">configuración de privacidad en Alexa</a>"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Turn on \"<a id=\"a1\">Do Not Send Voice Recordings</a>\""
+msgstr "Activa \"<a id=\"a1\">No enviar grabaciones de voz</a>\""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Turn the microphone off when you do not need it"
+msgstr "Apaga el micrófono cuando no lo necesites"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Regularly delete your voice history or set an auto-deletion of the old voice data"
+msgstr "Elimina regularmente tu historial de voz o configura la eliminación automática de datos de voz antiguos"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Minimize usage of Alexa Skills to only the most trusted ones"
+msgstr "Reduce el uso de las Skills de Alexa solo a las más seguras"
+
+msgctxt "tips_to_protect_yourself"
+msgid "When using Amazon Skills, be mindful that they are not operating under Amazon's privacy policy. Better not share sensitive data with Skills' developers."
+msgstr "Cuando uses Skills de Alexa, ten en cuenta que no funcionan bajo la política de privacidad de Amazon. Es mejor no compartir información confidencial con los desarrolladores de las Skills."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Set up Anonymous Mode when using the app to protect your data"
+msgstr "Configura el modo anónimo cuando utilices la aplicación para proteger tus datos."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
+msgstr "No te registres utilizando una cuenta que ya tengas con terceros. Es mejor que ingreses un correo electrónico y una buena contraseña."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
+msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Keep your app regularly updated"
+msgstr "Actualiza tu aplicación con regularidad"
+
+msgctxt "tips_to_protect_yourself"
+msgid ""
+"Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+msgstr ""
+"Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
+"Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
+msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
+
+msgctxt "tips_to_protect_yourself"
+msgid "When starting a sign-up, do not agree to tracking of your data if possible."
 msgstr ""
 
 msgctxt "personal_data_collected"
@@ -373,7 +432,7 @@ msgstr ""
 msgctxt "track_record_details"
 msgid ""
 "In <a id=\"a1\">April 2019</a>, it was revealed that thousands of employees, many of whom are contract workers and some not even directly employed by Amazon, had access to both voice and text "
-"transcripts of Alexa interactions<a id=\"a2\">.</a>"
+"transcripts of <a id=\"a2\">Alexa interactions</a>."
 msgstr ""
 
 msgctxt "child_safety_blurb"
@@ -415,50 +474,8 @@ msgstr "Amazon Alexa utiliza el procesamiento del lenguaje natural para entender
 #~ "de terceros."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Manage your <a id=\"a1\">Alexa privacy settings</a>"
-#~ msgstr "Administra tu <a id=\"a1\">configuración de privacidad en Alexa</a>"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Turn the microphone off when you do not need it"
-#~ msgstr "Apaga el micrófono cuando no lo necesites"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Regularly delete your voice history or set an auto-deletion of the old voice data"
-#~ msgstr "Elimina regularmente tu historial de voz o configura la eliminación automática de datos de voz antiguos"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Minimize usage of Alexa Skills to only the most trusted ones"
-#~ msgstr "Reduce el uso de las Skills de Alexa solo a las más seguras"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When using Amazon Skills, be mindful that they are not operating under Amazon's privacy policy. Better not share sensitive data with Skills' developers."
-#~ msgstr "Cuando uses Skills de Alexa, ten en cuenta que no funcionan bajo la política de privacidad de Amazon. Es mejor no compartir información confidencial con los desarrolladores de las Skills."
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "When starting a sign-up, do not agree to tracking of your data."
 #~ msgstr "Cuando inicies el registro, no aceptes el seguimiento de tus datos."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Set up Anonymous Mode when using the app to protect your data"
-#~ msgstr "Configura el modo anónimo cuando utilices la aplicación para proteger tus datos."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-#~ msgstr "No te registres utilizando una cuenta que ya tengas con terceros. Es mejor que ingreses un correo electrónico y una buena contraseña."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-#~ msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
-#~ msgstr ""
-#~ "Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
-#~ " que sea estrictamente necesario)."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Keep your app regularly updated"
-#~ msgstr "Actualiza tu aplicación con regularidad"
 
 #~ msgctxt "uses_encryption_helptext"
 #~ msgid "Uses encryption in transit and at rest."
@@ -553,21 +570,6 @@ msgstr "Amazon Alexa utiliza el procesamiento del lenguaje natural para entender
 #~ msgstr ""
 #~ "Amazon dice que <a id=\"a1\">no vende tu información personal</a>. La empresa combina <a id=\"a2\">tus datos de voz</a> con datos de terceros para responder a tus solicitudes y para entrenar el "
 #~ "reconocimiento de voz de Alexa. Puedes optar por no guardar las grabaciones de voz, pero deberás renunciar a algunas funciones."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Turn on \"<a id=\"a1\">Do Not Send Voice Recordings</a>\""
-#~ msgstr "Activa \"<a id=\"a1\">No enviar grabaciones de voz</a>\""
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid ""
-#~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
-#~ msgstr ""
-#~ "Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
-#~ "Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-#~ msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
