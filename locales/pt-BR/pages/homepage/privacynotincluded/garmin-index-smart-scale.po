@@ -123,13 +123,38 @@ msgstr "Para usar aplicativos complementares, é necessária uma conta com senha
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
-"- Be very careful what third party companies you consent to share you health data with. If you do decided to share your health data with another company, read their privacy policy to see how they "
-"protect, secure, and share or sell your data.<br/>- Do not sign up with third-party accounts. Better just log in with email and strong password.<br/>- Chose a strong password! You may use a password"
-" control tool like 1Password, KeePass etc<br/>- Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location"
-" unless necessary)<br/>- Keep your app regularly updated<br/>- Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for "
-"Google, go to Google account and turn off ad personalization)<br/>- Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your "
-"personal data.<br/>- When starting a sign-up, do not agree to tracking of your data if possible."
+"Be very careful what third party companies you consent to share you health data with. If you do decided to share your health data with another company, read their privacy policy to see how they "
+"protect, secure, and share or sell your data."
 msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
+msgstr "Não se cadastre utilizando contas de aplicativos terceiros. É melhor criar um login com seu e-mail e uma senha forte."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Keep your app regularly updated"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid ""
+"Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
+msgstr "Se decidir parar de usar o aplicativo, solicite que seus dados sejam excluídos. Apenas excluir o aplicativo do seu dispositivo não apagará seus dados pessoais da base da empresa."
+
+msgctxt "tips_to_protect_yourself"
+msgid "When starting a sign-up, do not agree to tracking of your data if possible."
+msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se possível."
 
 msgctxt "personal_data_collected"
 msgid ""
@@ -290,20 +315,8 @@ msgstr "A Garmin diz em sua política de privacidade: \"A Garmin não toma qualq
 #~ "em Conta do Google e desative a personalização de anúncios)."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-#~ msgstr "Não se cadastre utilizando contas de aplicativos terceiros. É melhor criar um login com seu e-mail e uma senha forte."
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc."
 #~ msgstr "Escolha uma senha forte! Você pode usar uma ferramenta de controle de senhas, como o 1Password, KeePass, etc."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-#~ msgstr "Se decidir parar de usar o aplicativo, solicite que seus dados sejam excluídos. Apenas excluir o aplicativo do seu dispositivo não apagará seus dados pessoais da base da empresa."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-#~ msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se possível."
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email address, gender (optional), age (optional), date of birth (optional), photos (optional), location"
