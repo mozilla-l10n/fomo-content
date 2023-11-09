@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-09 08:50:13.051477+00:00\n"
-"PO-Revision-Date: 2023-11-09 09:12+0000\n"
+"PO-Revision-Date: 2023-11-09 09:17+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Amazon Echo Auto"
-msgstr ""
+msgstr "Amazon Echo Auto"
 
 msgctxt "blurb"
 msgid ""
@@ -83,6 +83,12 @@ msgid ""
 "buy a pregnancy test through Amazon Alexa, Amazon won't forget you bought that pregnancy test just because you ask them to delete the voice recording of that purchase. That record of the purchase is"
 " data they have on you going forward and may use to target you with ads for more stuff."
 msgstr ""
+"Hablemos un poco de la propia Alexa. La inteligencia artificial de Amazon, que está incorporada a distintas cosas —desde el Echo Auto, hasta tus audífonos y termostato—, acarrea interrogantes e "
+"inquitudes propias. Amazon sí posibilita <a id=\"a1\">la eliminación automática de las grabaciones de voz</a> en cuanto se procesan. Esta característica se agradece después de toda la controversia "
+"relacionada con<a id=\"a2\"> los revisores humanos que escucharon </a> las grabaciones de voz de Alexa. Sin embargo, Amazon dice que cuando borramos nuestras grabaciones de voz, aún pueden conservar"
+" datos de las interacciones que detonaron esas grabaciones. Así que, si adquiriste una prueba de embarazo mediante Amazon Alexa, Amazon no olvidará que la compraste solo porque le pediste eliminar "
+"la grabación de voz de esa compra. Ese registro de la compra es un dato que va a tener de ti a partir de ese momento y que puede utilizarlo para convertirte en el foco de anuncios de otras cosas "
+"más."
 
 msgctxt "worst_case"
 msgid ""
@@ -341,7 +347,7 @@ msgstr "Apaga el micrófono cuando no lo necesites"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Regularly delete your voice history or set an auto-deletion of the old voice dat"
-msgstr ""
+msgstr "Elimina regularmente tu historial de voz o configura la eliminación automática de datos de voz antiguos"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Minimize usage of Alexa Skills to only the most trusted ones"
@@ -366,6 +372,8 @@ msgstr "¡Crea una contraseña fuerte! Puedes utilizar un gestor de contraseñas
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
