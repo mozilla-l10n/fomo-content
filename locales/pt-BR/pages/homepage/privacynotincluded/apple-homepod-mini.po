@@ -513,14 +513,6 @@ msgstr ""
 #~ msgid "Before you give HomePod to someone else, you should remove it from the Home app."
 #~ msgstr "Antes de passar seu HomePod a outra pessoa, você deve removê-lo do app Casa."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nome, email, número de telefone, endereço"
-
-#~ msgctxt "social_data_collected"
-#~ msgid "Contacts"
-#~ msgstr "Contatos"
-
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "Apple grants you right to delete or access your data."
 #~ msgstr "A Apple proporciona a você o direito de excluir ou acessar seus dados."
@@ -542,3 +534,11 @@ msgstr ""
 #~ msgstr ""
 #~ "A Apple afirma na sua Política de Privacidade que \"a Apple não toma nenhuma decisão envolvendo o uso de algoritmos ou perfilamento que afete você de forma significativa\". A Apple se utiliza do "
 #~ "aprendizado de máquina de muitas formas diferentes, desde para aprimorar a Siri até para aumentar a nitidez das fotos que você tira."
+
+#~ msgctxt "social_data_collected"
+#~ msgid "Contacts"
+#~ msgstr "Contatos"
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nome, email, número de telefone, endereço"
