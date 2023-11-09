@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-09 08:50:41.147622+00:00\n"
-"PO-Revision-Date: 2023-11-09 09:31+0000\n"
+"PO-Revision-Date: 2023-11-09 14:23+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Amazon Echo Auto"
-msgstr ""
+msgstr "Amazon Echo Auto"
 
 msgctxt "blurb"
 msgid ""
@@ -310,11 +310,11 @@ msgstr ""
 
 msgctxt "strong_password_helptext"
 msgid "Password-protected Amazon account is needed to set up Alexa."
-msgstr ""
+msgstr "É necessária uma conta protegida por senha da Amazon para configurar a Alexa."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Amazon has a <a id=\"a1\">bug bounty program</a>."
-msgstr ""
+msgstr "A Amazon tem um <a id=\"a1\">programa de caça a bugs com recompensa</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
@@ -346,7 +346,7 @@ msgstr "Desligue o microfone quando não estiver em uso"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Regularly delete your voice history or set an auto-deletion of the old voice dat"
-msgstr ""
+msgstr "Exclua seu histórico de voz regularmente ou defina uma exclusão automática dos dados de voz antigos"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Minimize usage of Alexa Skills to only the most trusted ones"
@@ -362,11 +362,11 @@ msgstr "Configure o Modo Anônimo ao usar o aplicativo para proteger seus dados"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "Não se cadastre com contas de terceiros. É melhor acessar com e-mail e senha forte."
+msgstr "Não se inscreva com contas de terceiros. É melhor acessar somente com email e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como o 1Password, KeePass, etc."
+msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -376,22 +376,22 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr "Mantenha seu aplicativo atualizado regularmente"
+msgstr "Mantenha seu aplicativo sempre atualizado"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
-"Limite o rastreamento de anúncios no seu dispositivo (ex.: no iPhone acesse Privacidade e Segurança -&gt; Publicidade da Apple -&gt; Limitar rastreamento de anúncios) e nas principais redes de "
-"anúncios (para o Google, acesse sua conta Google e desative os anúncios personalizados)"
+"Limite o rastreamento de anúncios no seu dispositivo (por exemplo, no iPhone, acesse Privacidade -> Publicidade -> Limitar rastreamento de anúncios) e principais redes de anúncios (para o Google, "
+"acesse sua conta Google e desative os anúncios personalizados)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr "Se decidir parar de usar o aplicativo, solicite que seus dados sejam excluídos. Apenas excluir o aplicativo do seu dispositivo não apagará seus dados pessoais da base da empresa."
+msgstr "Solicite que seus dados sejam excluídos quando você parar de usar o aplicativo. A simples exclusão de um aplicativo do dispositivo normalmente não apaga seus dados pessoais."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se possível."
+msgstr "Ao realizar uma inscrição, não concorde com o rastreamento de seus dados, se possível."
 
 msgctxt "personal_data_collected"
 msgid ""
@@ -546,7 +546,9 @@ msgid ""
 "Alexa provides some information about its AI at the Alexa FAQ and the Amazon Science webpages.: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a> <a "
 "id=\"a2\">https://www.amazon.science/tag/alexa</a>"
 msgstr ""
+"Alexa fornece algumas informações sobre sua IA no FAQ sobre Alexa e nas páginas da Amazon Science: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a> <a "
+"id=\"a2\">https://www.amazon.science/tag/alexa</a>"
 
 msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
-msgstr ""
+msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para entender você e gerar respostas às suas solicitações."
