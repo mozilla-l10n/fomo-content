@@ -2062,7 +2062,7 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/wyze-cams.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/wyze-cams.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/239-listen-to-the-irl-podcast.pot"
