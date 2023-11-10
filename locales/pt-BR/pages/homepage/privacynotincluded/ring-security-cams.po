@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-09 15:40:40.493067+00:00\n"
-"PO-Revision-Date: 2023-11-09 18:03+0000\n"
+"PO-Revision-Date: 2023-11-10 11:19+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Ring Security Cams"
-msgstr ""
+msgstr "Câmeras de segurança Ring"
 
 msgctxt "blurb"
 msgid ""
@@ -21,6 +21,9 @@ msgid ""
 "on your phone or tablet or your Amazon Echo Show home hub. Ask Alexa to show you what's happening in your backyard, and boom, there it is. You'll need to pay extra for the Ring Protect Plan if you "
 "want to record all your videos, review what you missed for up to 180 days, or share your videos and photos with the world."
 msgstr ""
+"As câmeras de segurança internas e externas da Amazon Ring têm todos os habituais – vídeo HD, visão noturna, ativação de movimento – para colocar sua casa sob vigilância 24 horas. Monitore o vídeo "
+"pelo aplicativo Ring em seu telefone ou tablet ou pelo home hub do Amazon Echo Show. Peça à Alexa para mostrar o que está acontecendo no seu quintal, e pronto. Você precisará pagar mais pelo Plano "
+"Ring Protect se quiser gravar todos os seus vídeos, revisar o que perdeu por até 180 dias ou compartilhar seus vídeos e fotos com o mundo."
 
 msgctxt "worst_case"
 msgid ""
@@ -69,6 +72,9 @@ msgid ""
 "highlighted this when a woman sued her neighbor for infringing on her privacy when his Ring security cameras were found pointed at her home. Not only could his cameras see her, they could also "
 "listen to her as well. <a id=\"a1\">She won her case</a> and $137,000."
 msgstr ""
+"Há também a questão das violações de privacidade dos vizinhos de pessoas que usam câmeras de vigilância doméstica – não apenas a Ring, mas todas as câmeras de vigilância doméstica. Um caso recente "
+"em tribunal no Reino Unido destacou isso quando uma mulher processou seu vizinho por violar sua privacidade quando suas câmeras de segurança Ring foram encontradas apontadas para sua casa. Não só "
+"suas câmeras podiam vê-la, elas também podiam ouvi-la. <a id=\"a1\">Ela ganhou o caso</a> e US$137 mil."
 
 msgctxt "worst_case"
 msgid ""
@@ -198,10 +204,12 @@ msgstr "A autenticação de dois fatores agora é obrigatória após uma grande 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Amazon has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://hackerone.com/ring"
 msgstr ""
+"A Amazon tem um programa de recompensas pela descoberta de bugs, o que significa que qualquer pessoa que encontre um problema de segurança e o divulgue com responsabilidade pode ser paga por isso. "
+"https://hackerone.com/ring"
 
 msgctxt "privacy_policy_helptext"
 msgid "Ring has a webpage dedicated to explaining its privacy pillars and answering frequently asked questions"
-msgstr ""
+msgstr "A Ring tem uma página dedicada a explicar seus pilares de privacidade e responder a perguntas frequentes"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn on <a id=\"a1\">Two-factor Authentication</a>"
@@ -209,7 +217,7 @@ msgstr "Ativar <a id=\"a1\">autenticação de dois fatores</a>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Check</a> if your address is exposed through the Neighbor app"
-msgstr ""
+msgstr "<a id=\"a1\">Verifique</a> se o seu endereço está exposto por meio do aplicativo Neighbors"
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Don't share</a> your login-in information"
@@ -217,7 +225,7 @@ msgstr "<a id=\"a1\">Não compartilhe suas</a> informações de login"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review sharing options for your data, if you have multiple people in the neighborhood"
-msgstr ""
+msgstr "Revise as opções de compartilhamento de seus dados se você tiver várias pessoas na vizinhança"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Make sure you are comfortable with the fact that local police may require the footage. Think about all of the personal events cameras inside and outside of your home will capture."
@@ -305,7 +313,7 @@ msgstr ""
 
 msgctxt "how_can_you_control_your_data"
 msgid "We ding this product because it is unclear if all users regardless of location can get their data deleted."
-msgstr ""
+msgstr "Nós criticamos este produto pois não é claro se todos os usuários, independentemente da localização, podem obter seus dados excluídos."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
