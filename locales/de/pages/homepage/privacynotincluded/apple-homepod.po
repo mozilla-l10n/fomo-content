@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-09 13:31:09.496791+00:00\n"
-"PO-Revision-Date: 2023-11-10 10:23+0000\n"
+"PO-Revision-Date: 2023-11-10 10:39+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption both in transit and at rest."
-msgstr ""
+msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Apple has a bug bounty program. Link: <a id=\"a1\">https://developer.apple.com/security-bounty/</a>"
@@ -165,7 +165,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "You can say “Hey Siri, stop listening” to turn off speech recognition for a period of time"
-msgstr ""
+msgstr "Sie können sagen „Hey Siri, hör auf zuzuhören“, um die Spracherkennung für einige Zeit auszuschalten."
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Turn off</a> Location Services on HomePod"
@@ -177,19 +177,21 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Check out <a id=\"a1\">Apple Homepod</a> privacy controls."
-msgstr ""
+msgstr "Schauen Sie sich die Datenschutzeinstellungen von <a id=\"a1\">Apple HomePod</a> an."
 
 msgctxt "tips_to_protect_yourself"
 msgid "You can turn off location services on your Homepod, too"
-msgstr ""
+msgstr "Sie können auch die Ortungsdienste auf Ihrem HomePod deaktivieren"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Before you give HomePod to someone else, you should remove it from the Home app"
-msgstr ""
+msgstr "Bevor Sie den HomePod an eine andere Person weitergeben, sollten Sie ihn aus der Home-App entfernen"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)"
 msgstr ""
+"Verwenden Sie die Datenschutzeinstellungen Ihres Geräts, um den Zugriff auf Ihre personenbezogenen Daten über die App zu beschränken (geben Sie keinen Zugriff auf Ihre Kamera, Ihr Mikrofon, Ihre "
+"Bilder und Videos)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
@@ -320,7 +322,7 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "Some of Apple's AI research can be found at https://machinelearning.apple.com/."
-msgstr ""
+msgstr "Einige der KI-Forschungen von Apple finden Sie unter https://machinelearning.apple.com/."
 
 msgctxt "ai_what_can_it_do"
 msgid ""
