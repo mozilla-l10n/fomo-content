@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-17 16:03:28.933147+00:00\n"
-"PO-Revision-Date: 2023-11-08 15:24+0000\n"
+"PO-Revision-Date: 2023-11-10 14:13+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -83,6 +83,11 @@ msgid ""
 " users, or in the event of a reorganization, merger, or sale.” So, while Apple is pretty good now, there is no guarantee that Apple won’t reorganize their business or change their privacy practices "
 "in the future. Then that personal information you trust them with now could become more vulnerable or more valuable. Here’s hoping Apple keeps being one of the better ones out there though. 🤞"
 msgstr ""
+"Was ist das Schlimmste, was passieren könnte? Nun, dies ist ein guter Zeitpunkt, um daran zu erinnern, dass die Datenschutzrichtlinie von Apple - wie fast alle Datenschutzrichtlinien, die wir lesen "
+"- eine Klausel enthält, die besagt: \"Wir dürfen auch Informationen über Sie offenlegen, wenn es eine rechtmäßige Grundlage dafür gibt, wenn wir feststellen, dass die Offenlegung vernünftigerweise "
+"notwendig ist, um unsere Geschäftsbedingungen durchzusetzen oder um unseren Betrieb oder unsere Nutzer zu schützen, oder im Falle einer Umstrukturierung, einer Fusion oder eines Verkaufs.\" Auch "
+"wenn Apple jetzt ziemlich gut dasteht, gibt es keine Garantie dafür, dass Apple sein Geschäft nicht umstrukturiert oder seine Datenschutzpraktiken in Zukunft ändert. Dann könnten die persönlichen "
+"Daten, die Sie ihnen jetzt anvertrauen, anfälliger oder wertvoller werden. Hoffen wir, dass Apple auch weiterhin zu den besseren Unternehmen gehört. 🤞"
 
 msgctxt "signup_requirement_explanation"
 msgid "An Apple ID is required to sign up."
@@ -170,7 +175,7 @@ msgstr ""
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Apple's privacy policies aren't exactly easy to read, but they are better than most."
-msgstr ""
+msgstr "Die Datenschutzrichtlinien von Apple sind nicht gerade leicht zu lesen, aber sie sind besser als die meisten anderen."
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
