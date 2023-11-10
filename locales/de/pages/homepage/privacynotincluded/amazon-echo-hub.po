@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-09 15:39:50.383690+00:00\n"
-"PO-Revision-Date: 2023-11-09 18:01+0000\n"
+"PO-Revision-Date: 2023-11-10 09:51+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Amazon Echo Hub"
-msgstr ""
+msgstr "Amazon Echo Hub"
 
 msgctxt "blurb"
 msgid ""
@@ -142,6 +142,12 @@ msgid ""
 "this tragedy. Uhg. So yeah, while Amazon doesn't sell your personal information, they sure do use the heck out of it to target you with more stuff to buy. Is this creepy? Well, with so much data "
 "floating around in so many places, yeah, Amazon’s Echo Hub with Alexa can feel pretty creepy."
 msgstr ""
+"Was ist das Schlimmste, das passieren könnte? Na ja, wenn Sie über Alexa einen Schwangerschaftstest bestellen, weiß Amazon, dass Sie schwanger sein könnten. Es folgen Anzeigen für Babykleidung, "
+"Windeln, Kinderbetten und mehr. Vielleicht verlieren Sie dann das Baby. Um das zu verarbeiten, kaufen Sie vielleicht Wein bei Whole Foods. Amazon könnte jetzt davon ausgehen, dass Sie nicht mehr "
+"schwanger sind. Aber sie wissen nichts von der Fehlgeburt, sie wissen nur, dass Sie wahrscheinlich schwanger waren und es jetzt wahrscheinlich nicht mehr sind. Sie könnten jetzt gezielt Werbung von "
+"Unternehmen gezeigt bekommen, die ihnen etwas verkaufen möchten, um über das verlorene Kind hinwegzukommen, wieder schwanger zu werden oder andere Anzeigen, die bei der Verarbeitung eines Schocks "
+"nicht hilfreich sind. Amazon verkauft zwar Ihre personenbezogenen Daten nicht weiter, aber es saugt sie aus, um Ihnen möglichst viele Dinge zu verkaufen. Ist das unheimlich? Nun, bei der Menge an "
+"Daten, die an so vielen Orten herumschwirren, ist Amazons Echo Hub mit Alexa ziemlich unheimlich."
 
 msgctxt "worst_case"
 msgid ""
@@ -310,6 +316,8 @@ msgstr ""
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Amazon has a complicated mess of various privacy policies, privacy hubs, FAQs, and Advertising Preference pages, and more that is difficult to find, navigate, read, and understand."
 msgstr ""
+"Amazon hat ein kompliziertes Geflecht aus verschiedenen Datenschutzrichtlinien, Datenschutz-Hubs, FAQs, Seiten zu Werbevorteilen und vielem mehr, das schwer zu finden, zu navigieren, zu lesen und zu"
+" verstehen ist."
 
 msgctxt "strong_password_helptext"
 msgid "Password-protected Amazon account is needed to set up Alexa."
@@ -376,6 +384,8 @@ msgstr "Wählen Sie ein starkes Passwort! Dafür können Sie auch ein Passwortko
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Nutzen Sie Ihre Datenschutzeinstellungen, um den Zugriff auf Ihre personenbezogenen Daten per App zu beschränken (d. h., geben Sie Kamera, Mikrofon, Bildern und Standort keinen Zugriff, es sei denn "
+"es ist notwendig)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
@@ -526,13 +536,15 @@ msgstr "Im <a id=\"a1\">Oktober 2020</a> entließ Amazon einen Mitarbeiter, weil
 
 msgctxt "track_record_details"
 msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorithm."
-msgstr ""
+msgstr "Im <a id=\"a1\">Oktober 2019</a>berichtete Forbes, dass Amazon-Mitarbeiter die Aufzeichnungen der Amazon Cloud Cam abhörten, um den KI-Algorithmus zu trainieren."
 
 msgctxt "track_record_details"
 msgid ""
 "In <a id=\"a1\">April 2019</a>, it was revealed that thousands of employees, many of whom are contract workers and some not even directly employed by Amazon, had access to both voice and text "
 "transcripts of Alexa interactions<a id=\"a2\">.</a>"
 msgstr ""
+"Im <a id=\"a1\">April 2019</a>wurde bekannt, dass Tausende von Mitarbeitern, von denen viele Vertragsarbeiter sind und einige nicht einmal direkt bei Amazon beschäftigt sind, Zugang zu Sprach- und "
+"Texttranskripten von Alexa-Interaktionen hatten.<a id=\"a2\">.</a>"
 
 msgctxt "child_safety_blurb"
 msgid ""

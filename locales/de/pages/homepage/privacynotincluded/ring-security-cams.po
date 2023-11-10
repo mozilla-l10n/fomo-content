@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-09 15:39:50.432191+00:00\n"
-"PO-Revision-Date: 2023-11-09 18:01+0000\n"
+"PO-Revision-Date: 2023-11-10 09:46+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -21,6 +21,10 @@ msgid ""
 "on your phone or tablet or your Amazon Echo Show home hub. Ask Alexa to show you what's happening in your backyard, and boom, there it is. You'll need to pay extra for the Ring Protect Plan if you "
 "want to record all your videos, review what you missed for up to 180 days, or share your videos and photos with the world."
 msgstr ""
+"Die Amazon Ring Security-Kameras für den Innen- und Außenbereich verfügen über alles Übliche - HD-Video, Nachtsicht, Bewegungsaktivierung - um Ihr Haus rund um die Uhr überwachen zu können. "
+"Überwachen Sie das Video über die Ring-App auf Ihrem Telefon oder Tablet oder Ihren Amazon Echo Show Home Hub. Bitten Sie Alexa, Ihnen zu zeigen, was in Ihrem Hinterhof passiert, und schon ist es "
+"da. Sie müssen für den Ring Protect Plan extra bezahlen, wenn Sie alle Ihre Videos aufzeichnen, bis zu 180 Tage lang ansehen möchten, was Sie verpasst haben, oder Ihre Videos und Fotos mit der Welt "
+"teilen möchten."
 
 msgctxt "worst_case"
 msgid ""
@@ -70,6 +74,9 @@ msgid ""
 "highlighted this when a woman sued her neighbor for infringing on her privacy when his Ring security cameras were found pointed at her home. Not only could his cameras see her, they could also "
 "listen to her as well. <a id=\"a1\">She won her case</a> and $137,000."
 msgstr ""
+"Dann gibt es noch die Frage von Datenschutzverletzungen der Nachbarn durch Personen, die Heimüberwachungskameras verwenden – nicht nur Ring, sondern alle Heimüberwachungskameras. Ein kürzlich "
+"durchgeführtes Gerichtsverfahren in Großbritannien zeigte das, als eine Frau ihren Nachbarn wegen Verletzung ihrer Privatsphäre verklagte, als seine Ring-Überwachungskameras auf ihr Haus gerichtet "
+"vorgefunden wurden. Seine Kameras konnten sie nicht nur sehen, sie konnten ihr auch zuhören. <a id=\"a1\">Sie hat ihre Klage</a> und 137.000 Dollar gewonnen."
 
 msgctxt "worst_case"
 msgid ""
@@ -191,7 +198,7 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Videos are encrypted in storage and during transmission. Ring is offering end-to-end encryption."
-msgstr ""
+msgstr "Sowohl gespeicherte Videos als auch solche, die gerade aufgenommen werden, sind verschlüsselt. Ring bietet Ende-zu-Ende-Verschlüsselung an."
 
 msgctxt "strong_password_helptext"
 msgid "Two-factor authentication is now mandatory after major pressure from Mozilla and other groups."
@@ -199,11 +206,11 @@ msgstr "Nach starkem Druck seitens Mozilla und anderer Organisationen ist die Zw
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Amazon has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://hackerone.com/ring"
-msgstr ""
+msgstr "Amazon hat ein Bug-Bounty-Programm, was bedeutet, dass jeder, der eine Sicherheitslücke entdeckt und diese verantwortungsvoll meldet, dafür bezahlt werden kann. https://hackerone.com/ring"
 
 msgctxt "privacy_policy_helptext"
 msgid "Ring has a webpage dedicated to explaining its privacy pillars and answering frequently asked questions"
-msgstr ""
+msgstr "Ring hat eine Website, auf der die Stützpfeiler des Datenschutzes erklärt und häufig gestellte Fragen beantwortet werden"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn on <a id=\"a1\">Two-factor Authentication</a>"
@@ -211,7 +218,7 @@ msgstr "Aktivieren Sie <a id=\"a1\">die Zwei-Faktor-Authentifizierung</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Check</a> if your address is exposed through the Neighbor app"
-msgstr ""
+msgstr "<a id=\"a1\">Überprüfen Sie</a>, ob Ihre Adresse über die Neighbor-App angezeigt wird"
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Don't share</a> your login-in information"
@@ -219,7 +226,7 @@ msgstr "<a id=\"a1\">Geben Sie Ihre Zugangsdaten nicht weiter</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review sharing options for your data, if you have multiple people in the neighborhood"
-msgstr ""
+msgstr "Überprüfen Sie die Freigabeoptionen für Ihre Daten, wenn mehrere Personen in der Nachbarschaft leben"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Make sure you are comfortable with the fact that local police may require the footage. Think about all of the personal events cameras inside and outside of your home will capture."
@@ -309,7 +316,7 @@ msgstr ""
 
 msgctxt "how_can_you_control_your_data"
 msgid "We ding this product because it is unclear if all users regardless of location can get their data deleted."
-msgstr ""
+msgstr "Wir bemängeln an diesem Produkt, dass nicht klar ist, ob alle Nutzer unabhängig von ihrem Standort ihre Daten löschen lassen können."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
