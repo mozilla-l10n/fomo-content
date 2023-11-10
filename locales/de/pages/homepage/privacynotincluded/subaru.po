@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-08-30 13:20:46.526106+00:00\n"
-"PO-Revision-Date: 2023-09-04 14:16+0000\n"
+"PO-Revision-Date: 2023-11-10 10:30+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -412,8 +412,8 @@ msgid ""
 "We found no bug bounty program nor a public page with details on vulnerability submissions. At the same time, a bug submitted on <a id=\"a1\">OpenBugBounty</a> regarding <a id=\"a2\">subaru.com</a> "
 "still remains unpatched."
 msgstr ""
-"Wir haben weder ein Bug-Bounty-Programm noch eine öffentliche Seite mit Details zu eingereichten Schwachstellen gefunden. Gleichzeitig bleibt ein auf OpenBugBounty eingereichter Fehler in <a "
-"id=\"a1\"></a> Bezug auf <a id=\"a2\">subaru.com</a> immer noch ungepatcht."
+"Wir haben weder ein Bug-Bounty-Programm noch eine öffentliche Seite mit Details zu eingereichten Schwachstellen gefunden. Gleichzeitig bleibt ein auf <a id=\"a1\">OpenBugBounty</a> eingereichter "
+"Fehler in Bezug auf <a id=\"a2\">subaru.com</a> immer noch ungepatcht."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not give consent to tailored advertisement."
