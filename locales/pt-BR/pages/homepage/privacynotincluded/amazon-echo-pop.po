@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-09 08:50:41.116536+00:00\n"
-"PO-Revision-Date: 2023-11-09 14:20+0000\n"
+"PO-Revision-Date: 2023-11-14 11:20+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Amazon Echo Pop"
-msgstr "Amazon Echo Pop"
+msgstr "Echo Pop da Amazon"
 
 msgctxt "blurb"
 msgid ""
@@ -22,6 +22,11 @@ msgid ""
 " Hmm...ok. It's still an Alexa device, so it does all the same old Alexa things like play your music, tell you the weather, and turn on or off your smart lights. Just remember, Amazon isn't so great"
 " for your privacy so maybe think twice before putting the Echo Pop in the place where you poop -- or anywhere else, for that matter."
 msgstr ""
+"A Amazon comercializa seu novo alto-falante inteligente Echo Pop como o pequeno alto-falante para salas pequenas, como o seu banheiro. Por que diabos você precisa (ou quer) um alto-falante "
+"inteligente no seu banheiro ouvindo o seu negócio lá dentro, não conseguimos nem imaginar. Mas a Amazon diz que pode usar seu novo alto-falante inteligente para <i>\"criar um intercomunicador para "
+"chamar seu colega de quarto sem ter que gritar pelo corredor.\"</i> Hmm... ok. Ainda é um dispositivo Alexa, então ele faz as mesmas coisas antigas da Alexa, como tocar sua música, contar o tempo e "
+"ligar ou desligar suas luzes inteligentes. Lembre-se, a Amazon não é tão boa para sua privacidade, então talvez você deva pensar duas vezes antes de colocar o Echo Pop no lugar onde você faz cocô – "
+"ou em qualquer outro lugar."
 
 msgctxt "worst_case"
 msgid ""
@@ -318,6 +323,8 @@ msgstr ""
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Amazon has a complicated mess of various privacy policies, privacy hubs, FAQs, and Advertising Preference pages, and more that is difficult to find, navigate, read, and understand."
 msgstr ""
+"A Amazon tem uma bagunça complicada de várias políticas de privacidade, centros de privacidade, FAQs e páginas de preferência de publicidade, entre outras, que são difíceis de encontrar, navegar, "
+"ler e entender."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
@@ -365,11 +372,11 @@ msgstr "Configure o Modo Anônimo ao usar o aplicativo para proteger seus dados"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "Não se inscreva com contas de terceiros. É melhor acessar somente com email e senha forte."
+msgstr "Não se cadastre com contas de terceiros. É melhor acessar com e-mail e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
+msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como o 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -379,22 +386,22 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr "Mantenha seu aplicativo sempre atualizado"
+msgstr "Mantenha seu aplicativo atualizado regularmente"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
-"Limite o rastreamento de anúncios no seu dispositivo (por exemplo, no iPhone, acesse Privacidade -> Publicidade -> Limitar rastreamento de anúncios) e principais redes de anúncios (para o Google, "
-"acesse sua conta Google e desative os anúncios personalizados)"
+"Limite o rastreamento de anúncios no seu dispositivo (ex.: no iPhone acesse Privacidade e Segurança -> Publicidade da Apple -> Limitar rastreamento de anúncios) e nas principais redes de anúncios "
+"(para o Google, acesse sua conta Google e desative os anúncios personalizados)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr "Solicite que seus dados sejam excluídos quando você parar de usar o aplicativo. A simples exclusão de um aplicativo do dispositivo normalmente não apaga seus dados pessoais."
+msgstr "Se decidir parar de usar o aplicativo, solicite que seus dados sejam excluídos. Apenas excluir o aplicativo do seu dispositivo não apagará seus dados pessoais da base da empresa."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr "Ao realizar uma inscrição, não concorde com o rastreamento de seus dados, se possível."
+msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se possível."
 
 msgctxt "personal_data_collected"
 msgid ""
@@ -524,7 +531,7 @@ msgstr "Em <a id=\"a1\">outubro de 2020</a>, a Amazon demitiu um funcionário po
 
 msgctxt "track_record_details"
 msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorithm."
-msgstr "Em <a id=\"a1\">outubro de 2019</a>, A Forbes noticiou que funcionários da Amazon estavam ouvindo a gravação da Amazon Cloud Cam, para treinar seu algoritmo de IA."
+msgstr "Em <a id=\"a1\">outubro de 2019</a>, a Forbes noticiou que funcionários da Amazon estavam ouvindo a gravação da Amazon Cloud Cam para treinar seu algoritmo de IA."
 
 msgctxt "track_record_details"
 msgid ""
