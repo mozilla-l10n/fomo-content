@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-14 09:09:09.466126+00:00\n"
-"PO-Revision-Date: 2023-11-09 17:46+0000\n"
+"PO-Revision-Date: 2023-11-14 11:10+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -146,6 +146,10 @@ msgid ""
 " join them all, sending you into bankruptcy because there are so many dang streaming services these days! If you want Amazon to stop trying to sell you more stuff, you can (and should!) <a "
 "id=\"a1\">opt-out of some data collection and processing</a>. So yeah, while Amazon doesn't sell your personal information, they sure do use the heck out of it to target you with more stuff to buy."
 msgstr ""
+"Entonces, ¿qué es lo peor que podría pasar? Bueno, Amazon podría aprender todos los programas que te gusta ver y comenzar a dirigirte anuncios para todos los demás servicios de streaming que hay en "
+"el mundo. Tú no consigues resistirte y te unes a todos, lo que te hace caer en bancarrota, ¡porque hay tantos servicios de streaming en estos días! Si quieres que Amazon deje de intentar venderte "
+"más cosas, puedes (¡y debes!) <a id=\"a1\">optar por excluirte de algunas actividades de recopilación y procesamiento</a> de datos. Aunque Amazon no vende tu información personal, sí que la usa para"
+" apuntarte con más cosas que debes comprar."
 
 msgctxt "worst_case"
 msgid ""
@@ -315,6 +319,8 @@ msgstr ""
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Amazon has a complicated mess of various privacy policies, privacy hubs, FAQs, and Advertising Preference pages, and more that is difficult to find, navigate, read, and understand."
 msgstr ""
+"Amazon tiene un complicado lío que incluye varias políticas de privacidad, centros de privacidad, preguntas frecuentes y páginas de preferencia de publicidad, que es difícil de encontrar, navegar, "
+"leer y entender."
 
 msgctxt "strong_password_helptext"
 msgid "Password-protected Amazon account is needed to set up Alexa."
@@ -531,7 +537,7 @@ msgstr "En <a id=\"a1\">octubre de 2020</a>, Amazon despidió a uno de sus emple
 
 msgctxt "track_record_details"
 msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorithm."
-msgstr ""
+msgstr "En <a id=\"a1\">octubre de 2019</a>, Forbes informó que los empleados de Amazon escuchaban las grabaciones realizadas por Amazon Cloud Cam para entrenar sus algoritmos de IA."
 
 msgctxt "track_record_details"
 msgid ""
