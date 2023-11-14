@@ -1182,7 +1182,7 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/irobot-roombas.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/irobot-roombas.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/amazon-echo-show.pot"
