@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-15 07:52:46.198717+00:00\n"
-"PO-Revision-Date: 2023-11-15 08:27+0000\n"
+"PO-Revision-Date: 2023-11-15 09:12+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -44,6 +44,11 @@ msgid ""
 "address, your age, gender, your location, audio and visual information like those Alexa-requests or photos you take, the names and numbers of people listed in your contacts. <a id=\"a1\">The "
 "list</a> goes on and on and on. And Amazon's Fire TV can collect a whole lot of data on your device usage, app usage, and over-the-air viewing data."
 msgstr ""
+"Und um das zu erreichen, sammelt Amazon gerne eine enorme Menge an Daten über Sie. Dinge wie: Aufzeichnungen Ihrer Einkaufsgewohnheiten, Alexa-Suchanfragen, die Bücher, die Sie leesn, die "
+"Fernsehsendungen, die Sie sehen und wann Sie sie sehen, die Musik, die Sie streamen, die Podcasts, die Sie hören, wann Sie Ihr Licht ein- und ausschalten, wann Sie Ihre Türen abschließen, "
+"Identifikatoren wie Ihr Name, Ihre Adresse, Ihre Telefonnummern oder Ihre IP-Adresse, Ihr Alter, Ihr Geschlecht, Ihr Standort, Audio- und visuelle Informationen wie die Alexa-Anfragen oder Fotos, "
+"die Sie machen, die Namen und Nummern von Personen, die in Ihren Kontakten aufgeführt sind. <a id=\"a1\">Die Liste</a> geht weiter und weiter und weiter. Und Amazons Fire TV kann eine ganze Reihe "
+"von Daten über Ihre Gerätenutzung, die Nutzung von Apps und Daten über das Fernsehprogramm sammeln."
 
 msgctxt "worst_case"
 msgid ""
@@ -429,7 +434,7 @@ msgstr ""
 
 msgctxt "social_data_collected"
 msgid "Contacts (optional, for making calls)"
-msgstr ""
+msgstr "Kontakte (optional, um Anrufe zu tätigen)"
 
 msgctxt "how_can_you_control_your_data"
 msgid "We ding this product as it is unclear if all users regardless of location can get their data deleted. Also, interest-based ads are delivered in an opt-out fashion."
