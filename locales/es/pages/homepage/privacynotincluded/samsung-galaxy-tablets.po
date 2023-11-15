@@ -567,6 +567,16 @@ msgctxt "ai_what_can_it_do"
 msgid "Camera functionality uses AI to recognize objects"
 msgstr "La funcionalidad de la cámara utiliza IA para reconocer objetos"
 
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Uses encryption in transit and at rest."
+#~ msgstr "Cifrado de datos en tránsito y en reposo."
+
+#~ msgctxt "manage_vulnerabilities_helptext"
+#~ msgid "Samsung has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
+#~ msgstr ""
+#~ "Samsung tiene un <a id=\"a1\">programa de cazadores de bugs</a>, mediante el que cualquier persona que encuentre un problema de seguridad y lo notifique de manera responsable puede recibir una "
+#~ "compensación."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "You want a tablet but you don't want an iPad. Samsung's Galaxy Android tablets—of which it feels like there are a million versions—are a good option. Use them like an iPad. Use them like a laptop. "
@@ -618,16 +628,6 @@ msgstr "La funcionalidad de la cámara utiliza IA para reconocer objetos"
 #~ " del tiempo mediante la recopilación de información a través de medios automatizados, incluyendo el uso de cookies del navegador, balizas web, píxeles, identificadores de dispositivos, registros del"
 #~ " servidor y otras tecnologías similares. Las redes utilizan esta información para mostrar anuncios que pueden estar adaptados a los intereses de las personas, para rastrear los navegadores o "
 #~ "dispositivos de los usuarios a través de múltiples sitios web y aplicaciones, y para construir un perfil de las actividades de navegación en línea y de uso de aplicaciones de los usuarios»."
-
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Uses encryption in transit and at rest."
-#~ msgstr "Cifrado de datos en tránsito y en reposo."
-
-#~ msgctxt "manage_vulnerabilities_helptext"
-#~ msgid "Samsung has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
-#~ msgstr ""
-#~ "Samsung tiene un <a id=\"a1\">programa de cazadores de bugs</a>, mediante el que cualquier persona que encuentre un problema de seguridad y lo notifique de manera responsable puede recibir una "
-#~ "compensación."
 
 #~ msgctxt "privacy_policy_helptext"
 #~ msgid "Samsung has a page highlighting it's privacy principles"

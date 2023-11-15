@@ -549,6 +549,18 @@ msgctxt "ai_what_can_it_do"
 msgid "Voice recognition, if a user uses Bixby, a Samsung-specific AI-assistant, or Google Assistant"
 msgstr "Reconocimiento de voz, si el usuario usa Bixby, un asistente de IA exclusivo de Samsung, o el Asistente de Google"
 
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, date of birth, gender"
+#~ msgstr "Nombre, correo electrónico, número de teléfono, fecha de nacimiento, sexo"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Grabaciones de voz"
+
+#~ msgctxt "track_record_details"
+#~ msgid "In February, 2020, Samsung <a id=\"a1\">had</a> a data breach on it UK customer account pages, affecting less than 150 people."
+#~ msgstr "En febrero de 2020, Samsung <a id=\"a1\">sufrió</a> una filtración de datos en las páginas de cuentas de sus clientes del Reino Unido, que afectó a menos de 150 personas."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Samsung offers many versions of their Galaxy earbuds. There's the Buds2, Buds Pro, Buds Live, and Buds+. That's a lot of Buds. And these tiny earbuds come in lots of shiny colors. They do the things"
@@ -617,14 +629,6 @@ msgstr "Reconocimiento de voz, si el usuario usa Bixby, un asistente de IA exclu
 #~ msgid "Consider using your headphones without connecting it to an app. This way, you may decrease the amount of data collected"
 #~ msgstr "Considera la posibilidad de usar los auriculares sin conectarlos a una aplicación. De esta manera, puedes disminuir la cantidad de datos recopilados."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, date of birth, gender"
-#~ msgstr "Nombre, correo electrónico, número de teléfono, fecha de nacimiento, sexo"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Grabaciones de voz"
-
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
 #~ "No retention details nor deletion rights are stated for users not covered by CCPA and GDPR in Samsung's privacy policy. <a id=\"a1\">CCPA deletion rights are mentioned</a> and Samsung says they "
@@ -638,10 +642,6 @@ msgstr "Reconocimiento de voz, si el usuario usa Bixby, un asistente de IA exclu
 #~ msgstr ""
 #~ "Si no dispones de una cuenta de Samsung o de un correo electrónico registrado, tu solicitud de eliminación no se tramitará. Los usuarios con una cuenta de Samsung pueden ingresar <a "
 #~ "id=\"a1\">aquí</a> para eliminar sus datos."
-
-#~ msgctxt "track_record_details"
-#~ msgid "In February, 2020, Samsung <a id=\"a1\">had</a> a data breach on it UK customer account pages, affecting less than 150 people."
-#~ msgstr "En febrero de 2020, Samsung <a id=\"a1\">sufrió</a> una filtración de datos en las páginas de cuentas de sus clientes del Reino Unido, que afectó a menos de 150 personas."
 
 #~ msgctxt "ai_helptext"
 #~ msgid "If a user uses Bixby, a Samsung-specific AI-assistant, or Google Assistant"
