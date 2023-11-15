@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-08 15:32:38.594606+00:00\n"
-"PO-Revision-Date: 2023-11-13 15:06+0000\n"
+"PO-Revision-Date: 2023-11-15 14:45+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Wyze Bulb"
-msgstr ""
+msgstr "Wyze Bulb"
 
 msgctxt "blurb"
 msgid ""
@@ -193,7 +193,7 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "You can submit security vulnerabilities to <a id=\"a1\">Wyze</a>."
-msgstr ""
+msgstr "Puedes enviar información sobre vulnerabilidades de seguridad a <a id=\"a1\">Wyze</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review Wyze's <a id=\"a1\">recommendations</a> to keep your account secure"
@@ -330,4 +330,4 @@ msgstr "No pudimos encontrar ninguna mención sobre políticas de privacidad de 
 
 msgctxt "ai_what_can_it_do"
 msgid "Person detection through computer vision implementation."
-msgstr ""
+msgstr "Detección de personas mediante implementación de visión por ordenador."
