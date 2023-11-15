@@ -334,6 +334,14 @@ msgstr ""
 "Amazon a créé un enchevêtrement complexe de politiques de confidentialité, de centres de confidentialité, de FAQ, de pages de préférences publicitaires, et bien d’autres encore, qu’il est difficile "
 "de trouver, de parcourir, de lire et de comprendre."
 
+msgctxt "strong_password_helptext"
+msgid "Password-protected Amazon account is needed to set up Alexa."
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "Amazon has a <a id=\"a1\">bug bounty program</a>."
+msgstr ""
+
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Manage your preferences for third parties and <a id=\"a1\">reset your Alexa Advertising IDs</a>, by visiting <b>Settings &gt; Alexa Privacy &gt; Manage Skill Permissions and Ad Preferences</b> in "
@@ -566,3 +574,13 @@ msgstr ""
 "« Amazon ne vend pas de produits qui puissent être achetés par des enfants. Les produits destinés aux enfants doivent être achetés par des adultes. Si vous êtes âgé de moins de 18 ans, vous ne "
 "pouvez utiliser les Services Amazon qu’avec la participation d’un adulte ou d’un tuteur. Pour des informations supplémentaires relatives à comment nous traitons les informations personnelles dans le"
 " cadre des Services Amazon destinés aux enfants de moins de 13 ans, veuillez lire notre <a id=\"a1\">Notice Protection des Informations Personnelles des Enfants</a>. »"
+
+msgctxt "ai_helptext"
+msgid ""
+"Alexa provides some information about its AI at the Alexa FAQ and the Amazon Science webpages.: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a> <a "
+"id=\"a2\">https://www.amazon.science/tag/alexa</a>"
+msgstr ""
+
+msgctxt "ai_what_can_it_do"
+msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
+msgstr ""

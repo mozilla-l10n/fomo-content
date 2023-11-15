@@ -191,6 +191,10 @@ msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Wyze's Privacy Policy lacks a lot of information and can be confusing at times. There was also no mention of any child specific data privacy policies, which is not good."
 msgstr "Die Datenschutzerklärung von Wyze enthält nicht viele Informationen und wirkt manchmal verwirrend. Es wurden auch keine kinderspezifischen Datenschutzrichtlinien erwähnt, was nicht gut ist."
 
+msgctxt "manage_vulnerabilities_helptext"
+msgid "You can submit security vulnerabilities to <a id=\"a1\">Wyze</a>."
+msgstr ""
+
 msgctxt "tips_to_protect_yourself"
 msgid "Review Wyze's <a id=\"a1\">recommendations</a> to keep your account secure"
 msgstr "Lesen Sie die <a id=\"a1\">Empfehlungen</a> von Wyze, um Ihr Konto sicher zu halten."
@@ -323,3 +327,7 @@ msgstr "Im Jahr 2019 </a>kam es bei Wyze zu einem massiven<a id=\"a1\"> Datenlec
 msgctxt "child_safety_blurb"
 msgid "We could find no mention of children specific data privacy policies in Wyze's privacy statement. This is not good."
 msgstr "In der Datenschutzerklärung von Wyze konnten wir keine Erwähnung von kinderspezifischen Datenschutzrichtlinien finden. Das ist nicht gut."
+
+msgctxt "ai_what_can_it_do"
+msgid "Person detection through computer vision implementation."
+msgstr ""
