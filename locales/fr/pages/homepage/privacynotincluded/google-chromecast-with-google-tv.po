@@ -286,16 +286,69 @@ msgid "Google has a <a id=\"a1\">Security Rewards program</a>."
 msgstr "Google dispose d’un <a id=\"a1\">programme de récompenses de sécurité</a>."
 
 msgctxt "tips_to_protect_yourself"
-msgid ""
-"- Check <a id=\"a1\">Chromecast privacy settings</a><br/>- Hide <a id=\"a2\">personal recommendations</a> on Google TV<br/>- Set up <a id=\"a3\">parental controls</a> if you have kids<br/>- Set up a"
-" passcode for payment authentication<br/>- Visit privacy controls to adjust the amount of data collected<br/>- Delete your historical data from time to time. You can do this by saying, “Hey Google, "
-"delete this week’s activity.” or \"\"Hey Google, that wasn't for you\"\" to delete the last thing you said<br/>- Turn off personalized advertisements<br/>- Visit privacy &amp; security controls to "
-"adjust the amount of data collected<br/>- When starting a sign-up, do not agree to tracking of your data.<br/>- Do not sign up with third-party accounts. Better just log in with email and strong "
-"password.<br/>- Chose a strong password! You may use a password control tool like 1Password, KeePass etc<br/>- Use your device privacy controls to limit access to your personal information via app "
-"(do not give access to your camera, microphone, images, location unless necessary)<br/>- Keep your app regularly updated<br/>- Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; "
-"Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)<br/>- Request your data be deleted once you stop using the app. Simply"
-" deleting an app from your device usually does not erase your personal data.\""
+msgid "Check <a id=\"a1\">Chromecast privacy settings</a>"
+msgstr "Vérifiez les <a id=\"a1\">paramètres de confidentialité du Chromecast</a>"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Hide <a id=\"a1\">personal recommendations</a> on Google TV"
+msgstr "Masquez les <a id=\"a1\">recommandations personnelles</a> sur Google TV"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Set up <a id=\"a1\">parental controls</a> if you have kids"
+msgstr "Configurez le <a id=\"a1\">contrôle parental</a> si vous avez des enfants"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Set up a passcode for payment authentication"
+msgstr "Configurez un mot de passe pour l’authentification des paiements"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Visit privacy controls to adjust the amount of data collected"
+msgstr "Consultez les paramètres de confidentialité pour ajuster la quantité de données collectées."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"\"Hey Google, that wasn't for you\"\" to delete the last thing you said"
 msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Turn off personalized advertisements"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Visit privacy &amp; security controls to adjust the amount of data collected"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "When starting a sign-up, do not agree to tracking of your data."
+msgstr "Au début de l’inscription, refusez le suivi de vos données."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
+msgstr "N’utilisez pas de compte tiers pour vous inscrire. Mieux vaut vous connecter simplement avec une adresse e-mail et un mot de passe fort."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
+msgstr "Choisissez un mot de passe fort ! Vous pouvez utiliser un gestionnaire de mots de passe comme 1Password, KeePass, etc."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Keep your app regularly updated"
+msgstr "Assurez-vous de garder votre application à jour."
+
+msgctxt "tips_to_protect_yourself"
+msgid ""
+"Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+msgstr ""
+"Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
+" accédez à votre compte Google et désactivez la personnalisation des annonces)"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data.\""
+msgstr ""
+"Demandez que vos données soient supprimées une fois que vous avez cessé d’utiliser l’application. La simple suppression d’une application de votre appareil n’efface généralement pas vos données "
+"personnelles."
 
 msgctxt "personal_data_collected"
 msgid ""
@@ -543,22 +596,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Google dispose d’un <a id=\"a1\">programme de récompenses de sécurité</a>, ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut être payée."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Check <a id=\"a1\">Chromecast privacy settings</a>"
-#~ msgstr "Vérifiez les <a id=\"a1\">paramètres de confidentialité du Chromecast</a>"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Hide <a id=\"a1\">personal recommendations</a> on Google TV"
-#~ msgstr "Masquez les <a id=\"a1\">recommandations personnelles</a> sur Google TV"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Set up <a id=\"a1\">parental controls</a> if you have kids"
-#~ msgstr "Configurez le <a id=\"a1\">contrôle parental</a> si vous avez des enfants"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Set up a passcode for payment authentication"
-#~ msgstr "Configurez un mot de passe pour l’authentification des paiements"
-
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
 #~ "Google provides various privacy controls, accessible via Google Privacy tools. There are several clearly defined ways to delete personal data, incl. deleting data from Nest app or deleting a whole "
@@ -754,22 +791,10 @@ msgstr ""
 #~ "recours à nos produits publicitaires. »"
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-#~ msgstr "N’utilisez pas de compte tiers pour vous inscrire. Mieux vaut vous connecter simplement avec une adresse e-mail et un mot de passe fort."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-#~ msgstr "Choisissez un mot de passe fort ! Vous pouvez utiliser un gestionnaire de mots de passe comme 1Password, KeePass, etc."
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 #~ msgstr ""
 #~ "Utilisez les paramètres de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (n’autorisez pas l’accès à votre caméra, votre micro, vos images "
 #~ "et votre localisation, sauf si nécessaire)."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Keep your app regularly updated"
-#~ msgstr "Assurez-vous de garder votre application à jour."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -838,10 +863,6 @@ msgstr ""
 #~ msgid "Google provides useful privacy information."
 #~ msgstr "Google fournit des informations utiles sur la confidentialité."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Visit privacy controls to adjust the amount of data collected"
-#~ msgstr "Consultez les paramètres de confidentialité pour ajuster la quantité de données collectées."
-
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization."
 #~ msgstr ""
@@ -857,23 +878,6 @@ msgstr ""
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Turn off personalised advertisement"
 #~ msgstr "Désactivez les publicités personnalisées."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When starting a sign-up, do not agree to tracking of your data."
-#~ msgstr "Au début de l’inscription, refusez le suivi de vos données."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid ""
-#~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
-#~ msgstr ""
-#~ "Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
-#~ " accédez à votre compte Google et désactivez la personnalisation des annonces)"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data.\""
-#~ msgstr ""
-#~ "Demandez que vos données soient supprimées une fois que vous avez cessé d’utiliser l’application. La simple suppression d’une application de votre appareil n’efface généralement pas vos données "
-#~ "personnelles."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
