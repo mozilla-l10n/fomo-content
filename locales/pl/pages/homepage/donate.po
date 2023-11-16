@@ -1,17 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-16 09:33:27.771847+00:00\n"
+"PO-Revision-Date: 2023-11-16 16:27+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d29c6905-7b17-4e2a-9bfe-8cf08e9d2dbf\n"
 
 msgctxt "title"
 msgid "Donate Now"
-msgstr ""
+msgstr "Wspomóż teraz"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Mozilla jest non-profit</b>, niekorporacyjna i niezłomna. Tysiące osób takich jak Ty pomaga nam bronić zdrowego Internetu dla wszystkich. Datki umożliwiają nam wypełniać misję ochrony otwartej "
+"i wolnej sieci. <b>Wspomożesz nas dzisiaj?</b>"
