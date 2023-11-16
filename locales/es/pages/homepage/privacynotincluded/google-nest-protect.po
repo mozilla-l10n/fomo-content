@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:21:50.215535+00:00\n"
-"PO-Revision-Date: 2023-11-16 10:57+0000\n"
+"PO-Revision-Date: 2023-11-16 11:28+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -405,7 +405,7 @@ msgstr "Visita los controles de privacidad para ajustar la cantidad de datos que
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Customize</a> your ads experience."
-msgstr ""
+msgstr "<a id=\"a1\">Personaliza</a> tu experiencia publicitaria."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said"
@@ -415,11 +415,11 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Turn off</a> personalized advertisement"
-msgstr ""
+msgstr "<a id=\"a1\">Desactiva</a> la publicidad personalizada."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time"
-msgstr ""
+msgstr "Elimina tus datos históricos de vez en cuando"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review Nest privacy tips: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
@@ -451,6 +451,8 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
+"Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
@@ -465,6 +467,12 @@ msgid ""
 "<br/> <br/>(If you use calls) Phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages;\r"
 "<br/>GPS location and other sensor data from your device"
 msgstr ""
+"Nombre, dirección de correo electrónico o información de facturación, u otros datos que Google pueda vincular razonablemente a dicha información, como la información que asociamos con tu cuenta de Google; \n"
+"<br/> <br/>Datos sobre tu actividad, como los términos que buscas, los vídeos que ves, las visualizaciones e interacciones con contenidos y anuncios, información de voz y audio, actividades de compra, las personas con las que te comunicas o compartes contenidos, la actividad en sitios y aplicaciones de terceros que utilizan nuestros servicios, el historial de navegación de Chrome que hayas sincronizado con tu cuenta de Google; \n"
+"<br/> <br/>Información de ubicación, incluida tu dirección, código postal y dónde se encuentra el dispositivo; \n"
+"<br/> <br/>Datos del sensor, como movimientos detectados, mediciones de luz ambiental, temperatura, humedad, monóxido de carbono y niveles de humo, así como información derivada de estos datos, como información sobre el sueño;\n"
+"<br/> <br/>(Si utilizas llamadas) Número de teléfono, número de la parte que llama, número de la parte que recibe, números de reenvío, dirección de correo electrónico del remitente y del destinatario, hora y fecha de las llamadas y mensajes, duración de las llamadas, información de enrutamiento y tipos y volúmenes de llamadas y mensajes; \n"
+"<br/>Ubicación GPS y otros datos del sensor de tu dispositivo."
 
 msgctxt "biometric_data_collected"
 msgid ""
