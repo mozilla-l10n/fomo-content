@@ -400,15 +400,61 @@ msgid "Google has a Security Rewards program. Link: <a id=\"a1\">https://www.goo
 msgstr "Google cuenta con un programa de pagos por encontrar vulnerabilidades de seguridad. Enlace: <a id=\"a1\">https://www.google.com/about/appsecurity/programs-home/</a>"
 
 msgctxt "tips_to_protect_yourself"
-msgid ""
-"- Visit privacy controls to adjust the amount of data collected<br/>- <a id=\"a1\">Customize</a> your ads experience.<br/>- Delete your historical data from time to time. You can do this by saying, "
-"“Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said<br/>- <a id=\"a2\">Turn off</a> personalized advertisement<br/>- Delete your "
-"historical data from time to time<br/>- Review Nest privacy tips: <a id=\"a3\">https://support.google.com/googlenest/answer/9247517?hl=en</a><br/>- When starting a sign-up, do not agree to tracking "
-"of your data.<br/>- Do not sign up with third-party accounts. Better just log in with email and strong password.<br/>- Chose a strong password! You may use a password control tool like 1Password, "
-"KeePass etc<br/>- Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)<br/>- Keep"
-" your app regularly updated<br/>- Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account "
-"and turn off ad personalization)<br/>- Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
+msgid "Visit privacy controls to adjust the amount of data collected"
+msgstr "Visita los controles de privacidad para ajustar la cantidad de datos que pueden ser recopilados"
+
+msgctxt "tips_to_protect_yourself"
+msgid "<a id=\"a1\">Customize</a> your ads experience."
 msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said"
+msgstr ""
+"Elimina tus datos históricos periódicamente. Puedes hacerlo diciendo «OK, Google, elimina la actividad de esta semana» o, también, «OK, Google, eso no era para ti» si deseas eliminar lo último que "
+"dijiste."
+
+msgctxt "tips_to_protect_yourself"
+msgid "<a id=\"a1\">Turn off</a> personalized advertisement"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Delete your historical data from time to time"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Review Nest privacy tips: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
+msgstr "Revisa las recomendaciones de privacidad de Nest: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
+
+msgctxt "tips_to_protect_yourself"
+msgid "When starting a sign-up, do not agree to tracking of your data."
+msgstr "No aceptes el seguimiento de tus datos cuando estés realizando el proceso de registro."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
+msgstr "No te registres utilizando una cuenta que ya tengas con terceros. Es mejor que ingreses un correo electrónico y una buena contraseña."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
+msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Keep your app regularly updated"
+msgstr "Actualiza la app a menudo."
+
+msgctxt "tips_to_protect_yourself"
+msgid ""
+"Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
+msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 msgctxt "personal_data_collected"
 msgid ""
@@ -623,10 +669,6 @@ msgstr ""
 #~ "Google proporciona varios controles de la privacidad, accesibles mediante las herramientas de Privacidad de Google. Hay varias maneras claramente definidas de eliminar datos personales, inclusive "
 #~ "los datos de la app de Nest o la cuenta completa de Google. Se puede configurar un temporizador automático para 3 o 18 meses. Los detalles de retención también se enumeran en la Política."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Visit privacy controls to adjust the amount of data collected"
-#~ msgstr "Visita los controles de privacidad para ajustar la cantidad de datos que pueden ser recopilados"
-
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Google provides a page with privacy information about Nest."
 #~ msgstr "Google cuenta con una página en la que proporciona información de privacidad sobre Nest."
@@ -642,24 +684,6 @@ msgstr ""
 #~ msgctxt "ai_what_can_it_do"
 #~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
 #~ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When starting a sign-up, do not agree to tracking of your data."
-#~ msgstr "No aceptes el seguimiento de tus datos cuando estés realizando el proceso de registro."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Keep your app regularly updated"
-#~ msgstr "Actualiza la app a menudo."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said"
-#~ msgstr ""
-#~ "Elimina tus datos históricos periódicamente. Puedes hacerlo diciendo «OK, Google, elimina la actividad de esta semana» o, también, «OK, Google, eso no era para ti» si deseas eliminar lo último que "
-#~ "dijiste."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-#~ msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 #~ msgctxt "ai_helptext"
 #~ msgid "Google publishes academic papers about it's AI research (<a id=\"a1\">https://ai.google/</a>) and makes several tools available via open source."
@@ -716,14 +740,6 @@ msgstr ""
 #~ msgid "Turn off personalised advertisement"
 #~ msgstr "Desactiva los anuncios personalizados."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Review Nest privacy tips: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
-#~ msgstr "Revisa las recomendaciones de privacidad de Nest: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-#~ msgstr "No te registres utilizando una cuenta que ya tengas con terceros. Es mejor que ingreses un correo electrónico y una buena contraseña."
-
 #~ msgctxt "child_safety_blurb"
 #~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
 #~ msgstr "Puedes leer la guía de privacidad para adolescentes y niños en <a id=\"a1\">Google Family Link</a> para conocer más detalles sobre los distintos países y grupos de edad."
@@ -737,21 +753,11 @@ msgstr ""
 #~ "utilicen para personalizar tu experiencia con Google»."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
-#~ msgstr ""
-#~ "Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
-#~ " que sea estrictamente necesario)."
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid ""
 #~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
 #~ msgstr ""
 #~ "Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
 #~ "Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-#~ msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
