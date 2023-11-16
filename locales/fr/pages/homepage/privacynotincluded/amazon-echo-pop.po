@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-09 08:50:27.828295+00:00\n"
-"PO-Revision-Date: 2023-11-15 11:41+0000\n"
+"PO-Revision-Date: 2023-11-16 15:09+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -336,11 +336,11 @@ msgstr ""
 
 msgctxt "strong_password_helptext"
 msgid "Password-protected Amazon account is needed to set up Alexa."
-msgstr ""
+msgstr "Un compte Amazon protégé par mot de passe est nécessaire pour configurer Alexa."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Amazon has a <a id=\"a1\">bug bounty program</a>."
-msgstr ""
+msgstr "Amazon a un <a id=\"a1\">programme de prime aux bugs</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
@@ -580,7 +580,9 @@ msgid ""
 "Alexa provides some information about its AI at the Alexa FAQ and the Amazon Science webpages.: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a> <a "
 "id=\"a2\">https://www.amazon.science/tag/alexa</a>"
 msgstr ""
+"Alexa fournit des informations (non disponibles en français) au sujet de son IA dans la FAQ d’Alexa et les pages Amazon Science : <a "
+"id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a> <a id=\"a2\">https://www.amazon.science/tag/alexa</a>"
 
 msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
-msgstr ""
+msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprendre et générer des réponses à vos demandes."

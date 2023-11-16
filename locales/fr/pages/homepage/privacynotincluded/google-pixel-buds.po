@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-15 09:10:10.477502+00:00\n"
-"PO-Revision-Date: 2023-11-16 14:56+0000\n"
+"PO-Revision-Date: 2023-11-16 15:07+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -424,6 +424,8 @@ msgstr "Envisagez d’utiliser votre casque sans le connecter à une application
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)"
 msgstr ""
+"Utilisez les paramètres de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (n’autorisez pas l’accès à votre caméra, votre micro, vos images "
+"et votre localisation, sauf si nécessaire)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
@@ -431,7 +433,7 @@ msgstr "Assurez-vous de garder votre application à jour."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Limit ad tracking via your device (for Google, go to Google account and turn off ad personalization)"
-msgstr ""
+msgstr "Limitez le suivi publicitaire via votre appareil (pour Google, accédez à votre compte Google et désactivez la personnalisation des annonces)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
@@ -516,6 +518,8 @@ msgid ""
 "In August 2023, a US District Court judge <a id=\"a1\">allowed a $5 Billion lawsuit to continue</a> against Google for alleged privacy violations of users for secretly tracking them without their "
 "consent."
 msgstr ""
+"En août 2023, un juge d’un tribunal de district américain a <a id=\"a1\">autorisé la poursuite d’une action en justice d’un montant de 5 milliards de dollars</a> contre Google pour violation "
+"présumée de la vie privée des utilisateurs en suivant leur activité secrètement sans leur consentement."
 
 msgctxt "track_record_details"
 msgid ""
@@ -648,11 +652,13 @@ msgstr ""
 
 msgctxt "ai_is_transparent_helptext"
 msgid "Google published the Generative AI additional Terms of Service."
-msgstr ""
+msgstr "Google a publié les conditions d’utilisation supplémentaires de l’IA générative."
 
 msgctxt "ai_helptext"
 msgid "Google is <a id=\"a1\">planning to add generative AI product Bard to its Home products</a>. Google also uses natural language processing to understand you and to generate answers to your requests."
 msgstr ""
+"Google <a id=\"a1\">prévoit</a> d’ajouter l’IA générative Bard à ses produits Home. Google utilise également le traitement du langage naturel pour vous comprendre et générer des réponses à vos "
+"demandes."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
