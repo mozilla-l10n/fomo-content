@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:32:04.217031+00:00\n"
-"PO-Revision-Date: 2023-11-17 13:01+0000\n"
+"PO-Revision-Date: 2023-11-17 14:01+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -416,7 +416,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Turn off</a> personalized advertisement"
-msgstr ""
+msgstr "<a id=\"a1\">Desative</a> a publicidade personalizada."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time"
@@ -441,6 +441,8 @@ msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)"
 msgstr ""
+"Use os controles de privacidade do seu dispositivo para limitar o acesso a seus dados pessoais por meio do app (não dê acesso à sua câmera, microfone, imagens e localização, a não ser que seja "
+"necessário)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
@@ -530,6 +532,8 @@ msgid ""
 "In August 2023, a US District Court judge <a id=\"a1\">allowed a $5 Billion lawsuit to continue</a> against Google for alleged privacy violations of users for secretly tracking them without their "
 "consent."
 msgstr ""
+"Em agosto de 2023, um juiz do Tribunal Distrital dos EUA <a id=\"a1\">permitiu que um processo de US$ 5 bilhões continuasse</a> contra o Google por violações de privacidade dos usuários por rastreá-"
+"los secretamente sem o seu consentimento."
 
 msgctxt "track_record_details"
 msgid ""
@@ -565,10 +569,12 @@ msgid ""
 "In August 2019, <a id=\"a1\">the company</a> admitted that partners who work to analyze voice snippets from the Assistant leaked the voice snippets of some Dutch users. More than 1,000 private "
 "conversations were sent to a Belgian news outlet, some of the messages reportedly revealed sensitive information such as medical conditions and customer addresses."
 msgstr ""
+"Em agosto de 2019, a <a id=\"a1\">empresa admitiu</a> que parceiros que trabalhavam para analisar trechos de voz do Assistente vazaram trechos de voz de alguns usuários holandeses. Mais de 1.000 "
+"conversas particulares foram enviadas a uma agência de notícias belga, algumas das mensagens revelaram informações confidenciais, tais como condições médicas e endereços de clientes."
 
 msgctxt "track_record_details"
 msgid "In <a id=\"a1\">December 2018,</a><a id=\"a2\">a</a> bug exposed the data of 52.5 million <a id=\"a3\">Google+ users.</a>"
-msgstr ""
+msgstr "Em <a id=\"a1\">dezembro de 2018</a>, <a id=\"a2\">um</a> bug expôs os dados de 52,5 milhões de <a id=\"a3\">usuários do Google+</a>."
 
 msgctxt "track_record_details"
 msgid "<a id=\"a1\">Nest Security Bulletin</a> contains details of security vulnerabilities that previously affected Google Nest's devices."
@@ -653,6 +659,8 @@ msgstr "O Google publicou os Termos de Serviço adicionais da IA Generativa. htt
 msgctxt "ai_helptext"
 msgid "Google is <a id=\"a1\">planning to add generative AI product Bard to its Home products</a>. Google also uses natural language processing to understand you and to generate answers to your requests."
 msgstr ""
+"O Google está <a id=\"a1\">planejando</a> adicionar o produto de IA generativa Bard aos seus produtos Home. O Google também usa o processamento de linguagem natural para entender você e gerar "
+"respostas às suas solicitações."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
