@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-14 18:20:49.423101+00:00\n"
+"PO-Revision-Date: 2023-11-17 15:14+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 03016008-c629-4fb4-aa3d-0d608b17e6e0\n"
 
 msgctxt "title"
@@ -159,48 +164,52 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use two-factor authentication"
-msgstr ""
+msgstr "Use a autenticação de dois fatores"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Limit your robot vacuum's data sharing"
-msgstr ""
+msgstr "Limite o compartilhamento de dados do seu robô aspirador"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use strong passwords"
-msgstr ""
+msgstr "Utilize senhas fortes"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your robot vacuum's firmware updated"
-msgstr ""
+msgstr "Mantenha o firmware de seu robô aspirador atualizado"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Não se cadastre com contas de terceiros. É melhor acessar com email e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr ""
+msgstr "Escolha uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 msgstr ""
+"Use os controles de privacidade do seu dispositivo para limitar o acesso a seus dados pessoais por meio do app (não dê acesso à sua câmera, microfone, imagens e localização, a não ser que seja "
+"necessário)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Mantenha seu aplicativo atualizado regularmente"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limitar rastreamento de anúncios) e as maiores redes de anúncios (para o "
+"Google, vá para a Conta do Google e desative a personalização de anúncios)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr ""
+msgstr "Solicite que seus dados sejam excluídos assim que você parar de usar o aplicativo. Simplesmente excluir um aplicativo do seu dispositivo não apaga seus dados pessoais."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se possível."
 
 msgctxt "personal_data_collected"
 msgid ""
