@@ -2515,6 +2515,11 @@ l10n = "locales/{locale}/pages/homepage/donate/help.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/tile-mate.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/tile-mate.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
@@ -2882,11 +2887,6 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/huawei-band-6.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/huawei-band-6.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/tile-mate.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/tile-mate.po"
 locales = [ "fr",]
 
 [[paths]]
