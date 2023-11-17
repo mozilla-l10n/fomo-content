@@ -2445,6 +2445,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-charge-6.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
+reference = "templates/snippets/highlights.Highlight/298-cars-a-privacy-nightmare.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/298-cars-a-privacy-nightmare.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/a-nightmare-before-christmas-mozilla-researchers-find-many-popular-tech-gifts-perform-worse-on-privacy-than-ever-before.pot"
 l10n = "locales/{locale}/pages/homepage/blog/a-nightmare-before-christmas-mozilla-researchers-find-many-popular-tech-gifts-perform-worse-on-privacy-than-ever-before.po"
 locales = [ "de", "es", "fr", "pt-BR",]
@@ -2453,6 +2458,61 @@ locales = [ "de", "es", "fr", "pt-BR",]
 reference = "templates/pages/homepage/privacynotincluded/articles/our-longest-naughty-list-ever-the-2023-holiday-buyers-guide-is-here.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/our-longest-naughty-list-ever-the-2023-holiday-buyers-guide-is-here.po"
 locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/300-stop-browser-censorship-in-france.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/300-stop-browser-censorship-in-france.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/299-amazon-ring-fix-security-issues.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/299-amazon-ring-fix-security-issues.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/293-give-monthly.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/293-give-monthly.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/292-give-now.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/292-give-now.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/294-leadership-circle.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/294-leadership-circle.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/295-annual-consumer-creep-o-meter.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/295-annual-consumer-creep-o-meter.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/296-net-neutrality.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/296-net-neutrality.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/297-victory-we-told-slack-to-blockabuse.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/297-victory-we-told-slack-to-blockabuse.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/donate.pot"
+l10n = "locales/{locale}/pages/homepage/donate.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/donate/ways-to-give.pot"
+l10n = "locales/{locale}/pages/homepage/donate/ways-to-give.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/donate/help.pot"
+l10n = "locales/{locale}/pages/homepage/donate/help.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
