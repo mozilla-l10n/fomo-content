@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-25 07:17:42.050866+00:00\n"
-"PO-Revision-Date: 2023-11-17 13:51+0000\n"
+"PO-Revision-Date: 2023-11-17 14:42+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -430,14 +430,16 @@ msgstr "Besuchen Sie die Datenschutzeinstellungen, um die Menge der gesammelten 
 msgctxt "tips_to_protect_yourself"
 msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"\"Hey Google, that wasn't for you\"\" to delete the last thing you said"
 msgstr ""
+"Löschen Sie Ihren Verlauf hin und wieder. Das können Sie tun, indem Sie sagen: „Hey Google, lösche die Aktivitäten dieser Woche.“ oder „Hey Google, das war nicht für dich“, um etwas zu löschen, das "
+"Sie gerade gesagt haben."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Turn off personalized advertisements"
-msgstr ""
+msgstr "Deaktivieren Sie personalisierte Werbung"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Visit privacy &amp; security controls to adjust the amount of data collected"
-msgstr ""
+msgstr "Besuchen Sie Datenschutz & Sicherheitskontrollen, um die Menge der gesammelten Daten anzupassen."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data."
@@ -454,6 +456,8 @@ msgstr "Wählen Sie ein starkes Passwort! Dafür können Sie auch ein Passwortko
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)"
 msgstr ""
+"Verwenden Sie die Datenschutzeinstellungen Ihres Geräts, um den Zugriff auf Ihre personenbezogenen Daten über die App zu beschränken (geben Sie keinen Zugriff auf Ihre Kamera, Ihr Mikrofon, Ihre "
+"Bilder und Standort, außer es ist notwendig)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
@@ -545,6 +549,8 @@ msgid ""
 "In August 2023, a US District Court judge <a id=\"a1\">allowed a $5 Billion lawsuit to continue</a> against Google for alleged privacy violations of users for secretly tracking them without their "
 "consent."
 msgstr ""
+"Im August 2023 <a id=\"a1\">hat ein Richter eines US-Bezirksgerichts eine 5-Milliarden-Dollar-Klage</a> gegen Google wegen angeblicher Verletzung der Privatsphäre von Nutzern durch deren heimliches "
+"Tracking ohne deren Zustimmung zugelassen."
 
 msgctxt "track_record_details"
 msgid ""
@@ -680,6 +686,8 @@ msgstr ""
 msgctxt "ai_helptext"
 msgid "Google is <a id=\"a1\">planning to add generative AI product Bard to its Home products</a>. Google also uses natural language processing to understand you and to generate answers to your requests."
 msgstr ""
+"Google <a id=\"a1\">plant</a> , das generative KI-Produkt Bard zu seinen Home-Produkten hinzuzufügen. Google verwendet auch natürliche Sprachverarbeitung, um Sie zu verstehen und Antworten auf Ihre "
+"Anfragen zu generieren."
 
 #~ msgctxt "blurb"
 #~ msgid ""
