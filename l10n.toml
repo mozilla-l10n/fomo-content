@@ -2445,21 +2445,6 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-charge-6.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/donate/help.pot"
-l10n = "locales/{locale}/pages/homepage/donate/help.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/donate/ways-to-give.pot"
-l10n = "locales/{locale}/pages/homepage/donate/ways-to-give.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/donate.pot"
-l10n = "locales/{locale}/pages/homepage/donate.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/a-nightmare-before-christmas-mozilla-researchers-find-many-popular-tech-gifts-perform-worse-on-privacy-than-ever-before.pot"
 l10n = "locales/{locale}/pages/homepage/blog/a-nightmare-before-christmas-mozilla-researchers-find-many-popular-tech-gifts-perform-worse-on-privacy-than-ever-before.po"
 locales = [ "de", "es", "fr", "pt-BR",]
