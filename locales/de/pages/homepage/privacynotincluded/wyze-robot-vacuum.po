@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-13 07:54:37.762731+00:00\n"
-"PO-Revision-Date: 2023-11-13 17:24+0000\n"
+"PO-Revision-Date: 2023-11-17 13:15+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Wyze Robot Vacuum"
-msgstr ""
+msgstr "Wyze Roboterstaubsauger"
 
 msgctxt "blurb"
 msgid ""
@@ -22,6 +22,11 @@ msgid ""
 "conversations</a>, even without a microphone. Creepy! The Wyze App allows users to set virtual boundaries to keep the vacuum away from off-limits areas. Want to vacuum while you are away from home? "
 "Use the app to track your vacuum in real time as it cruises around your house. So, how is Wyze as privacy and security? Well, not so great we're afraid."
 msgstr ""
+"LiDAR! Jeder braucht einen Staubsauger mit LiDAR! LiDAR ist im Grunde ein sich drehender Laser auf Ihrem Staubsauger, der sich etwa 6 Mal pro Sekunde dreht und Ihr Zuhause auf 2'016 Punkten in Ihrem"
+" Zimmer abbildet. Cool! LiDAR-Mapping ist in der Regel <a id=\"a1\">sicherer als Kameras</a> in Ihrem Zuhause. Die Forscher fanden jedoch heraus, dass LiDAR-Roboterstaubsauger auch ohne Mikrofon "
+"gehackt und zum <a id=\"a2\">Ausspionieren von Sprachgesprächen verwendet</a>werden können. Gruselig! Mit der Wyze App können Benutzer virtuelle Grenzen setzen, um den Staubsauger von unzugänglichen"
+" Bereichen fernzuhalten. Sie möchten staubsaugen, während Sie nicht zu Hause sind? Verwenden Sie die App, um Ihren Staubsauger in Echtzeit zu verfolgen, während er durch Ihr Haus fährt. Wie steht es"
+" also um die Privatsphäre und die Sicherheit von Wyze? Nun, nicht so gut, fürchten wir."
 
 msgctxt "worst_case"
 msgid ""
