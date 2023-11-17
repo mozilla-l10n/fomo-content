@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-08 15:32:53.906188+00:00\n"
-"PO-Revision-Date: 2023-11-13 16:10+0000\n"
+"PO-Revision-Date: 2023-11-17 14:32+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Wyze Bulb"
-msgstr ""
+msgstr "Ampoule Wyze"
 
 msgctxt "blurb"
 msgid ""
@@ -23,6 +23,12 @@ msgid ""
 "bulbs that are smarter than us at privacy? Not great. Wyze has had some significant security incidents lately that they haven't responded to well. We think it might be smart to stay away from Wyze's"
 " smart bulbs."
 msgstr ""
+"Wyze fabrique une gamme d'ampoules intelligentes, programmables et à intensité variable. Il semble que les rédacteurs des descriptions de produits de Wyze aient été à court d'idées pour décrire les "
+"ampoules intelligentes lorsqu'ils ont rédigé le contenu de leurs pages produits. Pourquoi une telle impression ? Eh bien, voici un passage « intelligent » : « <i>L'ampoule blanche de Wyze est "
+"probablement plus brillante que vous, mais elle est dotée de commandes de gradation pratiques, au cas où vous trouveriez cela intimidant ».</i> Mince alors, Wyze ! Espérons que vos ampoules "
+"intelligentes ne soient pas aussi pénibles que les descriptions qui figurent sur les pages des produits ! Outre le fait que Wyze nous traite tous de sombres idiots, comment la société et ses "
+"ampoules intelligentes, plus intelligentes que nous, respectent-elles notre vie privée ? La situation n'est pas brillante. Wyze a connu récemment des incidents de sécurité importants auxquels elle "
+"n'a pas bien réagi. Nous pensons qu'il serait judicieux de renoncer aux ampoules intelligentes de Wyze."
 
 msgctxt "worst_case"
 msgid ""
@@ -199,7 +205,7 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "You can submit security vulnerabilities to <a id=\"a1\">Wyze</a>."
-msgstr ""
+msgstr "Vous pouvez signaler des failles de sécurité à <a id=\"a1\">Wyze</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review Wyze's <a id=\"a1\">recommendations</a> to keep your account secure"
@@ -338,4 +344,4 @@ msgstr "Nous n’avons trouvé aucune mention de politiques de confidentialité 
 
 msgctxt "ai_what_can_it_do"
 msgid "Person detection through computer vision implementation."
-msgstr ""
+msgstr "Détection de personnes par la mise en œuvre de la vision par ordinateur."
