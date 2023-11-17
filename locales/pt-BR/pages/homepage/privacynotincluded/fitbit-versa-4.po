@@ -359,15 +359,51 @@ msgid ""
 msgstr ""
 
 msgctxt "tips_to_protect_yourself"
+msgid "Follow <a id=\"a1\">Fitbit's advice</a> to keep your stats private"
+msgstr "Siga o <a id=\"a1\">conselho da Fitbit</a> para manter suas estatísticas privadas"
+
+msgctxt "tips_to_protect_yourself"
 msgid ""
-"- Follow <a id=\"a1\">Fitbit's advice</a> to keep your stats private<br/>- Be very careful what third party companies you consent to share you health data with. If you do decided to share your "
-"health data with another company, read their privacy policy to see how they protect, secure, and share or sell your data.<br/>- Stop sharing friends' lists: Under “Friends” on your profile page, "
-"select Privacy Setting and then Private.<br/>- Do not sign up with third-party accounts. Better just log in with email and strong password.<br/>- Chose a strong password! You may use a password "
-"control tool like 1Password, KeePass etc<br/>- Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location "
-"unless neccessary)<br/>- Keep your app regularly updated<br/>- Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for "
-"Google, go to Google account and turn off ad personalization)<br/>- Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your "
-"personal data.<br/>- When starting a sign-up, do not agree to tracking of your data if possible."
+"Be very careful what third party companies you consent to share you health data with. If you do decided to share your health data with another company, read their privacy policy to see how they "
+"protect, secure, and share or sell your data."
 msgstr ""
+"Tenha muito cuidado com quais empresas terceirizadas você concorda em compartilhar seus dados de saúde. Se você decidir compartilhar seus dados de saúde com outra empresa, leia a política de "
+"privacidade dela para ver como eles zelam, protegem e compartilham ou vendem seus dados."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Stop sharing friends' lists: Under “Friends” on your profile page, select Privacy Setting and then Private."
+msgstr "Pare de compartilhar listas de amigos: Em \"Amigos\" na página do seu perfil, selecione Configuração de Privacidade e, em seguida, Privado."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
+msgstr "Não se cadastre com contas de terceiros. É melhor acessar com email e senha forte."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
+msgstr "Escolha uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass, etc."
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
+msgstr "Use os controles de privacidade do seu dispositivo para limitar o acesso às suas informações pessoais via aplicativo (não dê acesso à sua câmera, microfone, imagens e vídeos)"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Keep your app regularly updated"
+msgstr "Mantenha seu aplicativo atualizado regularmente"
+
+msgctxt "tips_to_protect_yourself"
+msgid ""
+"Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+msgstr ""
+"Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limitar rastreamento de anúncios) e as maiores redes de anúncios (para o "
+"Google, vá para a Conta do Google e desative a personalização de anúncios)"
+
+msgctxt "tips_to_protect_yourself"
+msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
+msgstr "Solicite que seus dados sejam excluídos assim que você parar de usar o aplicativo. Simplesmente excluir um aplicativo do seu dispositivo não apaga seus dados pessoais."
+
+msgctxt "tips_to_protect_yourself"
+msgid "When starting a sign-up, do not agree to tracking of your data if possible."
+msgstr "Ao iniciar uma inscrição, não concorde com o rastreamento de seus dados."
 
 msgctxt "personal_data_collected"
 msgid ""
@@ -709,53 +745,6 @@ msgstr "<a id=\"a1\">Diz-se</a> que os serviços FitBit Coach e FitBit Care se b
 #~ msgctxt "strong_password_helptext"
 #~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
 #~ msgstr "Para criar uma conta Fitbit, os usuários são obrigados a fornecer senhas fortes e complexas durante a integração."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Follow <a id=\"a1\">Fitbit's advice</a> to keep your stats private"
-#~ msgstr "Siga o <a id=\"a1\">conselho da Fitbit</a> para manter suas estatísticas privadas"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid ""
-#~ "Be very careful what third party companies you consent to share you health data with. If you do decided to share your health data with another company, read their privacy policy to see how they "
-#~ "protect, secure, and share or sell your data."
-#~ msgstr ""
-#~ "Tenha muito cuidado com quais empresas terceirizadas você concorda em compartilhar seus dados de saúde. Se você decidir compartilhar seus dados de saúde com outra empresa, leia a política de "
-#~ "privacidade dela para ver como eles zelam, protegem e compartilham ou vendem seus dados."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Stop sharing friends' lists: Under “Friends” on your profile page, select Privacy Setting and then Private."
-#~ msgstr "Pare de compartilhar listas de amigos: Em \"Amigos\" na página do seu perfil, selecione Configuração de Privacidade e, em seguida, Privado."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-#~ msgstr "Não se cadastre com contas de terceiros. É melhor acessar com email e senha forte."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-#~ msgstr "Escolha uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass, etc."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Keep your app regularly updated"
-#~ msgstr "Mantenha seu aplicativo atualizado regularmente"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid ""
-#~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
-#~ msgstr ""
-#~ "Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limitar rastreamento de anúncios) e as maiores redes de anúncios (para o "
-#~ "Google, vá para a Conta do Google e desative a personalização de anúncios)"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-#~ msgstr "Solicite que seus dados sejam excluídos assim que você parar de usar o aplicativo. Simplesmente excluir um aplicativo do seu dispositivo não apaga seus dados pessoais."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-#~ msgstr "Ao iniciar uma inscrição, não concorde com o rastreamento de seus dados."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
-#~ msgstr "Use os controles de privacidade do seu dispositivo para limitar o acesso às suas informações pessoais via aplicativo (não dê acesso à sua câmera, microfone, imagens e vídeos)"
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, date of birth, gender, photo (optional)"
