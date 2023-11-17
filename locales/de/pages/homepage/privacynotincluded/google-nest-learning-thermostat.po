@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:29.003819+00:00\n"
-"PO-Revision-Date: 2023-11-17 13:26+0000\n"
+"PO-Revision-Date: 2023-11-17 13:51+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -472,6 +472,12 @@ msgid ""
 "<br/> <br/>(If you use calls) Phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages;\r"
 "<br/>GPS location and other sensor data from your device"
 msgstr ""
+"Name, E-Mail-Adresse oder Rechnungsinformationen oder andere Daten, die von Google vernünftigerweise mit solchen Informationen verknüpft werden können, wie z. B. Informationen, die wir mit Ihrem Google-Konto verknüpfen; \n"
+"<br/> <br/>Daten zu Ihren Aktivitäten, wie z. B. Begriffe, nach denen Sie suchen, Videos, die Sie sich ansehen, Ansichten und Interaktionen mit Inhalten und Anzeigen, Sprach- und Audioinformationen, Kaufaktivitäten, Personen, mit denen Sie kommunizieren oder Inhalte teilen, Aktivitäten auf Websites und Apps von Drittanbietern, die unsere Dienste nutzen, Chrome-Browserverlauf, den Sie mit Ihrem Google-Konto synchronisiert haben; \n"
+"<br/> <br/>Standortinformationen einschließlich Ihrer Adresse, POSTLEITZAHL und dem Ort, an dem sich das Gerät befindet;\n"
+"<br/> <br/>Sensordaten wie erkannte Bewegung, Umgebungslichtmessungen, Temperatur, Luftfeuchtigkeit, Kohlenmonoxid und Rauchpegel sowie Informationen, die aus diesen Daten abgeleitet werden, wie Schlafinformationen;\n"
+"<br/> <br/>(Wenn Sie Anrufe verwenden) Telefonnummer, Nummer des Anrufers, Nummer des Empfängers, Weiterleitungsnummern, Absender- und Empfänger-E-Mailadresse, Uhrzeit und Datum von Anrufen und Nachrichten, Dauer von Anrufen, Routing-Informationen und Arten und Mengen von Anrufen und Nachrichten;\n"
+"<br/>GPS-Standort und andere Sensordaten von Ihrem Gerät."
 
 msgctxt "biometric_data_collected"
 msgid ""
