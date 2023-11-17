@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-13 07:54:52.323792+00:00\n"
-"PO-Revision-Date: 2023-11-13 15:07+0000\n"
+"PO-Revision-Date: 2023-11-17 11:36+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Wyze Robot Vacuum"
-msgstr ""
+msgstr "Robot aspirador Wyze"
 
 msgctxt "blurb"
 msgid ""
@@ -22,6 +22,11 @@ msgid ""
 "conversations</a>, even without a microphone. Creepy! The Wyze App allows users to set virtual boundaries to keep the vacuum away from off-limits areas. Want to vacuum while you are away from home? "
 "Use the app to track your vacuum in real time as it cruises around your house. So, how is Wyze as privacy and security? Well, not so great we're afraid."
 msgstr ""
+"¡LiDAR! ¡Todos necesitamos una aspiradora con LiDAR! Básicamente, LiDAR es un láser giratorio que se encuentra en la parte superior de tu aspiradora y que gira alrededor de 6 veces por segundo "
+"mapeando tu casa a 2016 puntos en su habitación. ¡Genial! El mapeo de LiDAR es una apuesta generalmente <a id=\"a1\">más segura que las cámaras</a> para tu hogar. Sin embargo, los investigadores "
+"descubrieron que los robots aspiradores con LiDAR pueden ser hackeadas y utilizadas para <a id=\"a2\">espiar conversaciones de voz</a>, incluso sin un micrófono. ¡Espeluznante! La aplicación Wyze "
+"permite a los usuarios establecer límites virtuales para mantener la aspiradora lejos de lugares prohibidos. ¿Quieres pasar la aspiradora mientras estás fuera de casa? Utiliza la app para hacer un "
+"seguimiento de tu aspiradora en tiempo real mientras navega por tu casa. ¿Quieres saber cómo es Wyze con la privacidad y la seguridad? Nos tememos que no muy buenos."
 
 msgctxt "worst_case"
 msgid ""
