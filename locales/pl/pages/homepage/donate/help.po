@@ -11,6 +11,14 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 625ae997-1b66-4525-ad12-b44c2e89a022\n"
 
+msgctxt "seo_title"
+msgid "Donor Help and FAQ"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Need help with a donation to Mozilla Foundation? Use the help form or read our frequently asked questions about donating to us."
+msgstr ""
+
 msgctxt "notice.c7731ccb-73d9-48b2-980b-acd8db6486ee.image_alt_text"
 msgid "icon"
 msgstr "Ikona"
@@ -204,24 +212,8 @@ msgid "Address checks to:"
 msgstr ""
 
 msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
-msgid "Mozilla Foundation"
-msgstr "Mozilla Foundation"
-
-msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
-msgid "attn: Donor Care"
-msgstr "attn: Donor Care"
-
-msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
-msgid "149 New Montgomery St, 4th Floor"
-msgstr "149 New Montgomery St, 4th Floor"
-
-msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
-msgid "San Francisco, CA"
-msgstr "San Francisco, CA"
-
-msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
-msgid "94105"
-msgstr "94105"
+msgid "Mozilla Foundation<br/>attn: Donor Care<br/>149 New Montgomery St, 4th Floor<br/>San Francisco, CA.  94105"
+msgstr ""
 
 msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
 msgid "Designate your check with the following information:"
@@ -390,3 +382,19 @@ msgstr "Ikona"
 msgctxt "body.710d48f1-b173-496e-b328-32ede70cddd1.text"
 msgid "Ready to donate? <a id=\"a1\">Donate now.</a>"
 msgstr ""
+
+#~ msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
+#~ msgid "attn: Donor Care"
+#~ msgstr "attn: Donor Care"
+
+#~ msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
+#~ msgid "149 New Montgomery St, 4th Floor"
+#~ msgstr "149 New Montgomery St, 4th Floor"
+
+#~ msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
+#~ msgid "San Francisco, CA"
+#~ msgstr "San Francisco, CA"
+
+#~ msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
+#~ msgid "94105"
+#~ msgstr "94105"
