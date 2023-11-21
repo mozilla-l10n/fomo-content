@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-21 13:09:18.482172+00:00\n"
+"PO-Revision-Date: 2023-11-21 14:53+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 16028a5d-d697-45d4-87d7-817cc859dcbf\n"
 
 msgctxt "header"
@@ -18,8 +23,8 @@ msgstr ""
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in!"
-msgstr ""
+msgstr "Ja, ich spende!"
 
 msgctxt "dismiss_text"
 msgid "I can't donate, but I'll share instead"
-msgstr ""
+msgstr "Nein danke, aber ich teile stattdessen den Beitrag"
