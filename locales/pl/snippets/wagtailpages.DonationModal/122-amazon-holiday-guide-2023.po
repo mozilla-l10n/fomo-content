@@ -1,25 +1,33 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-21 13:10:01.459306+00:00\n"
+"PO-Revision-Date: 2023-11-22 07:52+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 658452a6-089e-45e2-a5fb-7066a5a23081\n"
 
 msgctxt "header"
 msgid "Thanks for signing! While you're here, we need you to do two things."
-msgstr ""
+msgstr "Dziękujemy za podpis! Skoro już tu jesteś, potrzebujemy Twojej pomocy."
 
 msgctxt "body"
 msgid ""
 "Thank you for adding your name to tell Amazon's new executive to protect children's privacy from Amazon devices. If you haven't received emails from Mozilla before, check your inbox – you MUST click"
 " a link to get campaign updates from us. If you're already a part of our campaigning, can you please make a donation to support our work to hold Amazon and big tech accountable?"
 msgstr ""
+"Dziękujemy za podpisanie petycji w sprawie ochrony prywatności dzieci na urządzeniach Amazon, którą adresujemy do nowego dyrektora firmy. Jeśli nie zdarzyło Ci się wcześniej otrzymywać e-maili od "
+"Mozilli, sprawdź swoją skrzynkę odbiorczą i kliknij link, aby otrzymywać aktualne informacje o kampanii. Jeśli już bierzesz udział w kampanii, prosimy o wpłacenie datku. W ten sposób pomożesz nam "
+"pociągnąć Amazona i innych gigantów technologicznych do odpowiedzialności."
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in!"
-msgstr ""
+msgstr "Tak, dołożę się!"
 
 msgctxt "dismiss_text"
 msgid "I can't donate, but I'll share instead"
-msgstr ""
+msgstr "Nie, zamiast tego udostępnię"
