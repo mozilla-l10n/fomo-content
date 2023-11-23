@@ -1,23 +1,28 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-17 08:03:04.659203+00:00\n"
+"PO-Revision-Date: 2023-11-23 08:11+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 69013261-c60f-4cb9-ad32-e8cf2c378372\n"
 
 msgctxt "title"
 msgid "Stop Browser Censorship in France"
-msgstr ""
+msgstr "Zatrzymaj cenzurę w przeglądarkach we Francji"
 
 msgctxt "description"
 msgid "Sign the petition to keep the French government from turning Firefox and other browsers into tools of censorship and setting a disastrous precedent."
-msgstr ""
+msgstr "Podpisz petycję, aby francuski rząd nie zmienił Firefoxa i innych przeglądarek w narzędzia do cenzurowania treści. Takie rozwiązanie miałoby katastrofalne skutki."
 
 msgctxt "link_label"
 msgid "Stop browser-level blocking in France"
-msgstr ""
+msgstr "Powiedz „nie” dla blokowania na poziomie przeglądarek we Francji"
 
 msgctxt "footer"
 msgid "/"
-msgstr ""
+msgstr "/"
