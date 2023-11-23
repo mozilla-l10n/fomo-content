@@ -1,23 +1,28 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-17 08:03:04.692312+00:00\n"
+"PO-Revision-Date: 2023-11-23 08:12+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 66997ebc-8813-43c2-ab0f-1f2fc60fa986\n"
 
 msgctxt "title"
 msgid "Give monthly"
-msgstr ""
+msgstr "Wpłacaj datki co miesiąc"
 
 msgctxt "description"
 msgid "Our community of monthly donors provides sustainable support for our hard-hitting advocacy and research campaigns, all year long."
-msgstr ""
+msgstr "Dzięki regularnej pomocy społeczności comiesięcznych darczyńców możemy prowadzić bezkompromisową działalność w obszarze rzecznictwa i realizować kampanie badawcze przez cały rok."
 
 msgctxt "link_label"
 msgid "Become a monthly donor"
-msgstr ""
+msgstr "Zostań comiesięcznym darczyńcą"
 
 msgctxt "footer"
 msgid "/"
-msgstr ""
+msgstr "/"
