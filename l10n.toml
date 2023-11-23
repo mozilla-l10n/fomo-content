@@ -1255,16 +1255,6 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/samsung-galaxy-smartt
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/peloton-tread.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/peloton-tread.po"
-locales = [ "de",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/peloton-bike.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/peloton-bike.po"
-locales = [ "de",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/how-to-shop-smart-for-internet-connected-devices.pot"
 l10n = "locales/{locale}/pages/homepage/blog/how-to-shop-smart-for-internet-connected-devices.po"
 locales = [ "de", "es", "fr",]
