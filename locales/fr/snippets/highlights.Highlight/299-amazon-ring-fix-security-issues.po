@@ -1,23 +1,30 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-17 08:02:57.225352+00:00\n"
+"PO-Revision-Date: 2023-11-23 07:51+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8a529236-7b32-4424-a8b2-a0a67400f420\n"
 
 msgctxt "title"
 msgid "Amazon Ring: fix security issues"
-msgstr ""
+msgstr "Ring d’Amazon : un problème à notre porte"
 
 msgctxt "description"
 msgid "Ring doorbells have a major security flaw. Can you add your name to our petition demanding Amazon fix an issue that lets attackers disable Ring Doorbells?"
 msgstr ""
+"Les sonnettes Ring présentent une faille de sécurité majeure. Pourriez-vous ajouter votre nom à la pétition demandant à Amazon de résoudre ce problème qui permet à des pirates de désactiver les "
+"sonnettes Ring ?"
 
 msgctxt "link_label"
 msgid "Call on Amazon to fix its Ring Doorbells"
-msgstr ""
+msgstr "Demandez à Amazon de régler le problème de sécurité avec ses sonnettes Ring"
 
 msgctxt "footer"
 msgid "/"
-msgstr ""
+msgstr "/"
