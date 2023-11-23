@@ -2460,11 +2460,6 @@ l10n = "locales/{locale}/snippets/highlights.Highlight/299-amazon-ring-fix-secur
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
-reference = "templates/snippets/highlights.Highlight/293-give-monthly.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/293-give-monthly.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
-
-[[paths]]
 reference = "templates/snippets/highlights.Highlight/292-give-now.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/292-give-now.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
@@ -2472,7 +2467,7 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/294-leadership-circle.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/294-leadership-circle.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+locales = [ "de", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/295-annual-consumer-creep-o-meter.pot"
@@ -2523,6 +2518,11 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 reference = "templates/snippets/donate_banner.DonateBanner/1-giving-tuesday.pot"
 l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/1-giving-tuesday.po"
 locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/293-give-monthly.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/293-give-monthly.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
