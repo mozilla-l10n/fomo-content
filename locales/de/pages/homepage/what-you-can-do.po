@@ -16,70 +16,56 @@ msgid "What you can do"
 msgstr "Was Sie tun können"
 
 msgctxt "ctaHeroHeader"
-msgid "Tell Car Companies: Stop Your Huge Data Collection Programs"
-msgstr "Fordern Sie Automobilkonzerne auf: Stoppen Sie das systematische Sammeln unserer persönlichen Daten!"
+msgid "Reclaim the internet: donate to Mozilla today"
+msgstr ""
 
 msgctxt "ctaHeroSubhead"
-msgid "Our new research shows that cars are anything but a private space — they are full blown data collection nightmares on wheels."
-msgstr "Unsere neue Forschung zeigt, dass Autos sind heutzutage alles sind, nur kein privater Raum mehr – ganz im Gegenteil: Sie sind ein Datenschutz-Albtraum auf Rädern."
+msgid "Mozilla is fighting for an internet that is open and accessible to all, that respects people and their privacy, and that promotes human dignity."
+msgstr ""
+
+msgctxt "ctaHeroSubhead"
+msgid "Donate now to help build a healthier online world."
+msgstr ""
 
 msgctxt "ctaButtonTitle"
-msgid "Take Action"
-msgstr "Handeln Sie"
+msgid "Donate now"
+msgstr ""
 
 msgctxt "ctaButtonURL"
-msgid "https://foundation.mozilla.org/privacynotincluded/articles/car-companies-stop-your-huge-data-collection-programs-en/"
-msgstr "https://foundation.mozilla.org/privacynotincluded/articles/car-companies-stop-your-huge-data-collection-programs/"
+msgid "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_1&amp;utm_term=en"
+msgstr ""
 
 msgctxt "ctaHeroHeader2"
 msgid "If you can, will you give today?"
 msgstr "Wenn Sie können, spenden Sie heute?"
 
 msgctxt "ctaHeroSubhead2"
-msgid "People like you help us stand for a healthy accessible web for all. Donate to keep the web open and free."
-msgstr "Menschen wie Sie helfen uns, für ein gesundes, barrierefreies Web für alle einzutreten. Spenden Sie, um das Internet offen und kostenlos zu halten."
+msgid "100% of every donation goes directly toward our programs pushing the tech industry to be better. Here are some examples of the work that your donation will fund."
+msgstr ""
 
 msgctxt "ctaButtonTitle2"
 msgid "Donate Now"
 msgstr "Jetzt spenden"
 
 msgctxt "ctaButtonURL2"
-msgid "?form=donate"
-msgstr "?form=donate"
+msgid "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_hero&amp;utm_term=en"
+msgstr ""
 
 msgctxt "ctaHeroHeader3"
-msgid "Spread the word"
-msgstr "Die Botschaft verbreiten"
+msgid "The Internet starts with us"
+msgstr ""
 
 msgctxt "ctaHeroSubhead3"
-msgid "A healthy internet needs people. Share Mozilla’s work with your people to grow."
-msgstr "Ein gesundes Internet braucht Menschen. Teilen Sie Mozillas Arbeit mit Ihren Mitarbeitern, um zu wachsen."
-
-msgctxt "ctaFacebook3"
-msgid "http://foundation.mozilla.org/"
-msgstr "http://foundation.mozilla.org/"
-
-msgctxt "ctaTwitter3"
-msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
-msgstr "Klicken Sie hier, um mit Mozilla für mehr Internetgesundheit zu arbeiten http://foundation.mozilla.org/"
-
-msgctxt "ctaEmailShareBody3"
-msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
-msgstr "Klicken Sie hier, um mit Mozilla für mehr Internetgesundheit zu arbeiten http://foundation.mozilla.org/"
-
-msgctxt "ctaEmailShareSubject3"
-msgid "The Internet starts with people"
-msgstr "Das Internet fängt bei den Menschen an"
+msgid "From signing a petition, contributing to a project or attending an event, people can save the internet."
+msgstr ""
 
 msgctxt "h2"
-msgid "The Internet starts with us"
-msgstr "Das Internet fängt bei uns an"
+msgid "Ways to Give"
+msgstr ""
 
 msgctxt "h2Subheader"
-msgid "From signing a petition, contributing to a project or attending an event, people can save the Internet. Here are ways to get involved."
+msgid "Reclaim the internet with a gift to Mozilla – here's how you can donate."
 msgstr ""
-"Durch die Unterzeichnung einer Petition, die Teilnahme an einem Projekt oder die Teilnahme an einer Veranstaltung können die Menschen das Internet retten. Hier sind Möglichkeiten, sich zu "
-"engagieren."
 
 msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.header"
 msgid "Become A Fellow"
@@ -137,6 +123,10 @@ msgstr "https://mozillafestival.org/"
 #~ msgid "Stop France from forcing browsers like Firefox to censor websites"
 #~ msgstr "Hindern Sie Frankreich daran, Browser wie Firefox zur Zensur von Websites zu zwingen"
 
+#~ msgctxt "ctaHeroHeader"
+#~ msgid "Tell Car Companies: Stop Your Huge Data Collection Programs"
+#~ msgstr "Fordern Sie Automobilkonzerne auf: Stoppen Sie das systematische Sammeln unserer persönlichen Daten!"
+
 #~ msgctxt "ctaHeroSubhead"
 #~ msgid ""
 #~ "We don't all speak in one voice and we should all be heard. Project Common Voice is a Mozilla Initiative to improve voice recognition technology for all, by collecting data in multiple languages, "
@@ -167,9 +157,17 @@ msgstr "https://mozillafestival.org/"
 #~ msgid "The French government is working on a law that could threaten the free internet."
 #~ msgstr "Die französische Regierung arbeitet an einem Gesetz, das das freie Internet gefährden könnte."
 
+#~ msgctxt "ctaHeroSubhead"
+#~ msgid "Our new research shows that cars are anything but a private space — they are full blown data collection nightmares on wheels."
+#~ msgstr "Unsere neue Forschung zeigt, dass Autos sind heutzutage alles sind, nur kein privater Raum mehr – ganz im Gegenteil: Sie sind ein Datenschutz-Albtraum auf Rädern."
+
 #~ msgctxt "ctaButtonTitle"
 #~ msgid "Contribute Your Voice Today"
 #~ msgstr "Spenden Sie noch heute Ihre Stimme"
+
+#~ msgctxt "ctaButtonTitle"
+#~ msgid "Take Action"
+#~ msgstr "Handeln Sie"
 
 #~ msgctxt "ctaButtonTitle"
 #~ msgid "Secure Your Ticket"
@@ -191,6 +189,48 @@ msgstr "https://mozillafestival.org/"
 #~ msgid "https://foundation.mozilla.org/?form=FUNXBEJRNED&amp;c_id=7014x000000eQOC"
 #~ msgstr "https://foundation.mozilla.org/?form=FUNXBEJRNED&amp;c_id=7014x000000eQOC"
 
+#~ msgctxt "ctaButtonURL"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/articles/car-companies-stop-your-huge-data-collection-programs-en/"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/articles/car-companies-stop-your-huge-data-collection-programs/"
+
+#~ msgctxt "ctaHeroSubhead2"
+#~ msgid "People like you help us stand for a healthy accessible web for all. Donate to keep the web open and free."
+#~ msgstr "Menschen wie Sie helfen uns, für ein gesundes, barrierefreies Web für alle einzutreten. Spenden Sie, um das Internet offen und kostenlos zu halten."
+
 #~ msgctxt "ctaButtonURL2"
 #~ msgid "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
 #~ msgstr "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
+
+#~ msgctxt "ctaButtonURL2"
+#~ msgid "?form=donate"
+#~ msgstr "?form=donate"
+
+#~ msgctxt "ctaHeroHeader3"
+#~ msgid "Spread the word"
+#~ msgstr "Die Botschaft verbreiten"
+
+#~ msgctxt "ctaHeroSubhead3"
+#~ msgid "A healthy internet needs people. Share Mozilla’s work with your people to grow."
+#~ msgstr "Ein gesundes Internet braucht Menschen. Teilen Sie Mozillas Arbeit mit Ihren Mitarbeitern, um zu wachsen."
+
+#~ msgctxt "ctaFacebook3"
+#~ msgid "http://foundation.mozilla.org/"
+#~ msgstr "http://foundation.mozilla.org/"
+
+#~ msgctxt "ctaTwitter3"
+#~ msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
+#~ msgstr "Klicken Sie hier, um mit Mozilla für mehr Internetgesundheit zu arbeiten http://foundation.mozilla.org/"
+
+#~ msgctxt "ctaEmailShareBody3"
+#~ msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
+#~ msgstr "Klicken Sie hier, um mit Mozilla für mehr Internetgesundheit zu arbeiten http://foundation.mozilla.org/"
+
+#~ msgctxt "ctaEmailShareSubject3"
+#~ msgid "The Internet starts with people"
+#~ msgstr "Das Internet fängt bei den Menschen an"
+
+#~ msgctxt "h2Subheader"
+#~ msgid "From signing a petition, contributing to a project or attending an event, people can save the Internet. Here are ways to get involved."
+#~ msgstr ""
+#~ "Durch die Unterzeichnung einer Petition, die Teilnahme an einem Projekt oder die Teilnahme an einer Veranstaltung können die Menschen das Internet retten. Hier sind Möglichkeiten, sich zu "
+#~ "engagieren."

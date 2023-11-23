@@ -16,68 +16,56 @@ msgid "What you can do"
 msgstr "Participer"
 
 msgctxt "ctaHeroHeader"
-msgid "Tell Car Companies: Stop Your Huge Data Collection Programs"
-msgstr "Demandez aux constructeurs automobiles d’arrêter de recueillir massivement nos données"
+msgid "Reclaim the internet: donate to Mozilla today"
+msgstr ""
 
 msgctxt "ctaHeroSubhead"
-msgid "Our new research shows that cars are anything but a private space — they are full blown data collection nightmares on wheels."
-msgstr "Notre dernière recherche montre que votre voiture sait tout, entend tout, voit tout et enregistre tout. Aidez-nous à mettre un terme à ce véritable cauchemar sur roues !"
+msgid "Mozilla is fighting for an internet that is open and accessible to all, that respects people and their privacy, and that promotes human dignity."
+msgstr ""
+
+msgctxt "ctaHeroSubhead"
+msgid "Donate now to help build a healthier online world."
+msgstr ""
 
 msgctxt "ctaButtonTitle"
-msgid "Take Action"
-msgstr "Passer à l’action"
+msgid "Donate now"
+msgstr ""
 
 msgctxt "ctaButtonURL"
-msgid "https://foundation.mozilla.org/privacynotincluded/articles/car-companies-stop-your-huge-data-collection-programs-en/"
-msgstr "https://foundation.mozilla.org/privacynotincluded/articles/car-companies-stop-your-huge-data-collection-programs-en/"
+msgid "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_1&amp;utm_term=en"
+msgstr ""
 
 msgctxt "ctaHeroHeader2"
 msgid "If you can, will you give today?"
 msgstr "Si vous le pouvez, ferez-vous un don ?"
 
 msgctxt "ctaHeroSubhead2"
-msgid "People like you help us stand for a healthy accessible web for all. Donate to keep the web open and free."
-msgstr "Des personnes comme vous nous aident à défendre un Web accessible et sain pour toutes et tous. Faites un don pour que le Web demeure libre et ouvert."
+msgid "100% of every donation goes directly toward our programs pushing the tech industry to be better. Here are some examples of the work that your donation will fund."
+msgstr ""
 
 msgctxt "ctaButtonTitle2"
 msgid "Donate Now"
 msgstr "Faire un don"
 
 msgctxt "ctaButtonURL2"
-msgid "?form=donate"
-msgstr "?form=donate"
+msgid "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_hero&amp;utm_term=en"
+msgstr ""
 
 msgctxt "ctaHeroHeader3"
-msgid "Spread the word"
-msgstr "Faites passer le mot"
+msgid "The Internet starts with us"
+msgstr ""
 
 msgctxt "ctaHeroSubhead3"
-msgid "A healthy internet needs people. Share Mozilla’s work with your people to grow."
-msgstr "Un Internet sain ne peut exister sans individus. Partagez le travail de Mozilla avec vos connaissances pour lancer un grand mouvement."
-
-msgctxt "ctaFacebook3"
-msgid "http://foundation.mozilla.org/"
-msgstr "http://foundation.mozilla.org/"
-
-msgctxt "ctaTwitter3"
-msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
-msgstr "Cliquez ici pour vous battre pour un Internet plus sain avec Mozilla https://foundation.mozilla.org/"
-
-msgctxt "ctaEmailShareBody3"
-msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
-msgstr "Cliquez ici pour vous battre pour un Internet plus sain avec Mozilla https://foundation.mozilla.org/"
-
-msgctxt "ctaEmailShareSubject3"
-msgid "The Internet starts with people"
-msgstr "Internet n’est rien sans les internautes"
+msgid "From signing a petition, contributing to a project or attending an event, people can save the internet."
+msgstr ""
 
 msgctxt "h2"
-msgid "The Internet starts with us"
-msgstr "Internet, nous connaissons bien"
+msgid "Ways to Give"
+msgstr ""
 
 msgctxt "h2Subheader"
-msgid "From signing a petition, contributing to a project or attending an event, people can save the Internet. Here are ways to get involved."
-msgstr "Signer une pétition, contribuer à un projet, participer à un évènement… Il existe de nombreuses façons de participer et de défendre Internet."
+msgid "Reclaim the internet with a gift to Mozilla – here's how you can donate."
+msgstr ""
 
 msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.header"
 msgid "Become A Fellow"
@@ -135,6 +123,10 @@ msgstr "https://mozillafestival.org/"
 #~ msgid "Stop France from forcing browsers like Firefox to censor websites"
 #~ msgstr "Empêchez la France de forcer les navigateurs comme Firefox à censurer des sites web"
 
+#~ msgctxt "ctaHeroHeader"
+#~ msgid "Tell Car Companies: Stop Your Huge Data Collection Programs"
+#~ msgstr "Demandez aux constructeurs automobiles d’arrêter de recueillir massivement nos données"
+
 #~ msgctxt "ctaHeroSubhead"
 #~ msgid ""
 #~ "We don't all speak in one voice and we should all be heard. Project Common Voice is a Mozilla Initiative to improve voice recognition technology for all, by collecting data in multiple languages, "
@@ -165,6 +157,10 @@ msgstr "https://mozillafestival.org/"
 #~ msgid "The French government is working on a law that could threaten the free internet."
 #~ msgstr "Le gouvernement français prépare une loi qui pourrait menacer l’Internet libre."
 
+#~ msgctxt "ctaHeroSubhead"
+#~ msgid "Our new research shows that cars are anything but a private space — they are full blown data collection nightmares on wheels."
+#~ msgstr "Notre dernière recherche montre que votre voiture sait tout, entend tout, voit tout et enregistre tout. Aidez-nous à mettre un terme à ce véritable cauchemar sur roues !"
+
 #~ msgctxt "ctaButtonTitle"
 #~ msgid "Contribute Your Voice Today"
 #~ msgstr "Faites don de votre voix"
@@ -172,6 +168,10 @@ msgstr "https://mozillafestival.org/"
 #~ msgctxt "ctaButtonTitle"
 #~ msgid "Secure Your Ticket"
 #~ msgstr "Réservez votre billet"
+
+#~ msgctxt "ctaButtonTitle"
+#~ msgid "Take Action"
+#~ msgstr "Passer à l’action"
 
 #~ msgctxt "ctaButtonURL"
 #~ msgid "https://commonvoice.mozilla.org/"
@@ -189,6 +189,46 @@ msgstr "https://mozillafestival.org/"
 #~ msgid "https://foundation.mozilla.org/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites-en/"
 #~ msgstr "https://foundation.mozilla.org/fr/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites/"
 
+#~ msgctxt "ctaButtonURL"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/articles/car-companies-stop-your-huge-data-collection-programs-en/"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/articles/car-companies-stop-your-huge-data-collection-programs-en/"
+
+#~ msgctxt "ctaHeroSubhead2"
+#~ msgid "People like you help us stand for a healthy accessible web for all. Donate to keep the web open and free."
+#~ msgstr "Des personnes comme vous nous aident à défendre un Web accessible et sain pour toutes et tous. Faites un don pour que le Web demeure libre et ouvert."
+
 #~ msgctxt "ctaButtonURL2"
 #~ msgid "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
 #~ msgstr "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
+
+#~ msgctxt "ctaButtonURL2"
+#~ msgid "?form=donate"
+#~ msgstr "?form=donate"
+
+#~ msgctxt "ctaHeroHeader3"
+#~ msgid "Spread the word"
+#~ msgstr "Faites passer le mot"
+
+#~ msgctxt "ctaHeroSubhead3"
+#~ msgid "A healthy internet needs people. Share Mozilla’s work with your people to grow."
+#~ msgstr "Un Internet sain ne peut exister sans individus. Partagez le travail de Mozilla avec vos connaissances pour lancer un grand mouvement."
+
+#~ msgctxt "ctaFacebook3"
+#~ msgid "http://foundation.mozilla.org/"
+#~ msgstr "http://foundation.mozilla.org/"
+
+#~ msgctxt "ctaTwitter3"
+#~ msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
+#~ msgstr "Cliquez ici pour vous battre pour un Internet plus sain avec Mozilla https://foundation.mozilla.org/"
+
+#~ msgctxt "ctaEmailShareBody3"
+#~ msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
+#~ msgstr "Cliquez ici pour vous battre pour un Internet plus sain avec Mozilla https://foundation.mozilla.org/"
+
+#~ msgctxt "ctaEmailShareSubject3"
+#~ msgid "The Internet starts with people"
+#~ msgstr "Internet n’est rien sans les internautes"
+
+#~ msgctxt "h2Subheader"
+#~ msgid "From signing a petition, contributing to a project or attending an event, people can save the Internet. Here are ways to get involved."
+#~ msgstr "Signer une pétition, contribuer à un projet, participer à un évènement… Il existe de nombreuses façons de participer et de défendre Internet."
