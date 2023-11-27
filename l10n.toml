@@ -2517,7 +2517,7 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/1-giving-tuesday.pot"
 l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/1-giving-tuesday.po"
-locales = [ "de", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/293-give-monthly.pot"
