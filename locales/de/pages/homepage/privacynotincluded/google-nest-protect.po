@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:21:30.440833+00:00\n"
-"PO-Revision-Date: 2023-11-17 14:00+0000\n"
+"PO-Revision-Date: 2023-11-28 16:12+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -181,6 +181,13 @@ msgid ""
 "reproductive health care. That’s not just creepy, that’s downright harmful. Oh, and we don't even know how creepy it could get as Google gobbles up more and more of our data to train their AIs. This"
 " isn't just a problem with Google though, this is a concern we have will AI's like ChatGPT and OpenAI as well."
 msgstr ""
+"Was ist das Schlimmste, was passieren könnte? Nun, es ist möglich, dass Google Sie wirklich gut kennenlernen kann, vielleicht zu gut. Sie wissen bereits, wie warm Sie es in Ihrer Wohnung haben "
+"möchten und wahrscheinlich auch, wann Sie abends ins Bett gehen. Vielleicht kennen sie Sie noch aus den Zeiten, in denen Sie eine einfache Käsepizza bestellt haben. Sie wissen, dass Sie Single sind,"
+" denn wer bestellt schon eine einfache Käsepizza? Nur ein Scherz, sie wissen zum Einen, dass Sie Single sind, wegen all der Pediküre-Termine, die Sie gebucht haben. Vielleicht ist es in Ordnung, "
+"dass Google Sie so gut kennt? Vielleicht ist es gruselig. (OK, wir finden es ziemlich gruselig). Was dieser Tage noch gruseliger ist, ist die Möglichkeit, dass Ihre Google-Suchen und "
+"Standortinformationen und mehr potenziell dazu verwendet werden könnten, um Menschen in den Vereinigten Staaten, Menschen in den Vereinigten Staaten, die sich um reproduktive Gesundheitsvorsorge "
+"bemühen,<a id=\"a1\"> zu schikanieren, zu verhaften und sogar strafrechtlich zu verfolgen</a>. Das ist nicht nur gruselig, das ist geradezu schädlich. Oh, und wir wissen nicht einmal, wie gruselig "
+"es erst werden könnte, wenn Google immer mehr unserer Daten verschlingt, um ihre KIs zu trainieren. Dies ist jedoch nicht nur ein Problem bei Google, sondern auch bei KIs wie ChatGPT und OpenAI."
 
 msgctxt "signup_requirement_explanation"
 msgid "A Google Account is required."
@@ -670,7 +677,7 @@ msgstr ""
 
 msgctxt "ai_is_transparent_helptext"
 msgid "Google published the Generative AI additional Terms of Service."
-msgstr ""
+msgstr "Google hat die zusätzlichen Nutzungsbedingungen für Generative AI veröffentlicht."
 
 msgctxt "ai_helptext"
 msgid "Google is <a id=\"a1\">planning to add generative AI product Bard to its Home products</a>. Google also uses natural language processing to understand you and to generate answers to your requests."
