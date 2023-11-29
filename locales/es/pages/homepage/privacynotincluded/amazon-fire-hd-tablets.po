@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-15 07:52:59.038433+00:00\n"
-"PO-Revision-Date: 2023-11-23 17:11+0000\n"
+"PO-Revision-Date: 2023-11-29 10:16+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Amazon Fire HD Tablets"
-msgstr ""
+msgstr "Tabletas Amazon Fire HD"
 
 msgctxt "blurb"
 msgid ""
@@ -21,6 +21,10 @@ msgid ""
 "for paper towels, manage your doorbell camera, and ask Alexa what Santa's middle name is all at the same time? Amazon now has multiple versions of their Fire tablets, including two separate ones for"
 " kids. Too bad <a id=\"a1\">Amazon got totally busted in 2023 for violating the children's privacy law</a> when it comes to protecting kids privacy and respecting parents' privacy wishes."
 msgstr ""
+"Hoy en día parece que la mayoría de nosotros tenemos la capacidad de atención de un mosquito. ¿Será porque es fácil comprar un dispositivo que te permite leer libros, ver vídeos, jugar, escuchar "
+"música, navegar por la web, comprar toallas de papel, administrar la cámara del timbre y preguntarle a Alexa cuál es el segundo nombre de Santa al mismo tiempo? Ahora, Amazon tiene varias versiones "
+"de sus tabletas Fire, incluidas dos separadas para niños. Lástima que <a id=\"a1\">Amazon fue pillado en 2023 por violar la ley de privacidad de menores</a>, en lugar de proteger la privacidad de "
+"los niños y respetar los deseos de privacidad de los padres."
 
 msgctxt "worst_case"
 msgid ""
@@ -373,11 +377,11 @@ msgstr "Configura el modo anónimo cuando utilices la aplicación para proteger 
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "No te registres utilizando una cuenta que ya tengas con terceros. Es mejor que ingreses un correo electrónico y una buena contraseña."
+msgstr "No te registres a través de cuentas de terceros. Es mejor que inicies sesión con un correo electrónico y una contraseña segura."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr "¡Crea una contraseña fuerte! Puedes utilizar un gestor de contraseñas, como 1Password, KeePass y otros."
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -387,18 +391,18 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr "Actualiza la app a menudo."
+msgstr "Actualiza tu aplicación con regularidad"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
-"Limita el rastreo de anuncios a través del dispositivo (por ejemplo, en el iPhone, ve a Privacidad -&gt; Publicidad de Apple -&gt; Anuncios personalizados) y de los gigantes publicitarios (para "
-"Google, ve a tu cuenta de Google y desactiva la personalización de anuncios)."
+"Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
+"Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
-msgstr "Pide que tus datos sean eliminados cuando dejes de utilizar la app, dado que no basta eliminarla de tu dispositivo para que se borren tus datos personales. "
+msgstr "Solicita que se eliminen tus datos cuando dejes de usar la aplicación. El solo hecho de eliminar una aplicación de tu dispositivo no hace que se eliminen tus datos personales."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."

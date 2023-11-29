@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:21:50.215535+00:00\n"
-"PO-Revision-Date: 2023-11-16 11:28+0000\n"
+"PO-Revision-Date: 2023-11-29 10:13+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -178,6 +178,12 @@ msgid ""
 "reproductive health care. That’s not just creepy, that’s downright harmful. Oh, and we don't even know how creepy it could get as Google gobbles up more and more of our data to train their AIs. This"
 " isn't just a problem with Google though, this is a concern we have will AI's like ChatGPT and OpenAI as well."
 msgstr ""
+"¿Qué es lo peor que podría pasar? Bueno, es posible que Google pueda conocerte muy bien, quizás demasiado bien. Ya sabe la temperatura a la que te gusta mantener tu casa y probablemente también sepa"
+" a qué hora te duermes por la noche. Tal vez te reconozca por todas las veces que pediste pizza sencilla con queso. ¿Sabrá que eres soltera porque pides pizza sencilla con queso? Es broma, sabe que "
+"estás soltera por todas esas citas solo para ti que agendaste con la manicurista. ¿Está bien que Google te conozca tan bien? Quizás es espeluznante. (A nosotros nos parece bastante espeluznante). Lo"
+" que sí está de locos estos días es que tus búsquedas en Google, tu ubicación y otras cosas más puedan utilizarse en Estados Unidos para <a id=\"a1\">hostigar, arrestar e incluso enjuiciar </a> a "
+"quienes buscan servicios de salud reproductiva. Eso no es solo espeluznante, sino que es directamente dañino. Y ni siquiera sabemos lo espeluznante que puede llegar a ser a medida que Google se "
+"apropie cada vez más de nuestros datos para entrenar a sus IA. Aunque esto no es solo un problema de Google... también nos preocupan las IA como ChatGPT y OpenAI."
 
 msgctxt "signup_requirement_explanation"
 msgid "A Google Account is required."
@@ -661,7 +667,7 @@ msgstr ""
 
 msgctxt "ai_is_transparent_helptext"
 msgid "Google published the Generative AI additional Terms of Service."
-msgstr ""
+msgstr "Google publicó los Términos Adicionales del Servicio de IA Generativa"
 
 msgctxt "ai_helptext"
 msgid "Google is <a id=\"a1\">planning to add generative AI product Bard to its Home products</a>. Google also uses natural language processing to understand you and to generate answers to your requests."
