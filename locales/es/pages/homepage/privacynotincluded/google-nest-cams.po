@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:21:50.089989+00:00\n"
-"PO-Revision-Date: 2023-11-16 11:30+0000\n"
+"PO-Revision-Date: 2023-11-29 10:11+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Google Nest Cams"
-msgstr "Google Nest Cams"
+msgstr "Cámaras Google Nest"
 
 msgctxt "blurb"
 msgid ""
@@ -175,6 +175,10 @@ msgid ""
 "reminds us, Google's own device chief says homeowners should warn guests they are near a microphone (or video camera) potentially recording them when they visit your home if you own a device like "
 "this. We think that is good advice, but really, who does that?"
 msgstr ""
+"¿Qué es lo peor que puede pasar? Bueno, suponemos que podrías pillar con la cámara a tu vecino bailando desnudo frente a su ventana y que luego no podrás volver a mirarlo de la misma manera, lo que "
+"haría que esas barbacoas con todo el vecindario se convirtieran en eventos bastante incómodos. Aunque eso no es lo peor que podría pasar cuando Google pueda usar estas cámaras para aprender aún más "
+"sobre ti para su negocio de publicidad. Lo que nos recuerda que, si tienes un dispositivo como este, el propio jefe de dispositivos de Google dice que los dueños de casa deberían advertir a sus "
+"invitados que están cerca de un micrófono (o una cámara de vídeo) que puede grabarlos cuando están de visita en tu hogar. Creemos que es un buen consejo, aunque ¿quién hace eso?"
 
 msgctxt "worst_case"
 msgid ""
@@ -182,6 +186,10 @@ msgid ""
 "even prosecute</a> people in the United States seeking reproductive health care. That’s not just creepy, that’s downright harmful. Oh, and we don't even know how creepy it could get as Google "
 "gobbles up more and more of our data to train their AIs. This isn't just a problem with Google though, this is a concern we have will AI's like ChatGPT and OpenAI as well."
 msgstr ""
+"Lo que es aún más espeluznante en estos días es la posibilidad de que <a id=\"a1\">tus cámaras de Google</a>, tus búsquedas, tus datos de ubicación, entre otras cosas, puedan usarse para <a "
+"id=\"a2\">hostigar, arrestar e incluso enjuiciar a</a> personas que viven en los Estados Unidos y que buscan atención de salud reproductiva. Esto no solo es espeluznante, sino que es francamente "
+"dañino. Sin contar que ni siquiera sabemos lo espeluznante que podrá ser ahora que Google traga más y más de nuestros datos para entrenar a sus IA. Sin embargo, esto no es solo un problema con "
+"Google, también es una preocupación que tenemos con las IA como ChatGPT y OpenAI."
 
 msgctxt "signup_requirement_explanation"
 msgid "A Google Account is required."
@@ -434,11 +442,11 @@ msgstr "No aceptes el seguimiento de tus datos cuando estés realizando el proce
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "No te registres utilizando una cuenta que ya tengas con terceros. Es mejor que ingreses un correo electrónico y una buena contraseña."
+msgstr "No te registres a través de cuentas de terceros. Es mejor que inicies sesión con un correo electrónico y una contraseña segura."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr "¡Crea una contraseña fuerte! Puedes utilizar un gestor de contraseñas, como 1Password, KeePass y otros."
+msgstr "¡Elige una contraseña segura! Puedes usar una herramienta de control de contraseñas como 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -448,7 +456,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr "Actualiza la app a menudo."
+msgstr "Actualiza tu aplicación con regularidad"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
