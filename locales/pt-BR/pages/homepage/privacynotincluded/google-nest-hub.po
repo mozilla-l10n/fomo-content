@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:32:04.042620+00:00\n"
-"PO-Revision-Date: 2023-11-23 17:46+0000\n"
+"PO-Revision-Date: 2023-11-30 11:57+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -438,11 +438,11 @@ msgstr "Ao realizar uma inscrição, não concorde com o rastreamento de seus da
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "Não se cadastre com contas de terceiros. É melhor acessar com email e senha forte."
+msgstr "Não se cadastre com contas de terceiros. É melhor acessar com e-mail e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
+msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como o 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -681,6 +681,8 @@ msgid ""
 "On Nest Cameras, you can select which notifications you receive—for example, turn off person detection. Familiar Face detection, which identifies people who visit your home often, such as family "
 "members, is an opt-in feature that requires a Nest Aware subscription."
 msgstr ""
+"Nas Nest Cameras, você pode selecionar as notificações que recebe, por exemplo, desativar a detecção de pessoas. A detecção de rostos familiares, que identifica pessoas que visitam sua casa com "
+"frequência, como membros da família, é um recurso opcional que requer uma assinatura do Nest Aware."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Turn off personalised advertisement"

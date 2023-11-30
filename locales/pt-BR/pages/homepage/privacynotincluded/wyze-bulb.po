@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-15 07:43:16.259245+00:00\n"
-"PO-Revision-Date: 2023-11-17 14:38+0000\n"
+"PO-Revision-Date: 2023-11-30 11:59+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Wyze Bulb"
-msgstr ""
+msgstr "Lâmpada Wyze"
 
 msgctxt "blurb"
 msgid ""
@@ -23,6 +23,12 @@ msgid ""
 "bulbs that are smarter than us at privacy? Not great. Wyze has had some significant security incidents lately that they haven't responded to well. We think it might be smart to stay away from Wyze's"
 " smart bulbs."
 msgstr ""
+"A WYZE produz uma linha de lâmpadas inteligentes, programáveis e reguláveis. E (algo com o qual podemos nos identificar) parece que os redatores das descrições de produtos da Wyze ficaram sem coisas"
+" inteligentes a dizer sobre lâmpadas inteligentes ao escrever o conteúdo para suas páginas de produtos. O que nos deu essa ideia? Bem, essa frase \"inteligente\", \"<i>Wyze Bulb White é "
+"provavelmente mais brilhante do que você, mas tem controles reguláveis úteis, caso você ache isso intimidante\". </i> Droga, Wyze! Vamos torcer para que suas lâmpadas inteligentes não sejam tão "
+"duras quanto a escrita nas páginas do produto! Além da Wyze nos chamar de meio fracos, como eles e suas lâmpadas inteligentes – que são mais inteligentes do que nós – estão com relação à "
+"privacidade? Nada bem. A Wyze teve alguns incidentes de segurança significativos ultimamente que eles não responderam bem. Achamos que pode ser inteligente ficar longe das lâmpadas inteligentes da "
+"Wyze."
 
 msgctxt "worst_case"
 msgid ""
@@ -191,7 +197,7 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "You can submit security vulnerabilities to <a id=\"a1\">Wyze</a>."
-msgstr ""
+msgstr "Você pode enviar vulnerabilidades de segurança para a <a id=\"a1\">Wyze</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review Wyze's <a id=\"a1\">recommendations</a> to keep your account secure"
@@ -219,7 +225,7 @@ msgstr "Não se cadastre com contas de terceiros. É melhor acessar com e-mail e
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr "Escolha uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
+msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como o 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -235,8 +241,8 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
-"Limite o rastreamento de anúncios no seu dispositivo (ex.: no iPhone acesse Privacidade e Segurança -&gt; Publicidade da Apple -&gt; Limitar rastreamento de anúncios) e nas principais redes de "
-"anúncios (para o Google, acesse sua conta Google e desative os anúncios personalizados)"
+"Limite o rastreamento de anúncios no seu dispositivo (ex.: no iPhone acesse Privacidade e Segurança -> Publicidade da Apple -> Limitar rastreamento de anúncios) e nas principais redes de anúncios "
+"(para o Google, acesse sua conta Google e desative os anúncios personalizados)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
@@ -244,7 +250,7 @@ msgstr "Solicite que seus dados sejam excluídos quando que você parar de usar 
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se possível."
+msgstr "Ao começar o registro, não concorde com o rastreamento dos seus dados, se possível."
 
 msgctxt "personal_data_collected"
 msgid ""

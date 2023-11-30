@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-09 15:55:51.224523+00:00\n"
-"PO-Revision-Date: 2023-11-13 11:36+0000\n"
+"PO-Revision-Date: 2023-11-30 12:02+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,10 @@ msgid ""
 "porch pirates trying to steal those packages from your door. \"Leave no dong un-dinged\" Wyze says (seriously, their website actually says that). So, how is Wyze at privacy and security when dinging"
 " their dongs? Not so great, unfortunately."
 msgstr ""
+"A Wyze, empresa com sede em Seattle conhecida por fabricar câmeras de segurança domésticas super acessíveis, também produz uma campainha de vídeo. Sua nova campainha de vídeo v2 vem com resolução de"
+" vídeo 2K, armazenamento local micro SD, para gravação local contínua, conversa bidirecional, para agradecer aos entregadores que trabalham duro trazendo todos esses pacotes à sua porta, e dissuasão"
+" de voz ativada por movimento, para você gritar com todos aqueles piratas de varanda tentando roubar esses pacotes da sua porta. \"Não deixe nenhuma campainha sem tocar\", diz Wyze (sério, o site "
+"deles realmente diz isso). Então, como é a Wyze em privacidade e segurança quando tocam suas campainhas? Não muito bem, infelizmente."
 
 msgctxt "worst_case"
 msgid ""
@@ -221,7 +225,7 @@ msgstr "Não se cadastre com contas de terceiros. É melhor acessar com e-mail e
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr "Escolha uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
+msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como o 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -237,8 +241,8 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
-"Limite o rastreamento de anúncios no seu dispositivo (ex.: no iPhone acesse Privacidade e Segurança -&gt; Publicidade da Apple -&gt; Limitar rastreamento de anúncios) e nas principais redes de "
-"anúncios (para o Google, acesse sua conta Google e desative os anúncios personalizados)"
+"Limite o rastreamento de anúncios no seu dispositivo (ex.: no iPhone acesse Privacidade e Segurança -> Publicidade da Apple -> Limitar rastreamento de anúncios) e nas principais redes de anúncios "
+"(para o Google, acesse sua conta Google e desative os anúncios personalizados)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
@@ -246,7 +250,7 @@ msgstr "Solicite que seus dados sejam excluídos quando que você parar de usar 
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se possível."
+msgstr "Ao começar o registro, não concorde com o rastreamento dos seus dados, se possível."
 
 msgctxt "personal_data_collected"
 msgid ""
