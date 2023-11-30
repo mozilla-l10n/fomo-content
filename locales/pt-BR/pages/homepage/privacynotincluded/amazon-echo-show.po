@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-11 13:32:04.092082+00:00\n"
-"PO-Revision-Date: 2023-11-09 18:07+0000\n"
+"PO-Revision-Date: 2023-11-30 12:05+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -85,6 +85,11 @@ msgid ""
 "if you buy a pregnancy test through Amazon Alexa, Amazon won't forget you bought that pregnancy test just because you ask them to delete the voice recording of that purchase. That record of the "
 "purchase is data they have on you going forward and may use to target you with ads for more stuff."
 msgstr ""
+"Vamos falar um pouco sobre a Alexa. A inteligência artificial útil da Amazon, que está integrada em tudo, desde seu alto-falante inteligente Echo Pop até seu termostato, vem com seu próprio conjunto"
+" de perguntas e preocupações. A Amazon torna possível <a id=\"a1\">excluir automaticamente as gravações de voz</a> imediatamente após o processamento. Esse é um bom recurso após a controvérsia em "
+"torno de <a id=\"a2\">revisores humanos ouvindo</a> gravações de voz da Alexa. No entanto, a Amazon diz que quando você exclui suas gravações de voz, eles ainda podem manter os dados das interações "
+"que essas gravações acionaram. Então, se você comprar um teste de gravidez através da Amazon Alexa, a Amazon não vai esquecer que você comprou aquele teste de gravidez só porque você pediu a eles "
+"para excluir a gravação de voz dessa compra. Esse registro da compra são dados que eles mantêm sobre você e podem usar para segmentar anúncios para mais coisas."
 
 msgctxt "worst_case"
 msgid ""
@@ -373,11 +378,11 @@ msgstr "Configure o Modo Anônimo ao usar o aplicativo para proteger seus dados"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "Não se inscreva com contas de terceiros. É melhor acessar somente com email e senha forte."
+msgstr "Não se cadastre com contas de terceiros. É melhor acessar com e-mail e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
+msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como o 1Password, KeePass, etc."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
@@ -402,7 +407,7 @@ msgstr "Solicite que seus dados sejam excluídos quando você parar de usar o ap
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr "Ao realizar uma inscrição, não concorde com o rastreamento de seus dados, se possível."
+msgstr "Ao começar o registro, não concorde com o rastreamento dos seus dados, se possível."
 
 msgctxt "personal_data_collected"
 msgid ""
