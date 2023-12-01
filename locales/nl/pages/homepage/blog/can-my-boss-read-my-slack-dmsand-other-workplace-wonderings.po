@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-24 11:42:49.149494+00:00\n"
-"PO-Revision-Date: 2023-06-01 11:56+0000\n"
-"Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
+"PO-Revision-Date: 2023-12-01 16:36+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -35,7 +35,7 @@ msgstr "Het eenvoudige antwoord is dat er geen eenvoudig antwoord is. Laten we d
 
 msgctxt "body.a1eb6c13-b4ad-4c94-b668-597f8cb4e23b"
 msgid "Can my boss read my Slack messages?"
-msgstr ""
+msgstr "Kan mijn baas mijn berichten op Slack lezen?"
 
 msgctxt "body.a1eb6c13-b4ad-4c94-b668-597f8cb4e23b"
 msgid ""
@@ -45,12 +45,19 @@ msgid ""
 "government or if your employer pays for a higher level plan, where an employer would need to routinely hold onto your messages and other information. Third-party Slack apps like <a "
 "id=\"a3\">Hanzo</a> let employers do so."
 msgstr ""
+"De kans is groot dat je baas toegang kan hebben tot je berichten op Slack. Beheerders kunnen berichten <a id=\"a1\">van openbare kanalen</a> exporteren, maar werkgevers moeten voor de gratis versie "
+"of de betaalde van Slack een verzoek indienen bij Slack voordat ze toegang krijgen tot je privéchats. Je baas zou aan Slack moeten bewijzen dat je hen toestemming hebt gegeven, dat ze een geldige "
+"wettelijke reden hebben om toegang te krijgen tot de berichten, of dat er een \"recht of vereiste [om dit te doen] is onder de toepasselijke wetgeving\", aldus een <a id=\"a2\"><i>Vox-"
+"artikel</i></a> over het onderwerp. Dingen worden een beetje ingewikkelder als je in bepaalde afdelingen van de overheid werkt of als je werkgever betaalt voor een hoger plan, waar een werkgever "
+"routinematig je berichten en andere informatie zou moeten kunnen inzien. Slack-apps van derden zoals <a id=\"a3\">Hanzo</a> laten werkgevers dit doen."
 
 msgctxt "body.a1eb6c13-b4ad-4c94-b668-597f8cb4e23b"
 msgid ""
 "How can you tell if your boss could read your Slacks? Go to “<b>[</b><b><i>your workspace here</i></b><b>].slack.com/account/workspace-settings#retention</b>” to see if your company allows admins to"
 " access public and private chats you have on the platform."
 msgstr ""
+"Hoe weet je of je baas je berichten op Slack kan lezen? Ga naar '<b>[</b><b><i>jouw werkruimte hier</i></b><b>].slack.com/account/workspace-settings#retention</b>' om te zien of je bedrijf "
+"beheerders toegang geeft tot openbare en privéchats die je op het platform hebt."
 
 msgctxt "body.a1eb6c13-b4ad-4c94-b668-597f8cb4e23b"
 msgid ""
@@ -117,7 +124,7 @@ msgstr "Kunnen uw bazen uw berichten op Slack lezen, chats op Microsoft Team bek
 
 msgctxt "body.b5d5692c-869d-4c13-953f-175f1efb3159"
 msgid "Last question: my boss can’t watch my Zoom calls, right?"
-msgstr ""
+msgstr "Laatste vraag: mijn baas kan mijn oproepen op Zoom niet bekijken, toch?"
 
 msgctxt "body.b5d5692c-869d-4c13-953f-175f1efb3159"
 msgid ""
@@ -127,13 +134,15 @@ msgstr ""
 
 msgctxt "body.b5d5692c-869d-4c13-953f-175f1efb3159"
 msgid "Right?"
-msgstr ""
+msgstr "Toch?"
 
 msgctxt "body.b5d5692c-869d-4c13-953f-175f1efb3159"
 msgid ""
 "Generally it looks like you shouldn’t have to worry about your employer dropping in on your private Zoom calls anytime soon (especially if you’re <a id=\"a1\">using a password</a> like you should "
 "be!). We reached out to Zoom and a spokesperson confirmed that Zoom does not allow users to enter a meeting without being a visible participant."
 msgstr ""
+"In het algemeen lijkt het erop dat je je geen zorgen hoeft te maken dat je werkgever binnenkort tijdens je privé-oproepen op Zoom binnenvalt (vooral als je een wachtwoord <a id=\"a1\">gebruikt</a> "
+"zoals je zou moeten doen!). Wij namen contact op met Zoom en een woordvoerder bevestigde dat Zoom gebruikers niet toestaat een vergadering binnen te gaan zonder een zichtbare deelnemer te zijn."
 
 msgctxt "body.b5d5692c-869d-4c13-953f-175f1efb3159"
 msgid "That said, here are some things you may want to keep in mind."
