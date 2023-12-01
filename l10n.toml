@@ -2535,6 +2535,21 @@ l10n = "locales/{locale}/snippets/wagtailpages.BlogSignup/1-reclaim-the-internet
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/snippets/donate_banner.DonateBanner/8-b4.pot"
+l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/8-b4.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/donate_banner.DonateBanner/7-b3.pot"
+l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/7-b3.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/donate_banner.DonateBanner/6-b2.pot"
+l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/6-b2.po"
+locales = [ "de", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
