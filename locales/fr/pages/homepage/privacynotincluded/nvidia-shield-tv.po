@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-24 12:03:20.898198+00:00\n"
-"PO-Revision-Date: 2023-11-21 15:39+0000\n"
+"PO-Revision-Date: 2023-12-04 11:32+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politique de confidentialité"
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -108,11 +108,11 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Anyone can report a vulnerability at <a id=\"a1\">https://www.nvidia.com/en-us/security/report-vulnerability/</a>"
-msgstr ""
+msgstr "N’importe qui peut signaler une vulnérabilité à l’adresse <a id=\"a1\">https://www.nvidia.com/fr-fr/security/report-vulnerability/</a>"
 
 msgctxt "tips_to_protect_yourself"
 msgid "You can configure privacy and data settings by visiting <a id=\"a1\">privacy.nvidia.com</a>."
-msgstr ""
+msgstr "Vous pouvez configurer les paramètres de confidentialité et de données en visitant <a id=\"a1\">privacy.nvidia.com</a>."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Opt out of data sharing for interest-based advertising via the<a id=\"a1\"> privacy center</a>"
@@ -121,23 +121,29 @@ msgstr ""
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)"
 msgstr ""
+"Utilisez les paramètres de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (n’autorisez pas l’accès à votre caméra, votre micro, vos images "
+"et votre localisation, sauf si nécessaire)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Mettez votre application à jour régulièrement"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
+" accédez à votre compte Google et désactivez la personnalisation des annonces)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Demandez la suppression de vos données quand vous arrêtez d’utiliser l’application. La suppression d’une application de votre appareil n’entraîne généralement pas automatiquement la suppression de "
+"vos données personnelles."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données, dans la mesure du possible."
 
 msgctxt "personal_data_collected"
 msgid ""
@@ -147,7 +153,7 @@ msgstr ""
 
 msgctxt "how_can_you_control_your_data"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politique de confidentialité"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
