@@ -26,8 +26,8 @@ msgstr ""
 msgctxt "worst_case"
 msgid ""
 "Nvidia’s mercifully short privacy policy includes instructions on how to set up and use an opt-out preference signal -- which helps users opt-out of website tracking all at once through a browser "
-"extension instead of having to fiddle with cookie banners everywhere they go. Which is good, because if you do consent to receive marketing communications, Nvidia  say they can gather data about you"
-" from publicly available sources across the internet and <i>\"identity enrichment data from third-party sources\"</i> and share that with business partners and advertisers like Google to target you "
+"extension instead of having to fiddle with cookie banners everywhere they go. Which is good, because if you do consent to receive marketing communications, Nvidia say they can gather data about you "
+"from publicly available sources across the internet and <i>\"identity enrichment data from third-party sources\"</i> and share that with business partners and advertisers like Google to target you "
 "with interest-based ads. That's not great...so don't forget to log into their Privacy Center to disable sharing with third party advertisers."
 msgstr ""
 
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "worst_case"
 msgid ""
-"All in all, Nvidia seemingly does an OK -- if not great -- job with privacy.  In a streaming TV space where <a id=\"a1\">companies are hungry</a> for all the data they can get on viewers, Nvidia "
+"All in all, Nvidia seemingly does an OK -- if not great -- job with privacy. In a streaming TV space where <a id=\"a1\">companies are hungry</a> for all the data they can get on viewers, Nvidia "
 "seems to do much better than most."
 msgstr ""
 
@@ -105,12 +105,32 @@ msgid "Anyone can report a vulnerability at <a id=\"a1\">https://www.nvidia.com/
 msgstr ""
 
 msgctxt "tips_to_protect_yourself"
+msgid "You can configure privacy and data settings by visiting <a id=\"a1\">privacy.nvidia.com</a>."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Opt out of data sharing for interest-based advertising via the<a id=\"a1\"> privacy center</a>"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Keep your app regularly updated"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
 msgid ""
-"- You can configure privacy and data settings by visiting <a id=\"a1\">privacy.nvidia.com</a>.<br/>- Opt out of data sharing for interest-based advertising via the<a id=\"a2\"> privacy "
-"center</a><br/>- Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)<br/>- Keep "
-"your app regularly updated<br/>- Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account "
-"and turn off ad personalization)<br/>- Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data.<br/>- When "
-"starting a sign-up, do not agree to tracking of your data if possible."
+"Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "When starting a sign-up, do not agree to tracking of your data if possible."
 msgstr ""
 
 msgctxt "personal_data_collected"
