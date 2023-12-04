@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-12-04 16:04:56.450836+00:00\n"
+"PO-Revision-Date: 2023-12-04 16:14+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8d3a0c2f-47aa-43ca-b9fc-a4bb7ce2b6fc\n"
 
 msgctxt "title"
 msgid "Nvidia Shield TV"
-msgstr ""
+msgstr "Nvidia Shield TV"
 
 msgctxt "blurb"
 msgid ""
@@ -116,23 +121,29 @@ msgstr ""
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)"
 msgstr ""
+"Verwenden Sie die Datenschutzeinstellungen Ihres Geräts, um den Zugriff auf Ihre personenbezogenen Daten über die App zu beschränken (geben Sie keinen Zugriff auf Ihre Kamera, Ihr Mikrofon, Ihre "
+"Bilder und Standort, außer es ist notwendig)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated"
-msgstr ""
+msgstr "Halten Sie Ihre App regelmäßig auf dem neuesten Stand"
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
 msgstr ""
+"Schränken Sie das Anzeigen-Tracking über Ihr Gerät ein (z. B. auf dem iPhone unter Datenschutz -> Werbung -> Anzeigen-Tracking einschränken) und schalten Sie die größten Werbenetzwerke aus (für "
+"Google gehen Sie zum Google-Konto und deaktivieren Sie die Anzeigenpersonalisierung)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data."
 msgstr ""
+"Verlangen Sie, dass Ihre Daten gelöscht werden, sobald Sie die App nicht mehr verwenden. Durch das einfache Löschen einer App von Ihrem Gerät werden Ihre persönlichen Daten gewöhnlich nicht "
+"gelöscht."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr ""
+msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu, falls möglich."
 
 msgctxt "personal_data_collected"
 msgid ""
