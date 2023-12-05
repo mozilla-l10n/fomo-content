@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-17 08:03:01.923918+00:00\n"
+"PO-Revision-Date: 2023-12-05 15:09+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 62c31fcb-b0cd-4e1e-a4d6-e4b0a79b04b4\n"
 
 msgctxt "title"
 msgid "Give now"
-msgstr ""
+msgstr "Nu doneren"
 
 msgctxt "description"
 msgid "Donations from the Mozilla community support our work for a healthy, accessible web for all. Help keep the web open and free."
@@ -20,4 +25,4 @@ msgstr ""
 
 msgctxt "footer"
 msgid "/"
-msgstr ""
+msgstr "/"

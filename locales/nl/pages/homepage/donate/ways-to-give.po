@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-17 08:03:02.048311+00:00\n"
+"PO-Revision-Date: 2023-12-05 15:07+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: e4576e65-359a-47af-b7cf-feeb9888d2ea\n"
 
 msgctxt "seo_title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Donatiemethoden"
 
 msgctxt "search_description"
 msgid "Donate to Mozilla. Credit, Debit and PayPal · Mail a Check · Wire Transfer · Stock · Employer Matching · QCD · DAF · Will Bequests"
@@ -16,7 +21,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Donatiemethoden"
 
 msgctxt "body.bddc2383-f1d3-4395-92eb-0c640074ee32"
 msgid ""
@@ -30,15 +35,15 @@ msgstr ""
 
 msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.label"
 msgid "Donate Now"
-msgstr ""
+msgstr "Nu doneren"
 
 msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.URL"
 msgid "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
-msgstr ""
+msgstr "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Donate online"
-msgstr ""
+msgstr "Online doneren"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid ""
@@ -52,35 +57,35 @@ msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">Credit card</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Creditcard</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">PayPal</a>"
-msgstr ""
+msgstr "<a id=\"a1\">PayPal</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">Google Pay</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Google Pay</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">ApplePay</a>"
-msgstr ""
+msgstr "<a id=\"a1\">ApplePay</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">SEPA direct debit</a>"
-msgstr ""
+msgstr "<a id=\"a1\">SEPA-automatische incasso</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">iDEAL</a>"
-msgstr ""
+msgstr "<a id=\"a1\">iDEAL</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">Venmo</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Venmo</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">ACH Bank Transfer</a>"
-msgstr ""
+msgstr "<a id=\"a1\">ACH-bankoverschrijving</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Some payment methods will only be available according to your currency or browser settings."

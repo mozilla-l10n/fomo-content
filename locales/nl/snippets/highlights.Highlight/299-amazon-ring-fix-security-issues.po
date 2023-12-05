@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-17 08:03:01.887855+00:00\n"
+"PO-Revision-Date: 2023-12-05 15:10+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a19494e8-24df-4e74-b711-c893bc545aa9\n"
 
 msgctxt "title"
@@ -20,4 +25,4 @@ msgstr ""
 
 msgctxt "footer"
 msgid "/"
-msgstr ""
+msgstr "/"
