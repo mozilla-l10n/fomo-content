@@ -2555,6 +2555,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/nvidia-shield-tv.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/withings-body-scale.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/withings-body-scale.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
