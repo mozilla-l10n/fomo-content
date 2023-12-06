@@ -3460,6 +3460,11 @@ l10n = "locales/{locale}/pages/homepage/blog/upcoming-common-voice-data-migratio
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/privacynotincluded/bose-smart-speakers.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/bose-smart-speakers.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
