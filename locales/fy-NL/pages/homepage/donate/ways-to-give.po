@@ -1,22 +1,27 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-17 08:02:59.544009+00:00\n"
+"PO-Revision-Date: 2023-12-06 20:12+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 7bf7eee1-d388-4f0e-87f5-6ce65e2c7516\n"
 
 msgctxt "seo_title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Manieren om te jaan"
 
 msgctxt "search_description"
 msgid "Donate to Mozilla. Credit, Debit and PayPal · Mail a Check · Wire Transfer · Stock · Employer Matching · QCD · DAF · Will Bequests"
-msgstr ""
+msgstr "Donearje oan Mozilla. Creditcard, bankpas en PayPal · In skek ferstjoere · Oerskriuwing · Foarried · Wurkgeversmatching · QCD · DAF · Neilittenskippen"
 
 msgctxt "title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Manieren om te jaan"
 
 msgctxt "body.bddc2383-f1d3-4395-92eb-0c640074ee32"
 msgid ""
@@ -30,15 +35,15 @@ msgstr ""
 
 msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.label"
 msgid "Donate Now"
-msgstr ""
+msgstr "No donearje"
 
 msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.URL"
 msgid "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
-msgstr ""
+msgstr "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Donate online"
-msgstr ""
+msgstr "Online donearje"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid ""
@@ -48,47 +53,47 @@ msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Make your donation online by:"
-msgstr ""
+msgstr "Doch jo donaasje online troch:"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">Credit card</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Creditcard</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">PayPal</a>"
-msgstr ""
+msgstr "<a id=\"a1\">PayPal</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">Google Pay</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Google Pay</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">ApplePay</a>"
-msgstr ""
+msgstr "<a id=\"a1\">ApplePay</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">SEPA direct debit</a>"
-msgstr ""
+msgstr "<a id=\"a1\">SEPA-automatyske ynkasso</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">iDEAL</a>"
-msgstr ""
+msgstr "<a id=\"a1\">iDEAL</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">Venmo</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Venmo</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">ACH Bank Transfer</a>"
-msgstr ""
+msgstr "<a id=\"a1\">ACH-bankoerskriuwing</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Some payment methods will only be available according to your currency or browser settings."
-msgstr ""
+msgstr "Guon betelmetoaden sille allinnich beskikber wêze ôfhinklik fan jo faluta of browserynstellingen."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Mail a check"
-msgstr ""
+msgstr "In sjek ferstjoere"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "The Mozilla Foundation can only accept checks in U.S. dollars drawn on a U.S. bank. Make checks out to Mozilla Foundation. You can mail a check to:"
@@ -154,15 +159,15 @@ msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">DAF Direct</a> (Fidelity Charitable, Schwab Charitable)"
-msgstr ""
+msgstr "<a id=\"a1\">DAF Direct</a> (Fidelity Charitable, Schwab Charitable)"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">Vanguard Charitable</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Vanguard Charitable</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">Renaissance Charitable</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Renaissance Charitable</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Please <a id=\"a1\">reach out to us</a> if you have any questions about making a contribution through your Donor Advised Fund."
@@ -170,7 +175,7 @@ msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Qualified Charitable Distributions"
-msgstr ""
+msgstr "Qualified Charitable Distributions"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid ""
