@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-11-17 08:02:38.521881+00:00\n"
-"PO-Revision-Date: 2023-11-23 08:01+0000\n"
+"PO-Revision-Date: 2023-12-06 09:07+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -13,11 +13,13 @@ msgstr ""
 
 msgctxt "seo_title"
 msgid "Ways to Give"
-msgstr "Formas de donar"
+msgstr "Maneras de donar"
 
 msgctxt "search_description"
 msgid "Donate to Mozilla. Credit, Debit and PayPal · Mail a Check · Wire Transfer · Stock · Employer Matching · QCD · DAF · Will Bequests"
 msgstr ""
+"Donar a Mozilla. Tarjeta de crédito, tarjeta de débito y PayPal · Enviar un cheque · Transferencia bancaria · Acciones · Igualación por parte de empleadores · Distribuciones benéficas calificadas "
+"(QCD) · Fondos asesorados por donantes (DAF) · Legado en herencia"
 
 msgctxt "title"
 msgid "Ways to Give"
@@ -52,7 +54,7 @@ msgid ""
 "You can <a id=\"a1\">donate one-time or on a recurring monthly basis</a>. Both are incredibly appreciated and crucial to our mission of keeping the web open and free. Monthly donations provide "
 "sustainable funding which helps us most effectively plan our long-term projects to transform the future of technology."
 msgstr ""
-"Puedes <a id=\"a1\">donar una  sola vez o recurrentemente mes con mes</a>. Ambas maneras de hacerlo son muy apreciadas y resultan cruciales para mantener el Internet abierto y libre. Las donaciones "
+"Puedes <a id=\"a1\">donar una sola vez o recurrentemente mes con mes</a>. Ambas maneras de hacerlo son muy apreciadas y resultan cruciales para mantener el Internet abierto y libre. Las donaciones "
 "mensuales proporcionan fondos sostenibles que nos facilitan la planificación de nuestros proyectos de largo plazo para transformar el futuro de la tecnología."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
@@ -61,7 +63,7 @@ msgstr "Haz tu donación en línea mediante:"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">Credit card</a>"
-msgstr "<a id=\"a1\">tarjeta de crédito</a>"
+msgstr "<a id=\"a1\">Tarjeta de crédito</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">PayPal</a>"
@@ -77,7 +79,7 @@ msgstr "<a id=\"a1\">ApplePay</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">SEPA direct debit</a>"
-msgstr "<a id=\"a1\">débito automático SEPA</a>"
+msgstr "<a id=\"a1\">Débito automático SEPA</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">iDEAL</a>"
@@ -89,7 +91,7 @@ msgstr "<a id=\"a1\">Venmo</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "<a id=\"a1\">ACH Bank Transfer</a>"
-msgstr "<a id=\"a1\">transferencia bancaria ACH</a>"
+msgstr "<a id=\"a1\">Transferencia bancaria ACH</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Some payment methods will only be available according to your currency or browser settings."
@@ -188,7 +190,7 @@ msgstr "<a id=\"a1\">Renaissance Charitable</a>"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Please <a id=\"a1\">reach out to us</a> if you have any questions about making a contribution through your Donor Advised Fund."
-msgstr "<a id=\"a1\">Contáctanos</a> si tienes preguntas sobre cómo donar mediante un fondo asesorado por donantes."
+msgstr "Si tienes preguntas sobre cómo donar mediante un fondo asesorado por donantes, <a id=\"a1\">contáctanos</a>."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Qualified Charitable Distributions"
