@@ -2530,6 +2530,11 @@ l10n = "locales/{locale}/snippets/highlights.Highlight/293-give-monthly.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.BlogSignup/1-reclaim-the-internet.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogSignup/1-reclaim-the-internet.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/8-b4.pot"
 l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/8-b4.po"
 locales = [ "de", "fr",]
