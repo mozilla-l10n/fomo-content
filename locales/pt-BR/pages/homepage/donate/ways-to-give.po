@@ -100,12 +100,24 @@ msgid "Mail a check"
 msgstr "Enviar um cheque"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid "The Mozilla Foundation can only accept checks in U.S. dollars drawn on a U.S. bank. Make checks out to Mozilla Foundation. You can mail a check to:"
-msgstr "A Fundação Mozilla só aceita cheques em dólares e de bancos dos EUA. Endosse-o para Mozilla Foundation e envie-o para:"
+msgid "The Mozilla Foundation can only accept checks in U.S. dollars drawn on a U.S. bank. Make checks out to Mozilla Foundation."
+msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
-msgstr "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
+msgid "Remittances sent via first class mail should be addressed as follows:"
+msgstr ""
+
+msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+msgid "Mozilla Foundation<br/>PO Box 25704<br/>Pasadena CA 91185-5704"
+msgstr ""
+
+msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+msgid "Remittances sent via overnight delivery (i.e. FedEx, Messenger, etc.) should be addressed as follows:"
+msgstr ""
+
+msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+msgid "Mozilla Foundation<br/>25704<br/>14005 Live Oak Ave<br/>Irwindale CA 91706-1300"
+msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Please include your email address on the memo line so we can provide a donation receipt."
@@ -199,8 +211,8 @@ msgid "Donations can be made through an IRA brokerage account and mailed to:"
 msgstr "As doações podem ser feitas por meio de uma conta de corretagem IRA e enviadas para:"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
-msgstr "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
+msgid "Mozilla Foundation<br/>PO Box 25704<br/>Pasadena CA 91185-5704"
+msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Include an email or return address so we can send you a receipt."
@@ -225,3 +237,11 @@ msgstr "Tem dúvidas? Precisa de ajuda?"
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "If you have any other general questions or need support making your donation, feel free to reach out to us via <a id=\"a1\">this form</a>."
 msgstr "Se tiver qualquer dúvida ou precisar de ajuda para realizar sua doação, estamos aqui para ajudar. Entre em contato conosco usando este <a id=\"a1\">formulário</a> ."
+
+#~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+#~ msgid "The Mozilla Foundation can only accept checks in U.S. dollars drawn on a U.S. bank. Make checks out to Mozilla Foundation. You can mail a check to:"
+#~ msgstr "A Fundação Mozilla só aceita cheques em dólares e de bancos dos EUA. Endosse-o para Mozilla Foundation e envie-o para:"
+
+#~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+#~ msgid "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
+#~ msgstr "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
