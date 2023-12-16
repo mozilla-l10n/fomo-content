@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-04-12 07:03:19.827368+00:00\n"
-"PO-Revision-Date: 2022-04-12 09:07+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2023-12-16 02:57+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -78,7 +78,7 @@ msgstr "O serviço fornece atualizações regularmente."
 
 msgctxt "strong_password_helptext"
 msgid "An authorisation per SMS is used instead. For chats, a passcode can be added as an extra security layer."
-msgstr "Em vez disso, é usada uma autorização por SMS. Para chats, uma senha pode ser adicionada como uma camada de segurança extra."
+msgstr "Em vez disso, é usada uma autorização por SMS. Para chats, um código de acesso pode ser adicionado como camada extra de segurança."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Telegram has a dedicated team that have fixed some of known security vulnerabilities in the app, often promptly."

@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-04-12 07:03:19.894733+00:00\n"
-"PO-Revision-Date: 2022-04-12 09:06+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2023-12-16 02:55+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -78,7 +78,7 @@ msgstr "O Slack detalha suas atualizações de segurança em seu blog."
 
 msgctxt "strong_password_helptext"
 msgid "A strong password is required to login into Slack. You can also turn on a feature for a mobile passcode in the enterprise version."
-msgstr "É necessária uma senha forte para fazer login no Slack. Você também pode ativar um recurso para uma senha móvel na versão corporativa."
+msgstr "É necessária uma senha forte para entrar no Slack. Você também pode ativar um recurso de código de acesso de dispositivo móvel na versão enterprise."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Slack operates a security bug bounty program."
