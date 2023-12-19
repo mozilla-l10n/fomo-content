@@ -2577,7 +2577,7 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/bose-quietcomfort-earbuds.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/bose-quietcomfort-earbuds.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
