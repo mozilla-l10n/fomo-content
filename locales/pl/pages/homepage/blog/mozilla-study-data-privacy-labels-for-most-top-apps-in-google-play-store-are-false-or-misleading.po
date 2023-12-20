@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-02-22 19:10:38.007702+00:00\n"
-"PO-Revision-Date: 2023-03-01 09:24+0000\n"
+"PO-Revision-Date: 2023-12-20 08:21+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -55,6 +55,12 @@ msgid ""
 "which is problematic due to both the narrow definition it uses for service providers and the large amount of consumer data involved. Google absolves itself of the responsibility to verify whether "
 "the information is true stating that apps “are responsible for making complete and accurate declarations” in their Data Safety labels."
 msgstr ""
+"W ramach badania — „See No Evil: How Loopholes in the Google Play Store’s Data Safety Labels Leave Companies in the Clear and Consumers in the Dark” („Przyzwolenie na zła czynienie, czyli jak firmy "
+"umywają ręce dzięki lukom w zasadach dotyczących etykiet bezpieczeństwa danych w sklepie Google Store, a konsumenci żyją w nieświadomości”) — ujawniono poważne luki w <a id=\"a1\">formularzu "
+"dotyczącym bezpieczeństwa danych</a>, które ułatwiają aplikacjom dostarczanie fałszywych lub wprowadzających w błąd informacji. Na przykład Google zwalnia aplikacje udostępniające dane "
+"„usługodawcom” z obowiązku ujawnienia wymaganych informacji. Kwestia ta jest problematyczna ze względu na dużą ilość danych konsumentów oraz zastosowanie wąskiej definicji „usługodawcy”. Google "
+"zwalnia siebie z odpowiedzialności za weryfikację, czy wprowadzone informacje są prawdziwe, oświadczając, że to aplikacje odpowiadają „za podanie kompletnych i poprawnych deklaracji” w etykietach "
+"bezpieczeństwa danych."
 
 msgctxt "body.7a5013c9-0db0-4187-9e8e-31076325dc8d.label"
 msgid "Read the research"
