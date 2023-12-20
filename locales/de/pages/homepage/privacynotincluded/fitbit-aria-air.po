@@ -839,6 +839,30 @@ msgctxt "ai_helptext"
 msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning"
 msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf maschinellem Lernen"
 
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days"
+#~ msgstr "Jeder kann seine Daten löschen lassen, indem er sein Konto löscht und 90 Tage wartet."
+
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
+#~ msgstr "Obwohl Fitbit von Google übernommen wurde, hat das Unternehmen seine eigenen Datenschutzrichtlinien, die relativ einfach formuliert sind."
+
+#~ msgctxt "strong_password_helptext"
+#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
+#~ msgstr "Um ein Fitbit-Konto zu erstellen, müssen Benutzer während des Onboardings starke, komplexe Passwörter bereitstellen."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, date of birth, gender, photo (optional)"
+#~ msgstr "Name, Geburtsdatum, Geschlecht, Foto (optional)"
+
+#~ msgctxt "social_data_collected"
+#~ msgid "Fitbit connections"
+#~ msgstr "Fitbit Verbindungen"
+
+#~ msgctxt "track_record_details"
+#~ msgid "In 2020, it was <a id=\"a1\">reported</a> the emails and passwords of nearly 2 million Fitbit users was leaked online."
+#~ msgstr "Im Jahr 2020 <a id=\"a1\">wurde berichtet</a>, dass die E-Mails und Passwörter von fast 2 Millionen Fitbit-Nutzern online durchgesickert sind."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "As of January 14, 2021, Google officially <a id=\"a1\">became the owner</a> of Fitbit. That worried many privacy conscious users. However, Google promised that “Fitbit users’ health and wellness "
@@ -877,6 +901,10 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ "schlafen, was mir mit ziemlicher Sicherheit nicht helfen würde, besser zu schlafen. Ja, deine Fitbit-Daten werden verwendet, um dir Werbung zu zeigen und dich dazu zu bringen, die Plattform so oft "
 #~ "wie möglich zu nutzen. Das ist nicht überraschend, aber auch nicht besonders erfreulich."
 
+#~ msgctxt "child_safety_blurb"
+#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
+#~ msgstr "„Wir wissen wie wichtig es ist, zusätzliche Maßnahmen zum Schutz der Privatsphäre von Kindern zu ergreifen."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Fitbit also says it can share non-personal information that has been de-identified or aggregated. This is pretty common, but still, can be a bit of a concern as it’s <a id=\"a1\">been found</a> to "
@@ -887,23 +915,6 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ "besorgniserregend sein, da es sich als ziemlich <a id=\"a1\">einfach erwiesen hat</a>, diese Datensätze zu de-anonymisieren und die Muster einer Person aufzuspüren, insbesondere bei Standortdaten. "
 #~ "Seien Sie sich also bewusst, dass Sie sich mit Fitbit - oder jedem anderen Fitness-Tracker - ein Gerät umschnallen, das Ihren Standort, Ihre Herzfrequenz, Ihr Schlafverhalten und vieles mehr "
 #~ "aufzeichnet. Das sind eine Menge persönlicher Informationen, die an einem Ort gesammelt werden."
-
-#~ msgctxt "worst_case"
-#~ msgid ""
-#~ "What’s the worst that could happen with a Fitbit smart scale and all the personal and health related data it can collect? Well, in 2021 <a id=\"a1\">it was reported</a> that health data for over 61 "
-#~ "million fitness tracker users, including both Fitbit and Apple, was exposed when a third-party company that allowed users to sync their health data from their fitness trackers did not secure the "
-#~ "data properly. Personal information such as names, birthdates, weight, height, gender, and geographical location for Fitbit and other fitness-tracker users was left exposed because the company "
-#~ "didn't password protect or encrypt their database. This is a great reminder that yes, while Fitbit might do a good job with their own security, anytime you sync or share that data with anyone else "
-#~ "including third party apps, your employer, or a insurance company, it could be vulnerable.I don’t know about you, but I don’t need the world to know my weight and BMI and all the charts and graphs "
-#~ "of my weight and BMI. That’s really TMI."
-#~ msgstr ""
-#~ "Was ist das Schlimmste, was mit einer smarten Fitbit-Waage und all den persönlichen und gesundheitsbezogenen Daten, die es sammeln kann, passieren kann? Nun, im Jahr 2021 <a id=\"a1\">wurde "
-#~ "berichtet</a>, dass die Gesundheitsdaten von über 61 Millionen Fitness-Tracker-Nutzern, darunter sowohl Fitbit als auch Apple, offengelegt wurden, als ein Drittanbieter, der den Nutzern die "
-#~ "Synchronisierung ihrer Gesundheitsdaten mit ihren Fitness-Trackern ermöglichte, die Daten nicht ordnungsgemäß gesichert hatte. Persönliche Informationen wie Namen, Geburtsdaten, Gewicht, Größe, "
-#~ "Geschlecht und geografischer Standort von Fitbit- und anderen Fitness-Tracker-Nutzern wurden preisgegeben, weil das Unternehmen seine Datenbank nicht mit einem Passwort geschützt oder verschlüsselt "
-#~ "hatte. Dies ist eine gute Erinnerung daran, dass Fitbit zwar gute Arbeit in Bezug auf die eigene Sicherheit leistet, dass diese Daten aber jedes Mal, wenn Sie sie mit anderen synchronisieren oder "
-#~ "mit anderen teilen, einschließlich Apps von Drittanbietern, Ihrem Arbeitgeber oder einer Versicherungsgesellschaft, angreifbar sein könnten.Ich weiß nicht, wie es Ihnen geht, aber ich möchte nicht, "
-#~ "dass die Welt mein Gewicht, meinen Schlaf und meinen Wohnort kennt. Das ist wirklich schon sehr gruselig."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
@@ -945,26 +956,6 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ "Sicherheitsmaßnahmen verarbeiten. Diese Partner erbringen für uns weltweit Dienstleistungen, unter anderem in den Bereichen Kundensupport, Informationstechnologie, Zahlungen, Vertrieb, Marketing, "
 #~ "Datenanalyse, Forschung und Umfragen.“"
 
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
-#~ msgstr "Obwohl Fitbit von Google übernommen wurde, hat das Unternehmen seine eigenen Datenschutzrichtlinien, die relativ einfach formuliert sind."
-
-#~ msgctxt "strong_password_helptext"
-#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
-#~ msgstr "Um ein Fitbit-Konto zu erstellen, müssen Benutzer während des Onboardings starke, komplexe Passwörter bereitstellen."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, date of birth, gender, photo (optional)"
-#~ msgstr "Name, Geburtsdatum, Geschlecht, Foto (optional)"
-
-#~ msgctxt "social_data_collected"
-#~ msgid "Fitbit connections"
-#~ msgstr "Fitbit Verbindungen"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days"
-#~ msgstr "Jeder kann seine Daten löschen lassen, indem er sein Konto löscht und 90 Tage wartet."
-
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
 #~ "\"We keep your account information, like your name, email address, and password, for as long as your account is in existence because we need it to operate your account. In some cases, when you give "
@@ -995,10 +986,6 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ "können Daten auch aus rechtlichen Gründen oder zur Vermeidung von Schäden aufbewahren, wie im Abschnitt 'Weitergabe von Informationen' beschrieben“."
 
 #~ msgctxt "track_record_details"
-#~ msgid "In 2020, it was <a id=\"a1\">reported</a> the emails and passwords of nearly 2 million Fitbit users was leaked online."
-#~ msgstr "Im Jahr 2020 <a id=\"a1\">wurde berichtet</a>, dass die E-Mails und Passwörter von fast 2 Millionen Fitbit-Nutzern online durchgesickert sind."
-
-#~ msgctxt "track_record_details"
 #~ msgid ""
 #~ "In 2021 Fitbit's security measures <a id=\"a1\">did not prevent</a> the major data leak of 61 million fitness tracker data records, including Fitbit user data, by the third-party company GetHealth. "
 #~ "In September 2021, a group of security researchers discovered GetHealth had an unsecured database containing over 61 million records related to wearable technology and fitness services. GetHealth "
@@ -1010,6 +997,19 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ "tragbaren Technologien und Fitnessdiensten verfügt. GetHealth griff auf Gesundheitsdaten von Benutzern von tragbaren Geräten auf der ganzen Welt zu und gab sie in einer nicht passwortgeschützten, "
 #~ "unverschlüsselten Datenbank weiter. Die Liste enthielt Namen, Geburtsdaten, Gewicht, Größe, Geschlecht und geografische Lage sowie andere medizinische Daten wie den Blutdruck."
 
-#~ msgctxt "child_safety_blurb"
-#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
-#~ msgstr "„Wir wissen wie wichtig es ist, zusätzliche Maßnahmen zum Schutz der Privatsphäre von Kindern zu ergreifen."
+#~ msgctxt "worst_case"
+#~ msgid ""
+#~ "What’s the worst that could happen with a Fitbit smart scale and all the personal and health related data it can collect? Well, in 2021 <a id=\"a1\">it was reported</a> that health data for over 61 "
+#~ "million fitness tracker users, including both Fitbit and Apple, was exposed when a third-party company that allowed users to sync their health data from their fitness trackers did not secure the "
+#~ "data properly. Personal information such as names, birthdates, weight, height, gender, and geographical location for Fitbit and other fitness-tracker users was left exposed because the company "
+#~ "didn't password protect or encrypt their database. This is a great reminder that yes, while Fitbit might do a good job with their own security, anytime you sync or share that data with anyone else "
+#~ "including third party apps, your employer, or a insurance company, it could be vulnerable.I don’t know about you, but I don’t need the world to know my weight and BMI and all the charts and graphs "
+#~ "of my weight and BMI. That’s really TMI."
+#~ msgstr ""
+#~ "Was ist das Schlimmste, was mit einer smarten Fitbit-Waage und all den persönlichen und gesundheitsbezogenen Daten, die es sammeln kann, passieren kann? Nun, im Jahr 2021 <a id=\"a1\">wurde "
+#~ "berichtet</a>, dass die Gesundheitsdaten von über 61 Millionen Fitness-Tracker-Nutzern, darunter sowohl Fitbit als auch Apple, offengelegt wurden, als ein Drittanbieter, der den Nutzern die "
+#~ "Synchronisierung ihrer Gesundheitsdaten mit ihren Fitness-Trackern ermöglichte, die Daten nicht ordnungsgemäß gesichert hatte. Persönliche Informationen wie Namen, Geburtsdaten, Gewicht, Größe, "
+#~ "Geschlecht und geografischer Standort von Fitbit- und anderen Fitness-Tracker-Nutzern wurden preisgegeben, weil das Unternehmen seine Datenbank nicht mit einem Passwort geschützt oder verschlüsselt "
+#~ "hatte. Dies ist eine gute Erinnerung daran, dass Fitbit zwar gute Arbeit in Bezug auf die eigene Sicherheit leistet, dass diese Daten aber jedes Mal, wenn Sie sie mit anderen synchronisieren oder "
+#~ "mit anderen teilen, einschließlich Apps von Drittanbietern, Ihrem Arbeitgeber oder einer Versicherungsgesellschaft, angreifbar sein könnten.Ich weiß nicht, wie es Ihnen geht, aber ich möchte nicht, "
+#~ "dass die Welt mein Gewicht, meinen Schlaf und meinen Wohnort kennt. Das ist wirklich schon sehr gruselig."

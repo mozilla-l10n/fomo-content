@@ -565,42 +565,6 @@ msgctxt "ai_what_can_it_do"
 msgid "Voice recognition, if a user uses Bixby, a Samsung-specific AI-assistant, or Google Assistant"
 msgstr "Spracherkennung, wenn ein Benutzer Bixby, einen Samsung-spezifischen KI-Assistenten oder Google Assistant verwendet"
 
-#~ msgctxt "manage_vulnerabilities_helptext"
-#~ msgid "Samsung has a bug bounty program. <a id=\"a1\">https://security.samsungmobile.com/rewardsProgram.smsb</a>"
-#~ msgstr "Samsung hat ein Bug-Bounty-Programm. <a id=\"a1\">https://security.samsungmobile.com/rewardsProgram.smsb</a>"
-
-#~ msgctxt "ai_helptext"
-#~ msgid "If a user uses Bixby, a Samsung-specific AI-assistant, or Google Assistant"
-#~ msgstr "Wenn ein Benutzer Bixby, einen Samsung-spezifischen KI-Assistenten oder Google Assistant verwendet"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Consider using your headphones without connecting it to an app. This way, you may decrease the amount of data collected"
-#~ msgstr "Überlegen Sie, ob Sie Ihre Kopfhörer nicht ohne Verbindung zu einer App verwenden wollen. Auf diese Weise können Sie die Menge der gesammelten Daten verringern."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, date of birth, gender"
-#~ msgstr "Name, E-Mail, Telefonnummer, Geburtstag, Geschlecht"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Sprachaufnahmen"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "No retention details nor deletion rights are stated for users not covered by CCPA and GDPR in Samsung's privacy policy. <a id=\"a1\">CCPA deletion rights are mentioned</a> and Samsung says they "
-#~ "extend CCPA rights to all in the United States."
-#~ msgstr ""
-#~ "Für Benutzer, die nicht unter CCPA und DSGVO fallen, sind in der Datenschutzrichtlinie von Samsung keine Aufbewahrungsdetails oder Löschrechte angegeben. <a id=\"a1\">CCPA-Löschrechte werden "
-#~ "erwähnt</a> und Samsung sagt, dass sie die CCPA-Rechte auf alle in den Vereinigten Staaten ausweiten."
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "If you do not have a Samsung Account or an email on file, your deletion request will not be processed. Users with a Samsung Account can go <a id=\"a1\">here</a> to delete your data."
-#~ msgstr "Wenn Sie kein Samsung-Konto oder keine E-Mail-Adresse hinterlegt haben, wird Ihre Löschanfrage nicht bearbeitet. Nutzer mit einem Samsung-Konto können <a id=\"a1\">hier</a> Ihre Daten löschen."
-
-#~ msgctxt "track_record_details"
-#~ msgid "In February, 2020, Samsung <a id=\"a1\">had</a> a data breach on it UK customer account pages, affecting less than 150 people."
-#~ msgstr "Im Februar 2020 kam es bei Samsung <a id=\"a1\">einem</a> Datenschutzverstoß auf seinen britischen Kundenkontoseiten, von dem weniger als 150 Personen betroffen waren."
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Samsung offers many versions of their Galaxy earbuds. There's the Buds2, Buds Pro, Buds Live, and Buds+. That's a lot of Buds. And these tiny earbuds come in lots of shiny colors. They do the things"
@@ -659,3 +623,39 @@ msgstr "Spracherkennung, wenn ein Benutzer Bixby, einen Samsung-spezifischen KI-
 #~ " Laufe der Zeit verfolgen, indem sie Informationen über automatisierte Mittel, einschließlich durch die Verwendung von Browser-Cookies, Web-Beacons, Pixeln, Gerätekennungen, Serverprotokollen und "
 #~ "anderen ähnlichen Technologien. Die Netzwerke verwenden diese Informationen, um Werbung anzuzeigen, die auf die Interessen einzelner Personen zugeschnitten sein kann, um die Browser der Benutzer zu "
 #~ "verfolgen oder Geräte über mehrere Websites und Apps hinweg und um ein Profil der Online-Browsing- und App-Nutzungsaktivitäten der Benutzer zu erstellen.“"
+
+#~ msgctxt "manage_vulnerabilities_helptext"
+#~ msgid "Samsung has a bug bounty program. <a id=\"a1\">https://security.samsungmobile.com/rewardsProgram.smsb</a>"
+#~ msgstr "Samsung hat ein Bug-Bounty-Programm. <a id=\"a1\">https://security.samsungmobile.com/rewardsProgram.smsb</a>"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Consider using your headphones without connecting it to an app. This way, you may decrease the amount of data collected"
+#~ msgstr "Überlegen Sie, ob Sie Ihre Kopfhörer nicht ohne Verbindung zu einer App verwenden wollen. Auf diese Weise können Sie die Menge der gesammelten Daten verringern."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, date of birth, gender"
+#~ msgstr "Name, E-Mail, Telefonnummer, Geburtstag, Geschlecht"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Sprachaufnahmen"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "No retention details nor deletion rights are stated for users not covered by CCPA and GDPR in Samsung's privacy policy. <a id=\"a1\">CCPA deletion rights are mentioned</a> and Samsung says they "
+#~ "extend CCPA rights to all in the United States."
+#~ msgstr ""
+#~ "Für Benutzer, die nicht unter CCPA und DSGVO fallen, sind in der Datenschutzrichtlinie von Samsung keine Aufbewahrungsdetails oder Löschrechte angegeben. <a id=\"a1\">CCPA-Löschrechte werden "
+#~ "erwähnt</a> und Samsung sagt, dass sie die CCPA-Rechte auf alle in den Vereinigten Staaten ausweiten."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "If you do not have a Samsung Account or an email on file, your deletion request will not be processed. Users with a Samsung Account can go <a id=\"a1\">here</a> to delete your data."
+#~ msgstr "Wenn Sie kein Samsung-Konto oder keine E-Mail-Adresse hinterlegt haben, wird Ihre Löschanfrage nicht bearbeitet. Nutzer mit einem Samsung-Konto können <a id=\"a1\">hier</a> Ihre Daten löschen."
+
+#~ msgctxt "track_record_details"
+#~ msgid "In February, 2020, Samsung <a id=\"a1\">had</a> a data breach on it UK customer account pages, affecting less than 150 people."
+#~ msgstr "Im Februar 2020 kam es bei Samsung <a id=\"a1\">einem</a> Datenschutzverstoß auf seinen britischen Kundenkontoseiten, von dem weniger als 150 Personen betroffen waren."
+
+#~ msgctxt "ai_helptext"
+#~ msgid "If a user uses Bixby, a Samsung-specific AI-assistant, or Google Assistant"
+#~ msgstr "Wenn ein Benutzer Bixby, einen Samsung-spezifischen KI-Assistenten oder Google Assistant verwendet"

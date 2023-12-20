@@ -867,15 +867,29 @@ msgctxt "ai_helptext"
 msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning."
 msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf maschinellem Lernen."
 
-#~ msgctxt "blurb"
-#~ msgid ""
-#~ "Fitbit calls this a \"fashion forward\" fitness and wellness wristband that will help boost your mind, body, and health. That's a lot of responsibilities to put on one little gadget. If you want a "
-#~ "fitness tracker that tracks all the things fitness trackers track -- steps, heart rate, stress, sleep, and more -- but doesn't look like a gaudy gadget on your wrist, here you go. Accessorize away "
-#~ "with a variety fancy bracelet like straps. As they say, look good, feel good."
-#~ msgstr ""
-#~ "Fitbit nennt es ein „modisches“ Fitness- und Wellness-Armband, das Ihren Geist, Ihren Körper und Ihre Gesundheit fördern soll. Das ist eine ganze Menge Verantwortung für ein kleines Gerät. Wenn du "
-#~ "einen Fitness-Tracker suchst, der all die Dinge aufzeichnet, die Fitness-Tracker aufzeichnen - Schritte, Herzfrequenz, Stress, Schlaf und vieles mehr -, aber nicht wie ein kitschiges Gerät an deinem"
-#~ " Handgelenk aussieht, bist du hier genau richtig. Du kannst sie mit einer Vielzahl an schicken Armbändern ausstatten. Wie man so schön sagt: Sieht gut aus, fühlt sich gut an."
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
+#~ msgstr "Obwohl Fitbit von Google übernommen wurde, hat das Unternehmen seine eigenen Datenschutzrichtlinien, die relativ einfach formuliert sind."
+
+#~ msgctxt "strong_password_helptext"
+#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
+#~ msgstr "Um ein Fitbit-Konto zu erstellen, müssen Benutzer während des Onboardings starke, komplexe Passwörter bereitstellen."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, date of birth, gender, photo (optional)"
+#~ msgstr "Name, Geburtsdatum, Geschlecht, Foto (optional)"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
+#~ msgstr "Herzfrequenz, Bewegung, Schlafdaten, Menstruationszyklus und mehr"
+
+#~ msgctxt "social_data_collected"
+#~ msgid "Fitbit connections"
+#~ msgstr "Fitbit Verbindungen"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
+#~ msgstr "Jeder kann seine Daten löschen lassen, indem er sein Konto löscht und 90 Tage wartet."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -943,6 +957,15 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ "teilen, einschließlich Apps von Drittanbietern, Ihrem Arbeitgeber oder einer Versicherungsgesellschaft, angreifbar sein könnten.Ich weiß nicht, wie es Ihnen geht, aber ich möchte nicht, dass die "
 #~ "Welt mein Gewicht, meinen Schlaf und meinen Wohnort kennt. Das ist wirklich schon sehr gruselig."
 
+#~ msgctxt "signup_requirement_explanation"
+#~ msgid ""
+#~ "According to Google, a Google account will be required for some uses of Fitbit starting in 2023, with all users likely needing Google accounts to use Fitbit in 2025. \"In 2023 we plan to launch "
+#~ "Google accounts on Fitbit, which will enable use of Fitbit with a Google account. After the date of this launch, some uses of Fitbit will require a Google account\""
+#~ msgstr ""
+#~ "Laut Google wird ab 2023 für einige Anwendungen von Fitbit ein Google-Konto erforderlich sein, und ab 2025 werden wahrscheinlich alle Nutzer ein Google-Konto benötigen, um Fitbit zu nutzen. \"Im "
+#~ "Jahr 2023 planen wir die Einführung von Google-Konten auf Fitbit, was die Nutzung von Fitbit mit einem Google-Konto ermöglicht. Nach dem Datum dieses Starts werden einige Anwendungen von Fitbit ein "
+#~ "Google-Konto erfordern."
+
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "\"We never sell the personal information of our users. We do not share your personal information except in the limited circumstances described below: [...] FOR EXTERNAL PROCESSING, [...] FOR LEGAL "
@@ -982,30 +1005,6 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ "Dienstleister und andere Partner, die diese für uns auf der Grundlage unserer Anweisungen und in Übereinstimmung mit dieser Richtlinie und anderen geeigneten Vertraulichkeits- und "
 #~ "Sicherheitsmaßnahmen verarbeiten. Diese Partner erbringen für uns weltweit Dienstleistungen, unter anderem in den Bereichen Kundensupport, Informationstechnologie, Zahlungen, Vertrieb, Marketing, "
 #~ "Datenanalyse, Forschung und Umfragen.“"
-
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
-#~ msgstr "Obwohl Fitbit von Google übernommen wurde, hat das Unternehmen seine eigenen Datenschutzrichtlinien, die relativ einfach formuliert sind."
-
-#~ msgctxt "strong_password_helptext"
-#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
-#~ msgstr "Um ein Fitbit-Konto zu erstellen, müssen Benutzer während des Onboardings starke, komplexe Passwörter bereitstellen."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, date of birth, gender, photo (optional)"
-#~ msgstr "Name, Geburtsdatum, Geschlecht, Foto (optional)"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
-#~ msgstr "Herzfrequenz, Bewegung, Schlafdaten, Menstruationszyklus und mehr"
-
-#~ msgctxt "social_data_collected"
-#~ msgid "Fitbit connections"
-#~ msgstr "Fitbit Verbindungen"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
-#~ msgstr "Jeder kann seine Daten löschen lassen, indem er sein Konto löscht und 90 Tage wartet."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -1052,15 +1051,6 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ msgid "In 2020, it was <a id=\"a1\">reported</a> the emails and passwords of nearly 2 million Fitbit users was leaked online."
 #~ msgstr "Im Jahr 2020 <a id=\"a1\">wurde berichtet</a>, dass die E-Mails und Passwörter von fast 2 Millionen Fitbit-Nutzern online durchgesickert sind."
 
-#~ msgctxt "signup_requirement_explanation"
-#~ msgid ""
-#~ "According to Google, a Google account will be required for some uses of Fitbit starting in 2023, with all users likely needing Google accounts to use Fitbit in 2025. \"In 2023 we plan to launch "
-#~ "Google accounts on Fitbit, which will enable use of Fitbit with a Google account. After the date of this launch, some uses of Fitbit will require a Google account\""
-#~ msgstr ""
-#~ "Laut Google wird ab 2023 für einige Anwendungen von Fitbit ein Google-Konto erforderlich sein, und ab 2025 werden wahrscheinlich alle Nutzer ein Google-Konto benötigen, um Fitbit zu nutzen. \"Im "
-#~ "Jahr 2023 planen wir die Einführung von Google-Konten auf Fitbit, was die Nutzung von Fitbit mit einem Google-Konto ermöglicht. Nach dem Datum dieses Starts werden einige Anwendungen von Fitbit ein "
-#~ "Google-Konto erfordern."
-
 #~ msgctxt "child_safety_blurb"
 #~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
 #~ msgstr "„Wir wissen wie wichtig es ist, zusätzliche Maßnahmen zum Schutz der Privatsphäre von Kindern zu ergreifen."
@@ -1068,3 +1058,13 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ msgctxt "ai_helptext"
 #~ msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning"
 #~ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf maschinellem Lernen"
+
+#~ msgctxt "blurb"
+#~ msgid ""
+#~ "Fitbit calls this a \"fashion forward\" fitness and wellness wristband that will help boost your mind, body, and health. That's a lot of responsibilities to put on one little gadget. If you want a "
+#~ "fitness tracker that tracks all the things fitness trackers track -- steps, heart rate, stress, sleep, and more -- but doesn't look like a gaudy gadget on your wrist, here you go. Accessorize away "
+#~ "with a variety fancy bracelet like straps. As they say, look good, feel good."
+#~ msgstr ""
+#~ "Fitbit nennt es ein „modisches“ Fitness- und Wellness-Armband, das Ihren Geist, Ihren Körper und Ihre Gesundheit fördern soll. Das ist eine ganze Menge Verantwortung für ein kleines Gerät. Wenn du "
+#~ "einen Fitness-Tracker suchst, der all die Dinge aufzeichnet, die Fitness-Tracker aufzeichnen - Schritte, Herzfrequenz, Stress, Schlaf und vieles mehr -, aber nicht wie ein kitschiges Gerät an deinem"
+#~ " Handgelenk aussieht, bist du hier genau richtig. Du kannst sie mit einer Vielzahl an schicken Armbändern ausstatten. Wie man so schön sagt: Sieht gut aus, fühlt sich gut an."

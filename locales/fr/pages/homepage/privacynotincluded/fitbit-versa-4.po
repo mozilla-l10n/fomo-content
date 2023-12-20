@@ -874,6 +874,14 @@ msgctxt "ai_helptext"
 msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning"
 msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> sur l’apprentissage automatique"
 
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
+#~ msgstr "Bien que Fitbit ait été racheté par Google, Fitbit conserve sa propre politique de confidentialité, rédigée avec des termes relativement simples."
+
+#~ msgctxt "strong_password_helptext"
+#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
+#~ msgstr "Pour créer un compte Fitbit, les utilisateurs et utilisatrices doivent fournir des mots de passe compliqués lors de la configuration initiale."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "It's a watch! It's a sleep tracker! It's a heart rate monitor! It's a swim/workout/meditation coach. It's a motivational, inspirational, health pal. It's almost everything but a kitchen sink. It "
@@ -941,17 +949,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ " application tierce, votre employeur, ou une compagnie d’assurance, elles peuvent être vulnérables. Nous n’avons pas besoin que le monde entier connaisse notre poids, la qualité de notre sommeil ou "
 #~ "notre adresse. C’est vraiment flippant."
 
-#~ msgctxt "worst_case"
-#~ msgid ""
-#~ "Fitbit also says it can share non-personal information that has been de-identified or aggregated. This is pretty common, but still, can be a bit of a concern as it’s <a id=\"a1\">been found</a> to "
-#~ "be pretty easy to de-anonymize these data sets and track down an individual’s patterns, especially with location data. So, be aware with Fitbit--or any fitness tracker--you are strapping on a device"
-#~ " that tracks your location, heart rate, sleep patterns, and more. That's a lot of personal information gathered in one place."
-#~ msgstr ""
-#~ "Fitbit indique aussi pouvoir partager des données non personnelles préalablement déidentifiées ou agrégées. C’est assez courant, mais cela peut quand même être un peu préoccupant car <a id=\"a1\">il"
-#~ " s’est avéré</a> qu’il est assez facile de dé-anonymiser ces ensembles de données et de retracer les comportements d’une personne, en particulier avec les données de localisation. Ayez donc "
-#~ "conscience qu’avec Fitbit (ou n’importe quel traqueur de fitness), vous vous attachez un appareil qui suit votre position, votre fréquence cardiaque, vos habitudes de sommeil, etc. C’est beaucoup "
-#~ "d’informations personnelles rassemblées au même endroit."
-
 #~ msgctxt "signup_requirement_explanation"
 #~ msgid ""
 #~ "According to Google, a Google account will be required for some uses of Fitbit starting in 2023, with all users likely needing Google accounts to use Fitbit in 2025. \"In 2023 we plan to launch "
@@ -1000,14 +997,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "fournisseurs de services et à d’autres partenaires qui les traitent pour nous, sur la base de nos instructions, et dans le respect de la présente politique et de toute autre mesure de "
 #~ "confidentialité et de sécurité appropriée. Ces partenaires nous fournissent des services dans le monde entier, notamment pour l’assistance client, les technologies de l’information, les paiements, "
 #~ "les ventes, le marketing, l’analyse des données, la recherche et les enquêtes. »"
-
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
-#~ msgstr "Bien que Fitbit ait été racheté par Google, Fitbit conserve sa propre politique de confidentialité, rédigée avec des termes relativement simples."
-
-#~ msgctxt "strong_password_helptext"
-#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
-#~ msgstr "Pour créer un compte Fitbit, les utilisateurs et utilisatrices doivent fournir des mots de passe compliqués lors de la configuration initiale."
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, date of birth, gender, photo (optional)"
@@ -1074,3 +1063,14 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgctxt "child_safety_blurb"
 #~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
 #~ msgstr "« Nous sommes conscients de l’importance de prendre des mesures supplémentaires pour protéger la vie privée des enfants."
+
+#~ msgctxt "worst_case"
+#~ msgid ""
+#~ "Fitbit also says it can share non-personal information that has been de-identified or aggregated. This is pretty common, but still, can be a bit of a concern as it’s <a id=\"a1\">been found</a> to "
+#~ "be pretty easy to de-anonymize these data sets and track down an individual’s patterns, especially with location data. So, be aware with Fitbit--or any fitness tracker--you are strapping on a device"
+#~ " that tracks your location, heart rate, sleep patterns, and more. That's a lot of personal information gathered in one place."
+#~ msgstr ""
+#~ "Fitbit indique aussi pouvoir partager des données non personnelles préalablement déidentifiées ou agrégées. C’est assez courant, mais cela peut quand même être un peu préoccupant car <a id=\"a1\">il"
+#~ " s’est avéré</a> qu’il est assez facile de dé-anonymiser ces ensembles de données et de retracer les comportements d’une personne, en particulier avec les données de localisation. Ayez donc "
+#~ "conscience qu’avec Fitbit (ou n’importe quel traqueur de fitness), vous vous attachez un appareil qui suit votre position, votre fréquence cardiaque, vos habitudes de sommeil, etc. C’est beaucoup "
+#~ "d’informations personnelles rassemblées au même endroit."
