@@ -2580,6 +2580,11 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/bose-quietcomfort-ear
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/snippets/donate_banner.DonateBanner/16-eoy-push.pot"
+l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/16-eoy-push.po"
+locales = [ "de", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
