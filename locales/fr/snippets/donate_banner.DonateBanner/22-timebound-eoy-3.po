@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-12-28 18:32:43.916025+00:00\n"
+"PO-Revision-Date: 2023-12-28 18:36+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d36b1368-5faa-4727-aded-530a21f48baa\n"
 
 msgctxt "title"
@@ -16,4 +21,4 @@ msgstr ""
 
 msgctxt "cta_button_text"
 msgid "Donate →"
-msgstr ""
+msgstr "Faire un don →"

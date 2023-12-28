@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-12-28 18:32:43.888010+00:00\n"
+"PO-Revision-Date: 2023-12-28 18:36+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a1e094c7-4910-4195-916c-8c99d3e9fa93\n"
 
 msgctxt "title"
 msgid "Donate to Mozilla. Reclaim the internet."
-msgstr ""
+msgstr "Faites un don à Mozilla. Reprenez le contrôle d’Internet."
 
 msgctxt "subtitle"
 msgid "Our deadline to raise $3.3 million USD is midnight on December 31. Will you donate to reach our goal?"
@@ -16,4 +21,4 @@ msgstr ""
 
 msgctxt "cta_button_text"
 msgid "Donate →"
-msgstr ""
+msgstr "Faire un don →"
