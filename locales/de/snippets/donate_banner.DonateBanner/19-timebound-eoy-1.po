@@ -16,9 +16,13 @@ msgid "Can you donate to Mozilla before December 31?"
 msgstr "Können Sie vor dem 31. Dezember an Mozilla spenden?"
 
 msgctxt "subtitle"
-msgid "If everyone reading this message donates to Mozilla, we'll reach our goal of raising $3.3 million in 2023."
-msgstr "Wenn jeder, der diese Nachricht liest, an Mozilla spendet, erreichen wir unser Ziel, 2023 3,3 Millionen US-Dollar zu sammeln."
+msgid "If everyone reading this message donates to Mozilla, we'll reach our goal of raising $3.3 million USD in 2023."
+msgstr ""
 
 msgctxt "cta_button_text"
 msgid "Donate →"
 msgstr "Spenden →"
+
+#~ msgctxt "subtitle"
+#~ msgid "If everyone reading this message donates to Mozilla, we'll reach our goal of raising $3.3 million in 2023."
+#~ msgstr "Wenn jeder, der diese Nachricht liest, an Mozilla spendet, erreichen wir unser Ziel, 2023 3,3 Millionen US-Dollar zu sammeln."
