@@ -465,11 +465,6 @@ l10n = "locales/{locale}/pages/homepage/advocacy.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/join.pot"
-l10n = "locales/{locale}/pages/homepage/join.po"
-locales = [ "de", "fr", "pl", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/homepage/campaigns/youtube-regrets.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/youtube-regrets.po"
 locales = [ "de", "es", "fr",]
