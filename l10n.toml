@@ -2610,6 +2610,11 @@ l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/15-emergency-respon
 locales = [ "de", "fr",]
 
 [[paths]]
+reference = "templates/snippets/mozfest.NewsletterSignupWithBackground/356-mozfest-become-a-festival-insider.pot"
+l10n = "locales/{locale}/snippets/mozfest.NewsletterSignupWithBackground/356-mozfest-become-a-festival-insider.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
