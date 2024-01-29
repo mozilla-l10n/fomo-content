@@ -12,8 +12,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: a6ca5158-e49d-45eb-b0fc-5a655faf86a3\n"
 
 msgctxt "search_description"
-msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
-msgstr "Financiamento e recursos para pessoas brilhantes e ideias ousadas a fim de construir uma internet mais centrada no ser humano."
+msgid "Funding and resources for a more human-centered internet."
+msgstr ""
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
@@ -317,6 +317,10 @@ msgstr "<a id=\"a1\">Apoie as bolsas e prêmios da Mozilla →</a>"
 msgctxt "title"
 msgid "What we fund"
 msgstr "O que financiamos"
+
+#~ msgctxt "search_description"
+#~ msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
+#~ msgstr "Financiamento e recursos para pessoas brilhantes e ideias ousadas a fim de construir uma internet mais centrada no ser humano."
 
 #~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.altText"
 #~ msgid "globe heart"
