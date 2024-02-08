@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-02-08 08:51:27.880450+00:00\n"
-"PO-Revision-Date: 2024-02-08 09:37+0000\n"
+"PO-Revision-Date: 2024-02-08 09:50+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -319,7 +319,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with your AI partner."
-msgstr ""
+msgstr "Sagen Sie in Ihrem Gespräch mit dem KI-Partner nichts, was sensible Informationen enthält."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data nor does close your account."
@@ -349,7 +349,7 @@ msgstr "Stellen Sie über die App keine Verbindung zu Dritten her, oder vergewis
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with AI partner."
-msgstr ""
+msgstr "Sagen Sie in Ihrem Gespräch mit dem KI-Partner nichts, was sensible Informationen enthält."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc."
@@ -362,6 +362,8 @@ msgstr "Verwenden Sie keine Social-Media-Plug-ins."
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)."
 msgstr ""
+"Verwenden Sie die Datenschutzeinstellungen Ihres Geräts, um den Zugriff auf Ihre personenbezogenen Daten über die App zu beschränken (geben Sie keinen Zugriff auf Ihre Kamera, Ihr Mikrofon, Ihre "
+"Bilder und Standort, außer es ist notwendig)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated."
@@ -371,6 +373,8 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (ex. on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
 msgstr ""
+"Schränken Sie das Anzeigen-Tracking über Ihr Gerät ein (z. B. auf dem iPhone unter Datenschutz -> Werbung -> Anzeigen-Tracking einschränken) und schalten Sie die größten Werbenetzwerke aus (für "
+"Google gehen Sie zum Google-Konto und deaktivieren Sie die Anzeigenpersonalisierung)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
@@ -386,7 +390,7 @@ msgstr ""
 
 msgctxt "biometric_data_collected"
 msgid "Images, voice messages"
-msgstr ""
+msgstr "Bilder, Sprachnachrichten"
 
 msgctxt "how_can_you_control_your_data"
 msgid "How to Delete Your Data from \"Romantic AI - Chat Girlfriend\""
