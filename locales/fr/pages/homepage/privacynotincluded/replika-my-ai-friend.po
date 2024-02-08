@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-02-08 08:51:46.219239+00:00\n"
-"PO-Revision-Date: 2024-02-08 08:54+0000\n"
+"PO-Revision-Date: 2024-02-08 09:46+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -280,7 +280,7 @@ msgstr "<b>Traqueurs de données découverts</b><br/>Nous avons découvert 210 
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Replika AI's privacy policy leaves quite a few questions unanswered."
-msgstr ""
+msgstr "La politique de confidentialité de Replika AI laisse pas mal de questions sans réponse."
 
 msgctxt "uses_encryption_helptext"
 msgid ""
@@ -296,7 +296,7 @@ msgstr "Nous sommes parvenus à nous inscrire avec le mot de passe « 11111111�
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with your AI partner."
-msgstr ""
+msgstr "Ne divulguez pas d’informations sensibles lors de vos conversations avec votre partenaire généré par l’IA."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data nor does close your account."
@@ -339,6 +339,8 @@ msgstr "N’utilisez pas de plug-ins de médias sociaux."
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)."
 msgstr ""
+"Utilisez les paramètres de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (n’autorisez pas l’accès à votre caméra, votre micro, vos images "
+"et votre localisation, sauf si nécessaire)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated."
@@ -348,6 +350,8 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (ex. on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
 msgstr ""
+"Limitez le suivi publicitaire sur votre appareil (par exemple, sur iPhone, utilisez « Confidentialité », « Publicités » et « Limiter le suivi publicitaire ») et via les principaux réseaux "
+"publicitaires (pour Google, rendez-vous sur votre compte Google et désactivez la personnalisation des publicités)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
@@ -363,10 +367,17 @@ msgid ""
 "<br/> <br/>Usage data: information about how you use the Services, such as your interactions with the Services, the links and buttons you click, and page visits;\r"
 "<br/> <br/>Cookies, web beacons (e.g., pixel tags), and local storage technologies (e.g., HTML5)."
 msgstr ""
+"Nom, adresse e-mail, pronoms, date de naissance, situation professionnelle, ville, état ou zone géographique.\n"
+"<br/> <br/>Messages et contenu : les messages que vous envoyez et recevez, les informations que vous communiquez sur vous ou votre vie, les photos, les vidéos et les messages vocaux et textuels ; \n"
+"<br/> <br/>vos intérêts et préférences, tels que les sujets dont vous aimeriez discuter ;\n"
+"<br/> <br/> vos préférences en matière de communication, telles que les heures de la journée pendant lesquelles vous préférez utiliser les applications ;\n"
+"<br/> <br/>les données relatives à l’appareil et au réseau : le système d’exploitation de votre ordinateur ou de votre appareil mobile, le fabricant et le modèle, le navigateur, l’adresse IP, les identifiants de l’appareil et des cookies, les paramètres linguistiques, l’opérateur de l’appareil mobile et les informations générales de localisation, telles que la ville, l’état ou la zone géographique.\n"
+"<br/> <br/>Données d’utilisation : informations sur la façon dont vous utilisez les services, telles que vos interactions avec ceux-ci, les liens et les boutons sur lesquels vous cliquez et les pages visitées ;\n"
+"<br/> <br/>cookies, balises web (par exemple, pixel espions) et systèmes de stockage local (par exemple, HTML5)."
 
 msgctxt "how_can_you_control_your_data"
 msgid "We cannot confirm if all users regardless of location can get their data deleted."
-msgstr ""
+msgstr "Nous ne pouvons pas confirmer si tous les utilisateurs, où qu’ils se trouvent, peuvent obtenir la suppression de leurs données."
 
 msgctxt "how_can_you_control_your_data"
 msgid "Privacy policy"
