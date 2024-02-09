@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-02-08 10:05:46.254779+00:00\n"
-"PO-Revision-Date: 2024-02-09 10:21+0000\n"
+"PO-Revision-Date: 2024-02-09 10:41+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -66,6 +66,12 @@ msgid ""
 "mean if you change your name and forget to let Chai AI know you're in violation of their privacy policy? It all seems rather odd to us and perhaps like their privacy policy wasn't written with their"
 " current services in mind?"
 msgstr ""
+"La segunda cosa que nos dejó rascándonos la cabeza con Chai AI es esta línea de su política de privacidad: <i>«Toda la información personal que nos proporciones debe ser verdadera, completa y "
+"precisa, y debes notificarnos cualquier cambio en estos datos».</i> Ahora, suponemos que esto tiene sentido cuando se trata de compartir tu información personal para pagar una suscripción, pero nos "
+"parece bastante extraño exigir que las personas proporcionen siempre información personal verdadera, completa y precisa cuando se trata de la política de privacidad de una aplicación de chat de IA "
+"diseñada para juegos de roles, relaciones inapropiadas y otras cosas similares. ¿Esto significa que no se puede usar un apodo para registrarse? ¿Que no puedes mentir cuando chateas con tu bot? ¿Que "
+"si cambias tu nombre y te olvidas informar a Chai AI estás infringiendo su política de privacidad? Todo nos parece bastante extraño y nos da la sensación de que quizás esta política de privacidad no"
+" está escrita teniendo en cuenta los servicios que ofrecen actualmente."
 
 msgctxt "worst_case"
 msgid ""
@@ -165,7 +171,7 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "End User License Agreement"
-msgstr ""
+msgstr "Acuerdo de licencia de usuario final"
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -259,7 +265,7 @@ msgstr "No podemos confirmar que haya cifrado en reposo y en tránsito en esta a
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with your AI partner."
-msgstr ""
+msgstr "No digas nada que contenga información confidencial durante tus conversaciones con tu amigo de IA."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data nor does close your account."
@@ -301,6 +307,8 @@ msgstr "No utilices complementos de redes sociales."
 msgctxt "tips_to_protect_yourself"
 msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless necessary)."
 msgstr ""
+"Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
+" que sea estrictamente necesario)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your app regularly updated."
@@ -310,6 +318,8 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (ex. on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
 msgstr ""
+"Limita el seguimiento de anuncios a través de tu dispositivo (por ejemplo, en un iPhone, dirígete a Privacidad -> Publicidad -> Limitar seguimiento) y de las redes publicitarias más grandes (en "
+"Google, ingresa a tu cuenta de Google y desactiva la personalización de anuncios)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
@@ -338,11 +348,11 @@ msgstr ""
 
 msgctxt "how_can_you_control_your_data"
 msgid "We cannot confirm if all users, regardless of location, can get their data deleted."
-msgstr ""
+msgstr "No podemos confirmar si todos los usuarios, independientemente de su ubicación, pueden eliminar sus datos."
 
 msgctxt "how_can_you_control_your_data"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Aviso de privacidad"
 
 msgctxt "how_can_you_control_your_data"
 msgid ""
