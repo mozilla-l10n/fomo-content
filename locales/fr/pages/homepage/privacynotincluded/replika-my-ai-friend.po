@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-02-08 08:51:46.219239+00:00\n"
-"PO-Revision-Date: 2024-02-08 10:28+0000\n"
+"PO-Revision-Date: 2024-02-09 12:35+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -287,7 +287,7 @@ msgid ""
 "\"Your messages to Replika are processed on the server side, which means that your mobile device encrypts them. They are then sent to our servers, where they are decrypted &amp; processed by Replika’s AI engine. Replika cannot employ end-to-end encryption since your plain text messages must be available to train your personal AI on the server-side.\"\r"
 "<br/> <br/>\"All transmitted data are encrypted during transmission. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. All stored data are maintained on secure servers. Access to stored data is protected by multi-layered security controls, including firewalls, role-based access controls, and passwords.\""
 msgstr ""
-"« Les messages envoyés sur Replika sont traités par le serveur, ce qui signifie qu’ils sont chiffrés par votre appareil mobile. Ils sont ensuite envoyés à nos serveurs, où ils sont décryptés puis traités par le moteur d’IA de Replika. Replika ne peut pas utiliser le chiffrement de bout en bout car vos messages en texte clair doivent être disponibles pour entraîner votre IA personnelle sur le serveur. »\n"
+"« Les messages envoyés sur Replika sont traités par le serveur, ce qui signifie qu’ils sont chiffrés par votre appareil mobile. Ils sont ensuite envoyés à nos serveurs, où ils sont déchiffrés puis traités par le moteur d’IA de Replika. Replika ne peut pas utiliser le chiffrement de bout en bout car vos messages en texte clair doivent être disponibles pour entraîner votre IA personnelle sur le serveur. »\n"
 "<br/><br/>« Toutes les données transmises sont chiffrées pendant la transmission. Nous utilisons le chiffrement standard Secure Socket Layer (SSL) qui encode les informations lors de ces transmissions. Toutes les données stockées sont conservées sur des serveurs sécurisés. L’accès aux données stockées est protégé par des contrôles de sécurité à plusieurs niveaux, notamment des pare-feu, des contrôles d’accès basés sur les rôles et des mots de passe. »"
 
 msgctxt "strong_password_helptext"
