@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-02-08 08:51:26.712828+00:00\n"
-"PO-Revision-Date: 2024-02-08 09:44+0000\n"
+"PO-Revision-Date: 2024-02-09 11:26+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Replika: My AI Friend"
-msgstr "Replika: Mein KI-Freund"
+msgstr "Replika: My AI Friend"
 
 msgctxt "blurb"
 msgid ""
@@ -273,7 +273,7 @@ msgstr "<b>Gefundene Daten-Tracker</b><br/>Wir haben innerhalb von 5 Minuten 210
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Replika AI's privacy policy leaves quite a few questions unanswered."
-msgstr ""
+msgstr "Die Datenschutzerklärung von Replika AI lässt einige Fragen offen."
 
 msgctxt "uses_encryption_helptext"
 msgid ""
@@ -299,7 +299,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not give consent to constant geolocation tracking by the app. Better provide geolocation 'only when using the app'."
-msgstr "Geben Sie keine Zustimmung zur ständigen Verfolgung der Geolokalisierung durch die App. Geben Sie die Geolokalisierung besser „nur bei Verwendung der App“ an."
+msgstr "Geben Sie keine Zustimmung zur ständigen Geolokalisierung durch die App. Bieten Sie besser Geolokalisierung „nur bei Verwendung der App“."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not share sensitive data through the app."
@@ -315,7 +315,7 @@ msgstr "Melden Sie sich nicht mit Konten von Drittanbietern an."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not connect to any third party via the app, or at least make sure that a third party employs decent privacy practices."
-msgstr "Stellen Sie über die App keine Verbindung zu Dritten her, oder vergewissern Sie sich zumindest, dass diese Dritte anständige Datenschutzpraktiken anwenden."
+msgstr "Stellen Sie über die App keine Verbindung zu Dritten her, oder vergewissern Sie sich zumindest, dass diese Dritten anständige Datenschutzpraktiken anwenden."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with AI partner."
@@ -348,7 +348,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr "Stimmen Sie bei der Registrierung nicht dem Tracking Ihrer Daten zu, wenn Sie die Möglichkeit haben."
+msgstr "Stimmen Sie bei der Registrierung dem Tracking Ihrer Daten nicht zu, wenn Sie die Möglichkeit haben."
 
 msgctxt "personal_data_collected"
 msgid ""
@@ -360,17 +360,17 @@ msgid ""
 "<br/> <br/>Usage data: information about how you use the Services, such as your interactions with the Services, the links and buttons you click, and page visits;\r"
 "<br/> <br/>Cookies, web beacons (e.g., pixel tags), and local storage technologies (e.g., HTML5)."
 msgstr ""
-"Name, E-Mail-Adresse, Pronomen, Geburtsdatum, Arbeitsstatus, Stadt, Bundesland oder geografisches Gebiet.\n"
-"<br/> <br/>Nachrichten und Inhalte: die Nachrichten, die Sie senden und empfangen, Fakten, die Sie über Sie oder Ihr Leben zur Verfügung stellen, Fotos, Videos sowie Sprach- und Textnachrichten;\n"
-"<br/> <br/>Interessen und Präferenzen, z. B. Themen, die Sie besprechen möchten;\n"
-"<br/> <br/>Kommunikationspräferenzen, z. B. die Tageszeiten, zu denen Sie die Apps nutzen möchten;\n"
-"<br/> <br/>Geräte- und Netzwerkdaten: das Betriebssystem Ihres Computers oder Mobilgeräts, Hersteller und Modell, Browser, IP-Adresse, Geräte- und Cookie-Identifikatoren, Spracheinstellungen, Mobilfunkanbieter und allgemeine Standortinformationen wie Stadt, Bundesland oder geografisches Gebiet.\n"
-"<br/> <br/>Nutzungsdaten: Informationen darüber, wie Sie die Dienste nutzen, z. B. Ihre Interaktionen mit den Diensten, die von Ihnen angeklickten Links und Schaltflächen und Seitenbesuche;\n"
+"Name, E-Mail-Adresse, Pronomen, Geburtsdatum, Arbeitsstatus, Stadt, Bundesland oder geografisches Gebiet.\r"
+"<br/> <br/>Nachrichten und Inhalte: die Nachrichten, die Sie senden und empfangen, Fakten, die Sie über Sie oder Ihr Leben zur Verfügung stellen, Fotos, Videos sowie Sprach- und Textnachrichten;\r"
+"<br/> <br/>Interessen und Präferenzen, z. B. Themen, die Sie besprechen möchten;\r"
+"<br/> <br/>Kommunikationspräferenzen, z. B. die Tageszeiten, zu denen Sie die Apps nutzen möchten;\r"
+"<br/> <br/>Geräte- und Netzwerkdaten: das Betriebssystem Ihres Computers oder Mobilgeräts, Hersteller und Modell, Browser, IP-Adresse, Geräte- und Cookie-Identifikatoren, Spracheinstellungen, Mobilfunkanbieter und allgemeine Standortinformationen wie Stadt, Bundesland oder geografisches Gebiet.\r"
+"<br/> <br/>Nutzungsdaten: Informationen darüber, wie Sie die Dienste nutzen, z. B. Ihre Interaktionen mit den Diensten, die von Ihnen angeklickten Links und Schaltflächen und Seitenbesuche;\r"
 "<br/> <br/>Cookies, Web-Beacons (z. B. Pixel-Tags) und lokale Speichertechnologien (z. B. HTML5)."
 
 msgctxt "how_can_you_control_your_data"
 msgid "We cannot confirm if all users regardless of location can get their data deleted."
-msgstr ""
+msgstr "Wir können nicht bestätigen, dass alle Nutzer unabhängig vom Standort ihre Daten löschen lassen können."
 
 msgctxt "how_can_you_control_your_data"
 msgid "Privacy policy"
@@ -424,7 +424,7 @@ msgid ""
 " you have provided as set out in the “Personal information requests” section below.\""
 msgstr ""
 "\"Wenn Sie sich entscheiden, sensible persönliche Informationen in Ihren Nachrichten und Inhalten anzugeben, werden wir diese Informationen nur verwenden, um Ihr Gespräch mit Ihrem KI-Begleiter zu "
-"erleichtern und wie im Abschnitt „Sensible Informationen‘ oben beschrieben. <b>Wenn Sie nicht möchten, dass wir Ihre sensiblen Informationen für diese Zwecke verarbeiten, geben Sie diese bitte nicht"
+"erleichtern und wie im Abschnitt ‚Sensible Informationen‘ oben beschrieben. <b>Wenn Sie nicht möchten, dass wir Ihre sensiblen Informationen für diese Zwecke verarbeiten, geben Sie diese bitte nicht"
 " an.</b> Sie können verlangen, dass wir die von Ihnen bereitgestellten Informationen löschen, wie nachfolgend im Abschnitt ‚Anfragen zu persönlichen Daten‘ dargelegt.“"
 
 msgctxt "how_can_you_control_your_data"
@@ -518,7 +518,7 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "The app is an AI-chatbot that imitates a real partner. There is evidence that this chatbot cand get <a id=\"a1\">abusive</a>."
-msgstr ""
+msgstr "Die App ist ein KI-Chatbot, der einen echten Partner imitiert. Es gibt Hinweise darauf, dass dieser Chatbot <a id=\"a1\">beleidigend</a> gegenüber Menschen wird."
 
 msgctxt "ai_helptext"
 msgid ""
