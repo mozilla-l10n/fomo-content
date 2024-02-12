@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-02-08 10:05:10.600153+00:00\n"
-"PO-Revision-Date: 2024-02-12 12:10+0000\n"
+"PO-Revision-Date: 2024-02-12 12:16+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -97,10 +97,17 @@ msgid ""
 "through thorny issues around privacy, security, and safety. At the end of the day, we worry a lot could go wrong and caution users to be careful what personal information they share with their "
 "Mimico and their AI friends."
 msgstr ""
+"Was könnte bei Mimico - Your AI Friends also schlimmstenfalls passieren? Um ehrlich zu sein, ist das wirklich schwer zu sagen. Behalten Sie also im Hinterkopf, dass Sie bei der Nutzung der App einen"
+" KI-Chatbot verwenden, der keine Webseite hat, der vage und standardisierte Rechtsdokumentationen hat, und der erwartet, dass Sie einem ziemlich gesichtslosen Unternehmen den Inhalt Ihrer "
+"persönlichen Chats anvertrauen. Wie ein Nutzer auf Reddit in einem <a id=\"a1\">Thread</a> über die Mimico-App die Umstände beschrieb: <i>„Es ist jetzt ein wilder Westen aus KI-Chatbots und ich "
+"liebe es!”</i> Es ist in der Tat heutzutage ein Wilder Westen da draußen für KI-Chatbots. Und während das für die Nutzer Spaß bedeuten könnte, könnte es auch einen Wilden Westen für die "
+"Datensammlung über Sie durch diese Unternehmen durch KI-Modelle bedeuten, von denen wir nichts wissen und von Unternehmen, die nicht daran arbeiten, knifflige Fragen rund um Datenschutz und "
+"Sicherheitsstandards zu durchdenken. Am Ende des Tages machen wir uns viele Sorgen, dass viel schief gehen könnte und raten den Nutzern, vorsichtig zu sein, welche persönlichen Daten sie mit ihren "
+"KI-Freunden teilen."
 
 msgctxt "signup_requirement_explanation"
 msgid "Google and Facebook sign-up available"
-msgstr ""
+msgstr "Eine Anmeldung über Google und Facebook ist möglich."
 
 msgctxt "how_does_it_use_data_collected"
 msgid "We ding this product for sharing personal information for marketing purposes."
@@ -241,7 +248,7 @@ msgstr "„Wenn Sie Daten von der Mimico AI Chat App senden oder empfangen, stel
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with your AI partner."
-msgstr ""
+msgstr "Sagen Sie in Ihrem Gespräch mit dem KI-Partner nichts, was sensible Informationen enthält."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data nor does close your account."
@@ -271,7 +278,7 @@ msgstr "Stellen Sie über die App keine Verbindung zu Dritten her, oder vergewis
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with AI partner."
-msgstr ""
+msgstr "Sagen Sie in Ihrem Gespräch mit dem KI-Partner nichts, was sensible Informationen enthält."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc."
@@ -295,6 +302,8 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (ex. on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
 msgstr ""
+"Schränken Sie das Anzeigen-Tracking über Ihr Gerät ein (z. B. auf dem iPhone unter Datenschutz -> Werbung -> Anzeigen-Tracking einschränken) und schalten Sie die größten Werbenetzwerke aus (für "
+"Google gehen Sie zum Google-Konto und deaktivieren Sie die Anzeigenpersonalisierung)"
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
