@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-02-08 10:05:49.377211+00:00\n"
-"PO-Revision-Date: 2024-02-12 11:02+0000\n"
+"PO-Revision-Date: 2024-02-12 11:10+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -242,12 +242,17 @@ msgid ""
 "\"Sensitive data is stored with cryptographic methods and if required, transferred through  environments  encrypted  with  cryptographic  methods  and  cryptographic  keys  are stored in secure and "
 "various environments.\""
 msgstr ""
+"« Les données sensibles sont stockées avec des méthodes cryptographiques et, si nécessaire, transférées via des environnements chiffrés avec des méthodes cryptographiques et les clés "
+"cryptographiques sont stockées dans des environnements sécurisés et variés. »"
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid ""
 "\"Periodically, penetration tests are performed on servers in the Codeway system. The security gaps created as a result of this test are closed and a verification test is performed to show that the "
 "relevant security gaps have been closed. Besides, Information Security Threat and Event Management System automatically performs penetration tests. Test results are recorded.\""
 msgstr ""
+"« De temps en temps, des tests d’intrusion sont effectués sur les serveurs du système Codeway. Les failles de sécurité créées à la suite de ce test sont comblées et un test de vérification est "
+"effectué pour montrer que les failles de sécurité pertinentes ont été comblées. En outre, le système de gestion des menaces et des événements liés à la sécurité de l’information effectue "
+"automatiquement des tests d’intrusion. Les résultats des tests sont enregistrés. »"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with your AI partner."
