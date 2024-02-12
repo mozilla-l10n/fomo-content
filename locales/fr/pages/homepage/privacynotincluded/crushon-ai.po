@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-02-08 10:05:49.668671+00:00\n"
-"PO-Revision-Date: 2024-02-12 10:12+0000\n"
+"PO-Revision-Date: 2024-02-12 10:20+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -59,6 +59,13 @@ msgid ""
 "there’s a character intro paragraph that sometimes includes descriptions of those off-limits topics right off the bat. It's confusing, feels misleading, and, coupled with the mouse-trap maze of real"
 " and fake websites associated with CrushOn, makes us question whether this service can be trusted with sensitive information at all."
 msgstr ""
+"Voici une information que tous les utilisateurs devraient connaître avant d’utiliser CrushOn. Il semble qu’il y ait un énorme fossé entre les petits caractères des <a id=\"a1\">directives "
+"communautaires</a> et des <a id=\"a2\">conditions d’utilisation</a> et ce qui semble se passer réellement sur l’application et le site web. Sur la première page consacrée aux partenaires de "
+"conversation réservées aux adultes générés par l’IA de son site web, CrushOn affiche des personnages dont les images et les descriptions évoquent des éléments « <i>dérangeants</i> ». Mais beaucoup "
+"de ces « <i>éléments dérangeants</i> » vont explicitement à l’encontre des directives communautaires de CrushOn. Et lorsque vous ouvrez une fenêtre de conversation, une petite clause de non-"
+"responsabilité apparaît : « <i>Tous les propos de l’IA sont fictifs ! Veuillez respecter les lois locales. Vous n’êtes pas autorisé à discuter de mineurs, de suicide ou de sujets criminels</i> ». "
+"Mais juste en dessous, un paragraphe d’introduction du personnage inclut parfois d’emblée des descriptions relatives à ces sujets interdits. C’est déroutant, trompeur et, associé au labyrinthe de "
+"sites web, réels ou fictifs, associés à CrushOn, nous nous posons la question de savoir si l’on peut confier des informations sensibles à ce service."
 
 msgctxt "worst_case"
 msgid ""
@@ -266,7 +273,7 @@ msgstr "Nous ne pouvons pas confirmer le chiffrement des données au repos et en
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with your AI partner."
-msgstr ""
+msgstr "Ne divulguez pas d’informations sensibles lors de vos conversations avec votre partenaire généré par l’IA."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Request your data be deleted once you stop using the app. Simply deleting an app from your device usually does not erase your personal data nor does close your account."
@@ -296,7 +303,7 @@ msgstr "Ne vous connectez pas à un service tiers via l’application, ou assure
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not say anything containing sensitive information in your conversation with AI partner."
-msgstr ""
+msgstr "Ne divulguez pas d’informations sensibles lors de vos conversations avec votre partenaire généré par l’IA."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc."
@@ -320,6 +327,8 @@ msgctxt "tips_to_protect_yourself"
 msgid ""
 "Limit ad tracking via your device (ex. on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
 msgstr ""
+"Limitez le suivi publicitaire sur votre appareil (par exemple, sur iPhone, utilisez « Confidentialité », « Publicités » et « Limiter le suivi publicitaire ») et via les principaux réseaux "
+"publicitaires (pour Google, rendez-vous sur votre compte Google et désactivez la personnalisation des publicités)."
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
