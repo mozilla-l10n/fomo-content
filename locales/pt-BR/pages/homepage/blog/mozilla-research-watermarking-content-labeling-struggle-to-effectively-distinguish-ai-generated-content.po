@@ -1,0 +1,175 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-03-07 08:03:29.817929+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: cd455ee4-b74a-455e-8d2b-8abd8fd70fb1\n"
+
+msgctxt "seo_title"
+msgid "Watermarking, Content Labeling  Struggle to Effectively Distinguish AI-Generated Content"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Popular methods used for disclosing synthetic content only rate as ‘Low’ or ‘Fair’ \r"
+"<br/>in Mozilla analysis. Shortcomings persist amid 2024’s record-number of elections"
+msgstr ""
+
+msgctxt "body.03219bd0-8588-4baa-9fd3-1347de08d5ce"
+msgid "Popular methods used for disclosing synthetic content only rate as ‘Low’ or ‘Fair’ in Mozilla analysis. Shortcomings persist amid 2024’s record-number of elections"
+msgstr ""
+
+msgctxt "body.580e0ad3-36e1-48da-bfbc-edd785858b37"
+msgid ""
+"<b>(BERLIN, GERMANY | FEBRUARY 26, 2024) —</b> As AI-generated content of presidents and pop stars spreads across the internet, the most popular forms of detection and disclosure perform “Low” or "
+"“Fair” at best, according to a new Mozilla analysis."
+msgstr ""
+
+msgctxt "body.580e0ad3-36e1-48da-bfbc-edd785858b37"
+msgid ""
+"The research, <b>“</b><a id=\"a1\"><b>In Transparency We Trust? Evaluating the Effectiveness of Watermarking and Labeling AI-Generated Content</b></a><b>,”</b> found that strategies and technologies"
+" for helping internet users distinguish synthetic content — like watermarking and labeling — encounter significant challenges. Using a Fitness Check, researchers evaluated seven different machine-"
+"readable and human-facing methods, none of which received a “Good” appraisal."
+msgstr ""
+
+msgctxt "body.cc60b32b-a4f3-49db-96cb-788ff0cfca8b.label"
+msgid "READ THE RESEARCH"
+msgstr ""
+
+msgctxt "body.cc60b32b-a4f3-49db-96cb-788ff0cfca8b.URL"
+msgid "https://foundation.mozilla.org/research/library/in-transparency-we-trust/research-report/"
+msgstr ""
+
+msgctxt "body.fd33fa64-9007-49d5-bddf-fe1ed105c1f7"
+msgid ""
+"The lack of effective guardrails is especially urgent as more than half of the world's population prepares to vote in elections this year, including in the U.S., India, Russia, South Africa, and "
+"Mexico. Billions of people will head to the polls amid a proliferation of easily accessible AI chatbots, text and image generators, and voice cloning platforms. These tools and the content they "
+"produce are already polluting the <a id=\"a1\">integrity of elections</a> <a id=\"a2\">in Argentina</a>, <a id=\"a3\">Slovakia</a>, <a id=\"a4\">India</a>, and beyond."
+msgstr ""
+
+msgctxt "body.fd33fa64-9007-49d5-bddf-fe1ed105c1f7"
+msgid ""
+"Mozilla's research offers recommendations for strengthening detection and disclosure. For example, prioritizing machine-readable methods coupled with robust detection mechanisms at the point of "
+"distribution. New governance approaches such as human-centered regulatory sandboxes would allow policymakers to test new regulations for their impact."
+msgstr ""
+
+msgctxt "body.fd33fa64-9007-49d5-bddf-fe1ed105c1f7"
+msgid ""
+"<b>Says Ramak Molavi Vasse'i, Mozilla Research Lead, AI Transparency,</b> and co-author of the report: “When it comes to identifying synthetic content, we’re at a glass half full, glass half empty "
+"moment. Current watermarking and labeling technologies show promise and ingenuity, particularly when used together. Still, they’re not enough to effectively counter the dangers of undisclosed "
+"synthetic content — especially amid dozens of elections around the world.”"
+msgstr ""
+
+msgctxt "body.fd33fa64-9007-49d5-bddf-fe1ed105c1f7"
+msgid ""
+"<b>Molavi Vasse’i adds:</b> “Companies like OpenAI have published <a id=\"a1\">election standards</a> to prevent abuse of their products, but voluntary requirements are not enough. And while "
+"companies like Meta have proposed <a id=\"a2\">industry-wide efforts</a> to label AI-generated content, it’s crucial that open standards are created with the participation of all stakeholders, "
+"especially those potentially affected. Further, a coalition of powerful players such as Meta, Google, and Adobe should not become gatekeepers of content integrity.”"
+msgstr ""
+
+msgctxt "body.41d2487d-b58e-498f-8eba-534bd66741c6.quote"
+msgid ""
+"Current watermarking and labeling technologies show promise and ingenuity, particularly when used together. Still, they’re not enough to effectively counter the dangers of undisclosed synthetic "
+"content — especially amid dozens of elections around the world"
+msgstr ""
+
+msgctxt "body.41d2487d-b58e-498f-8eba-534bd66741c6.attribution"
+msgid "Mozilla Research Lead, AI Transparency"
+msgstr ""
+
+msgctxt "body.70c68353-2a54-4b78-a97e-2d5630056c41"
+msgid "______"
+msgstr ""
+
+msgctxt "body.70c68353-2a54-4b78-a97e-2d5630056c41"
+msgid "KEY FINDINGS"
+msgstr ""
+
+msgctxt "body.70c68353-2a54-4b78-a97e-2d5630056c41"
+msgid ""
+"<b>Human-facing disclosure methods fall short</b><br/><br/>Visible labels and audible warnings rely heavily on the perception of the recipient. In addition, they are vulnerable to manipulations and "
+"may not prevent or effectively address harm once it has occurred. While these methods aim to inform, they can lead to information overload, increasing public distrust and societal divides."
+msgstr ""
+
+msgctxt "body.70c68353-2a54-4b78-a97e-2d5630056c41"
+msgid "<i>Overall Fitness:</i> <b>LOW</b>"
+msgstr ""
+
+msgctxt "body.a133aa5a-4763-47d4-849f-8cc0fec91df9"
+msgid ""
+"<b>Machine-readable methods can be effective when combined with robust detection mechanisms</b><br/><br/>Invisible watermarking embedded during content creation and distribution offers relative "
+"security against tampering by malicious actors. Still, their overall effectiveness is compromised without robust and unbiased detection tools."
+msgstr ""
+
+msgctxt "body.a133aa5a-4763-47d4-849f-8cc0fec91df9"
+msgid "<i>Overall Fitness:</i> <b>FAIR</b>"
+msgstr ""
+
+msgctxt "body.427d1233-2983-46cc-adb8-82840d13238f"
+msgid ""
+"<b>Need for holistic approach to governance</b><br/><br/>Neither human-facing nor machine-readable methods alone provide a comprehensive solution. There must be a multi-faceted approach that "
+"combines technological, regulatory, and educational measures to effectively mitigate the harms of undisclosed AI-generated content."
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid "_______"
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid "DEFINITIONS"
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid "(Machine-readable methods)"
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid ""
+"<b>Cryptographic Watermarking:</b> Secret information is encoded into the cryptographic functions (or circuits) of content, which can then only be detected, removed, or changed using an "
+"encryption/decryption process."
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid ""
+"<b>Frequency Component Watermarking:</b> Content is decomposed into different frequency parts, and a watermark is then inserted into low-frequency bands that are less sensitive to attacks and "
+"alterations."
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid "<b>Metadata Watermarking:</b> A description of the author’s information, timestamps, editing history, and the software used is embedded in the content."
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid ""
+"<b>Statistical Watermarking:</b> Information is inserted into the statistical patterns of the content’s data structure. This usually involves altering pixels, color frames, sound components, or "
+"other values in an imperceptible way."
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid "(Human-facing methods)"
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid "<b>Audio Labels:</b> Audible items affixed directly on content that discloses its origins."
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid "<b>Disclosures and Descriptions:</b> Written information like bylines, captions, descriptions, or tags are used to inform users about the content."
+msgstr ""
+
+msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
+msgid "<b>Visual Labels:</b> Written or graphic items, like nutrition labels or icons, affixed directly on content to disclose its origins."
+msgstr ""
+
+msgctxt "body.164a3b9b-67cc-4f83-9dd6-782dcce5c004"
+msgid "<b>Press contacts:<br/></b><br/>Europe: Tracy Kariuki, tracy@mozillafoundation.org"
+msgstr ""
+
+msgctxt "body.164a3b9b-67cc-4f83-9dd6-782dcce5c004"
+msgid "U.S.: Helena Dea Bala, helena@pkpr.com"
+msgstr ""
+
+msgctxt "title"
+msgid "Mozilla Research: Watermarking, Content Labeling  Struggle to Effectively Distinguish AI-Generated Content"
+msgstr ""
