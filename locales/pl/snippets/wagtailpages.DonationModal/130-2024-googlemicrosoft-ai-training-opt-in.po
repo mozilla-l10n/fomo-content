@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-03-13 17:22:37.155902+00:00\n"
+"PO-Revision-Date: 2024-03-13 17:26+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 31c82d5b-d8eb-450e-9c1d-0915b06332bf\n"
 
 msgctxt "header"
 msgid "Can you add a donation in support of Mozilla's campaigning for trustworthy AI?"
-msgstr ""
+msgstr "Czy możesz przekazać Mozilli datek, aby wesprzeć naszą kampanię na rzecz godnej zaufania sztucznej inteligencji?"
 
 msgctxt "body"
 msgid ""
 "Thanks so much for signing this petition asking Microsoft and Google to ask for consent before using our data for AI training! Can you add a donation to support Mozilla's non-profit work for "
 "trustworthy AI?"
 msgstr ""
+"Dziękujemy za podpisanie petycji, w której wymagamy od firm Microsoft i Google, aby prosiły użytkowników o zgodę na wykorzystanie ich danych w celu trenowania sztucznej inteligencji! Czy możesz "
+"przekazać Mozilli datek, aby wesprzeć nasze działania non profit na rzecz godnej zaufania sztucznej inteligencji?"
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Tak, dorzucam się"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Nie, dziękuję"
