@@ -97,10 +97,6 @@ msgctxt "body.355a0bf0-7ebe-4f3c-a2c6-c7e0de1e1d55.label"
 msgid "See all our advocacy work"
 msgstr "Mira toda nuestra labor de activismo"
 
-msgctxt "body.355a0bf0-7ebe-4f3c-a2c6-c7e0de1e1d55.URL"
-msgid "https://foundation.mozilla.org/advocacy/"
-msgstr "https://foundation.mozilla.org/advocacy/"
-
 msgctxt "body.66b136b1-e4bb-4b1b-968c-7df838886efe"
 msgid "Connect leaders"
 msgstr "Conectar líderes"
@@ -199,6 +195,22 @@ msgstr ""
 "Las investigaciones de Mozilla, como todos sus productos, son de código abierto y se elaboran con aportaciones de expertos de todo el mundo. A partir de aquí, cualquier persona interesada puede "
 "volver a publicar, remezclar y utilizar los contenidos de forma gratuita para sus propias campañas y planes de estudio."
 
+msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.altText"
+msgid "abstract illustration"
+msgstr "ilustración abstracta"
+
+msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+msgid "Accelerating Progress Toward Trustworthy AI"
+msgstr ""
+
+msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+msgid "Status update on our 2020 paper “Creating Trustworthy AI” and next steps to promote openness, competition, and accountability in AI."
+msgstr ""
+
+msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+msgid "<a id=\"a1\">Read the white paper →</a>"
+msgstr "<a id=\"a1\">Lee el libro blanco →</a>"
+
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.altText"
 msgid "colorful illustration made up of shades of purple with black lines and dots, and containing IRL and mozilla logos"
 msgstr "ilustración colorida compuesta de tonos de púrpura con líneas y puntos negros, y que contiene logotipos de IRL y mozilla"
@@ -231,36 +243,32 @@ msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.text"
 msgid "<a id=\"a1\">Read the report →</a>"
 msgstr "<a id=\"a1\">Lee el informe →</a>"
 
-msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.altText"
-msgid "abstract illustration"
-msgstr "ilustración abstracta"
-
-msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
-msgid "Creating Trustworthy AI white paper"
-msgstr "Informe técnico sobre una IA confiable"
-
-msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
-msgid "Unpacks the major challenges and opportunities in the AI era. We examine how artificial intelligence is intersecting with issues like bias, discrimination, and privacy."
-msgstr ""
-"Este informe desvela los principales desafíos y oportunidades que se presentan en la era de la IA. Analizamos cómo la inteligencia artificial se interrelaciona con cuestiones como los sesgos, la "
-"discriminación y la privacidad."
-
-msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
-msgid "<a id=\"a1\">Read the white paper →</a>"
-msgstr "<a id=\"a1\">Lee el libro blanco →</a>"
-
 msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.label"
 msgid "See our Insights hub"
 msgstr "Hecha un vistazo a nuestro centro de Insights"
-
-msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.URL"
-msgid "https://foundation.mozilla.org/insights/"
-msgstr "https://foundation.mozilla.org/insights/"
 
 msgctxt "title"
 msgid "What we do"
 msgstr "Qué hacemos"
 
+#~ msgctxt "body.355a0bf0-7ebe-4f3c-a2c6-c7e0de1e1d55.URL"
+#~ msgid "https://foundation.mozilla.org/advocacy/"
+#~ msgstr "https://foundation.mozilla.org/advocacy/"
+
 #~ msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.altText"
 #~ msgid "colorful illustration containing speech bubbles, buttons and other shapes"
 #~ msgstr "ilustración a color con globos de texto, botones y otras formas"
+
+#~ msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+#~ msgid "Creating Trustworthy AI white paper"
+#~ msgstr "Informe técnico sobre una IA confiable"
+
+#~ msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+#~ msgid "Unpacks the major challenges and opportunities in the AI era. We examine how artificial intelligence is intersecting with issues like bias, discrimination, and privacy."
+#~ msgstr ""
+#~ "Este informe desvela los principales desafíos y oportunidades que se presentan en la era de la IA. Analizamos cómo la inteligencia artificial se interrelaciona con cuestiones como los sesgos, la "
+#~ "discriminación y la privacidad."
+
+#~ msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.URL"
+#~ msgid "https://foundation.mozilla.org/insights/"
+#~ msgstr "https://foundation.mozilla.org/insights/"

@@ -97,10 +97,6 @@ msgctxt "body.355a0bf0-7ebe-4f3c-a2c6-c7e0de1e1d55.label"
 msgid "See all our advocacy work"
 msgstr "Voir tous nos efforts de plaidoyer"
 
-msgctxt "body.355a0bf0-7ebe-4f3c-a2c6-c7e0de1e1d55.URL"
-msgid "https://foundation.mozilla.org/advocacy/"
-msgstr "https://foundation.mozilla.org/advocacy/"
-
 msgctxt "body.66b136b1-e4bb-4b1b-968c-7df838886efe"
 msgid "Connect leaders"
 msgstr "Faire entrer en contact les leaders"
@@ -201,6 +197,22 @@ msgstr ""
 "Les travaux de recherche de Mozilla, tout comme ses produits, sont open source. Ils sont menés avec l’aide d’expert·e·s du monde entier et sont libres d’être republiés, remixés et utilisés pour vos "
 "propres campagnes et programmes éducatifs."
 
+msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.altText"
+msgid "abstract illustration"
+msgstr "illustration abstraite"
+
+msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+msgid "Accelerating Progress Toward Trustworthy AI"
+msgstr ""
+
+msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+msgid "Status update on our 2020 paper “Creating Trustworthy AI” and next steps to promote openness, competition, and accountability in AI."
+msgstr ""
+
+msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+msgid "<a id=\"a1\">Read the white paper →</a>"
+msgstr "<a id=\"a1\">Lire le livre blanc →</a>"
+
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.altText"
 msgid "colorful illustration made up of shades of purple with black lines and dots, and containing IRL and mozilla logos"
 msgstr "illustration colorée composée de nuances de violet avec des lignes et des points noirs, et contenant les logos IRL et mozilla"
@@ -233,36 +245,32 @@ msgctxt "body.356d14fb-156e-4dc6-a5c7-57c6917471ec.text"
 msgid "<a id=\"a1\">Read the report →</a>"
 msgstr "<a id=\"a1\">Lire le rapport →</a>"
 
-msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.altText"
-msgid "abstract illustration"
-msgstr "illustration abstraite"
-
-msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
-msgid "Creating Trustworthy AI white paper"
-msgstr "Livre blanc sur l’IA digne de confiance"
-
-msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
-msgid "Unpacks the major challenges and opportunities in the AI era. We examine how artificial intelligence is intersecting with issues like bias, discrimination, and privacy."
-msgstr ""
-"Il décrypte les défis majeurs et les opportunités à l’ère de l’IA. Nous examinons comment l’intelligence artificielle recoupe des problématiques telles que les préjugés, la discrimination et le "
-"respect de la vie privée."
-
-msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
-msgid "<a id=\"a1\">Read the white paper →</a>"
-msgstr "<a id=\"a1\">Lire le livre blanc →</a>"
-
 msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.label"
 msgid "See our Insights hub"
 msgstr "Voir notre section Insights"
-
-msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.URL"
-msgid "https://foundation.mozilla.org/insights/"
-msgstr "https://foundation.mozilla.org/insights/"
 
 msgctxt "title"
 msgid "What we do"
 msgstr "Nos initiatives"
 
+#~ msgctxt "body.355a0bf0-7ebe-4f3c-a2c6-c7e0de1e1d55.URL"
+#~ msgid "https://foundation.mozilla.org/advocacy/"
+#~ msgstr "https://foundation.mozilla.org/advocacy/"
+
 #~ msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.altText"
 #~ msgid "colorful illustration containing speech bubbles, buttons and other shapes"
 #~ msgstr "illustration colorée contenant des bulles, des boutons et d’autres formes"
+
+#~ msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+#~ msgid "Creating Trustworthy AI white paper"
+#~ msgstr "Livre blanc sur l’IA digne de confiance"
+
+#~ msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
+#~ msgid "Unpacks the major challenges and opportunities in the AI era. We examine how artificial intelligence is intersecting with issues like bias, discrimination, and privacy."
+#~ msgstr ""
+#~ "Il décrypte les défis majeurs et les opportunités à l’ère de l’IA. Nous examinons comment l’intelligence artificielle recoupe des problématiques telles que les préjugés, la discrimination et le "
+#~ "respect de la vie privée."
+
+#~ msgctxt "body.f2ece2ca-bb5e-40bc-98d5-56539c649416.URL"
+#~ msgid "https://foundation.mozilla.org/insights/"
+#~ msgstr "https://foundation.mozilla.org/insights/"
