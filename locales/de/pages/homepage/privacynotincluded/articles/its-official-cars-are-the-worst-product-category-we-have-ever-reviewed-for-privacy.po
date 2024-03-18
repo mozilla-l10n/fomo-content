@@ -16,10 +16,6 @@ msgid "It’s Official: Cars Are the Worst Product Category We Have Ever Reviewe
 msgstr "Es ist offiziell: Autos sind in puncto Datenschutz die übelste Produktkategorie, die wir je getestet haben"
 
 msgctxt "body.4af035ca-ca1d-420e-85cd-60785dd61d5f"
-msgid "<b>Update:</b><i> *We're hosting a Reddit AMA on Sept. 21!*</i>"
-msgstr "<b>Update:</b><i> *Wir veranstalten am 21. September einen Reddit AMA!*</i>"
-
-msgctxt "body.4af035ca-ca1d-420e-85cd-60785dd61d5f"
 msgid ""
 "Ah, the wind in your hair, the open road ahead, and not a care in the world… except all the trackers, cameras, microphones, and sensors capturing your every move. <i>Ugh.</i> Modern cars are a "
 "<b>privacy nightmare</b>."
@@ -49,10 +45,6 @@ msgstr ""
 msgctxt "body.1778f60a-b704-4c4d-af14-dd9e3703aaec.label"
 msgid "Read the reviews"
 msgstr "Lesen Sie unsere Bewertungen"
-
-msgctxt "body.1778f60a-b704-4c4d-af14-dd9e3703aaec.URL"
-msgid "https://foundation.mozilla.org/privacynotincluded/categories/cars/"
-msgstr "https://foundation.mozilla.org/privacynotincluded/categories/cars/"
 
 msgctxt "body.9affdd52-96cc-4ce9-9375-bde49c15081f"
 msgid "The car brands we researched are terrible at privacy and security"
@@ -391,10 +383,6 @@ msgctxt "body.31c2f897-0097-42c1-a6a1-48b3054661bf.label"
 msgid "Demand Privacy for All"
 msgstr "Fordern Sie Privatsphäre für alle"
 
-msgctxt "body.31c2f897-0097-42c1-a6a1-48b3054661bf.URL"
-msgid "https://foundation.mozilla.org/privacy-for-all/"
-msgstr "https://foundation.mozilla.org/privacy-for-all/"
-
 msgctxt "seo_title"
 msgid "It’s Official: Cars Are Terrible at Privacy and Security"
 msgstr "Es ist offiziell: Autos sind in puncto Datenschutz und Sicherheit so richtig übel"
@@ -424,6 +412,10 @@ msgstr "Allen 25 Automarken in unserem Test haben wir den *Datenschutz nicht inb
 #~ "Überwachungsapparaten gemacht hat, die dank modernstem Chichi und Schnickschnack nie da gewesene Möglichkeiten haben, Sie zu beobachten, Ihnen zuzuhören und Informationen darüber zu sammeln, was Sie"
 #~ " in Ihrem Auto tun und wohin Sie unterwegs sind."
 
+#~ msgctxt "body.1778f60a-b704-4c4d-af14-dd9e3703aaec.URL"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/cars/"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/cars/"
+
 #~ msgctxt "body.31c2f897-0097-42c1-a6a1-48b3054661bf.label"
 #~ msgid "Sign the petition"
 #~ msgstr "Petition unterzeichnen"
@@ -443,6 +435,14 @@ msgstr "Allen 25 Automarken in unserem Test haben wir den *Datenschutz nicht inb
 #~ "Fügen Sie Ihren Namen hinzu, und fordern Sie Autounternehmen auf, die Privatsphäre der Autofahrer zu respektieren und die Sammlung, Weitergabe und den Verkauf unserer sehr persönlichen Daten "
 #~ "einzustellen."
 
+#~ msgctxt "body.4af035ca-ca1d-420e-85cd-60785dd61d5f"
+#~ msgid "<b>Update:</b><i> *We're hosting a Reddit AMA on Sept. 21!*</i>"
+#~ msgstr "<b>Update:</b><i> *Wir veranstalten am 21. September einen Reddit AMA!*</i>"
+
 #~ msgctxt "body.31c2f897-0097-42c1-a6a1-48b3054661bf.URL"
 #~ msgid "https://foundation.mozilla.org/en/privacy-for-all/"
 #~ msgstr "https://foundation.mozilla.org/en/privacy-for-all/"
+
+#~ msgctxt "body.31c2f897-0097-42c1-a6a1-48b3054661bf.URL"
+#~ msgid "https://foundation.mozilla.org/privacy-for-all/"
+#~ msgstr "https://foundation.mozilla.org/privacy-for-all/"
