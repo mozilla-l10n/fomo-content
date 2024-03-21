@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-03-11 17:41:40.675901+00:00\n"
-"PO-Revision-Date: 2024-03-21 08:02+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"PO-Revision-Date: 2024-03-21 17:11+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -31,6 +31,11 @@ msgid ""
 "transparent about how they use such data because it reflects the internet’s biases and contains content that is toxic and harmful. <b>Yet we don’t even know if big AI companies like Microsoft, "
 "Google or Meta are using Common Crawl to train their AI products, let alone how they filtered out harmful content.</b>"
 msgstr ""
+"Generative KI-Modelle werden mit Terabytes an Web-Crawl-Daten aus dem Internet trainiert. Eine der beliebtesten Quellen für Trainingsdaten ist Common Crawl, ein riesiges Archiv mit Web-Crawl-Daten, "
+"das von einer kleinen gemeinnützigen Organisation zusammengestellt wurde. Mozillas neueste Untersuchung zeigt, dass Common Crawl dazu beigetragen hat, die generative KI-Entwicklung transparenter und"
+" wettbewerbsstärker zu machen, aber KI-Entwickler müssen transparent sein, wie sie diese Daten verwenden, da sie die Verzerrungen des Internets widerspiegeln und Inhalte enthalten, die toxisch und "
+"schädlich sind. <b>Aber wir wissen nicht einmal, ob große KI-Unternehmen wie Microsoft, Google oder Meta Common Crawl verwenden, um ihre KI-Produkte zu trainieren, geschweige denn, wie sie "
+"schädliche Inhalte herausgefiltert haben.</b>"
 
 msgctxt "body.976de59f-1b49-4bbd-b4d4-a65fbba8be56"
 msgid ""
@@ -42,7 +47,7 @@ msgstr ""
 
 msgctxt "body.976de59f-1b49-4bbd-b4d4-a65fbba8be56"
 msgid "Sign Mozilla’s petition and tell OpenAI, Google, Microsoft, and Meta to provide transparency about the data used to train their AI tools!"
-msgstr ""
+msgstr "Unterzeichnen Sie unsere Mozilla-Petition und fordern Sie OpenAI, Google, Microsoft und Meta auf, Transparenz über die Daten zu schaffen, die sie zum Trainieren ihrer KI-Tools verwenden!"
 
 #~ msgctxt "body.976de59f-1b49-4bbd-b4d4-a65fbba8be56"
 #~ msgid ""
