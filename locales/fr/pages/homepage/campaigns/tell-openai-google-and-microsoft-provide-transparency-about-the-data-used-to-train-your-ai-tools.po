@@ -25,15 +25,9 @@ msgstr "Demandez à OpenAI, Google et Microsoft d’être transparents sur les d
 
 msgctxt "body.976de59f-1b49-4bbd-b4d4-a65fbba8be56"
 msgid ""
-"Generative AI models are trained on terabytes of web crawl data from across the internet. One of the most popular sources of training data is Common Crawl, a massive archive of web crawl data "
-"created by a small nonprofit."
-msgstr ""
-
-msgctxt "body.976de59f-1b49-4bbd-b4d4-a65fbba8be56"
-msgid ""
-"Mozilla’s latest investigation shows that Common Crawl has helped to make generative AI development more transparent and competitive, but AI builders need to be transparent about how they use such "
-"data because it reflects the internet’s biases and contains content that is toxic and harmful. <b>Yet we don’t even know if big AI companies like Microsoft, Google or Meta are using Common Crawl to "
-"train their AI products, let alone how they filtered out harmful content.</b>"
+"Big AI companies like Microsoft and Google are building their AI products on Large Language Models (LLMs) that are trained with a massive open-source dataset scraped from the internet by a small "
+"non-profit called Common Crawl. Mozilla’s latest investigation has revealed that this <b>has produced AI models that are biased, opaque, and trained using toxic content in Common Crawl’s "
+"dataset.</b>"
 msgstr ""
 
 msgctxt "body.976de59f-1b49-4bbd-b4d4-a65fbba8be56"
