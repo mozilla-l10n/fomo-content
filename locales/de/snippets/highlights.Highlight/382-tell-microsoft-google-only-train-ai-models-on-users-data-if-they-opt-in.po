@@ -1,23 +1,30 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-03-25 16:03:15.742623+00:00\n"
+"PO-Revision-Date: 2024-03-25 20:55+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: bb3dcbcf-9952-4507-bae8-2a3594cafbda\n"
 
 msgctxt "title"
 msgid "Tell Microsoft &amp; Google: Only train AI models on users’ data if they opt in!"
-msgstr ""
+msgstr "Fordern Sie Microsoft &amp; Google auf: Training von KI-Modellen mit Nutzerdaten nur mit deren Zustimmung!"
 
 msgctxt "description"
 msgid "Google’s updated privacy policy allows user data to be used as AI training fodder, unless you have actively opted out of it. We think that should change."
 msgstr ""
+"Die aktualisierte Datenschutzrichtlinie von Google erlaubt es, Nutzerdaten als Material zum Training von KI zu verwenden, es sei denn, Sie haben sich aktiv dagegen entschieden. Wir finden, das "
+"sollte sich ändern."
 
 msgctxt "link_label"
 msgid "Add your name if you agree"
-msgstr ""
+msgstr "Machen Sie mit, helfen Sie mit"
 
 msgctxt "footer"
 msgid "Add your name"
-msgstr ""
+msgstr "Petition unterschreiben"
