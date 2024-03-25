@@ -1,23 +1,30 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-03-25 17:15:23.924120+00:00\n"
+"PO-Revision-Date: 2024-03-25 17:36+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 062a4201-b997-402a-a01b-444c66e5b510\n"
 
 msgctxt "title"
 msgid "Tell OpenAI, Google, and Microsoft: Provide transparency about the data used to train your AI tools!"
-msgstr ""
+msgstr "Demandez à OpenAI, Google et Microsoft d’être transparents sur les données utilisées pour entraîner leurs outils d’IA !"
 
 msgctxt "description"
 msgid "We don’t even know if big AI companies like Microsoft, Google or Meta are using Common Crawl to train their AI products, let alone how they filtered out harmful content."
 msgstr ""
+"Nous ne savons même pas si les grandes entreprises d’IA comme Microsoft, Google ou Meta utilisent Common Crawl pour entraîner leurs produits d’IA, et encore moins comment elles filtrent les contenus"
+" dangereux."
 
 msgctxt "link_label"
 msgid "Sign the petition"
-msgstr ""
+msgstr "Signer la pétition"
 
 msgctxt "footer"
 msgid "Sign the petition"
-msgstr ""
+msgstr "Signer la pétition"
