@@ -1,22 +1,27 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-03-26 11:12:09.082528+00:00\n"
+"PO-Revision-Date: 2024-03-26 12:24+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 83fc50c6-d550-405d-8a0c-94c45e83b4fd\n"
 
 msgctxt "name"
 msgid "Institutional Pass Shortened"
-msgstr ""
+msgstr "Institutional Pass Shortened"
 
 msgctxt "cost"
 msgid "€250+"
-msgstr ""
+msgstr "250 € et plus"
 
 msgctxt "group"
 msgid "Institutional Pass"
-msgstr ""
+msgstr "Pass institutionnel"
 
 msgctxt "description"
 msgid ""
@@ -26,8 +31,8 @@ msgstr ""
 
 msgctxt "description"
 msgid "The price includes Dutch VAT at 21%. The minimum contribution is €250.00."
-msgstr ""
+msgstr "Le prix comprend la TVA néerlandaise de 21 %. La contribution minimale est de 250,00 €."
 
 msgctxt "button_text"
 msgid "Get Your Ticket"
-msgstr ""
+msgstr "Acheter votre billet"
