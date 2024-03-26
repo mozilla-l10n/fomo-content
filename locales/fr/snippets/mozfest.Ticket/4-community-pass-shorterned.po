@@ -1,22 +1,27 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-03-26 11:12:09.064782+00:00\n"
+"PO-Revision-Date: 2024-03-26 12:22+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: eccdf333-4390-4c8b-9abd-0608e9e603d4\n"
 
 msgctxt "name"
 msgid "Community Pass - Shorterned"
-msgstr ""
+msgstr "Community Pass - Shorterned"
 
 msgctxt "cost"
 msgid "€55"
-msgstr ""
+msgstr "55 €"
 
 msgctxt "group"
 msgid "Community Pass"
-msgstr ""
+msgstr "Pass communauté"
 
 msgctxt "description"
 msgid ""
@@ -26,8 +31,8 @@ msgstr ""
 
 msgctxt "description"
 msgid "The price includes Dutch VAT at 21%."
-msgstr ""
+msgstr "Le prix comprend la TVA néerlandaise de 21 %."
 
 msgctxt "button_text"
 msgid "Get Your Ticket"
-msgstr ""
+msgstr "Acheter votre billet"
