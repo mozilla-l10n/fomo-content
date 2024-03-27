@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-10-28 08:05:37.441029+00:00\n"
-"PO-Revision-Date: 2024-03-22 15:38+0000\n"
+"PO-Revision-Date: 2024-03-27 19:31+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -25,15 +25,15 @@ msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
 msgid "Get Your Ticket"
-msgstr ""
+msgstr "Holen Sie sich Ihr Ticket"
 
 msgctxt "banner_heading"
 msgid "Announcing MozFest House Amsterdam"
-msgstr ""
+msgstr "Ankündigung von MozFest House Amsterdam"
 
 msgctxt "banner_meta"
 msgid "11-13 June 2024 | Amsterdam, NL"
-msgstr ""
+msgstr "11. bis 13. Juni 2024 | Amsterdam, NL"
 
 msgctxt "banner_text"
 msgid "The premier gathering for people working to build a better digital world."
@@ -41,7 +41,7 @@ msgstr "Das wichtigste Treffen für Menschen, die an einer besseren digitalen We
 
 msgctxt "banner_link_text"
 msgid "Get Your Ticket"
-msgstr ""
+msgstr "Holen Sie sich Ihr Ticket"
 
 msgctxt "body.09d96613-d46f-42a8-8e16-2a075dfaeba6"
 msgid "What's Coming Up"
@@ -49,7 +49,7 @@ msgstr "Was steht an"
 
 msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.title"
 msgid "Faces Behind MozFest: Wrangler Spotlight"
-msgstr ""
+msgstr "Gesichter hinter dem MozFest: Wrangler im Rampenlicht"
 
 msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.highlighted_metadata"
 msgid "Virtual Gathering"
@@ -62,6 +62,8 @@ msgstr "16. April, 15:00 Uhr UTC"
 msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.body"
 msgid "Our Faces Behind MozFest series aims to showcase the incredible work members of the MozFest community accomplish year-round. Join us for a conversation with some of this year’s Wranglers."
 msgstr ""
+"Unsere Serie „Gesichter hinter dem MozFest“ soll die unglaubliche Arbeit präsentieren, die die Mitglieder der MozFest-Gemeinschaft das ganze Jahr über leisten. Bleiben Sie bei uns und führen Sie ein"
+" Gespräch mit einigen der diesjährigen Wrangler."
 
 msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.link_url"
 msgid "https://discord.gg/mozfest?event=1204808402165829705"
@@ -69,33 +71,35 @@ msgstr "https://discord.gg/mozfest?event=1204808402165829705"
 
 msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.title"
 msgid "Faces Behind MozFest: Volunteer Spotlight"
-msgstr ""
+msgstr "Gesichter hinter dem MozFest: Freiwillige im Rampenlicht"
 
 msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.highlighted_metadata"
 msgid "Virtual Gathering"
-msgstr ""
+msgstr "Virtuelles Treffen"
 
 msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.metadata"
 msgid "30th April, 3pm UTC"
-msgstr ""
+msgstr "30. April, 15:00 Uhr UTC"
 
 msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.body"
 msgid ""
 "Our Faces Behind MozFest series aims to showcase the incredible work members of the MozFest community accomplish year-round. Join us for a conversation with some of MozFest's fantastic past and "
 "present Volunteers!"
 msgstr ""
+"Unsere Serie „Gesichter hinter dem MozFest“ soll die unglaubliche Arbeit präsentieren, die die Mitglieder der MozFest-Gemeinschaft das ganze Jahr über leisten. Bleiben Sie bei uns und führen Sie ein"
+" Gespräch mit einigen der Freiwilligen beim MozFest in den letzten Jahren und in diesem Jahr."
 
 msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.link_url"
 msgid "https://discord.gg/mozfest?event=1220725928242450523"
-msgstr ""
+msgstr "https://discord.gg/mozfest?event=1220725928242450523"
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.heading"
 msgid "15 years of Mozilla Festival, and we’re just getting started."
-msgstr ""
+msgstr "15 Jahre Mozilla Festival und es geht jetzt erst richtig los."
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
 msgid "Mozilla Festival is where passionate individuals unite to build a better internet."
-msgstr ""
+msgstr "Beim Mozilla Festival vereinen sich leidenschaftliche Menschen, um ein besseres Internet zu schaffen."
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
 msgid ""
@@ -108,10 +112,12 @@ msgstr ""
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
 msgid "Reclaiming the internet starts with us, and at Mozilla Festival, your ideas have the power to create real impact. Join the movement to shape the future of the internet for the better."
 msgstr ""
+"Die Rückeroberung des Internets fängt bei uns an, und beim Mozilla Festival haben Ihre Ideen die Kraft, echte Wirkung zu erzielen. Werde Teil der Bewegung, um die Zukunft des Internets zum Besseren "
+"zu gestalten."
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.link_label"
 msgid "Learn more about Mozilla Festival"
-msgstr ""
+msgstr "Erfahren Sie mehr über das Mozilla Festival"
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.8cee907f-f809-47d6-9649-0df1a6ce8d18.altText"
 msgid "mozfest house kenya"
@@ -175,7 +181,7 @@ msgstr "Bleiben Sie per Discord mit uns in Verbindung"
 
 msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.heading"
 msgid "Join Mozilla Festival on Discord"
-msgstr ""
+msgstr "Nehmen Sie am Mozilla Festival auf Discord teil"
 
 msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.text"
 msgid "Engage year-round with diverse global movements, collaborate on Trustworthy AI, and join exclusive events."
@@ -183,13 +189,15 @@ msgstr "Mischen Sie sich das ganze Jahr über in verschiedene globale Bewegungen
 
 msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
 msgid "Mozilla Festival 2024: On Togetherness &amp; Solidarity"
-msgstr ""
+msgstr "Mozilla Festival 2024: Vom Miteinander &amp; Solidarität"
 
 msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
 msgid ""
 "In 2024, Mozilla Festival is focused on Solidarity. This year, we are hosting MozFest House in The Netherlands &amp; Zambia. We are also hosting monthly Virtual Gatherings, uniting our global "
 "community."
 msgstr ""
+"Im Jahr 2024 steht das Mozilla Festival ganz im Zeichen von Solidarität. Dieses Jahr veranstalten wir das MozFest House in den Niederlanden &amp; Sambia. Wir veranstalten auch monatliche virtuelle "
+"Treffen und vereinen unsere globale Gemeinschaft."
 
 msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.title"
 msgid "2024 Themes"
@@ -201,7 +209,7 @@ msgstr "Miteinander"
 
 msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.1d34b2b8-9560-4ff3-bb72-4488d427f25f.body"
 msgid "Together, we’ll stand in solidarity, leveraging our global efforts to drive change at a local level."
-msgstr ""
+msgstr "Gemeinsam werden wir solidarisch sein und unsere globalen Bemühungen nutzen, um Veränderungen auf lokaler Ebene voranzutreiben."
 
 msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.9934c2a9-4726-41e2-8c23-a0297960a5a3.title"
 msgid "Opportunity and Abundance"
@@ -209,7 +217,7 @@ msgstr "Chancen und Fülle"
 
 msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.9934c2a9-4726-41e2-8c23-a0297960a5a3.body"
 msgid "Together, we stand against unfair treatment in our communities and around the world."
-msgstr ""
+msgstr "Gemeinsam stellen wir uns gegen unfaire Behandlung in unseren Gemeinschaften und auf der ganzen Welt."
 
 msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.031b054a-eb0c-4fea-b133-1ef9851fc98b.title"
 msgid "Collective Wellbeing"
@@ -217,11 +225,11 @@ msgstr "Kollektives Wohlergehen"
 
 msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.031b054a-eb0c-4fea-b133-1ef9851fc98b.body"
 msgid "Together, we reform policy, tools, and economic infrastructure, rewriting the rules for AI."
-msgstr ""
+msgstr "Gemeinsam verbessern wir Politik, Werkzeuge und die wirtschaftliche Infrastruktur und schreiben damit die Regeln für KI neu."
 
 msgctxt "body.f88eb143-861d-400a-aa1e-e04ec507c6e3.heading"
 msgid "Get Your Early Bird Tickets"
-msgstr ""
+msgstr "Holen Sie sich Ihre Frühbucher-Tickets"
 
 msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
 msgid "Help Make MozFest Happen"
@@ -229,15 +237,15 @@ msgstr "Helfen Sie, das MozFest zu ermöglichen"
 
 msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
 msgid "MozFest is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all year long."
-msgstr ""
+msgstr "MozFest ist nicht nur ein jährliches Datum im Kalender. Es ist eine Gemeinschaft, die das ganze Jahr über an den wichtigsten Themen arbeitet."
 
 msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.c4f5ccaf-9be1-4467-b927-045b4c86325a.title"
 msgid "Volunteer at Mozilla Festival"
-msgstr ""
+msgstr "Freiwillig beim MozFest helfen"
 
 msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.c4f5ccaf-9be1-4467-b927-045b4c86325a.body"
 msgid "Access MozFest House Amsterdam for free by volunteering some of your time."
-msgstr ""
+msgstr "Erhalten Sie kostenlosen Zugang zum MozFest House Amsterdam, indem Sie einen Teil Ihrer Zeit freiwillig spenden."
 
 msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.079e1c4d-4a6d-4f8e-9dcc-85f327e2a89d.title"
 msgid "Facilitate Virtually"
