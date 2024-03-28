@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-03-26 18:55:45.765067+00:00\n"
+"PO-Revision-Date: 2024-03-28 10:23+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1863db21-6df4-451c-9715-2d59805e2106\n"
 
 msgctxt "name"
 msgid "Community Pass - Shorterned"
-msgstr ""
+msgstr "Community Pass - Shorterned"
 
 msgctxt "cost"
 msgid "€55"
-msgstr ""
+msgstr "55 €"
 
 msgctxt "group"
 msgid "Community Pass"
