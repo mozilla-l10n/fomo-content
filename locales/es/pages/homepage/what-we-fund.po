@@ -51,7 +51,7 @@ msgid "globe in heart icon"
 msgstr "globo en un icono de corazón"
 
 msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
-msgid "Stay tuned! We don't have any calls open right now, but more opportunities will be coming soon."
+msgid "<a id=\"a1\">Apply to join the next cohort of Mozilla Senior Fellows!</a>"
 msgstr ""
 
 msgctxt "body.10eb1636-1692-47e9-8df9-2dd2796c54b3"
@@ -181,10 +181,6 @@ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.label"
 msgid "See more Fellows"
 msgstr "Ver más Fellows"
 
-msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.external_url"
-msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
-msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
-
 msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.altText"
 msgid "Screen capture from the game"
 msgstr "Captura de pantalla del juego"
@@ -208,10 +204,6 @@ msgstr "https://www.survivalofthebestfit.com/"
 msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.label"
 msgid "See more Awards"
 msgstr "Ver más Premios"
-
-msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.external_url"
-msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
-msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
 
 msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 msgid "Where we’ve funded"
@@ -333,6 +325,14 @@ msgstr "Qué financiamos"
 #~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
 #~ msgid "Mozilla Fellows make an impact"
 #~ msgstr "Los colaboradores Mozilla Fellows marcan la diferencia"
+
+#~ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+
+#~ msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
 
 #~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 #~ msgid ""
