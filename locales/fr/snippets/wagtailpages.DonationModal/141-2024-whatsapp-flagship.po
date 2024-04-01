@@ -1,25 +1,33 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-04-01 07:34:56.396353+00:00\n"
+"PO-Revision-Date: 2024-04-01 07:38+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 7a036398-6b23-4114-a47a-d6fb3f8d48d7\n"
 
 msgctxt "header"
 msgid "Can you make a donation to hold irresponsible tech companies accountable?"
-msgstr ""
+msgstr "Accepteriez-vous de faire un don pour mettre les géants de la tech face à leurs responsabilités ?"
 
 msgctxt "body"
 msgid ""
 "Thank you for signing the petition to call on WhatsApp to implement product changes in order to protect elections globally. If you’re able to add a donation, you will help build our campaign to make"
 " sure WhatsApp can protect the integrity of elections, and that we can hold tech companies accountable."
 msgstr ""
+"Merci d’avoir signé la pétition demandant à WhatsApp de modifier son application pour protéger les élections dans le monde entier. Si vous en avez la possibilité, n’hésitez pas à faire un don : vous"
+" contribuerez à diffuser cette campagne de sensibilisation visant à garantir que WhatsApp protège l’intégrité des élections, et à ce que les géants de la tech soient mis face à leurs "
+"responsabilités."
 
 msgctxt "donate_text"
 msgid "Yes, I'll donate"
-msgstr ""
+msgstr "Oui, je vais faire un don"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Non merci"
