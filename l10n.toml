@@ -3140,213 +3140,13 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/evo-robot.po"
 locales = [ "es",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/9-e-waste.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/9-e-waste.po"
+reference = "templates/pages/homepage/blog/mozilla-publishes-ring-doorbell-vulnerability-following-amazons-apathy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozilla-publishes-ring-doorbell-vulnerability-following-amazons-apathy.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/responsible-computing-challenge-playbook/curriculum.pot"
-l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook/curriculum.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/responsible-computing-challenge-playbook/browse-contributors.pot"
-l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook/browse-contributors.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/17-accessibility.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/17-accessibility.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/15-cryptography-and-law.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/15-cryptography-and-law.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/1-privacy.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/1-privacy.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/4-identity-and-anonymity.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/4-identity-and-anonymity.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/8-ethics-of-technical-organizational.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/8-ethics-of-technical-organizational.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/18-discriminiation.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/18-discriminiation.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/13-workplace-automation.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/13-workplace-automation.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/6-surveillance.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/6-surveillance.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/1-users-and-organizations.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/1-users-and-organizations.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/10-theory.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/10-theory.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/12-technology-and-society.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/12-technology-and-society.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/9-software-engineering.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/9-software-engineering.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/8-programming-languages.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/8-programming-languages.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/2-human-computer-interface.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/2-human-computer-interface.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/13-history-of-technology.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/13-history-of-technology.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/11-hardware-systems.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/11-hardware-systems.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.RCCCurricularArea/6-databases-and-information-security.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/6-databases-and-information-security.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/research/library/user-controls/report/executive-summary.pot"
-l10n = "locales/{locale}/pages/homepage/research/library/user-controls/report/executive-summary.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/370-claire-pershan.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/370-claire-pershan.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/the-dsa-is-not-a-justification-for-censorship.pot"
-l10n = "locales/{locale}/pages/homepage/blog/the-dsa-is-not-a-justification-for-censorship.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/google-pixel-buds-a-series.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-pixel-buds-a-series.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/kobo-ereaders.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/kobo-ereaders.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/32-brandi-geurkink.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/32-brandi-geurkink.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/493-jessie-keating.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/493-jessie-keating.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/announcing-the-mozfest-2023-funder-track.pot"
-l10n = "locales/{locale}/pages/homepage/blog/announcing-the-mozfest-2023-funder-track.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/291-shandukani-o-mulaudzi.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/291-shandukani-o-mulaudzi.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/one-year-of-holding-tiktok-accountable.pot"
-l10n = "locales/{locale}/pages/homepage/blog/one-year-of-holding-tiktok-accountable.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/487-jan-krewer.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/487-jan-krewer.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/research/library/creating-community-driven-datasets-insights-from-mozilla-common-voice-activities-in-east-africa.pot"
-l10n = "locales/{locale}/pages/homepage/research/library/creating-community-driven-datasets-insights-from-mozilla-common-voice-activities-in-east-africa.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/research/library/youtube-regrets-findings.pot"
-l10n = "locales/{locale}/pages/homepage/research/library/youtube-regrets-findings.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/insights/trustworthy-ai-whitepaper.pot"
-l10n = "locales/{locale}/pages/homepage/insights/trustworthy-ai-whitepaper.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-directory.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-directory.po"
-locales = [ "fr", "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Signup/223-mozfest-house-amsterdam.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Signup/223-mozfest-house-amsterdam.po"
-locales = [ "fr", "fy-NL", "nl",]
-
-[[paths]]
-reference = "templates/pages/mozilla-festival/sponsor/become-sponsor.pot"
-l10n = "locales/{locale}/pages/mozilla-festival/sponsor/become-sponsor.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards/previous-awards.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards/previous-awards.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards/partners.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards/partners.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/22-solana-larsen.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/22-solana-larsen.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/329-neha-ravella.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/329-neha-ravella.po"
+reference = "templates/snippets/wagtailpages.RCCTopic/20-government-politics-elections.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/20-government-politics-elections.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3360,73 +3160,8 @@ l10n = "locales/{locale}/pages/homepage/blog/exposing-the-sexism-in-generative-a
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/research/library/internet-health-report-2022.pot"
-l10n = "locales/{locale}/pages/homepage/research/library/internet-health-report-2022.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/responsible-computing-challenge-playbook.pot"
-l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/328-mozilla-advocacy.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/328-mozilla-advocacy.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/research/library/user-controls.pot"
-l10n = "locales/{locale}/pages/homepage/research/library/user-controls.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Signup/80-mozfest-virtual-events.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Signup/80-mozfest-virtual-events.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-festival/working-groups.pot"
-l10n = "locales/{locale}/pages/mozilla-festival/working-groups.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/short-film-dzata-reimagines-technology-innovation-from-an-african-perspective.pot"
-l10n = "locales/{locale}/pages/homepage/blog/short-film-dzata-reimagines-technology-innovation-from-an-african-perspective.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/what-if-young-people-could-design-a-better-internet.pot"
-l10n = "locales/{locale}/pages/homepage/blog/what-if-young-people-could-design-a-better-internet.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf/previous-awards.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf/previous-awards.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/lastpass-1password-password-managers-safe.pot"
-l10n = "locales/{locale}/pages/homepage/blog/lastpass-1password-password-managers-safe.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/28-kasia-odrozek.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/28-kasia-odrozek.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/shady-mental-health-apps-inch-toward-privacy-and-security-improvements-but-many-still-siphon-personal-data.pot"
-l10n = "locales/{locale}/pages/homepage/blog/shady-mental-health-apps-inch-toward-privacy-and-security-improvements-but-many-still-siphon-personal-data.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/justin-bernardez-ai-music-song.pot"
-l10n = "locales/{locale}/pages/homepage/blog/justin-bernardez-ai-music-song.po"
+reference = "templates/snippets/wagtailpages.RCCTopic/19-harrassment-and-hate.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/19-harrassment-and-hate.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3435,78 +3170,48 @@ l10n = "locales/{locale}/pages/homepage/blog/the-new-common-voice-sentence-colle
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/19-harrassment-and-hate.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/19-harrassment-and-hate.po"
+reference = "templates/pages/homepage/blog/justin-bernardez-ai-music-song.pot"
+l10n = "locales/{locale}/pages/homepage/blog/justin-bernardez-ai-music-song.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCTopic/20-government-politics-elections.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/20-government-politics-elections.po"
+reference = "templates/pages/homepage/blog/shady-mental-health-apps-inch-toward-privacy-and-security-improvements-but-many-still-siphon-personal-data.pot"
+l10n = "locales/{locale}/pages/homepage/blog/shady-mental-health-apps-inch-toward-privacy-and-security-improvements-but-many-still-siphon-personal-data.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/mozilla-publishes-ring-doorbell-vulnerability-following-amazons-apathy.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozilla-publishes-ring-doorbell-vulnerability-following-amazons-apathy.po"
+reference = "templates/pages/homepage/blog/lastpass-1password-password-managers-safe.pot"
+l10n = "locales/{locale}/pages/homepage/blog/lastpass-1password-password-managers-safe.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/tiktok-reporter-app.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-reporter-app.po"
+reference = "templates/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf/previous-awards.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf/previous-awards.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/data-futures-lab/grantmaking.pot"
-l10n = "locales/{locale}/pages/homepage/data-futures-lab/grantmaking.po"
+reference = "templates/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/mozilla-technology-fund-mtf.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/364-reem-suleiman.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/364-reem-suleiman.po"
+reference = "templates/pages/homepage/blog/what-if-young-people-could-design-a-better-internet.pot"
+l10n = "locales/{locale}/pages/homepage/blog/what-if-young-people-could-design-a-better-internet.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/slack-takes-an-important-step-to-block-abuse.pot"
-l10n = "locales/{locale}/pages/homepage/blog/slack-takes-an-important-step-to-block-abuse.po"
+reference = "templates/pages/homepage/blog/short-film-dzata-reimagines-technology-innovation-from-an-african-perspective.pot"
+l10n = "locales/{locale}/pages/homepage/blog/short-film-dzata-reimagines-technology-innovation-from-an-african-perspective.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/research/library/user-controls/report.pot"
-l10n = "locales/{locale}/pages/homepage/research/library/user-controls/report.po"
+reference = "templates/snippets/wagtailpages.Profile/32-brandi-geurkink.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/32-brandi-geurkink.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.RCCContentType/1-instructors-guide.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/1-instructors-guide.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/taking-tiktok-to-task-on-ad-transparency.pot"
-l10n = "locales/{locale}/pages/homepage/blog/taking-tiktok-to-task-on-ad-transparency.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/105-j-bob-alotta.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/105-j-bob-alotta.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/159-stefan-baack.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/159-stefan-baack.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/24-eeva-moore.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/24-eeva-moore.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.DonationModal/62-sren-bill-in-france.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/62-sren-bill-in-france.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites.po"
+reference = "templates/pages/homepage/research/library/youtube-regrets-findings.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/youtube-regrets-findings.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3515,13 +3220,33 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/307-jesse-mccrosky.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/upcoming-common-voice-data-migration.pot"
-l10n = "locales/{locale}/pages/homepage/blog/upcoming-common-voice-data-migration.po"
+reference = "templates/snippets/wagtailpages.Profile/22-solana-larsen.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/22-solana-larsen.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/329-neha-ravella.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/329-neha-ravella.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/internet-health-report-2022.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/internet-health-report-2022.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/328-mozilla-advocacy.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/328-mozilla-advocacy.po"
 locales = [ "fr",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/17-mozilla-insights.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/17-mozilla-insights.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/user-controls.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/user-controls.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3535,13 +3260,23 @@ l10n = "locales/{locale}/snippets/highlights.Highlight/13-web-literacy.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Signup/80-mozfest-virtual-events.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/80-mozfest-virtual-events.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/working-groups.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/working-groups.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/snippets/highlights.Highlight/14-open-leadership.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/14-open-leadership.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/insights/open-research.pot"
-l10n = "locales/{locale}/pages/homepage/insights/open-research.po"
+reference = "templates/snippets/wagtailpages.Profile/28-kasia-odrozek.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/28-kasia-odrozek.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3557,6 +3292,21 @@ locales = [ "fr", "sw",]
 [[paths]]
 reference = "templates/pages/homepage/who-we-are/leadership.pot"
 l10n = "locales/{locale}/pages/homepage/who-we-are/leadership.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/105-j-bob-alotta.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/105-j-bob-alotta.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/159-stefan-baack.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/159-stefan-baack.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/24-eeva-moore.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/24-eeva-moore.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3610,11 +3360,6 @@ l10n = "locales/{locale}/pages/homepage/blog/mozilla-urges-eu-commission-to-upho
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.pot"
-l10n = "locales/{locale}/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/why-voice-is-important.pot"
 l10n = "locales/{locale}/pages/homepage/blog/why-voice-is-important.po"
 locales = [ "fr", "sw",]
@@ -3630,6 +3375,11 @@ l10n = "locales/{locale}/pages/homepage/initiatives.po"
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/insights/open-research.pot"
+l10n = "locales/{locale}/pages/homepage/insights/open-research.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/fitbit-inspire-2.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-inspire-2.po"
 locales = [ "fr",]
@@ -3642,6 +3392,51 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/fitbit-sense.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/fitbit-sense.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.pot"
+l10n = "locales/{locale}/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/huawei-band-6.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/huawei-band-6.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/huawei-watch.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/huawei-watch.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/huawei-freebuds-pro.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/huawei-freebuds-pro.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/microsoft-surface-headphones-2.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/microsoft-surface-headphones-2.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/microsoft-surface-earbuds.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/microsoft-surface-earbuds.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/bose-sport-earbuds.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/bose-sport-earbuds.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/google-pixel-buds-a-series.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-pixel-buds-a-series.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/kobo-ereaders.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/kobo-ereaders.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3670,31 +3465,6 @@ l10n = "locales/{locale}/pages/homepage/research/library/is-that-even-legal.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/huawei-band-6.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/huawei-band-6.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/huawei-watch.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/huawei-watch.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-partners.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-partners.po"
-locales = [ "fr", "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/huawei-freebuds-pro.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/huawei-freebuds-pro.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/web-monetization.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/web-monetization.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/insights/publications.pot"
 l10n = "locales/{locale}/pages/homepage/insights/publications.po"
 locales = [ "fr",]
@@ -3720,24 +3490,264 @@ l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-wanawake-mas
 locales = [ "fr",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/327-anne-stopper.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/327-anne-stopper.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/upcoming-common-voice-data-migration.pot"
+l10n = "locales/{locale}/pages/homepage/blog/upcoming-common-voice-data-migration.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/493-jessie-keating.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/493-jessie-keating.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/announcing-the-mozfest-2023-funder-track.pot"
+l10n = "locales/{locale}/pages/homepage/blog/announcing-the-mozfest-2023-funder-track.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/291-shandukani-o-mulaudzi.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/291-shandukani-o-mulaudzi.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/one-year-of-holding-tiktok-accountable.pot"
+l10n = "locales/{locale}/pages/homepage/blog/one-year-of-holding-tiktok-accountable.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/487-jan-krewer.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/487-jan-krewer.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/creating-community-driven-datasets-insights-from-mozilla-common-voice-activities-in-east-africa.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/creating-community-driven-datasets-insights-from-mozilla-common-voice-activities-in-east-africa.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.DonationModal/62-sren-bill-in-france.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/62-sren-bill-in-france.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/insights/trustworthy-ai-whitepaper.pot"
+l10n = "locales/{locale}/pages/homepage/insights/trustworthy-ai-whitepaper.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/taking-tiktok-to-task-on-ad-transparency.pot"
+l10n = "locales/{locale}/pages/homepage/blog/taking-tiktok-to-task-on-ad-transparency.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-directory.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-directory.po"
+locales = [ "fr", "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/the-dsa-is-not-a-justification-for-censorship.pot"
+l10n = "locales/{locale}/pages/homepage/blog/the-dsa-is-not-a-justification-for-censorship.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-partners.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-partners.po"
+locales = [ "fr", "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/370-claire-pershan.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/370-claire-pershan.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/user-controls/report/executive-summary.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/user-controls/report/executive-summary.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCCurricularArea/6-databases-and-information-security.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/6-databases-and-information-security.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCCurricularArea/11-hardware-systems.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/11-hardware-systems.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCCurricularArea/13-history-of-technology.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/13-history-of-technology.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCCurricularArea/2-human-computer-interface.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/2-human-computer-interface.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCCurricularArea/8-programming-languages.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/8-programming-languages.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCCurricularArea/9-software-engineering.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/9-software-engineering.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCCurricularArea/12-technology-and-society.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/12-technology-and-society.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCCurricularArea/10-theory.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/10-theory.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCCurricularArea/1-users-and-organizations.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/1-users-and-organizations.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCTopic/6-surveillance.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/6-surveillance.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCTopic/13-workplace-automation.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/13-workplace-automation.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCTopic/18-discriminiation.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/18-discriminiation.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCTopic/8-ethics-of-technical-organizational.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/8-ethics-of-technical-organizational.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCTopic/4-identity-and-anonymity.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/4-identity-and-anonymity.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCTopic/1-privacy.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/1-privacy.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCTopic/15-cryptography-and-law.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/15-cryptography-and-law.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCTopic/17-accessibility.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/17-accessibility.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/responsible-computing-challenge-playbook/browse-contributors.pot"
+l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook/browse-contributors.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/responsible-computing-challenge-playbook/curriculum.pot"
+l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook/curriculum.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCTopic/9-e-waste.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCTopic/9-e-waste.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/responsible-computing-challenge-playbook.pot"
+l10n = "locales/{locale}/pages/homepage/responsible-computing-challenge-playbook.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.RCCContentType/1-instructors-guide.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.RCCContentType/1-instructors-guide.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Signup/223-mozfest-house-amsterdam.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/223-mozfest-house-amsterdam.po"
+locales = [ "fr", "fy-NL", "nl",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/web-monetization.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/web-monetization.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/research/library/user-controls/report.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/user-controls/report.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/slack-takes-an-important-step-to-block-abuse.pot"
+l10n = "locales/{locale}/pages/homepage/blog/slack-takes-an-important-step-to-block-abuse.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/reporting-back-on-mozillas-cryptocurrency-donation-policy.pot"
 l10n = "locales/{locale}/pages/homepage/blog/reporting-back-on-mozillas-cryptocurrency-donation-policy.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/microsoft-surface-headphones-2.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/microsoft-surface-headphones-2.po"
+reference = "templates/snippets/wagtailpages.Profile/364-reem-suleiman.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/364-reem-suleiman.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/microsoft-surface-earbuds.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/microsoft-surface-earbuds.po"
+reference = "templates/pages/mozilla-festival/sponsor/become-sponsor.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/sponsor/become-sponsor.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/bose-sport-earbuds.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/bose-sport-earbuds.po"
+reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards.po"
 locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/data-futures-lab/grantmaking.pot"
+l10n = "locales/{locale}/pages/homepage/data-futures-lab/grantmaking.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards/previous-awards.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards/previous-awards.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards/partners.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards/partners.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/tiktok-reporter-app.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-reporter-app.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/mozfest-house-is-coming-to-amsterdam-june-20-21.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-is-coming-to-amsterdam-june-20-21.po"
+locales = [ "nl",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
@@ -3750,9 +3760,9 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/509-lucie-click.po"
 locales = [ "nl",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/mozfest-house-is-coming-to-amsterdam-june-20-21.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-is-coming-to-amsterdam-june-20-21.po"
-locales = [ "nl",]
+reference = "templates/snippets/wagtailpages.Profile/429-tarcizio-silva.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/429-tarcizio-silva.po"
+locales = [ "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/regulating-ai-in-brazil-could-it-mitigate-algorithmic-racism.pot"
@@ -3760,163 +3770,8 @@ l10n = "locales/{locale}/pages/homepage/blog/regulating-ai-in-brazil-could-it-mi
 locales = [ "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/429-tarcizio-silva.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/429-tarcizio-silva.po"
-locales = [ "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/common-voice-kiswahili-festival-centers-women-in-tech-and-language-community.pot"
-l10n = "locales/{locale}/pages/homepage/blog/common-voice-kiswahili-festival-centers-women-in-tech-and-language-community.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/293-tracy-kariuki.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/293-tracy-kariuki.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/intellectual-property-and-artificial-intelligence-can-artificial-intelligence-own-intellectual-property-rights.pot"
-l10n = "locales/{locale}/pages/homepage/blog/intellectual-property-and-artificial-intelligence-can-artificial-intelligence-own-intellectual-property-rights.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.pot"
-l10n = "locales/{locale}/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/559-cynthia-nzuki.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/559-cynthia-nzuki.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.pot"
-l10n = "locales/{locale}/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards/awards.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards/awards.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/220-britone-mwasaru.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/220-britone-mwasaru.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.pot"
-l10n = "locales/{locale}/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.pot"
-l10n = "locales/{locale}/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/221-hillary-juma.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/221-hillary-juma.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/common-voice-and-hekaya-arts-initiative-kiswahili-writing-competition.pot"
-l10n = "locales/{locale}/pages/homepage/blog/common-voice-and-hekaya-arts-initiative-kiswahili-writing-competition.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/lessons-from-building-for-kinyarwanda-on-common-voice.pot"
-l10n = "locales/{locale}/pages/homepage/blog/lessons-from-building-for-kinyarwanda-on-common-voice.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.pot"
-l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/conversations-on-culture-and-preserving-history.pot"
-l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preserving-history.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/does-technology-have-a-gender.pot"
-l10n = "locales/{locale}/pages/homepage/blog/does-technology-have-a-gender.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/183-rebecca-ryakitimbo.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/183-rebecca-ryakitimbo.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/translating-kiswahili-software-versus-human.pot"
-l10n = "locales/{locale}/pages/homepage/blog/translating-kiswahili-software-versus-human.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/taxation-and-digital-literacy-efforts.pot"
-l10n = "locales/{locale}/pages/homepage/blog/taxation-and-digital-literacy-efforts.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.pot"
-l10n = "locales/{locale}/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/opening-up-voice-for-global-communities.pot"
-l10n = "locales/{locale}/pages/homepage/blog/opening-up-voice-for-global-communities.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/273-george-githuma-njogu.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/273-george-githuma-njogu.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.pot"
-l10n = "locales/{locale}/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/226-alice-munyua.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/226-alice-munyua.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.pot"
-l10n = "locales/{locale}/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.pot"
-l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.pot"
-l10n = "locales/{locale}/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.po"
+reference = "templates/pages/homepage/common-voice/in-country-programmes.pot"
+l10n = "locales/{locale}/pages/homepage/common-voice/in-country-programmes.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -3925,8 +3780,38 @@ l10n = "locales/{locale}/pages/homepage/common-voice/events.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/common-voice/in-country-programmes.pot"
-l10n = "locales/{locale}/pages/homepage/common-voice/in-country-programmes.po"
+reference = "templates/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.pot"
+l10n = "locales/{locale}/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.pot"
+l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.pot"
+l10n = "locales/{locale}/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/226-alice-munyua.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/226-alice-munyua.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/voice-technologies-and-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/voice-technologies-and-privacy.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -3935,8 +3820,13 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/223-kathleen-siminyu.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/language-and-culture.pot"
-l10n = "locales/{locale}/pages/homepage/blog/language-and-culture.po"
+reference = "templates/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.pot"
+l10n = "locales/{locale}/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/opening-up-voice-for-global-communities.pot"
+l10n = "locales/{locale}/pages/homepage/blog/opening-up-voice-for-global-communities.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -3945,12 +3835,127 @@ l10n = "locales/{locale}/pages/homepage/blog/access-denied-this-doesnt-sound-lik
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.pot"
-l10n = "locales/{locale}/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.po"
+reference = "templates/snippets/wagtailpages.Profile/293-tracy-kariuki.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/293-tracy-kariuki.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/voice-technologies-and-privacy.pot"
-l10n = "locales/{locale}/pages/homepage/blog/voice-technologies-and-privacy.po"
+reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.pot"
+l10n = "locales/{locale}/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/common-voice-kiswahili-festival-centers-women-in-tech-and-language-community.pot"
+l10n = "locales/{locale}/pages/homepage/blog/common-voice-kiswahili-festival-centers-women-in-tech-and-language-community.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.pot"
+l10n = "locales/{locale}/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/intellectual-property-and-artificial-intelligence-can-artificial-intelligence-own-intellectual-property-rights.pot"
+l10n = "locales/{locale}/pages/homepage/blog/intellectual-property-and-artificial-intelligence-can-artificial-intelligence-own-intellectual-property-rights.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards/awards.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards/awards.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/559-cynthia-nzuki.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/559-cynthia-nzuki.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/273-george-githuma-njogu.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/273-george-githuma-njogu.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/220-britone-mwasaru.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/220-britone-mwasaru.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.pot"
+l10n = "locales/{locale}/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/taxation-and-digital-literacy-efforts.pot"
+l10n = "locales/{locale}/pages/homepage/blog/taxation-and-digital-literacy-efforts.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/translating-kiswahili-software-versus-human.pot"
+l10n = "locales/{locale}/pages/homepage/blog/translating-kiswahili-software-versus-human.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/183-rebecca-ryakitimbo.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/183-rebecca-ryakitimbo.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/does-technology-have-a-gender.pot"
+l10n = "locales/{locale}/pages/homepage/blog/does-technology-have-a-gender.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.pot"
+l10n = "locales/{locale}/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/conversations-on-culture-and-preserving-history.pot"
+l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preserving-history.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.pot"
+l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/lessons-from-building-for-kinyarwanda-on-common-voice.pot"
+l10n = "locales/{locale}/pages/homepage/blog/lessons-from-building-for-kinyarwanda-on-common-voice.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/common-voice-and-hekaya-arts-initiative-kiswahili-writing-competition.pot"
+l10n = "locales/{locale}/pages/homepage/blog/common-voice-and-hekaya-arts-initiative-kiswahili-writing-competition.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/221-hillary-juma.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/221-hillary-juma.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.pot"
+l10n = "locales/{locale}/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.pot"
+l10n = "locales/{locale}/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/language-and-culture.pot"
+l10n = "locales/{locale}/pages/homepage/blog/language-and-culture.po"
 locales = [ "sw",]
 
