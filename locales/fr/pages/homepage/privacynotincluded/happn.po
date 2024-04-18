@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 10:04:03.877209+00:00\n"
-"PO-Revision-Date: 2024-04-18 09:06+0000\n"
+"PO-Revision-Date: 2024-04-18 10:44+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -67,9 +67,9 @@ msgstr ""
 "Cela signifie que <a id=\"a1\">vous n’êtes pas obligé</a> de partager votre géolocalisation pour utiliser Happn. Mais si vous ne le faites pas, l’application ne pourra pas mettre en avant les "
 "profils des personnes que vous avez « <a id=\"a2\">croisées</a> » dans la vie réelle, ce qui est en quelque sorte le « principe » d’Happn. Vous pouvez désactiver l’accès à votre localisation dans "
 "les paramètres de votre appareil et entrer votre ville à la place. Cette option est intéressante, car les applications de rencontres ne sont pas les plus performantes en ce qui concerne la "
-"confidentialité de votre localisation. Heureusement, Happn ne fait pas partie des nombreuses entreprises qui ont récemment fait l’objet d’une violation de données, d’une fuite ou d’un piratage. "
-"Ouf ! Mais tout de même. Dans la catégorie des choses à ne pas partager, il y a aussi l’accès à votre compte Facebook, Apple ou Google. Lorsque vous vous connectez à Happn en utilisant un compte "
-"tiers comme l’un d’entre eux, les deux peuvent potentiellement collecter plus d’informations sur vous."
+"confidentialité de votre localisation. Heureusement, Happn ne fait pas partie des nombreuses entreprises qui ont récemment fait l’objet d’une fuite de données, d’une fuite ou d’un piratage. Ouf ! "
+"Mais tout de même. Dans la catégorie des choses à ne pas partager, il y a aussi l’accès à votre compte Facebook, Apple ou Google. Lorsque vous vous connectez à Happn en utilisant un compte tiers "
+"comme l’un d’entre eux, les deux peuvent potentiellement collecter plus d’informations sur vous."
 
 msgctxt "worst_case"
 msgid ""
@@ -354,7 +354,7 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known data breaches discovered in the last three years."
-msgstr "Aucune violation de données connue découverte au cours des trois dernières années."
+msgstr "Aucune fuite de données connue n’a été découverte au cours des trois dernières années."
 
 msgctxt "child_safety_blurb"
 msgid ""
