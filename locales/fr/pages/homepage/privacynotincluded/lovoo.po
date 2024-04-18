@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-04-18 06:57:20.090112+00:00\n"
-"PO-Revision-Date: 2024-04-18 07:10+0000\n"
+"PO-Revision-Date: 2024-04-18 09:03+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +79,7 @@ msgstr "Nous n’avons trouvé aucune politique de confidentialité en anglais. 
 
 msgctxt "uses_encryption_helptext"
 msgid "Lovoo employs TLS encryption in transit, as well as encryption at rest."
-msgstr "Lovoo utilise le cryptage TLS en transit, ainsi que le cryptage au repos."
+msgstr "Lovoo utilise le chiffrement TLS en transit, ainsi que le chiffrement au repos."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "\"We appreciate your work by paying a generous bug bounty (private LOVOO bug bounty) for all reports that follow our rules and thank you for making LOVOO safer!\""

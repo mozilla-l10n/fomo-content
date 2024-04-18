@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-15 08:21:33.101772+00:00\n"
-"PO-Revision-Date: 2024-04-18 07:41+0000\n"
+"PO-Revision-Date: 2024-04-18 09:03+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -352,8 +352,8 @@ msgid ""
 "We know that Tinder announced encryption for photos since June 2018 and Tinder's documentation reads \"We know that your time on the app is a private matter and have strict policies and technical systems in place, including encryption for user photos and messages and tools that restrict employee access to user communications and other user data.\"\r"
 "<br/> <br/> <br/>The parent company Match Group shared with us that \"All data stores containing personal data must be encrypted at rest and in transit. Data at rest uses the latest key technologies to cover hybrid data infrastructure, including keys that are created and managed utilizing the latest KMS key policies. Data in transit must utilize predefined SSL policies of TLS-1-1-2017-01 or similar ciphers. MG Security Engineering has an encryption standard that documents the process and procedures and is shared across our brands.\""
 msgstr ""
-"Nous sommes conscients que Tinder a annoncé le cryptage des photos depuis juin 2018 et la documentation fournie par Tinder stipule : « Nous comprenons que le temps que vous passez sur l’application relève de la vie privée et nous avons mis en place des politiques et des dispositifs techniques stricts, notamment le cryptage des photos et des messages des utilisateurs et des outils qui limitent l’accès des employés aux communications des utilisateurs et à d’autres données personnelles ».\r"
-"<br/> <br/> <br/>La société mère, Match Group, nous a indiqué que « toutes les archives contenant des données personnelles doivent être cryptées au repos et en transit. Les données au repos utilisent les technologies les plus récentes pour sécuriser les infrastructures de données hybrides, y compris les clés créées et gérées à l’aide des politiques de clés KMS les plus récentes. Les données en transit doivent utiliser des politiques SSL prédéfinies de TLS-1-1-2017-01 ou des algorithmes de chiffrement similaires. MG Security Engineering dispose d’une norme de chiffrement qui documente le processus et les procédures et qui est partagée par l’ensemble de nos marques »."
+"Nous sommes conscients que Tinder a annoncé le chiffrement des photos depuis juin 2018 et la documentation fournie par Tinder stipule : « Nous comprenons que le temps que vous passez sur l’application relève de la vie privée et nous avons mis en place des politiques et des dispositifs techniques stricts, notamment le chiffrement des photos et des messages des utilisateurs et des outils qui limitent l’accès des employés aux communications des utilisateurs et à d’autres données personnelles ».\n"
+"<br/> <br/> <br/>La société mère, Match Group, nous a indiqué que « toutes les archives contenant des données personnelles doivent être chiffrées au repos et en transit. Les données au repos utilisent les technologies les plus récentes pour sécuriser les infrastructures de données hybrides, y compris les clés créées et gérées à l’aide des politiques de clés KMS les plus récentes. Les données en transit doivent utiliser des politiques SSL prédéfinies de TLS-1-1-2017-01 ou des algorithmes de chiffrement similaires. MG Security Engineering dispose d’une norme de chiffrement qui documente le processus et les procédures et qui est partagée par l’ensemble de nos marques »."
 
 msgctxt "strong_password_helptext"
 msgid "Tinder uses 2FA with email and phone number, for a log-in."
