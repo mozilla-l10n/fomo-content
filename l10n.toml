@@ -35,9 +35,9 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/gotomeeting.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/274-mozilla-common-voice.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/274-mozilla-common-voice.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+reference = "templates/pages/homepage/blog/mozilla-explains-why-does-youtube-recommend-conspiracy-theory-videos.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozilla-explains-why-does-youtube-recommend-conspiracy-theory-videos.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/facetime.pot"
@@ -80,9 +80,9 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/how-to-opt-o
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/mozilla-explains-why-does-youtube-recommend-conspiracy-theory-videos.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozilla-explains-why-does-youtube-recommend-conspiracy-theory-videos.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/snippets/wagtailpages.Profile/274-mozilla-common-voice.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/274-mozilla-common-voice.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Petition/75-zoom-end-to-end-encryption-for-everyone.pot"
@@ -2400,8 +2400,8 @@ l10n = "locales/{locale}/pages/homepage/what-we-fund.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR", "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/data-futures-lab.pot"
-l10n = "locales/{locale}/pages/homepage/data-futures-lab.po"
+reference = "templates/pages/homepage/blog/ring-2fa-and-win-consumers.pot"
+l10n = "locales/{locale}/pages/homepage/blog/ring-2fa-and-win-consumers.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
@@ -2550,9 +2550,9 @@ l10n = "locales/{locale}/pages/homepage/campaigns/call-on-tiktok-to-follow-throu
 locales = [ "de",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.BlogPageTopic/12-internet-health-report.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/12-internet-health-report.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+reference = "templates/pages/homepage/data-futures-lab.pot"
+l10n = "locales/{locale}/pages/homepage/data-futures-lab.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/ford.pot"
@@ -2595,14 +2595,14 @@ l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/7-insights.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.BlogPageTopic/12-internet-health-report.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/12-internet-health-report.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/71-pni-cars-petition.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/71-pni-cars-petition.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/dacia.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/dacia.po"
-locales = [ "de",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/cadillac.pot"
@@ -2790,9 +2790,9 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/telegram.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/mozilla-explains-why-did-i-watch-that.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozilla-explains-why-did-i-watch-that.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/pages/homepage/privacynotincluded/dacia.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/dacia.po"
+locales = [ "de",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/wechat.pot"
@@ -2870,8 +2870,8 @@ l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/6-b2.po"
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/who-wrote-that-evaluating-tools-to-detect-ai-generated-text.pot"
-l10n = "locales/{locale}/pages/homepage/blog/who-wrote-that-evaluating-tools-to-detect-ai-generated-text.po"
+reference = "templates/pages/homepage/blog/mozilla-explains-why-did-i-watch-that.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozilla-explains-why-did-i-watch-that.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
@@ -2900,9 +2900,9 @@ l10n = "locales/{locale}/snippets/wagtailpages.BlogSignup/1-reclaim-the-internet
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/ring-2fa-and-win-consumers.pot"
-l10n = "locales/{locale}/pages/homepage/blog/ring-2fa-and-win-consumers.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/pages/homepage/blog/who-wrote-that-evaluating-tools-to-detect-ai-generated-text.pot"
+l10n = "locales/{locale}/pages/homepage/blog/who-wrote-that-evaluating-tools-to-detect-ai-generated-text.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/youtube-regrets.pot"
