@@ -1,0 +1,160 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-05-13 11:03:57.033875+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 25a71162-268b-401e-8901-3b1386ca1d1c\n"
+
+msgctxt "search_description"
+msgid ""
+"Mozilla is announcing its 2024 Data Futures Lab Infrastructure Fund awardees: five ambitious projects building tools that address issues of transparency, privacy, bias, and agency in the data "
+"lifecycle."
+msgstr ""
+
+msgctxt "body.50f1d5df-4584-409c-ab4e-7178180f6908"
+msgid "The Data Futures Lab welcomes its 2024 Infrastructure Fund awardees"
+msgstr ""
+
+msgctxt "body.50f1d5df-4584-409c-ab4e-7178180f6908"
+msgid ""
+"<b>(WEDNESDAY, MARCH 13, 2024) —</b> Today, Mozilla is announcing its 2024 <a id=\"a1\">Data Futures Lab</a> Infrastructure Fund awardees: five ambitious projects building tools that address issues "
+"of transparency, privacy, bias, and agency in the data lifecycle."
+msgstr ""
+
+msgctxt "body.50f1d5df-4584-409c-ab4e-7178180f6908"
+msgid ""
+"These projects will each receive up to $50,000 along with support and training from Mozilla staff and fellows. Mozilla released an <a id=\"a1\">open call</a> for awardees in July 2023, and received "
+"more than 250 applications from 54 countries."
+msgstr ""
+
+msgctxt "body.50f1d5df-4584-409c-ab4e-7178180f6908"
+msgid ""
+"As an experimental space for builders working towards a more fair data economy,, the Data Futures Lab is the perfect place for these projects to build and release tools and methods that can be "
+"leveraged by developers. All projects will make their code available under a public repository."
+msgstr ""
+
+msgctxt "body.50f1d5df-4584-409c-ab4e-7178180f6908"
+msgid ""
+"<b>Says Lisa Gutermuth, Program Officer, Data Futures Lab:</b> “This year’s Infrastructure Fund cohort features an eclectic mix of expertise — which is exactly what we need to shift the data "
+"ecosystem in a new and better direction. Mozilla is funding researchers and entrepreneurs, programmers and activists, and communities working on voice, text, and synthetic data as it relates to "
+"trustworthy AI.”"
+msgstr ""
+
+msgctxt "body.50f1d5df-4584-409c-ab4e-7178180f6908"
+msgid ""
+"These projects will join Mozilla’s existing network of awardees and fellows pursuing a more equitable data ecosystem — like<a id=\"a1\"> Mozilla Technology Fund</a> awardee<a id=\"a2\"> Evaluation "
+"Harness</a>, an open-source tool for evaluating large language models, and<a id=\"a3\"> Senior Fellow alumni in Trustworthy AI</a> Bogdana Rakova,<a id=\"a4\"> who is exploring</a> the use of "
+"computational contracts to enable new modes of interactions between people and consumer tech companies."
+msgstr ""
+
+msgctxt "body.1be36b6a-6ff4-44d3-8f77-2ee1e554e1a8.quote"
+msgid "This year’s Infrastructure Fund cohort features an eclectic mix of expertise — which is exactly what we need to shift the data ecosystem in a new and better direction."
+msgstr ""
+
+msgctxt "body.1be36b6a-6ff4-44d3-8f77-2ee1e554e1a8.attribution"
+msgid "Lisa Gutermuth, Program Officer, Data Futures Lab"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "Learn more about the projects:"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "Data Provenance Initiative: Mapping the provenance of popular datasets"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "USA"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid ""
+"Recent breakthroughs in language modeling are powered by large collections of natural language datasets. This has triggered an arms race to train models on disparate collections of incorrectly, "
+"ambiguously, or under-documented data that has left practitioners unsure of the ethical and legal risks. To address this, the <a id=\"a1\">Data Provenance Initiative</a> has created a mapping of "
+"2,000+ popular, text-to-text fine-tuning datasets from origin to creation, cataloging their data sources, licenses, creators, and other metadata, for researchers and developers to explore using this"
+" tool. The purpose of this work is to improve transparency, documentation, and informed use of datasets in AI."
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "<i>See their</i> <a id=\"a1\"><i>presentation recording</i></a><i> as part of the DFL Speaker Series in January 2024.</i>"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "Imperial College London: Identifying privacy risk in AI-generated synthetic data"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "UK"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid ""
+"The <a id=\"a1\">Computational Privacy Group</a> at Imperial College London will build on their <a id=\"a2\">initial</a> <a id=\"a3\">research</a> around detecting privacy risk in AI generated "
+"synthetic datasets, and publish an open-source toolkit that enables builders to evaluate the privacy risk of AI generated synthetic data before releasing it. The initiative is titled “Leaving no one"
+" behind: a tool to flag privacy risk in AI generated synthetic data.”"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "Fundación Vía Libre: Detecting discriminatory behaviors in AI"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "Argentina"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid ""
+"Fundación Vía Libre will build on their existing toolset, <a id=\"a1\">EDIA</a> (Spanish abbreviation for “Stereotypes and Discrimination in Artificial Intelligence”), which inspects core components"
+" of automatic language processing technologies to detect and characterize discriminatory behaviors. Specifically, they will use community-centered methods to build a language dataset that represents"
+" stereotypes in Argentina; publish programming libraries to integrate the dataset in audit processes for public and private institutions who use language models; and publish structured content and "
+"teaching materials so that others can replicate their methods for other languages and contexts."
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "<i>See their</i> <a id=\"a1\"><i>presentation recording</i></a><i> at a DFL Community Call in July 2023</i>"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "Data Science Law Lab: Designing a more responsible data license"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "South Africa"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid ""
+"The <a id=\"a1\">Data Science Law Lab</a> out of the University of Pretoria will conduct research that addresses the shortcomings of using creative commons licenses in certain contexts (such as "
+"reinforcing extractive practices and digital colonialism) and create a prototype for a new data license based on their findings."
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid ""
+"<a id=\"a1\"><i>Sign up for their talk</i></a><i> as part of the</i><a id=\"a2\">DFL Speaker Series</a><i>, which is running through the first half of 2024 and explores fair use and transparency in "
+"the generative AI data ecosystem.</i>"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "FLAIR Initiative (First Languages AI Reality): Community-centered dataset creation"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "USA (indigenous communities)"
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid ""
+"<a id=\"a1\">FLAIR</a> will work with an indigenous language community using their software and methodology to collect the necessary corpus data to develop Automatic Speech Recognition (ASR) for the"
+" community’s language while minimizing the burden on current speakers. Given the limitation of both indigenous language data availability and speakers, they will employ a method that uses minimal "
+"inputs (around 500 phrases) as stimuli. They will publish the source code and a methodology manual that aims to enable further indigenous language communities to revitalize their languages more "
+"rapidly and effectively, using their own data, and on their own terms."
+msgstr ""
+
+msgctxt "body.7cdff4c3-2fc6-462c-8c97-411f47ede3e4"
+msgid "Press contact: Kevin Zawacki | kevin@mozillafoundation.org"
+msgstr ""
+
+msgctxt "title"
+msgid "Mozilla Supports Five Projects Creating Building Blocks for a Better Data Ecosystem"
+msgstr ""
