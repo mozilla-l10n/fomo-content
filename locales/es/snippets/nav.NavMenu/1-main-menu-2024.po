@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-05-16 16:12:43.346871+00:00\n"
+"PO-Revision-Date: 2024-05-17 09:23+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 2b942568-dfe8-4bbb-b188-470e9fd61622\n"
 
 msgctxt "title"
@@ -156,7 +161,7 @@ msgstr ""
 
 msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.ee71115d-3610-414a-86c3-2ef16bc34161.button.0ed08c65-5491-4ee8-82c0-be00376e916b.relative_url"
 msgid "/research"
-msgstr ""
+msgstr "/research"
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.title"
 msgid "What You Can Do"
@@ -184,7 +189,7 @@ msgstr ""
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.48016c34-0cb4-40cf-b20f-7d35766409a1.nav_items.549c3925-17cc-43cc-8935-83912ffa1542.relative_url"
 msgid "/campaigns"
-msgstr ""
+msgstr "/campaigns"
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.48016c34-0cb4-40cf-b20f-7d35766409a1.nav_items.f773a1f0-90f8-42bc-b3a6-3d179341471d.label"
 msgid "Explore Mozilla Festival"
@@ -236,7 +241,7 @@ msgstr ""
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.featured_column.82adabff-c662-47e5-a2b4-355ceccdb3dc.nav_items.80710376-e060-4794-bfb3-fe3fdd9dfadf.relative_url"
 msgid "/what-you-can-do/?form=donate-menu"
-msgstr ""
+msgstr "/what-you-can-do/?form=donate-menu"
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.featured_column.82adabff-c662-47e5-a2b4-355ceccdb3dc.nav_items.a45443c1-4c5e-4d0b-b9b2-f487fec52962.label"
 msgid "Ways to Give"
@@ -244,7 +249,7 @@ msgstr ""
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.featured_column.82adabff-c662-47e5-a2b4-355ceccdb3dc.nav_items.a45443c1-4c5e-4d0b-b9b2-f487fec52962.relative_url"
 msgid "/what-you-can-do"
-msgstr ""
+msgstr "/what-you-can-do"
 
 msgctxt "dropdowns.e4f46e7d-8565-4b1f-8b37-24e6bda9bcc6.title"
 msgid "What We Fund"
