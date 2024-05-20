@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-05-20 14:03:44.930400+00:00\n"
+"PO-Revision-Date: 2024-05-20 14:23+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 9d6e37c6-2a33-41a7-8186-0d503940e9be\n"
 
 msgctxt "seo_title"
 msgid "Alumni"
-msgstr ""
+msgstr "Anciens membres"
 
 msgctxt "search_description"
 msgid ""
@@ -28,11 +33,11 @@ msgstr ""
 
 msgctxt "body.d88555d0-2096-4c89-92b8-4cf86f5f6b25"
 msgid "More about alumni and their work can be found <a id=\"a1\">in this directory.</a>"
-msgstr ""
+msgstr "Vous trouverez plus d’informations sur les anciens membres et leur travail <a id=\"a1\">dans cet annuaire</a>."
 
 msgctxt "body.79b7de1c-7c75-4f05-996f-d39741a8b419"
 msgid "Building an alumni program"
-msgstr ""
+msgstr "Créer un programme pour les anciens membres"
 
 msgctxt "body.79b7de1c-7c75-4f05-996f-d39741a8b419"
 msgid ""
@@ -43,7 +48,7 @@ msgstr ""
 
 msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.alt_text"
 msgid "alumni"
-msgstr ""
+msgstr "anciens membres"
 
 msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.title"
 msgid "Alumni Connection Grants"
@@ -57,7 +62,7 @@ msgstr ""
 
 msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.link_url"
 msgid "https://foundation.mozilla.org/what-we-fund/alumni/alumni-connection-grants/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/what-we-fund/alumni/alumni-connection-grants/"
 
 msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.link_label"
 msgid "Learn more"
