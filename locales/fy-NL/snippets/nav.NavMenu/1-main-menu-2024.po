@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-05-16 16:13:11.069513+00:00\n"
+"PO-Revision-Date: 2024-05-22 07:06+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1b160db8-8164-4f01-adaf-863cd86b4d1f\n"
 
 msgctxt "title"
@@ -204,7 +209,7 @@ msgstr ""
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.fb9adafb-e4db-4b8a-a312-96e49fbfb5c8.nav_items.e303cb6d-7239-43ef-8d4b-54714fb54011.relative_url"
 msgid "/research"
-msgstr ""
+msgstr "/research"
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.fb9adafb-e4db-4b8a-a312-96e49fbfb5c8.nav_items.71dd9973-7feb-42e1-98ea-a09370176bea.label"
 msgid "Listen to IRL"
@@ -232,7 +237,7 @@ msgstr ""
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.featured_column.82adabff-c662-47e5-a2b4-355ceccdb3dc.nav_items.80710376-e060-4794-bfb3-fe3fdd9dfadf.relative_url"
 msgid "/what-you-can-do/?form=donate-menu"
-msgstr ""
+msgstr "/what-you-can-do/?form=donate-menu"
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.featured_column.82adabff-c662-47e5-a2b4-355ceccdb3dc.nav_items.a45443c1-4c5e-4d0b-b9b2-f487fec52962.label"
 msgid "Ways to Give"
@@ -240,7 +245,7 @@ msgstr ""
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.featured_column.82adabff-c662-47e5-a2b4-355ceccdb3dc.nav_items.a45443c1-4c5e-4d0b-b9b2-f487fec52962.relative_url"
 msgid "/what-you-can-do"
-msgstr ""
+msgstr "/what-you-can-do"
 
 msgctxt "dropdowns.e4f46e7d-8565-4b1f-8b37-24e6bda9bcc6.title"
 msgid "What We Fund"
