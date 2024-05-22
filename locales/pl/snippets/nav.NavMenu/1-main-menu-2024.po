@@ -159,10 +159,6 @@ msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.ee71115d-3610-41
 msgid "See all research"
 msgstr "Zobacz wszystkie badania"
 
-msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.ee71115d-3610-414a-86c3-2ef16bc34161.button.0ed08c65-5491-4ee8-82c0-be00376e916b.relative_url"
-msgid "/research"
-msgstr "/research"
-
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.title"
 msgid "What You Can Do"
 msgstr "Co możesz zrobić"
@@ -187,10 +183,6 @@ msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.48016c34-0cb4-40
 msgid "Sign a Petition"
 msgstr "Podpisz petycję"
 
-msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.48016c34-0cb4-40cf-b20f-7d35766409a1.nav_items.549c3925-17cc-43cc-8935-83912ffa1542.relative_url"
-msgid "/campaigns"
-msgstr "/campaigns"
-
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.48016c34-0cb4-40cf-b20f-7d35766409a1.nav_items.f773a1f0-90f8-42bc-b3a6-3d179341471d.label"
 msgid "Explore Mozilla Festival"
 msgstr "Odkryj Festiwal Mozilli"
@@ -214,6 +206,10 @@ msgstr "Nauka"
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.fb9adafb-e4db-4b8a-a312-96e49fbfb5c8.nav_items.e303cb6d-7239-43ef-8d4b-54714fb54011.label"
 msgid "Explore the Research Hub"
 msgstr "Odkryj Ośrodek Badań"
+
+msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.fb9adafb-e4db-4b8a-a312-96e49fbfb5c8.nav_items.e303cb6d-7239-43ef-8d4b-54714fb54011.relative_url"
+msgid "/research"
+msgstr ""
 
 msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.fb9adafb-e4db-4b8a-a312-96e49fbfb5c8.nav_items.71dd9973-7feb-42e1-98ea-a09370176bea.label"
 msgid "Listen to IRL"
@@ -310,3 +306,7 @@ msgstr "Ekosystem współpracujących ze sobą darczyńców"
 msgctxt "blog_button_label"
 msgid "See all blog posts"
 msgstr "Zobacz wszystkie posty na blogu"
+
+#~ msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.48016c34-0cb4-40cf-b20f-7d35766409a1.nav_items.549c3925-17cc-43cc-8935-83912ffa1542.relative_url"
+#~ msgid "/campaigns"
+#~ msgstr "/campaigns"
