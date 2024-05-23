@@ -32,8 +32,8 @@ msgid "11-13 June 2024 | Amsterdam, NL"
 msgstr "Du 11 au 13 juin 2024 | Amsterdam, Pays-Bas"
 
 msgctxt "banner_text"
-msgid "Get your Early Bird Ticket to the premier gathering for people working to build a better digital world."
-msgstr "Obtenez votre billet Early Bird pour assister au premier rassemblement pour celles et ceux qui œuvrent pour un monde numérique meilleur."
+msgid "Get your ticket to the premier gathering for people working to build a better digital world."
+msgstr ""
 
 msgctxt "banner_link_text"
 msgid "Get Your Ticket"
@@ -117,6 +117,14 @@ msgstr ""
 "<b>Notre mission est de faire en sorte que le Mozilla Festival reste accessible à tout le monde tout en limitant les barrières financières. Si vous avez besoin d’aide supplémentaire pour participer,"
 " veuillez nous contacter.</b><br/> <a id=\"a1\">Envoyer un e-mail à festival@mozilla.org →</a>"
 
+msgctxt "body.dce9f59a-768a-4208-b33d-a506036ac463"
+msgid "Venue Information"
+msgstr ""
+
+msgctxt "body.dce9f59a-768a-4208-b33d-a506036ac463"
+msgid "MozFest House Amsterdam will take place in Tolhuistuin, a cultural center in the North of the City, a few mins ferry ride from Amsterdam Central station with views over the Ij River."
+msgstr ""
+
 msgctxt "body.9c35cd4e-ea6c-4314-972d-f709031b6ab7"
 msgid "Tickets Perks and Benefits"
 msgstr "Avantages des billets"
@@ -142,8 +150,8 @@ msgid "Get access to engaging sessions, workshops, and our flagship Dialogues an
 msgstr "Accédez à des sessions et des ateliers captivants, ainsi qu’à nos panels phares Discussions et débats."
 
 msgctxt "body.79e2cb9c-9356-4b95-b59e-f78d801e2671"
-msgid "Ensure your spot at our Songs of the Living experience."
-msgstr "Assistez à notre expérience Songs of the Live."
+msgid "Entrance to Songs of the Living Amsterdam <i>(subject to availability)</i>"
+msgstr ""
 
 msgctxt "body.79e2cb9c-9356-4b95-b59e-f78d801e2671"
 msgid "Explore a variety of art installations and exhibits."
@@ -170,20 +178,20 @@ msgid "lanyard-separator"
 msgstr "séparateur lanière"
 
 msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
-msgid "Early Bird Festival Passes"
-msgstr "Pass Festival Early Bird"
+msgid "Festival Passes"
+msgstr ""
 
 msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
-msgid "Festival Passes grant you full access to MozFest House Amsterdam from 11-13 June. Save €50 by purchasing the Early Bird ticket."
-msgstr "Les pass Festival vous donnent un accès complet au MozFest House Amsterdam du 11 au 13 juin. Économisez 50 € en achetant le billet Early Bird."
+msgid "Festival Passes grant you full access to MozFest House Amsterdam from 11-13 June."
+msgstr ""
 
 msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
 msgid "Get access to engaging sessions, workshops, and our flagship Dialogues and Debates panels."
 msgstr "Accédez à des sessions et des ateliers captivants, ainsi qu’à nos panels phares Discussions et débats."
 
 msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
-msgid "Ensure your spot at our Songs of the Living experience."
-msgstr "Assistez à notre expérience Songs of the Live."
+msgid "Entrance to Songs of the Living Amsterdam <i>(subject to availability)</i>"
+msgstr ""
 
 msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
 msgid "Explore a variety of art installations and exhibits."
@@ -198,12 +206,12 @@ msgid "The price includes Dutch VAT at 21%."
 msgstr "Le prix comprend la TVA néerlandaise de 21 %."
 
 msgctxt "body.f23aada3-9627-46d3-b787-132e7c6be965.button_label"
-msgid "Buy an Early Bird Festival Pass"
-msgstr "Acheter un pass Festival Early Bird"
+msgid "Buy a Festival Pass"
+msgstr ""
 
 msgctxt "body.f23aada3-9627-46d3-b787-132e7c6be965.releases"
-msgid "festival-pass-early-bird"
-msgstr "festival-pass-early-bird"
+msgid "u4knvkqevga"
+msgstr ""
 
 msgctxt "body.8341460a-8df7-4930-94fb-7fb6d9c42a24.altText"
 msgid "lanyard-separator"
@@ -257,6 +265,22 @@ msgstr "institutional-pass"
 #~ msgid "Join us at MozFest House: Amsterdam"
 #~ msgstr "Rejoignez-nous au MozFest House: Amsterdam"
 
+#~ msgctxt "banner_text"
+#~ msgid "Get your Early Bird Ticket to the premier gathering for people working to build a better digital world."
+#~ msgstr "Obtenez votre billet Early Bird pour assister au premier rassemblement pour celles et ceux qui œuvrent pour un monde numérique meilleur."
+
+#~ msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
+#~ msgid "Early Bird Festival Passes"
+#~ msgstr "Pass Festival Early Bird"
+
+#~ msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
+#~ msgid "Festival Passes grant you full access to MozFest House Amsterdam from 11-13 June. Save €50 by purchasing the Early Bird ticket."
+#~ msgstr "Les pass Festival vous donnent un accès complet au MozFest House Amsterdam du 11 au 13 juin. Économisez 50 € en achetant le billet Early Bird."
+
+#~ msgctxt "body.f23aada3-9627-46d3-b787-132e7c6be965.releases"
+#~ msgid "festival-pass-early-bird"
+#~ msgstr "festival-pass-early-bird"
+
 #~ msgctxt "body.8584dc71-8323-44c5-881d-5a81870f768e"
 #~ msgid ""
 #~ "Institutional Passes are pay-what-you-wish tickets that grant you full access to MozFest House Amsterdam from 11-13 June, while also subsidizingCommunity Passes, ensuring accessibility for all while"
@@ -264,3 +288,7 @@ msgstr "institutional-pass"
 #~ msgstr ""
 #~ "Les pass institutionnels sont des billets à prix libre qui vous donnent un accès complet au MozFest House Amsterdam du 11 au 13 juin, tout en subventionnant les pass communautaires, garantissant "
 #~ "ainsi l’accessibilité à tout le monde en réduisant les barrières financières."
+
+#~ msgctxt "body.f23aada3-9627-46d3-b787-132e7c6be965.button_label"
+#~ msgid "Buy an Early Bird Festival Pass"
+#~ msgstr "Acheter un pass Festival Early Bird"
