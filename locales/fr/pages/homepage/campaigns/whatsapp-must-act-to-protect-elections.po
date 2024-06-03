@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-04-01 07:35:05.969398+00:00\n"
-"PO-Revision-Date: 2024-06-03 11:03+0000\n"
+"PO-Revision-Date: 2024-06-03 11:06+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -62,6 +62,8 @@ msgid ""
 "<b><i>Add verification prompts to viral content:</i></b> <i>Automatically add clear \"Highly forwarded: please verify\" warning labels to viral messages, in addition to the \"Forwarded many times\" "
 "label currently in use.\"</i>"
 msgstr ""
+"<i><b>Ajouter des demandes de confirmation aux messages viraux :</b> en plus de l’étiquette actuelle « Contenu partagé plusieurs fois », ajouter automatiquement une étiquette claire indiquant "
+"« contenu partagé de manière importante : à vérifier » aux messages viraux.</i>"
 
 msgctxt "body.2723816b-7394-42ea-b13e-b47260d439d0"
 msgid "<b><i>Reduce WhatsApp’s broadcast capabilities</i></b><i>: Disable the Communities feature and also limit the size of broadcast lists to 50 people and cap their usage to twice a day.</i>"
@@ -92,6 +94,8 @@ msgid ""
 "Update: The language and call to action was updated on 31 May 2024, based on discussions with the Global Encryption Coalition, to clarify that Mozilla is calling for WhatsApp to identify patterns of"
 " disinformation, and is not calling for interventions that would threaten encryption."
 msgstr ""
+"Mise à jour : le libellé et l’appel à l’action ont été mis à jour le 31 mai 2024, sur la base de discussions avec la Global Encryption Coalition, pour préciser que Mozilla demande à WhatsApp "
+"d’identifier les modèles de désinformation et ne demande pas d’interventions qui pourraient menacer le chiffrement."
 
 msgctxt "body.9369e272-4333-45ad-84ba-ab53d7a83975.accordion_items.39013836-39e2-443d-b203-578450d5bfa4.title"
 msgid "More Information:"
