@@ -3310,18 +3310,13 @@ l10n = "locales/{locale}/pages/homepage/research/library/internet-health-report-
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/329-neha-ravella.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/329-neha-ravella.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/short-film-dzata-reimagines-technology-innovation-from-an-african-perspective.pot"
 l10n = "locales/{locale}/pages/homepage/blog/short-film-dzata-reimagines-technology-innovation-from-an-african-perspective.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/22-solana-larsen.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/22-solana-larsen.po"
+reference = "templates/snippets/wagtailpages.Profile/329-neha-ravella.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/329-neha-ravella.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3347,6 +3342,11 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/alumni.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/alumni.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/22-solana-larsen.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/22-solana-larsen.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3545,13 +3545,13 @@ l10n = "locales/{locale}/pages/homepage/initiatives.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/research/library/youtube-regrets-findings.pot"
-l10n = "locales/{locale}/pages/homepage/research/library/youtube-regrets-findings.po"
+reference = "templates/snippets/highlights.Highlight/19-responsible-computer-science-challenge.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/19-responsible-computer-science-challenge.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/snippets/highlights.Highlight/19-responsible-computer-science-challenge.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/19-responsible-computer-science-challenge.po"
+reference = "templates/pages/homepage/research/library/youtube-regrets-findings.pot"
+l10n = "locales/{locale}/pages/homepage/research/library/youtube-regrets-findings.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3680,11 +3680,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/24-eeva-moore.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/mozilla-festival/working-groups.pot"
-l10n = "locales/{locale}/pages/mozilla-festival/working-groups.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.Profile/159-stefan-baack.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/159-stefan-baack.po"
 locales = [ "fr",]
@@ -3697,6 +3692,11 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/mozilla-festival/mozfest-2023-early-bird-tickets-creative.pot"
 l10n = "locales/{locale}/pages/mozilla-festival/mozfest-2023-early-bird-tickets-creative.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-festival/working-groups.pot"
+l10n = "locales/{locale}/pages/mozilla-festival/working-groups.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -3955,18 +3955,13 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/opening-up-voice-for-global-communities.pot"
-l10n = "locales/{locale}/pages/homepage/blog/opening-up-voice-for-global-communities.po"
-locales = [ "sw",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/293-tracy-kariuki.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/293-tracy-kariuki.po"
+reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards/awards.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards/awards.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -3992,11 +3987,6 @@ locales = [ "sw",]
 [[paths]]
 reference = "templates/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.pot"
 l10n = "locales/{locale}/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards/awards.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards/awards.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4055,6 +4045,11 @@ l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preser
 locales = [ "sw",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/293-tracy-kariuki.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/293-tracy-kariuki.po"
+locales = [ "sw",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.pot"
 l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
 locales = [ "sw",]
@@ -4075,11 +4070,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/221-hillary-juma.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/access-denied-this-doesnt-sound-like-you.pot"
-l10n = "locales/{locale}/pages/homepage/blog/access-denied-this-doesnt-sound-like-you.po"
-locales = [ "sw",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.pot"
 l10n = "locales/{locale}/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.po"
 locales = [ "sw",]
@@ -4087,6 +4077,16 @@ locales = [ "sw",]
 [[paths]]
 reference = "templates/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.pot"
 l10n = "locales/{locale}/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/opening-up-voice-for-global-communities.pot"
+l10n = "locales/{locale}/pages/homepage/blog/opening-up-voice-for-global-communities.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/access-denied-this-doesnt-sound-like-you.pot"
+l10n = "locales/{locale}/pages/homepage/blog/access-denied-this-doesnt-sound-like-you.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4100,22 +4100,22 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/559-cynthia-nzuki.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/223-kathleen-siminyu.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/223-kathleen-siminyu.po"
-locales = [ "sw",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.pot"
 l10n = "locales/{locale}/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.po"
+reference = "templates/snippets/wagtailpages.Profile/223-kathleen-siminyu.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/223-kathleen-siminyu.po"
 locales = [ "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/common-voice-kiswahili-festival-centers-women-in-tech-and-language-community.pot"
 l10n = "locales/{locale}/pages/homepage/blog/common-voice-kiswahili-festival-centers-women-in-tech-and-language-community.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.pot"
+l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.po"
 locales = [ "sw",]
 
