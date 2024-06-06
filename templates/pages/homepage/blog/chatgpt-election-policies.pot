@@ -1,0 +1,109 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-06-06 07:46:02.238010+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "seo_title"
+msgid "ChatGPT Flouts Its Own Election Policies"
+msgstr ""
+
+msgctxt "search_description"
+msgid "A simple experiment by Mozilla Foundation found that anyone can generate targeted campaign materials, despite OpenAI's policy banning this behavior."
+msgstr ""
+
+msgctxt "body.7999f608-fec9-4309-839f-7553c9031fcd.altText"
+msgid "Open Source Research &amp; Investigations"
+msgstr ""
+
+msgctxt "body.4ba844b9-c24e-415d-9815-afe1cfc4e90a"
+msgid "A simple experiment by Mozilla generated targeted campaign materials, despite OpenAI's prohibition"
+msgstr ""
+
+msgctxt "body.cd85cbd3-6ece-48f1-90ed-ba62878c5c17"
+msgid ""
+"2024 is a year of elections. About 50 countries – approximately half the world’s population - go to the polls this year. 2024 is also a year of generative AI. While ChatGPT was launched back at the "
+"end of 2022, this year marks more widespread adoption, more impressive levels of capability, and a deeper understanding of the risks this technology presents to our democracies."
+msgstr ""
+
+msgctxt "body.cd85cbd3-6ece-48f1-90ed-ba62878c5c17"
+msgid ""
+"We have already seen applications of generative AI in the political sphere. In the U.S., there are deepfakes of <a id=\"a1\">Biden making robocalls to discourage voting</a> and <a id=\"a2\">uttering"
+" transphobic comments</a>, and of <a id=\"a3\">Trump hugging Dr. Anthony Fauci</a>. Elsewhere, <a id=\"a4\">Argentina</a> and <a id=\"a5\">Slovakia</a> have seen generative AI deployed to manipulate"
+" elections."
+msgstr ""
+
+msgctxt "body.cd85cbd3-6ece-48f1-90ed-ba62878c5c17"
+msgid ""
+"Recognizing these risks, major players in generative AI, like OpenAI, are taking a stance. Their <a id=\"a1\">policy</a> explicitly disallows: \"Engaging in political campaigning or lobbying, "
+"including generating campaign materials personalized to or targeted at specific demographics.\""
+msgstr ""
+
+msgctxt "body.cd85cbd3-6ece-48f1-90ed-ba62878c5c17"
+msgid ""
+"Further, in a <a id=\"a1\">recent blog post</a>, they state that: \"We’re still working to understand how effective our tools might be for personalized persuasion. Until we know more, we don’t allow"
+" people to build applications for political campaigning and lobbying.\""
+msgstr ""
+
+msgctxt "body.cd85cbd3-6ece-48f1-90ed-ba62878c5c17"
+msgid "Unfortunately, it appears that these policies are not enforced."
+msgstr ""
+
+msgctxt "body.cd85cbd3-6ece-48f1-90ed-ba62878c5c17"
+msgid ""
+"In a simple experiment using an ordinary ChatGPT Plus subscription, it was quick (maybe 5 minutes) and simple for us to generate personalized campaign ads relevant to the U.S. election. The prompts "
+"we used are below, followed by the content that ChatGPT generated."
+msgstr ""
+
+msgctxt "body.71ad6a49-de03-4a5a-85ed-921f2f7a684e.altText"
+msgid "Prompts used for ChatGPT"
+msgstr ""
+
+msgctxt "body.71ad6a49-de03-4a5a-85ed-921f2f7a684e.caption"
+msgid "Prompts used to test ChatGPT's policies"
+msgstr ""
+
+msgctxt "body.eafb3176-0410-4ad0-90e8-6325e2aae2e7.altText"
+msgid "Personalized campaign ads generated with ChatGPT"
+msgstr ""
+
+msgctxt "body.eafb3176-0410-4ad0-90e8-6325e2aae2e7.caption"
+msgid "Generating personalized \"campaign ads\" for various personas using ChatGPT"
+msgstr ""
+
+msgctxt "body.f35e1750-7326-4576-a1b2-a90eb183eee8"
+msgid ""
+"There are various ways that OpenAI might attempt to enforce their policies. Firstly, they can use <a id=\"a1\">reinforcement learning to train the system not to engage in unwanted behavior</a>. "
+"Similarly a “system prompt” can be <a id=\"a2\">used to tell the model what sorts of requests should be refused</a>. The ease with which I was able to generate the material – no special prompting "
+"tricks needed – suggests that these approaches have not been applied to the campaign material policy. It’s also possible that there is some monitoring of potentially violative use that is then "
+"reviewed by moderators. <a id=\"a3\">OpenAI’s enterprise privacy policy</a>, for example, states that they “may securely retain API inputs and outputs for up to 30 days to provide the services and "
+"<b>to identify abuse</b>” (emphasis added). This experiment was on the 15th of January – the day OpenAI published its blog post outlining its approach to elections —, with no response from OpenAI as"
+" of yet, but we will continue monitoring for any action. [1]"
+msgstr ""
+
+msgctxt "body.f35e1750-7326-4576-a1b2-a90eb183eee8"
+msgid ""
+"In any case, OpenAI is not the only provider of capable generative AI systems. There are already <a id=\"a1\">services specifically designed for political campaigns</a>. <a id=\"a2\">One company</a>"
+" even bills itself as an “ethical deepfake maker”."
+msgstr ""
+
+msgctxt "body.f35e1750-7326-4576-a1b2-a90eb183eee8"
+msgid ""
+"As part of our work at Open Source Research &amp; Investigations, <a id=\"a1\">Mozilla's new digital investigations lab</a>, we plan to continue to explore this space: How effective is generative AI"
+" in creating more advanced political content, with compelling images and graphic design? How engaging and persuasive is this content really? Can the messages be effectively microtargeted to an "
+"individual’s specific beliefs and interests? Stay tuned as our research progresses. We hope OpenAI enforces its election policies – we've seen harms enabled by unenforced policies on online "
+"platforms too often in the past."
+msgstr ""
+
+msgctxt "body.f35e1750-7326-4576-a1b2-a90eb183eee8"
+msgid "[1] At Mozilla, we believe that quashing independent public-interest research and punishing researchers is <a id=\"a1\">not a good look</a>."
+msgstr ""
+
+msgctxt "body.f35e1750-7326-4576-a1b2-a90eb183eee8"
+msgid "<i>Jesse McCrosky is an independent researcher working with Mozilla’s</i> <a id=\"a1\"><i>Open Source Research and Investigations</i></a> <i>team.</i>"
+msgstr ""
+
+msgctxt "title"
+msgid "ChatGPT Flouts Its Own Election Policies"
+msgstr ""
