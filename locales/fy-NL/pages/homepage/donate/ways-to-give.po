@@ -39,10 +39,6 @@ msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.label"
 msgid "Donate Now"
 msgstr "No donearje"
 
-msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.external_url"
-msgid "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
-msgstr "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
-
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Donate online"
 msgstr "Online donearje"
@@ -156,8 +152,8 @@ msgstr ""
 "weardepapieren beskôgje, dus nim dan kontakt mei ús op!"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid "You can either make your gift <a id=\"a1\">online</a> or contact Grace Fung at <a id=\"a2\">grace@mozillafoundation.org</a> to initiate the process."
-msgstr "Jo kinne jo donaasje <a id=\"a1\">online</a> meitsje of kontakt opnimme mei Grace Fung fia <a id=\"a2\">grace@mozillafoundation.org</a> om it proses te begjinnen."
+msgid "You can either make your gift <a id=\"a1\">online</a> or contact us via <a id=\"a2\">this form</a> to initiate the process."
+msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Employer matching"
@@ -242,9 +238,17 @@ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "If you have any other general questions or need support making your donation, feel free to reach out to us via <a id=\"a1\">this form</a>."
 msgstr "As jo oare algemiene fragen of stipe nedich hawwe by it meitsjen fan jo donaasje, nim dan gerêst kontakt mei ús op fia <a id=\"a1\">dit formulier</a>."
 
+#~ msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.external_url"
+#~ msgid "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
+#~ msgstr "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
+
 #~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 #~ msgid "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
 #~ msgstr "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
+
+#~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+#~ msgid "You can either make your gift <a id=\"a1\">online</a> or contact Grace Fung at <a id=\"a2\">grace@mozillafoundation.org</a> to initiate the process."
+#~ msgstr "Jo kinne jo donaasje <a id=\"a1\">online</a> meitsje of kontakt opnimme mei Grace Fung fia <a id=\"a2\">grace@mozillafoundation.org</a> om it proses te begjinnen."
 
 #~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 #~ msgid ""

@@ -41,10 +41,6 @@ msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.label"
 msgid "Donate Now"
 msgstr "Donar ahora"
 
-msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.external_url"
-msgid "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
-msgstr "https://foundation.mozilla.org/?form=wtg&utm_medium=web&utm_source=wtg-page&utm_campaign=WTG&utm_content=link_online&utm_term=es"
-
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Donate online"
 msgstr "Donación en línea en nuestra página"
@@ -160,8 +156,8 @@ msgstr ""
 "considerar donaciones de otros valores, ¡así que ponte en contacto con nosotros!"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid "You can either make your gift <a id=\"a1\">online</a> or contact Grace Fung at <a id=\"a2\">grace@mozillafoundation.org</a> to initiate the process."
-msgstr "Puedes hacer tu donación <a id=\"a1\">en línea</a> o escríbele a Grace Fung a <a id=\"a2\">grace@mozillafoundation.org</a> para iniciar el proceso."
+msgid "You can either make your gift <a id=\"a1\">online</a> or contact us via <a id=\"a2\">this form</a> to initiate the process."
+msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Employer matching"
@@ -246,11 +242,19 @@ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "If you have any other general questions or need support making your donation, feel free to reach out to us via <a id=\"a1\">this form</a>."
 msgstr "Si tienes alguna pregunta de índole general o necesitas ayuda para hacer tu donación, no dudes en contactarnos mediante <a id=\"a1\">este formulario</a>."
 
+#~ msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.external_url"
+#~ msgid "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
+#~ msgstr "https://foundation.mozilla.org/?form=wtg&utm_medium=web&utm_source=wtg-page&utm_campaign=WTG&utm_content=link_online&utm_term=es"
+
 #~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 #~ msgid "The Mozilla Foundation can only accept checks in U.S. dollars drawn on a U.S. bank. Make checks out to Mozilla Foundation. You can mail a check to:"
 #~ msgstr ""
 #~ "La Fundación Mozilla solo puede aceptar cheques en dólares de los Estados Unidos girados con cargo a un banco estadounidense. El cheque debe ir a nombre de Mozilla Foundation y se puede enviar por "
 #~ "correo postal a:"
+
+#~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+#~ msgid "You can either make your gift <a id=\"a1\">online</a> or contact Grace Fung at <a id=\"a2\">grace@mozillafoundation.org</a> to initiate the process."
+#~ msgstr "Puedes hacer tu donación <a id=\"a1\">en línea</a> o escríbele a Grace Fung a <a id=\"a2\">grace@mozillafoundation.org</a> para iniciar el proceso."
 
 #~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 #~ msgid "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
