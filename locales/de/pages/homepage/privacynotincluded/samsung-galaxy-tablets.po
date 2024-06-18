@@ -624,6 +624,10 @@ msgstr "Die Kamerafunktion nutzt KI, um Objekte zu erkennen"
 #~ "anderen ähnlichen Technologien. Die Netzwerke verwenden diese Informationen, um Werbung anzuzeigen, die auf die Interessen einzelner Personen zugeschnitten sein kann, um die Browser der Benutzer zu "
 #~ "verfolgen oder Geräte über mehrere Websites und Apps hinweg und um ein Profil der Online-Browsing- und App-Nutzungsaktivitäten der Benutzer zu erstellen.“"
 
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Uses encryption in transit and at rest."
+#~ msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
+
 #~ msgctxt "manage_vulnerabilities_helptext"
 #~ msgid "Samsung has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
 #~ msgstr "Samsung hat ein <a id=\"a1\">Bug-Bounty-Programm</a>, was bedeutet, dass jeder, der eine Sicherheitslücke entdeckt und diese verantwortungsbewusst meldet, dafür bezahlt werden kann."
@@ -667,7 +671,3 @@ msgstr "Die Kamerafunktion nutzt KI, um Objekte zu erkennen"
 #~ msgctxt "track_record_details"
 #~ msgid "In February, 2020, Samsung <a id=\"a1\">had</a> a data breach on its UK customer account pages, affecting less than 150 people."
 #~ msgstr "Im Februar 2020 kam es bei Samsung <a id=\"a1\">einem</a> Datenschutzverstoß auf seinen britischen Kundenkontoseiten, von dem weniger als 150 Personen betroffen waren."
-
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Uses encryption in transit and at rest."
-#~ msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
