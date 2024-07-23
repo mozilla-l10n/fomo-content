@@ -12,8 +12,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 4c090a1c-4925-492d-bca8-da43c54b641f\n"
 
 msgctxt "title"
-msgid "Happy Valentine’s Day! Romantic AI Chatbots Don’t Have Your Privacy at Heart"
-msgstr "Alles Liebe zum Valentinstag? Romantische KI-Chatbots kümmert Ihre Privatsphäre herzlich wenig"
+msgid "Romantic AI Chatbots Don’t Have Your Privacy at Heart"
+msgstr ""
 
 msgctxt "body.afcb2aa8-d8e2-4c7c-8238-094bb7464186"
 msgid ""
@@ -84,10 +84,6 @@ msgstr "„Ich bin dein*e beste*r Partner*in und will alles wissen“, „Ich li
 msgctxt "body.ea776ede-4291-4609-8356-e926b76b4a28.caption"
 msgid "Screenshots from EVA AI Chat Bot &amp; Soulmate"
 msgstr "Screenshots von EVA AI Chat Bot & Soulmate"
-
-msgctxt "body.ea776ede-4291-4609-8356-e926b76b4a28.captionURL"
-msgid "https://foundation.mozilla.org/privacynotincluded/eva-ai-chat-bot-soulmate/"
-msgstr "https://foundation.mozilla.org/privacynotincluded/eva-ai-chat-bot-soulmate/"
 
 msgctxt "body.817f69bc-0d62-4699-b3eb-655ea7782ed4"
 msgid ""
@@ -398,6 +394,10 @@ msgctxt "search_description"
 msgid "Wowee! Relationship chatbots are terrible for your privacy in strange new ways while also being terrible for your privacy in regular old ways."
 msgstr "Toll! Beziehungs-Chatbots sind auf neue seltsame Weise schlecht für Ihre Privatsphäre und auf die alte Art ebenso schlecht für Ihre Privatsphäre."
 
+#~ msgctxt "title"
+#~ msgid "Happy Valentine’s Day! Romantic AI Chatbots Don’t Have Your Privacy at Heart"
+#~ msgstr "Alles Liebe zum Valentinstag? Romantische KI-Chatbots kümmert Ihre Privatsphäre herzlich wenig"
+
 #~ msgctxt "body.421d5645-1d56-43fa-8663-4fbc34f12c1d.label"
 #~ msgid "Support This Work With a Donation Today"
 #~ msgstr "Unterstützen Sie unsere Arbeit noch heute mit einer Spende"
@@ -417,3 +417,7 @@ msgstr "Toll! Beziehungs-Chatbots sind auf neue seltsame Weise schlecht für Ihr
 #~ msgctxt "body.43be0412-329a-4383-9ff8-c19cbc5c6b16.external_url"
 #~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/ai-relationship-chatbots/"
 #~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/ai-relationship-chatbots/"
+
+#~ msgctxt "body.ea776ede-4291-4609-8356-e926b76b4a28.captionURL"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/eva-ai-chat-bot-soulmate/"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/eva-ai-chat-bot-soulmate/"
