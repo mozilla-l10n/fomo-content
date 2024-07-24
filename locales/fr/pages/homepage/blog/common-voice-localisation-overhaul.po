@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-07-24 15:12:15.144253+00:00\n"
-"PO-Revision-Date: 2024-07-24 15:25+0000\n"
+"PO-Revision-Date: 2024-07-24 15:41+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -75,14 +75,16 @@ msgstr ""
 msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
 msgid "To address this, we want to better support a range of different data collection modalities and we are overhauling our localisation approach to enabling a new language on Common Voice."
 msgstr ""
+"Pour résoudre ce problème, nous souhaitons prendre en charge un large éventail de modalités de collecte de données et nous sommes en train de repenser notre approche en matière de localisation pour "
+"l’ajout d’une nouvelle langue sur Common Voice."
 
 msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
 msgid "What we decided to change"
-msgstr ""
+msgstr "Ce que nous avons décidé de changer"
 
 msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
 msgid "Specifically, we have reduced localisation requirements for go-live to include only the text on the following core contribute UIs:"
-msgstr ""
+msgstr "Plus précisément, nous avons réduit les besoins en traductions pour le lancement afin d’inclure uniquement le texte des principales interfaces suivantes :"
 
 msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
 msgid "Speak, Listen, Write, Review"
