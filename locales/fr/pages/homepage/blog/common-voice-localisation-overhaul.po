@@ -1,0 +1,154 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-07-24 15:12:15.144253+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 43c0542c-36e1-4a6f-a13e-14e463e7af4b\n"
+
+msgctxt "seo_title"
+msgid "Common Voice Localisation Requirements are being overhauled"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"To better meet the needs of lower resource languages, Common Voice is making changes to the amount of localisation new languages on the platform need to complete before seeing their language go live"
+" on Common Voice."
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid ""
+"When Common Voice started, industry benchmarks suggested that around 5000 hours of ASR training data might be required for training a robust Speech-to-Text (STT) model suitable for deployment in "
+"products such as voice assistants. Based on this industry guidance, language communities were required to:"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Localise the Common Voice user interface (UI) to a minimum of 60% (824 strings) across all strings on Pontoon."
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Collect a specified number of public domain sentences. The required number varied per language, depending on the size of that specific language band:"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Band A (low-resourced): 750 sentences"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Band B (medium-resourced): 2000 sentences"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Band C (high-resourced): 5000 sentences"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "The two conditions are prerequisites for languages to launch in order for data voice contributions to kick-off."
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid ""
+"However, over the years, more foundational multilingual models, and more methodologies for fine-tuning models to new linguistic contexts, have emerged, and many communities are deciding not to train"
+" from scratch, but to fine-tune and build on these existing models and technologies. In these contexts, communities may only be aiming to generate small datasets, for example 20 or 50 hours to "
+"finetune existing language models as opposed to training a model from scratch."
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid ""
+"In addition, we are also increasingly taking language requests from Band A languages. In this context, the current localisation burden of getting started on Common Voice requires a lot of time and "
+"effort which seems oversized."
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "To address this, we want to better support a range of different data collection modalities and we are overhauling our localisation approach to enabling a new language on Common Voice."
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "What we decided to change"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Specifically, we have reduced localisation requirements for go-live to include only the text on the following core contribute UIs:"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Speak, Listen, Write, Review"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid ""
+"This has reduced the localisation from 824 strings to 300 strings, and the overall number of strings from 1372 to 1149, effectively decreasing the localisation workload. It is important to note that"
+" communities will still have the option to localize further, but this change allows communities to begin collecting data sooner."
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "How it works now"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Localization"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid ""
+"The previous localisation system has been divided into a folder hierarchy resembling the page structure on the Common Voice website. Community members are now required to localize the as of now 300 "
+"mandatory strings in the following resources:"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "<a id=\"a1\"><b>web/locales/en/pages/contribute/common.ftl</b></a>"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "<a id=\"a1\"><b>web/locales/en/pages/contribute/listen.ftl</b></a>"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "<a id=\"a1\"><b>web/locales/en/pages/contribute/review.ftl</b></a>"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "<a id=\"a1\"><b>web/locales/en/pages/contribute/speak.ftl</b></a>"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "<a id=\"a1\"><b>web/locales/en/pages/contribute/write.ftl</b></a>"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Sentence Collection"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid ""
+"Currently, the guidelines for sentence contributions remain the same and still follow the current guidance on language bands for varying resource levels. In addition to localization, communities are"
+" required to collect a specific number of public domain sentences: 750 for Band A (low-resourced), 2000 for Band B (medium-resourced), and 5000 for Band C (high-resourced). These requirements ensure"
+" that we accommodate all languages, particularly low-resourced languages. Community members can contribute sentences via the <a id=\"a1\">sentence collector</a> by submitting bulk requests following"
+" these <a id=\"a2\">guidelines</a>."
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Summary"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid ""
+"Different communities employ different techniques depending on the specific requirements of their projects, the resources available, and the characteristics of the language they are working with. "
+"The new localisation approach offers greater flexibility, allowing communities to start data collection earlier with a reduced initial workload. This change accommodates various data collection "
+"goals, from small datasets for fine-tuning existing models to larger collections for training new models from scratch. This change aims to make Common Voice more accessible to a wider range of "
+"language communities, particularly those with limited resources or smaller speaker populations."
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid "Where to go with question or for support"
+msgstr ""
+
+msgctxt "body.13159605-cf52-4af9-a7ba-46b228bca0ef"
+msgid ""
+"For more information, queries, questions about these new developments email us at commonvoice@mozilla.com. You are more than welcome to share inputs and thoughts, join the conversation on <a "
+"id=\"a1\">Discourse</a>, chat with us on <a id=\"a2\">Matrix</a>."
+msgstr ""
+
+msgctxt "title"
+msgid "Common Voice Localisation Overhaul"
+msgstr ""
