@@ -11,10 +11,6 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: fde37a7b-1ef4-4f54-a754-ffdac7e92e25\n"
 
-msgctxt "title"
-msgid "Main Menu 2024"
-msgstr "Hauptmenü 2024"
-
 msgctxt "dropdowns.6f251274-9971-4722-ab20-1a429b72ea9f.title"
 msgid "Who We Are"
 msgstr "Wer wir sind"
@@ -98,6 +94,10 @@ msgstr "Gemeinschaften gewinnen"
 msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.2af4310b-f9bc-43ee-a9b9-c9bfdaad5565.nav_items.f31fb524-e907-4e37-b6d0-9c5bde792682.label"
 msgid "Campaigns"
 msgstr "Kampagnen"
+
+msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.2af4310b-f9bc-43ee-a9b9-c9bfdaad5565.nav_items.f31fb524-e907-4e37-b6d0-9c5bde792682.description"
+msgid "Working to demand better products, policies, and promote open, trustworthy AI"
+msgstr ""
 
 msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.2af4310b-f9bc-43ee-a9b9-c9bfdaad5565.nav_items.1114d4f9-1d1f-498a-a68f-e95c9b0cba24.label"
 msgid "Common Voice"
@@ -307,6 +307,10 @@ msgstr "Ein Ökosystem von Spendern, die zusammenarbeiten"
 msgctxt "blog_button_label"
 msgid "See all blog posts"
 msgstr "Alle Blogbeiträge ansehen"
+
+#~ msgctxt "title"
+#~ msgid "Main Menu 2024"
+#~ msgstr "Hauptmenü 2024"
 
 #~ msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.48016c34-0cb4-40cf-b20f-7d35766409a1.nav_items.549c3925-17cc-43cc-8935-83912ffa1542.relative_url"
 #~ msgid "/campaigns"
