@@ -51,8 +51,8 @@ msgid "globe in heart icon"
 msgstr "Icône de globe en cœur"
 
 msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
-msgid "Find out more about the Responsible Computing Challenge South Africa <a id=\"a1\">call for proposals →</a>"
-msgstr "Apprenez-en davantage sur <a id=\"a1\">l’appel à candidatures</a> du Responsible Computing Challenge en Afrique du Sud →"
+msgid "There are currently no open funding opportunities."
+msgstr ""
 
 msgctxt "body.10eb1636-1692-47e9-8df9-2dd2796c54b3"
 msgid "What we fund"
@@ -95,10 +95,6 @@ msgstr "Illustration : une balance, avec d’un côté une entreprise et de l�
 msgctxt "body.9c1c3154-361a-456c-904a-6be6b878d8df.text"
 msgid "<b>Rebalance</b> power online, shifting it back to individuals and communities."
 msgstr "<b>Rééquilibrer</b> la balance du pouvoir en ligne, pour la refaire pencher du côté des individus et des communautés."
-
-msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
-msgid "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
-msgstr "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
 
 msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
 msgid "What We Fund: Mozilla's Fellowships and Awards Programs"
@@ -174,10 +170,6 @@ msgstr ""
 "Anouk crée de nouveaux modèles de gouvernance des données d’intérêt public. En tant qu’architecte et adepte du concept de tiers de confiance en matière de données, elle défend des modèles de "
 "gouvernance qui garantissent la confidentialité et protègent la société des externalités négatives liées au partage de données."
 
-msgctxt "body.cb4b7e4b-dde3-47a9-ae60-0cad27da51d0.url"
-msgid "https://www.mozillapulse.org/profile/2467"
-msgstr "https://www.mozillapulse.org/profile/2467"
-
 msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.label"
 msgid "See more Fellows"
 msgstr "Découvrir plus de bénéficiaires de bourses Mozilla"
@@ -197,10 +189,6 @@ msgid ""
 msgstr ""
 "Conçu par Gabor Csapo, Jihyun Kim, Miha Klasinc et Alia ElKattan, <a id=\"a1\"><b>Survival of the Best Fit</b></a> (« La survie du plus fort ») est un jeu éducatif qui traite des préjugés de l’IA "
 "dans le domaine de l’embauche. Il vise à expliquer comment une mauvaise utilisation de l’IA peut entraîner une intégration des préjugés humains par les machines et amplifier les inégalités."
-
-msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.url"
-msgid "https://www.survivalofthebestfit.com/"
-msgstr "https://www.survivalofthebestfit.com/"
 
 msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.label"
 msgid "See more Awards"
@@ -363,9 +351,17 @@ msgstr "Nos financements"
 #~ "modèles émergents et de construire l’infrastructure nécessaire pour un Internet plus ouvert, plus sûr et plus sain à long terme. Apprenez-en plus sur nos <a id=\"a1\">bourses</a> et nos <a "
 #~ "id=\"a2\">subventions</a>."
 
+#~ msgctxt "body.cb4b7e4b-dde3-47a9-ae60-0cad27da51d0.url"
+#~ msgid "https://www.mozillapulse.org/profile/2467"
+#~ msgstr "https://www.mozillapulse.org/profile/2467"
+
 #~ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.external_url"
 #~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
 #~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+
+#~ msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.url"
+#~ msgid "https://www.survivalofthebestfit.com/"
+#~ msgstr "https://www.survivalofthebestfit.com/"
 
 #~ msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.external_url"
 #~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
@@ -502,6 +498,10 @@ msgstr "Nos financements"
 #~ msgid "Registration is now closed for the Africa Innovation Mradi Research Grants. <a id=\"a1\">Learn more</a>"
 #~ msgstr "Il n’est plus possible d’effectuer de demandes de subventions de recherche Africa Innovation Mradi. <a id=\"a1\">En savoir plus</a>"
 
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
+#~ msgid "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
+#~ msgstr "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
+
 #~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
 #~ msgid "Stay tuned for more funding opportunities coming soon!"
 #~ msgstr "Restez à l’écoute, d’autres possibilités de financement seront bientôt disponibles !"
@@ -529,3 +529,7 @@ msgstr "Nos financements"
 #~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
 #~ msgid "<a id=\"a1\">Apply to join the next cohort of Mozilla Senior Fellows!</a>"
 #~ msgstr "<a id=\"a1\">Postulez pour rejoindre la prochaine cohorte de Mozilla Senior Fellows !</a>"
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "Find out more about the Responsible Computing Challenge South Africa <a id=\"a1\">call for proposals →</a>"
+#~ msgstr "Apprenez-en davantage sur <a id=\"a1\">l’appel à candidatures</a> du Responsible Computing Challenge en Afrique du Sud →"
