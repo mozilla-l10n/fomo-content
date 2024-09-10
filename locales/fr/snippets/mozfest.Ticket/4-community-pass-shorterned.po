@@ -12,16 +12,16 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: eccdf333-4390-4c8b-9abd-0608e9e603d4\n"
 
 msgctxt "name"
-msgid "Community Pass - Shorterned"
-msgstr "Community Pass - Shorterned"
+msgid "Community Tickets - Shorterned"
+msgstr ""
 
 msgctxt "cost"
 msgid "Free"
 msgstr "Gratuit"
 
 msgctxt "group"
-msgid "Community Pass"
-msgstr "Pass communautaire"
+msgid "Community Tickets"
+msgstr ""
 
 msgctxt "description"
 msgid ""
@@ -35,6 +35,10 @@ msgctxt "button_text"
 msgid "Get Your Ticket"
 msgstr "Acheter votre billet"
 
+#~ msgctxt "name"
+#~ msgid "Community Pass - Shorterned"
+#~ msgstr "Community Pass - Shorterned"
+
 #~ msgctxt "cost"
 #~ msgid "K 15,250"
 #~ msgstr "15 250 K"
@@ -42,6 +46,10 @@ msgstr "Acheter votre billet"
 #~ msgctxt "cost"
 #~ msgid "€55"
 #~ msgstr "55 €"
+
+#~ msgctxt "group"
+#~ msgid "Community Pass"
+#~ msgstr "Pass communautaire"
 
 #~ msgctxt "description"
 #~ msgid "The price includes Dutch VAT at 21%."

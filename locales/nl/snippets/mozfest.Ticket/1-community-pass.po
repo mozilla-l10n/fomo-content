@@ -12,16 +12,16 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 6490004c-b4f8-48db-bc43-41827a64598f\n"
 
 msgctxt "name"
-msgid "Community Pass"
-msgstr "Gemeenschapspas"
+msgid "Community Tickets"
+msgstr ""
 
 msgctxt "cost"
 msgid "Free"
 msgstr "Gratis"
 
 msgctxt "group"
-msgid "Community Pass"
-msgstr "Gemeenschapspas"
+msgid "Community Tickets"
+msgstr ""
 
 msgctxt "description"
 msgid ""
@@ -49,9 +49,17 @@ msgctxt "button_text"
 msgid "Get Your Ticket"
 msgstr "Koop uw ticket"
 
+#~ msgctxt "name"
+#~ msgid "Community Pass"
+#~ msgstr "Gemeenschapspas"
+
 #~ msgctxt "cost"
 #~ msgid "€55"
 #~ msgstr "€55"
+
+#~ msgctxt "group"
+#~ msgid "Community Pass"
+#~ msgstr "Gemeenschapspas"
 
 #~ msgctxt "description"
 #~ msgid "Entrance to Songs of the Living Amsterdam <i>(subject to availability)</i>"

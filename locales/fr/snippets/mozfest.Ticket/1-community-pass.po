@@ -12,16 +12,16 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: a38b7c90-7b1c-464c-8820-81be7bc0777f\n"
 
 msgctxt "name"
-msgid "Community Pass"
-msgstr "Pass communautaire"
+msgid "Community Tickets"
+msgstr ""
 
 msgctxt "cost"
 msgid "Free"
 msgstr "Gratuit"
 
 msgctxt "group"
-msgid "Community Pass"
-msgstr "Pass communautaire"
+msgid "Community Tickets"
+msgstr ""
 
 msgctxt "description"
 msgid ""
@@ -51,9 +51,17 @@ msgctxt "button_text"
 msgid "Get Your Ticket"
 msgstr "Acheter votre billet"
 
+#~ msgctxt "name"
+#~ msgid "Community Pass"
+#~ msgstr "Pass communautaire"
+
 #~ msgctxt "cost"
 #~ msgid "€55"
 #~ msgstr "55 €"
+
+#~ msgctxt "group"
+#~ msgid "Community Pass"
+#~ msgstr "Pass communautaire"
 
 #~ msgctxt "description"
 #~ msgid ""
