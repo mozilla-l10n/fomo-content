@@ -426,9 +426,14 @@ msgctxt "body.50143b02-6909-4aae-bd1d-4848237808da.cards.b65679f3-54dd-46d2-b4d4
 msgid "Get your ticket"
 msgstr ""
 
-#~ msgctxt "title"
-#~ msgid "Get To Know MozFest"
-#~ msgstr "Découvrir le MozFest"
+#~ msgctxt "body.48bb2963-571c-42ce-ae8e-79dfef485549.text"
+#~ msgid ""
+#~ "Our festival community comes from all corners of the internet health movement; an emergent group of internet users, academics, builders and activists fighting for a more humane digital world. The "
+#~ "festival is co-designed by dozens of people from this community, bringing global representation to raise the internet health issues that matter most."
+#~ msgstr ""
+#~ "Notre communauté de festivaliers vient du mouvement pour la santé d’Internet ; un groupe émergent d’internautes, d’universitaires, de créateurs et d’activistes luttant pour un monde numérique plus "
+#~ "humain. Le festival est conçu en collaboration avec des dizaines de personnes de cette communauté, apportant une représentation mondiale pour porter les problématiques de santé d’Internet qui "
+#~ "comptent le plus."
 
 #~ msgctxt "slug"
 #~ msgid "get-to-know-mozfest"
@@ -437,20 +442,6 @@ msgstr ""
 #~ msgctxt "header"
 #~ msgid "Uniquely MozFest"
 #~ msgstr "Originalité du MozFest"
-
-#~ msgctxt "body.56116e3c-6810-4a43-abdb-dea47e2a7763.title"
-#~ msgid "MozFest 2022 Spaces"
-#~ msgstr "Espaces du MozFest 2022"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.d5bb9133-56f9-4b93-acb2-6a571bf44119.title"
-#~ msgid "Rethinking Power &amp; Ethics"
-#~ msgstr "Repenser le pouvoir et l’éthique"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.d5bb9133-56f9-4b93-acb2-6a571bf44119.body"
-#~ msgid "Protecting communities from AI harms is complex and urgent. What checks on AI power do we need? Is there a place for ethics in AI governance?"
-#~ msgstr ""
-#~ "Protéger les différentes communautés contre les préjudices causés par l’IA est complexe et urgent. De quoi avons-nous besoin pour contrôler l’intelligence artificielle ? Y a-t-il une place pour "
-#~ "l’éthique dans la gouvernance de l’IA ?"
 
 #~ msgctxt "intro"
 #~ msgid ""
@@ -485,18 +476,6 @@ msgstr ""
 #~ msgid "Group of people cheering at MozFest opening circle stage"
 #~ msgstr "Un groupe de personnes applaudissant pendant la cérémonie d’ouverture du MozFest"
 
-#~ msgctxt "body.85043fb0-a1c4-4e85-99e5-feaddcd1c198.text"
-#~ msgid "Open, Hackable, Emergent"
-#~ msgstr "Ouvert, bidouillable, émergent"
-
-#~ msgctxt "body.85043fb0-a1c4-4e85-99e5-feaddcd1c198.text"
-#~ msgid ""
-#~ "MozFest sessions are interactive, immersive, and adaptable. A third of all attendees host a session at the festival, many of which are scheduled the day of, which fosters an emergent and continuous "
-#~ "exchange of knowledge. This supports MozFest’s most enduring tagline: Arrive with an idea, leave with a community."
-#~ msgstr ""
-#~ "Les sessions MozFest sont interactives, immersives et adaptables. Un tiers des participants organisent une session au festival, dont beaucoup sont programmées le jour même, ce qui favorise un "
-#~ "échange de connaissances émergent et continu. Cela renforce le slogan le plus persistant du MozFest : arriver avec une idée, repartir avec une communauté."
-
 #~ msgctxt "body.9c9ac650-57f2-43b0-932f-7128c3dcd914.altText"
 #~ msgid "A session taking place at MozFest where a facilitator is supporting a group of young people"
 #~ msgstr "Une session au MozFest où un animateur aide un groupe de jeunes"
@@ -504,6 +483,32 @@ msgstr ""
 #~ msgctxt "body.9c9ac650-57f2-43b0-932f-7128c3dcd914.text"
 #~ msgid "Diversity and Inclusion"
 #~ msgstr "Diversité et inclusion"
+
+#~ msgctxt "body.48bb2963-571c-42ce-ae8e-79dfef485549.altText"
+#~ msgid "Group of participants at MozFest colouring in decentralisation poster"
+#~ msgstr "Groupe de participants au MozFest coloriant l’affiche décentralisation"
+
+#~ msgctxt "body.9c599c34-ee54-4fe7-ab3c-4e4d39bcc35f"
+#~ msgid "At MozFest, this underpins the Spaces and Sessions, fueling everyone’s work, conversations, and collaborative efforts towards one common goal."
+#~ msgstr ""
+#~ "Au MozFest, cette problématique est récurrente au sein des différents espaces et des différentes sessions, et alimente les activités, les conversations et les efforts de collaboration de chacun vers"
+#~ " cet objectif commun."
+
+#~ msgctxt "body.b6bf4882-e7d0-410e-abe5-feadfde77c63.label"
+#~ msgid "Learn more about Trustworthy AI"
+#~ msgstr "En savoir plus sur l’IA digne de confiance"
+
+#~ msgctxt "body.b6bf4882-e7d0-410e-abe5-feadfde77c63.external_url"
+#~ msgid "https://foundation.mozilla.org/blog/mozillas-approach-to-trustworthy-artificial-intelligence-ai/"
+#~ msgstr "https://foundation.mozilla.org/blog/mozillas-approach-to-trustworthy-artificial-intelligence-ai/"
+
+#~ msgctxt "body.56116e3c-6810-4a43-abdb-dea47e2a7763.title"
+#~ msgid "MozFest 2022 Spaces"
+#~ msgstr "Espaces du MozFest 2022"
+
+#~ msgctxt "body.85043fb0-a1c4-4e85-99e5-feaddcd1c198.text"
+#~ msgid "Open, Hackable, Emergent"
+#~ msgstr "Ouvert, bidouillable, émergent"
 
 #~ msgctxt "body.9c9ac650-57f2-43b0-932f-7128c3dcd914.text"
 #~ msgid ""
@@ -515,52 +520,9 @@ msgstr ""
 #~ "qu’équipe du festival, nous nous engageons à faire en sorte que chaque partie du MozFest — de notre appel à propositions aux sessions et évènements après le festival — soit aussi ouverte et "
 #~ "accessible que possible en invitant à participer à notre travail commun des personnes d’horizons, d’expériences vécues et de lieux les plus variés possibles."
 
-#~ msgctxt "body.48bb2963-571c-42ce-ae8e-79dfef485549.altText"
-#~ msgid "Group of participants at MozFest colouring in decentralisation poster"
-#~ msgstr "Groupe de participants au MozFest coloriant l’affiche décentralisation"
-
-#~ msgctxt "body.48bb2963-571c-42ce-ae8e-79dfef485549.text"
-#~ msgid ""
-#~ "Our festival community comes from all corners of the internet health movement; an emergent group of internet users, academics, builders and activists fighting for a more humane digital world. The "
-#~ "festival is co-designed by dozens of people from this community, bringing global representation to raise the internet health issues that matter most."
-#~ msgstr ""
-#~ "Notre communauté de festivaliers vient du mouvement pour la santé d’Internet ; un groupe émergent d’internautes, d’universitaires, de créateurs et d’activistes luttant pour un monde numérique plus "
-#~ "humain. Le festival est conçu en collaboration avec des dizaines de personnes de cette communauté, apportant une représentation mondiale pour porter les problématiques de santé d’Internet qui "
-#~ "comptent le plus."
-
-#~ msgctxt "body.48bb2963-571c-42ce-ae8e-79dfef485549.text"
-#~ msgid "Community and Federated Design"
-#~ msgstr "Conception communautaire et fédérée"
-
-#~ msgctxt "body.9c599c34-ee54-4fe7-ab3c-4e4d39bcc35f"
-#~ msgid "At MozFest, this underpins the Spaces and Sessions, fueling everyone’s work, conversations, and collaborative efforts towards one common goal."
-#~ msgstr ""
-#~ "Au MozFest, cette problématique est récurrente au sein des différents espaces et des différentes sessions, et alimente les activités, les conversations et les efforts de collaboration de chacun vers"
-#~ " cet objectif commun."
-
 #~ msgctxt "body.9c599c34-ee54-4fe7-ab3c-4e4d39bcc35f"
 #~ msgid "Trustworthy AI at MozFest"
 #~ msgstr "L’IA digne de confiance au MozFest"
-
-#~ msgctxt "body.9c599c34-ee54-4fe7-ab3c-4e4d39bcc35f"
-#~ msgid ""
-#~ "At Mozilla, we are committed to helping the world attain Artificial Intelligence (AI) that is demonstrably worthy of trust. Privacy, fairness, trust, safety, and transparency are all needed at the "
-#~ "core of AI products and processes in order to realize Trustworthy AI."
-#~ msgstr ""
-#~ "Chez Mozilla, nous nous engageons à faire en sorte que le monde puisse profiter d’intelligences artificielles (IA) manifestement dignes de confiance. Pour y parvenir, le respect de la vie privée, "
-#~ "l’équité, la confiance et la transparence doivent être au cœur des produits et des processus qui font usage d’IA."
-
-#~ msgctxt "body.9c599c34-ee54-4fe7-ab3c-4e4d39bcc35f"
-#~ msgid "Festival Narratives and Themes"
-#~ msgstr "Narration et thèmes du festival"
-
-#~ msgctxt "body.b6bf4882-e7d0-410e-abe5-feadfde77c63.label"
-#~ msgid "Learn more about Trustworthy AI"
-#~ msgstr "En savoir plus sur l’IA digne de confiance"
-
-#~ msgctxt "body.b6bf4882-e7d0-410e-abe5-feadfde77c63.external_url"
-#~ msgid "https://foundation.mozilla.org/blog/mozillas-approach-to-trustworthy-artificial-intelligence-ai/"
-#~ msgstr "https://foundation.mozilla.org/blog/mozillas-approach-to-trustworthy-artificial-intelligence-ai/"
 
 #~ msgctxt "body.dc7ba250-e90f-423f-8999-a4fa1b7bd866"
 #~ msgid "Spaces at MozFest"
@@ -574,78 +536,6 @@ msgstr ""
 #~ "Voyez les espaces au MozFest comme des mini-festivals. Dans chaque Espace, les participants peuvent trouver tout ce dont ils ont besoin : des sessions interactives et animées par la communauté, des "
 #~ "conférences inspirantes, des installations artistiques, beaucoup de café et une communauté. Plusieurs activités sont prévues en parallèle afin que même dans un espace, les participants puissent "
 #~ "choisir leur propre aventure."
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.title"
-#~ msgid "MozFest 2022 Spaces"
-#~ msgstr "Espaces du MozFest 2022"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.c536b6a6-25d0-4967-b833-f948b85f3e86.title"
-#~ msgid "Creating Neurodiverse Wellbeing"
-#~ msgstr "Créer un bien-être neurodiversifié"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.c536b6a6-25d0-4967-b833-f948b85f3e86.body"
-#~ msgid "Exploring not only how neurodivergent, gender diverse, and other individuals access care in the digital age, but also how communities navigate wellbeing."
-#~ msgstr ""
-#~ "Cet espace explorera non seulement comment les personnes neurodivergentes, de genre hétérogène et d’autres personnes accèdent aux soins à l’ère du numérique, mais aussi l’approche de certaines "
-#~ "communautés dans le domaine du bien-être."
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.1a90168c-7f97-424a-b00b-067031bb70e1.title"
-#~ msgid "Decolonized AI Futures"
-#~ msgstr "Avenir décolonisé de l’IA"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.1a90168c-7f97-424a-b00b-067031bb70e1.body"
-#~ msgid "AI is far from being global. With AI systems embedding Western values by default, how can more diverse peoples and values change the future of AI?"
-#~ msgstr "L’IA est loin d’être globale. Avec des systèmes d’IA intégrant les valeurs occidentales par défaut, comment des peuples et des valeurs plus diversifiés peuvent-ils changer l’avenir de l’IA ?"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.e9e0b1ca-a078-4bb5-997f-6950e24cb456.title"
-#~ msgid "Digital ID &amp; Privacy"
-#~ msgstr "Identité numérique et vie privée"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.e9e0b1ca-a078-4bb5-997f-6950e24cb456.body"
-#~ msgid "Over one billion records of personal data were leaked in 2020. Does privacy still matter, or is snooping the new norm?"
-#~ msgstr "Plus d’un milliard de données personnelles ont été divulguées en 2020. Le respect de la vie privée a-t-il toujours de l’importance ou la surveillance est-elle la nouvelle norme ?"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.c1f620ba-7329-4113-b79a-b9c8f330594c.title"
-#~ msgid "Digitizing Cultures &amp; Languages"
-#~ msgstr "Numérisation des cultures des langues"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.c1f620ba-7329-4113-b79a-b9c8f330594c.body"
-#~ msgid "Join the Digitising Cultures and Languages space  to co-create and hack into the diverse cultures, heritage and languages across the globe."
-#~ msgstr "Rejoignez l’espace Numérisation des cultures et des langues pour créer et expérimenter ensemble autour des diverses cultures, patrimoines et langues du monde entier."
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.9649a8df-3bab-4771-be32-71d5bab96c05.title"
-#~ msgid "Gender, Tech &amp; Intersectionality"
-#~ msgstr "Genre, technologie et intersectionnalité"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.9649a8df-3bab-4771-be32-71d5bab96c05.body"
-#~ msgid "A space for those passionate about gender justice with a future vision of tech that centers the lived experiences of marginalized groups."
-#~ msgstr "Un espace pour les passionné·e·s de justice de genre qui possèdent des perspectives sur l’avenir de la technologie axées sur les expériences vécues par des groupes marginalisés."
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.470ba8b0-cc74-4221-83a9-b6cc3bcf144c.title"
-#~ msgid "Misinformation &amp; Disinformation"
-#~ msgstr "Désinformation et mésinformation"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.470ba8b0-cc74-4221-83a9-b6cc3bcf144c.body"
-#~ msgid "Concerned about misinformation and disinformation’s impact on connected society? Let’s exchange experiences of disinformation, misinformation and AI!"
-#~ msgstr "L’impact de la désinformation et de la mésinformation sur la société connectée vous inquiète ? Échangeons des expériences en lien avec la désinformation, la mésinformation et l’IA !"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.6000d7ae-3ac7-48e3-abde-41af4f1491c0.title"
-#~ msgid "Sustainability &amp; Climate Change"
-#~ msgstr "Développement durable et changement climatique"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.6000d7ae-3ac7-48e3-abde-41af4f1491c0.body"
-#~ msgid "Explore how the thoughtful use of digital technologies is key to addressing climate change and building a sustainable future."
-#~ msgstr "Découvrez comment l’utilisation réfléchie des technologies numériques est essentielle pour lutter contre le changement climatique et construire un avenir durable."
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.94edd6b4-3fb9-437d-bd6f-670911c203d2.title"
-#~ msgid "Youth &amp; Futures"
-#~ msgstr "Jeunesse et avenir"
-
-#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.94edd6b4-3fb9-437d-bd6f-670911c203d2.body"
-#~ msgid "Youth &amp; Futures is not just run for youth but by youth. No matter your age, language or location we will share, listen, create, innovate and have fun!"
-#~ msgstr ""
-#~ "L’espace « Jeunesse et avenir » n’est pas seulement pour les jeunes, mais est aussi géré par les jeunes. Peu importe votre âge, votre langue d’où vous venez, nous partagerons, écouterons, créerons, "
-#~ "innoverons et nous amuserons !"
 
 #~ msgctxt "body.5d7b5a9a-ff4a-4281-85fd-3abd9a7dd860"
 #~ msgid "Connect With Us"
@@ -666,6 +556,116 @@ msgstr ""
 #~ msgctxt "body.5d7b5a9a-ff4a-4281-85fd-3abd9a7dd860"
 #~ msgid "Follow us on <a id=\"a1\">Twitter</a> and <a id=\"a2\">LinkedIn</a> for the most up-to-date information on festival news and updates."
 #~ msgstr "Suivez-nous sur <a id=\"a1\">Twitter</a> et <a id=\"a2\">LinkedIn</a> pour obtenir les informations les plus récentes sur les actualités et les mises à jour du festival."
+
+#~ msgctxt "body.9c599c34-ee54-4fe7-ab3c-4e4d39bcc35f"
+#~ msgid ""
+#~ "At Mozilla, we are committed to helping the world attain Artificial Intelligence (AI) that is demonstrably worthy of trust. Privacy, fairness, trust, safety, and transparency are all needed at the "
+#~ "core of AI products and processes in order to realize Trustworthy AI."
+#~ msgstr ""
+#~ "Chez Mozilla, nous nous engageons à faire en sorte que le monde puisse profiter d’intelligences artificielles (IA) manifestement dignes de confiance. Pour y parvenir, le respect de la vie privée, "
+#~ "l’équité, la confiance et la transparence doivent être au cœur des produits et des processus qui font usage d’IA."
+
+#~ msgctxt "title"
+#~ msgid "Get To Know MozFest"
+#~ msgstr "Découvrir le MozFest"
+
+#~ msgctxt "body.85043fb0-a1c4-4e85-99e5-feaddcd1c198.text"
+#~ msgid ""
+#~ "MozFest sessions are interactive, immersive, and adaptable. A third of all attendees host a session at the festival, many of which are scheduled the day of, which fosters an emergent and continuous "
+#~ "exchange of knowledge. This supports MozFest’s most enduring tagline: Arrive with an idea, leave with a community."
+#~ msgstr ""
+#~ "Les sessions MozFest sont interactives, immersives et adaptables. Un tiers des participants organisent une session au festival, dont beaucoup sont programmées le jour même, ce qui favorise un "
+#~ "échange de connaissances émergent et continu. Cela renforce le slogan le plus persistant du MozFest : arriver avec une idée, repartir avec une communauté."
+
+#~ msgctxt "body.48bb2963-571c-42ce-ae8e-79dfef485549.text"
+#~ msgid "Community and Federated Design"
+#~ msgstr "Conception communautaire et fédérée"
+
+#~ msgctxt "body.9c599c34-ee54-4fe7-ab3c-4e4d39bcc35f"
+#~ msgid "Festival Narratives and Themes"
+#~ msgstr "Narration et thèmes du festival"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.title"
+#~ msgid "MozFest 2022 Spaces"
+#~ msgstr "Espaces du MozFest 2022"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.1a90168c-7f97-424a-b00b-067031bb70e1.title"
+#~ msgid "Decolonized AI Futures"
+#~ msgstr "Avenir décolonisé de l’IA"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.e9e0b1ca-a078-4bb5-997f-6950e24cb456.title"
+#~ msgid "Digital ID &amp; Privacy"
+#~ msgstr "Identité numérique et vie privée"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.c1f620ba-7329-4113-b79a-b9c8f330594c.title"
+#~ msgid "Digitizing Cultures &amp; Languages"
+#~ msgstr "Numérisation des cultures des langues"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.9649a8df-3bab-4771-be32-71d5bab96c05.title"
+#~ msgid "Gender, Tech &amp; Intersectionality"
+#~ msgstr "Genre, technologie et intersectionnalité"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.470ba8b0-cc74-4221-83a9-b6cc3bcf144c.title"
+#~ msgid "Misinformation &amp; Disinformation"
+#~ msgstr "Désinformation et mésinformation"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.d5bb9133-56f9-4b93-acb2-6a571bf44119.title"
+#~ msgid "Rethinking Power &amp; Ethics"
+#~ msgstr "Repenser le pouvoir et l’éthique"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.1a90168c-7f97-424a-b00b-067031bb70e1.body"
+#~ msgid "AI is far from being global. With AI systems embedding Western values by default, how can more diverse peoples and values change the future of AI?"
+#~ msgstr "L’IA est loin d’être globale. Avec des systèmes d’IA intégrant les valeurs occidentales par défaut, comment des peuples et des valeurs plus diversifiés peuvent-ils changer l’avenir de l’IA ?"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.e9e0b1ca-a078-4bb5-997f-6950e24cb456.body"
+#~ msgid "Over one billion records of personal data were leaked in 2020. Does privacy still matter, or is snooping the new norm?"
+#~ msgstr "Plus d’un milliard de données personnelles ont été divulguées en 2020. Le respect de la vie privée a-t-il toujours de l’importance ou la surveillance est-elle la nouvelle norme ?"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.470ba8b0-cc74-4221-83a9-b6cc3bcf144c.body"
+#~ msgid "Concerned about misinformation and disinformation’s impact on connected society? Let’s exchange experiences of disinformation, misinformation and AI!"
+#~ msgstr "L’impact de la désinformation et de la mésinformation sur la société connectée vous inquiète ? Échangeons des expériences en lien avec la désinformation, la mésinformation et l’IA !"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.d5bb9133-56f9-4b93-acb2-6a571bf44119.body"
+#~ msgid "Protecting communities from AI harms is complex and urgent. What checks on AI power do we need? Is there a place for ethics in AI governance?"
+#~ msgstr ""
+#~ "Protéger les différentes communautés contre les préjudices causés par l’IA est complexe et urgent. De quoi avons-nous besoin pour contrôler l’intelligence artificielle ? Y a-t-il une place pour "
+#~ "l’éthique dans la gouvernance de l’IA ?"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.6000d7ae-3ac7-48e3-abde-41af4f1491c0.title"
+#~ msgid "Sustainability &amp; Climate Change"
+#~ msgstr "Développement durable et changement climatique"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.6000d7ae-3ac7-48e3-abde-41af4f1491c0.body"
+#~ msgid "Explore how the thoughtful use of digital technologies is key to addressing climate change and building a sustainable future."
+#~ msgstr "Découvrez comment l’utilisation réfléchie des technologies numériques est essentielle pour lutter contre le changement climatique et construire un avenir durable."
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.94edd6b4-3fb9-437d-bd6f-670911c203d2.title"
+#~ msgid "Youth &amp; Futures"
+#~ msgstr "Jeunesse et avenir"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.9649a8df-3bab-4771-be32-71d5bab96c05.body"
+#~ msgid "A space for those passionate about gender justice with a future vision of tech that centers the lived experiences of marginalized groups."
+#~ msgstr "Un espace pour les passionné·e·s de justice de genre qui possèdent des perspectives sur l’avenir de la technologie axées sur les expériences vécues par des groupes marginalisés."
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.c536b6a6-25d0-4967-b833-f948b85f3e86.title"
+#~ msgid "Creating Neurodiverse Wellbeing"
+#~ msgstr "Créer un bien-être neurodiversifié"
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.c536b6a6-25d0-4967-b833-f948b85f3e86.body"
+#~ msgid "Exploring not only how neurodivergent, gender diverse, and other individuals access care in the digital age, but also how communities navigate wellbeing."
+#~ msgstr ""
+#~ "Cet espace explorera non seulement comment les personnes neurodivergentes, de genre hétérogène et d’autres personnes accèdent aux soins à l’ère du numérique, mais aussi l’approche de certaines "
+#~ "communautés dans le domaine du bien-être."
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.c1f620ba-7329-4113-b79a-b9c8f330594c.body"
+#~ msgid "Join the Digitising Cultures and Languages space  to co-create and hack into the diverse cultures, heritage and languages across the globe."
+#~ msgstr "Rejoignez l’espace Numérisation des cultures et des langues pour créer et expérimenter ensemble autour des diverses cultures, patrimoines et langues du monde entier."
+
+#~ msgctxt "body.021645d6-b246-4a60-8cf6-747a7f14360e.cards.94edd6b4-3fb9-437d-bd6f-670911c203d2.body"
+#~ msgid "Youth &amp; Futures is not just run for youth but by youth. No matter your age, language or location we will share, listen, create, innovate and have fun!"
+#~ msgstr ""
+#~ "L’espace « Jeunesse et avenir » n’est pas seulement pour les jeunes, mais est aussi géré par les jeunes. Peu importe votre âge, votre langue d’où vous venez, nous partagerons, écouterons, créerons, "
+#~ "innoverons et nous amuserons !"
 
 #~ msgctxt "body.50143b02-6909-4aae-bd1d-4848237808da.cards.c9cbd935-fa36-4846-a279-62c792ca65ef.alt_text"
 #~ msgid "A crowd of people on stage at MozFest are stood cheering around a person dressed in a the Fox mascot suit."
