@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-09-17 12:38:28.546722+00:00\n"
+"PO-Revision-Date: 2024-09-17 12:51+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 7339d4e4-abc4-431d-a6cf-f76fb01f53f2\n"
 
 msgctxt "seo_title"
@@ -12,7 +17,7 @@ msgstr ""
 
 msgctxt "search_description"
 msgid "To better connect Common Voice's work with the language communities it serves, the program is looking for volunteers interested in helping support individual languages."
-msgstr ""
+msgstr "Afin de mieux connecter le travail de Common Voice avec les communautés linguistiques qu’il sert, le programme est à la recherche de bénévoles souhaitant aider à soutenir certaines langues."
 
 msgctxt "body.6dfc319e-a819-4f25-a85e-27f98cb9f63d"
 msgid ""
@@ -45,41 +50,43 @@ msgstr ""
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Email: ..."
-msgstr ""
+msgstr "Adresse e-mail : ..."
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Full Names and Surname: ..."
-msgstr ""
+msgstr "Nom complet : …"
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Language Name: ..."
-msgstr ""
+msgstr "Nom de la langue : ..."
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Language Code:"
-msgstr ""
+msgstr "Code de la langue :"
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Time Zone: ..."
-msgstr ""
+msgstr "Fuseau horaire : ..."
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Are you interested in attending monthly/bi-monthly community meetings?: (Yes / No / Maybe)"
-msgstr ""
+msgstr "Souhaitez-vous participer à des réunions communautaires mensuelles/bimensuelles ? : (Oui / Non / Peut-être)"
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Experience or background in this language: ..."
-msgstr ""
+msgstr "Expérience ou formation dans cette langue : ..."
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Any additional information or notes: ..."
-msgstr ""
+msgstr "Toute information ou note supplémentaire : ..."
 
 msgctxt "body.218b641d-e7fd-4f1e-afe8-ba5544916afb"
 msgid ""
 "We want to move quickly to include your language expertise in the direction of Common Voice, so we are planning a kickoff meeting at the end of September to discuss various issues related to "
 "language communities, data quality, and how we can improve collaboration moving forward."
 msgstr ""
+"Nous souhaitons agir rapidement pour inclure votre expertise linguistique dans l’élaboration de Common Voice. Nous prévoyons donc une réunion de lancement fin septembre pour discuter de diverses "
+"problématiques liées aux communautés linguistiques, à la qualité des données et à la manière dont nous pouvons améliorer la collaboration."
 
 msgctxt "body.218b641d-e7fd-4f1e-afe8-ba5544916afb"
 msgid "If you know a linguist, ASR engineer, language activist or speech technology enthusiast who you think would be interested, please share this call for participation with them too."
