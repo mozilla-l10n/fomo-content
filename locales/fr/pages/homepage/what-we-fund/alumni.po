@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-05-20 14:03:44.930400+00:00\n"
@@ -17,11 +17,9 @@ msgstr "Anciens membres"
 
 msgctxt "search_description"
 msgid ""
-"Mozilla alumni are a vibrant community of past fellows and awardees from around the world. They are individuals working on a wide range of important topics across many intersecting movements linked "
-"by one common thread —  a vision for a world where technology serves the public interest."
+"Mozilla seeks to explore how alumni can nurture relationships with each other, connect as a network, explore collaboration and share their impactful work with the world. Applications are now being "
+"accepted for the second cohort."
 msgstr ""
-"Les anciens membres de Mozilla sont une communauté dynamique de bénéficiaires de bourses et de subventions du monde entier. Ce sont des personnes qui s’investissent dans une diversité de sujets "
-"cruciaux au sein de plusieurs mouvements qui se recoupent, tous unis par une vision commune : celle d’un monde où la technologie est au service de l’intérêt général."
 
 msgctxt "body.d88555d0-2096-4c89-92b8-4cf86f5f6b25"
 msgid "Mozilla Alumni"
@@ -38,6 +36,14 @@ msgstr ""
 msgctxt "body.d88555d0-2096-4c89-92b8-4cf86f5f6b25"
 msgid "More about alumni and their work can be found <a id=\"a1\">in this directory.</a>"
 msgstr "Vous trouverez plus d’informations sur les anciens membres et leur travail <a id=\"a1\">dans cet annuaire</a>."
+
+msgctxt "body.13e0a60d-a82f-45d1-9193-16fc2132c58e.altText"
+msgid "megaphone icon"
+msgstr ""
+
+msgctxt "body.13e0a60d-a82f-45d1-9193-16fc2132c58e.text"
+msgid "Applications <b>are now being accepted</b> for the second Alumni Connection Grant cohort! <a id=\"a1\">Apply by 1 October</a>."
+msgstr ""
 
 msgctxt "body.79b7de1c-7c75-4f05-996f-d39741a8b419"
 msgid "Building an alumni program"
@@ -62,20 +68,12 @@ msgid "Alumni Connection Grants"
 msgstr "Subventions Alumni Connection"
 
 msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.body"
-msgid ""
-"Mozilla seeks to explore how alumni can nurture relationships with each other, connect as a network, explore collaboration and share their impactful work with the world. The application period has "
-"ended."
+msgid "Mozilla seeks to explore how alumni can nurture relationships with each other, connect as a network, explore collaboration and share their impactful work with the world."
 msgstr ""
-"Mozilla cherche à explorer comment les anciens membres peuvent entretenir des relations entre eux, se connecter en tant que réseau, collaborer et partager leurs travaux percutants avec le monde "
-"entier. La période de candidature est terminée."
 
-msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.link_url"
-msgid "https://foundation.mozilla.org/what-we-fund/alumni/alumni-connection-grants/"
-msgstr "https://foundation.mozilla.org/what-we-fund/alumni/alumni-connection-grants/"
-
-msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.link_label"
-msgid "Learn more"
-msgstr "En savoir plus"
+msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.link.088b98aa-b4de-442f-b6fa-1fd51a5038ad.label"
+msgid "Apply by 1 October"
+msgstr ""
 
 msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.e4ed34d3-5d82-412a-b466-ee80e8832cd9.alt_text"
 msgid "alumni illustrations"
@@ -93,13 +91,9 @@ msgstr ""
 "C’est ici que seront partagées des informations et des actualités sur le programme des anciens membres de Mozilla. Afin de permettre un travail ouvert, il sera régulièrement mis à jour au fur et à "
 "mesure que notre vision évolue, que le programme prend forme et que des enseignements sont tirés."
 
-msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.e4ed34d3-5d82-412a-b466-ee80e8832cd9.link_url"
-msgid "https://wiki.mozilla.org/Alumni"
-msgstr "https://wiki.mozilla.org/Alumni"
-
-msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.e4ed34d3-5d82-412a-b466-ee80e8832cd9.link_label"
+msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.e4ed34d3-5d82-412a-b466-ee80e8832cd9.link.ea92993c-2b5a-47f0-af3d-12ab5b43dd11.label"
 msgid "Alumni Wiki"
-msgstr "Wiki des anciens membres"
+msgstr ""
 
 msgctxt "body.e9cf0acd-081a-406c-b30a-f50cf9bc44e3.altText"
 msgid "email icon"
@@ -115,6 +109,10 @@ msgctxt "body.f2b35e82-1c16-493c-aa30-dbcb9582de92.title"
 msgid "Learn more about the Mozilla alumni network"
 msgstr "Apprenez-en davantage sur le réseau des anciens membres de Mozilla"
 
+msgctxt "body.93089cb5-2b9c-4869-b66b-aa1eec41236c"
+msgid "<i>Read more about what our fellows, awardees and alumni are up to</i> <a id=\"a1\"><i>on Mozilla's Fellowships &amp; Awards blog</i></a><i>.</i>"
+msgstr ""
+
 msgctxt "body.c4074fa3-f04c-468c-b74a-619fd143e039.altText"
 msgid "connection"
 msgstr "Connexion"
@@ -126,3 +124,31 @@ msgstr "Vous avez une suggestion ou une idée ? Contactez-nous à tout moment �
 msgctxt "title"
 msgid "Alumni"
 msgstr "Anciens membres"
+
+#~ msgctxt "search_description"
+#~ msgid ""
+#~ "Mozilla alumni are a vibrant community of past fellows and awardees from around the world. They are individuals working on a wide range of important topics across many intersecting movements linked "
+#~ "by one common thread —  a vision for a world where technology serves the public interest."
+#~ msgstr ""
+#~ "Les anciens membres de Mozilla sont une communauté dynamique de bénéficiaires de bourses et de subventions du monde entier. Ce sont des personnes qui s’investissent dans une diversité de sujets "
+#~ "cruciaux au sein de plusieurs mouvements qui se recoupent, tous unis par une vision commune : celle d’un monde où la technologie est au service de l’intérêt général."
+
+#~ msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.body"
+#~ msgid ""
+#~ "Mozilla seeks to explore how alumni can nurture relationships with each other, connect as a network, explore collaboration and share their impactful work with the world. The application period has "
+#~ "ended."
+#~ msgstr ""
+#~ "Mozilla cherche à explorer comment les anciens membres peuvent entretenir des relations entre eux, se connecter en tant que réseau, collaborer et partager leurs travaux percutants avec le monde "
+#~ "entier. La période de candidature est terminée."
+
+#~ msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.link_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/alumni/alumni-connection-grants/"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/alumni/alumni-connection-grants/"
+
+#~ msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.c72fc379-aad3-4288-a5e5-6a01d2e9f8c5.link_label"
+#~ msgid "Learn more"
+#~ msgstr "En savoir plus"
+
+#~ msgctxt "body.a6c670a3-ffcd-4be0-a522-8bdaac6797fb.cards.e4ed34d3-5d82-412a-b466-ee80e8832cd9.link_url"
+#~ msgid "https://wiki.mozilla.org/Alumni"
+#~ msgstr "https://wiki.mozilla.org/Alumni"

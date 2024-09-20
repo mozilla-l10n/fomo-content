@@ -55,10 +55,6 @@ msgctxt "body.6c29e7da-3f78-4a38-914b-453807dbe6ae.caption"
 msgid "From Talkspace.com, after you select “Get Started,” then “Online Therapy.”"
 msgstr "Von Talkspace.com, nachdem Sie „Loslegen“ und dann „Online-Therapie“ auswählen."
 
-msgctxt "body.6c29e7da-3f78-4a38-914b-453807dbe6ae.captionURL"
-msgid "https://foundation.mozilla.org/privacynotincluded/talkspace/"
-msgstr "https://foundation.mozilla.org/privacynotincluded/talkspace/"
-
 msgctxt "body.95137766-9eaa-4474-a28f-c870ab058ecc"
 msgid "<b>What it looks like</b>: hopping right into personal surveys before you’ve had a chance to see how this information will be protected (or not)."
 msgstr ""
@@ -219,10 +215,6 @@ msgstr ""
 "Wenn Sie die Betterhelp-App öffnen, werden Sie aufgefordert, dem Weiterleiten von identifizierenden Daten an Werbepartner zuzustimmen. Sie haben zwar die Möglichkeit, das abzulehnen, aber es ist "
 "nicht einfach."
 
-msgctxt "body.80c78a49-b186-43a7-9bc4-259c0c938532.captionURL"
-msgid "https://foundation.mozilla.org/privacynotincluded/betterhelp/"
-msgstr "https://foundation.mozilla.org/privacynotincluded/betterhelp/"
-
 msgctxt "body.cda1e39f-bc79-4486-a904-60da1718f3c8"
 msgid ""
 "In this case, you do technically have the choice to opt out, but it’s not easy. And let’s face it, even when you’re not struggling with your mental health, reading complicated fine print and sorting"
@@ -358,6 +350,14 @@ msgstr ""
 msgctxt "search_description"
 msgid "Apps that collect sensitive information often say they won't share it without your \"consent,\" but that doesn't mean what you probably think it does."
 msgstr "Apps, die sensible Daten sammeln, behaupten oft, dass sie diese nicht ohne Ihre „Zustimmung“ weitergeben. Allerdings bedeutet das oft etwas anderes, als Sie denken."
+
+#~ msgctxt "body.6c29e7da-3f78-4a38-914b-453807dbe6ae.captionURL"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/talkspace/"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/talkspace/"
+
+#~ msgctxt "body.80c78a49-b186-43a7-9bc4-259c0c938532.captionURL"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/betterhelp/"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/betterhelp/"
 
 #~ msgctxt "body.60f55e7f-bd40-403f-b08f-70ade35586d3"
 #~ msgid ""
