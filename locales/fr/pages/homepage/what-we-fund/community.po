@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-10-10 09:53:53.740692+00:00\n"
+"PO-Revision-Date: 2024-10-10 10:10+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1e628281-2a6b-43e3-8f2b-0be9e4a30ef4\n"
 
 msgctxt "seo_title"
 msgid "Community | Mozilla Fellowships and Awards"
-msgstr ""
+msgstr "Communauté | Bourses et subventions Mozilla"
 
 msgctxt "search_description"
 msgid "Mozilla Fellowships and Awards fuel a vibrant, global community composed of current grantees, alumni, partners, and Mozilla staff."
@@ -16,7 +21,7 @@ msgstr ""
 
 msgctxt "intro"
 msgid "We support people, organizations, and communities at the intersection of technology and society."
-msgstr ""
+msgstr "Nous soutenons des personnes, des organisations et des communautés au croisement de la technologie et de la société."
 
 msgctxt "body.5470a594-7618-49c0-ba2d-fda97803660d.content.a2c9d2ca-abe9-4d00-8a13-d72515f15820"
 msgid ""
@@ -26,7 +31,7 @@ msgstr ""
 
 msgctxt "body.5470a594-7618-49c0-ba2d-fda97803660d.content.a2c9d2ca-abe9-4d00-8a13-d72515f15820"
 msgid "Alumni"
-msgstr ""
+msgstr "Anciens membres"
 
 msgctxt "body.5470a594-7618-49c0-ba2d-fda97803660d.content.a2c9d2ca-abe9-4d00-8a13-d72515f15820"
 msgid ""
@@ -36,11 +41,11 @@ msgstr ""
 
 msgctxt "body.5470a594-7618-49c0-ba2d-fda97803660d.content.a2c9d2ca-abe9-4d00-8a13-d72515f15820"
 msgid "<a id=\"a1\">Learn more →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">En savoir plus →</a>"
 
 msgctxt "body.5470a594-7618-49c0-ba2d-fda97803660d.aside.0ab18227-3cd1-43b1-8337-b6305b9f76a7.title"
 msgid "Get Connected"
-msgstr ""
+msgstr "Pour garder le contact"
 
 msgctxt "body.5470a594-7618-49c0-ba2d-fda97803660d.aside.0ab18227-3cd1-43b1-8337-b6305b9f76a7.body"
 msgid "Join our Mozilla Fellowship &amp; Awardee Alumni email list to stay up to date on news, opportunities, and events"
@@ -48,11 +53,11 @@ msgstr ""
 
 msgctxt "body.5470a594-7618-49c0-ba2d-fda97803660d.aside.66ce9fc2-d149-4cda-8efc-a3d932cf5e93.label"
 msgid "Sign up"
-msgstr ""
+msgstr "S’inscrire"
 
 msgctxt "body.4983698e-ffe0-44b4-b0de-15c56d65e769"
 msgid "Partners"
-msgstr ""
+msgstr "Partenaires"
 
 msgctxt "body.4983698e-ffe0-44b4-b0de-15c56d65e769"
 msgid ""
@@ -68,11 +73,11 @@ msgstr ""
 
 msgctxt "body.4983698e-ffe0-44b4-b0de-15c56d65e769"
 msgid "<a id=\"a1\">Learn more →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">En savoir plus →</a>"
 
 msgctxt "body.500bc703-615e-499c-aee6-45088cbd24f9.title"
 msgid "Convening the Community"
-msgstr ""
+msgstr "Convoquer la communauté"
 
 msgctxt "body.500bc703-615e-499c-aee6-45088cbd24f9.text"
 msgid ""
@@ -92,23 +97,23 @@ msgstr ""
 
 msgctxt "body.500bc703-615e-499c-aee6-45088cbd24f9.altText"
 msgid "PIctures of volunteers at mozfest"
-msgstr ""
+msgstr "Photos de bénévoles au mozfest"
 
 msgctxt "body.500bc703-615e-499c-aee6-45088cbd24f9.link_button.6802dbbd-89c5-4d13-81e5-f9713b4517cc.label"
 msgid "Check out Mozfest"
-msgstr ""
+msgstr "Découvrez le MozFest"
 
 msgctxt "body.b8fe717c-6600-4ee7-b980-ec78a3fe8bd3.title"
 msgid "Read our Blog Posts"
-msgstr ""
+msgstr "Lisez nos billets de blog"
 
 msgctxt "body.0a14825c-dfb8-429b-b2cd-e4beccb3e6a4"
 msgid "Connect with Us"
-msgstr ""
+msgstr "Restons en lien"
 
 msgctxt "body.eb3d43c7-fd62-4a3f-ac93-614b7c7828de.accordion_items.f48ea0fc-2928-4136-ba0c-03331c2d4d1f.title"
 msgid "Subscribe to the Alumni Newsletter"
-msgstr ""
+msgstr "Abonnez-vous à la newsletter des anciens membres"
 
 msgctxt "body.eb3d43c7-fd62-4a3f-ac93-614b7c7828de.accordion_items.f48ea0fc-2928-4136-ba0c-03331c2d4d1f.content.c097c5dd-2b36-40e2-91b5-bba0e8307993"
 msgid "Sign up for the Mozilla Alumni newsletter, or reach out to us at <a id=\"a1\">alumni@mozillafoundation.org</a>."
@@ -116,11 +121,11 @@ msgstr ""
 
 msgctxt "body.eb3d43c7-fd62-4a3f-ac93-614b7c7828de.accordion_items.f48ea0fc-2928-4136-ba0c-03331c2d4d1f.content.c097c5dd-2b36-40e2-91b5-bba0e8307993"
 msgid "<a id=\"a1\">Sign Up →</a>"
-msgstr ""
+msgstr "<a id=\"a1\">S’inscrire →</a>"
 
 msgctxt "body.eb3d43c7-fd62-4a3f-ac93-614b7c7828de.accordion_items.5c4ee25b-7a34-433d-a0c7-71c876c88e8b.title"
 msgid "Send us an email"
-msgstr ""
+msgstr "Envoyez-nous un e-mail"
 
 msgctxt "body.eb3d43c7-fd62-4a3f-ac93-614b7c7828de.accordion_items.5c4ee25b-7a34-433d-a0c7-71c876c88e8b.content.66da30c2-82d5-45d8-9eaf-bd01f806e2b8"
 msgid "Reach out with questions and suggestions by emailing us on <a id=\"a1\">fanda@mozillafoundation.org</a>"
