@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-10-11 07:41:19.651273+00:00\n"
+"PO-Revision-Date: 2024-10-11 07:43+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 0f42b999-3bf6-4e59-b822-083db228132e\n"
 
 msgctxt "header"
 msgid "Can you add a donation to hold irresponsible tech companies accountable?"
-msgstr ""
+msgstr "Accepteriez-vous de faire un don pour mettre les géants de la tech face à leurs responsabilités ?"
 
 msgctxt "body"
 msgid ""
 "Thank you for signing the petition calling on Microsoft to stop creating AI products that boost oil and gas extraction. If you're able to add a donation, you will help support our campaign to "
 "<b>ensure AI is both built</b> <b><i>and</i></b><b> used in ways that are trustworthy.</b>"
 msgstr ""
+"Merci d’avoir signé la pétition demandant à Microsoft d’arrêter de développer des solutions basées sur l’IA pour faciliter l’extraction d’énergies fossiles. Si vous le pouvez, faites un don à "
+"Mozilla : vous contribuerez directement à notre campagne visant à <b>garantir que l’IA soit développée</b> <b><i>et</i></b> <b>utilisée de manière responsable.</b>"
 
 msgctxt "donate_text"
 msgid "Yes, I'll donate"
-msgstr ""
+msgstr "Oui, je fais un don"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Non merci"
