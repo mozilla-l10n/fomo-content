@@ -3475,14 +3475,14 @@ l10n = "locales/{locale}/pages/mozilla-festival/facilitator-guide/the-mozfest-ti
 locales = [ "es",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Signup/123-mozfest-on-demand.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Signup/123-mozfest-on-demand.po"
-locales = [ "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/tune-into-the-sounds-of-the-internet-health-report.pot"
 l10n = "locales/{locale}/pages/homepage/blog/tune-into-the-sounds-of-the-internet-health-report.po"
 locales = [ "es",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Signup/123-mozfest-on-demand.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Signup/123-mozfest-on-demand.po"
+locales = [ "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/common-voice/partnering-with-us.pot"
