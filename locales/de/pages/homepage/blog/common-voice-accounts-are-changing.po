@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-10-31 10:11:26.616292+00:00\n"
+"PO-Revision-Date: 2024-10-31 17:41+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 6b34879e-c4fc-470f-94c0-0e40823f3f87\n"
 
 msgctxt "seo_title"
 msgid "Common Voice Accounts are Changing"
-msgstr ""
+msgstr "Common-Voice-Konten verändern sich"
 
 msgctxt "search_description"
 msgid "The way contributors log into Common Voice will change on Nov 4th, 2024. This change will impact users who currently log in using Github."
-msgstr ""
+msgstr "Die Art und Weise, wie sich Mitwirkende bei Common Voice anmelden, ändert sich am 4. November 2024. Diese Änderung wird Benutzer betreffen, die sich derzeit mit GitHub anmelden."
 
 msgctxt "body.38ff5b5f-c8df-4567-81e5-d842e398da99"
 msgid ""
@@ -20,10 +25,13 @@ msgid ""
 "future work on the Common Voice platform by introducing different levels of permissions for contributors. Most users of the Common Voice platform will not see any changes to the login process. These"
 " changes will go live November 4th, 2024."
 msgstr ""
+"Um die Kontoverwaltung auf der Common-Voice-Plattform zu modernisieren, wird Common Voice unsere Konteninfrastruktur auf das Mozilla-Accounts-Authentifikationssystem umziehen. Diese Änderung "
+"ermöglicht die zukünftige Arbeit an der Common-Voice-Plattform, indem sie verschiedene Berechtigungsstufen für die Mitwirkenden einführt. Die meisten Benutzer der Common-Voice-Plattform werden keine"
+" Änderungen am Anmeldeprozess feststellen. Diese Änderungen werden am 4. November 2024 umgesetzt."
 
 msgctxt "body.ade35418-e8f3-4ae6-9bde-714ccb52d169"
 msgid "If you currently use Github to log into Common Voice:"
-msgstr ""
+msgstr "Wenn Sie derzeit GitHub verwenden, um sich bei Common Voice anzumelden:"
 
 msgctxt "body.ade35418-e8f3-4ae6-9bde-714ccb52d169"
 msgid ""
