@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-10-31 10:12:30.012905+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: be7b1440-522d-4e49-b8b8-a5be485f1f92\n"
+
+msgctxt "seo_title"
+msgid "Common Voice Accounts are Changing"
+msgstr ""
+
+msgctxt "search_description"
+msgid "The way contributors log into Common Voice will change on Nov 4th, 2024. This change will impact users who currently log in using Github."
+msgstr ""
+
+msgctxt "body.38ff5b5f-c8df-4567-81e5-d842e398da99"
+msgid ""
+"In order to modernize account management on the Common Voice platform, Common Voice will be moving our accounts infrastructure to Mozilla Accounts Authentication System. This change will enable "
+"future work on the Common Voice platform by introducing different levels of permissions for contributors. Most users of the Common Voice platform will not see any changes to the login process. These"
+" changes will go live November 4th, 2024."
+msgstr ""
+
+msgctxt "body.ade35418-e8f3-4ae6-9bde-714ccb52d169"
+msgid "If you currently use Github to log into Common Voice:"
+msgstr ""
+
+msgctxt "body.ade35418-e8f3-4ae6-9bde-714ccb52d169"
+msgid ""
+"The “Log in with GitHub” option will no longer be available after October 30th, 2024. To continue to log into your Common Voice account, enter the email address associated with your Github account "
+"into the “Log in with email” text box shown at the top of the new login page. This will create a new Mozilla Account that will be linked to your existing contributions and history."
+msgstr ""
+
+msgctxt "body.ade35418-e8f3-4ae6-9bde-714ccb52d169"
+msgid ""
+"You will be prompted to create a new password for your account. Once you do this, you’ll be logged into a new Mozilla Account for Common Voice that has been linked to your past contributions and "
+"history."
+msgstr ""
+
+msgctxt "body.58de0ee1-6c2e-4c0b-b84f-7f9ee9a154ab.altText"
+msgid "The current login screen for Common Voice showing options to sign in using email, Mozilla, Google and Github."
+msgstr ""
+
+msgctxt "body.58de0ee1-6c2e-4c0b-b84f-7f9ee9a154ab.caption"
+msgid "The current Common Voice login options"
+msgstr ""
+
+msgctxt "body.8dc8a94e-5965-46e1-ba85-4c64a7854190.altText"
+msgid "The new login options coming to Common Voice. Users will be able to log in with their email, Google account or Apple accounts"
+msgstr ""
+
+msgctxt "body.8dc8a94e-5965-46e1-ba85-4c64a7854190.caption"
+msgid "The new Common Voice login options"
+msgstr ""
+
+msgctxt "body.26a6b77e-1a4d-4993-aef6-10a27f94fd3f"
+msgid "If you currently use Google, Apple, or the Sign in with Mozilla options to log into Common Voice, your login experience will not change."
+msgstr ""
+
+msgctxt "body.26a6b77e-1a4d-4993-aef6-10a27f94fd3f"
+msgid ""
+"If you experience any issues logging into Common Voice after November 4th, you can seek community support via <a id=\"a1\">Matrix</a>, <a id=\"a2\">Discourse</a> or reach the Common Voice team "
+"directly at commonvoice@mozilla.com"
+msgstr ""
+
+msgctxt "title"
+msgid "Common Voice Accounts Are Changing"
+msgstr ""
