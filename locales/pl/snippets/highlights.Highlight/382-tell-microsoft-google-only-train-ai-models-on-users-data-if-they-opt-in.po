@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-03-25 16:04:05.108457+00:00\n"
-"PO-Revision-Date: 2024-10-10 07:44+0000\n"
+"PO-Revision-Date: 2024-11-05 08:41+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -13,11 +13,13 @@ msgstr ""
 
 msgctxt "title"
 msgid "Tell Microsoft &amp; Google: Only train AI models on users’ data if they opt in!"
-msgstr ""
+msgstr "Powiedz Microsoftowi i Google: trenujcie modele sztucznej inteligencji na danych użytkowników tylko wtedy, gdy wyrażą na to zgodę!"
 
 msgctxt "description"
 msgid "Google’s updated privacy policy allows user data to be used as AI training fodder, unless you have actively opted out of it. We think that should change."
 msgstr ""
+"Zaktualizowana polityka prywatności Google zezwala na wykorzystywanie danych użytkowników jako bazy szkoleniowej dla sztucznej inteligencji, chyba że użytkownik czynnie z tego zrezygnuje. Uważamy, "
+"że to powinno się zmienić."
 
 msgctxt "link_label"
 msgid "Add your name if you agree"
