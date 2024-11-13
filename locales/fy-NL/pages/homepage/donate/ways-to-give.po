@@ -219,18 +219,6 @@ msgid "Include an email or return address so we can send you a receipt."
 msgstr "Foegje in e-mailadres of retouradres ta, sadat wy jo in ûntfangstbewiis stjoere kinne."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid "Leave a gift in your will"
-msgstr "In legaat neilitte yn jo testamint"
-
-msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid ""
-"You can leave a legacy for a free and open web by leaving us a gift in your will or estate. There can be significant tax advantages to donating assets to charity as part of an estate plan. For more "
-"information about legacy giving, reach out to Kara Niles at <a id=\"a1\">kara@mozillafoundation.org</a>."
-msgstr ""
-"Jo kinne in legaat efterlitte foar in fergees en iepen web troch ús in donaasje yn jo testamint of neilittenskip efter te litten. Der kinne wichtige belestingfoardielen wêze foar it donearjen fan "
-"aktiva oan woldiedigens as ûnderdiel fan in boedelregeling. Foar mear ynformaasje oer it jaan fan legaten, nim dan kontakt op mei Kara Niles op <a id=\"a1\">kara@mozillafoundation.org</a>."
-
-msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Have questions? Need support?"
 msgstr "Hawwe jo fragen? Stipe nedich?"
 
@@ -243,8 +231,20 @@ msgstr "As jo oare algemiene fragen of stipe nedich hawwe by it meitsjen fan jo 
 #~ msgstr "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"
 
 #~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+#~ msgid ""
+#~ "You can leave a legacy for a free and open web by leaving us a gift in your will or estate. There can be significant tax advantages to donating assets to charity as part of an estate plan. For more "
+#~ "information about legacy giving, reach out to Kara Niles at <a id=\"a1\">kara@mozillafoundation.org</a>."
+#~ msgstr ""
+#~ "Jo kinne in legaat efterlitte foar in fergees en iepen web troch ús in donaasje yn jo testamint of neilittenskip efter te litten. Der kinne wichtige belestingfoardielen wêze foar it donearjen fan "
+#~ "aktiva oan woldiedigens as ûnderdiel fan in boedelregeling. Foar mear ynformaasje oer it jaan fan legaten, nim dan kontakt op mei Kara Niles op <a id=\"a1\">kara@mozillafoundation.org</a>."
+
+#~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 #~ msgid "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
 #~ msgstr "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
+
+#~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+#~ msgid "Leave a gift in your will"
+#~ msgstr "In legaat neilitte yn jo testamint"
 
 #~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 #~ msgid "You can either make your gift <a id=\"a1\">online</a> or contact Grace Fung at <a id=\"a2\">grace@mozillafoundation.org</a> to initiate the process."
