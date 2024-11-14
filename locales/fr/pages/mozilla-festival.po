@@ -26,8 +26,8 @@ msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
-msgid "Get Your Ticket"
-msgstr "Acheter votre billet"
+msgid "Connect on Discord"
+msgstr "Rejoindre le Discord"
 
 msgctxt "banner_heading"
 msgid "MozFest House Zambia"
@@ -42,8 +42,8 @@ msgid "The premier gathering for people working to build a better digital world.
 msgstr "Le premier rassemblement pour celles et ceux qui œuvrent pour un monde numérique meilleur."
 
 msgctxt "banner_link_text"
-msgid "Get Your Ticket"
-msgstr "Acheter votre billet"
+msgid "Connect on Discord"
+msgstr "Nous rejoindre sur Discord"
 
 msgctxt "body.8ab57f43-470d-4371-b85d-2bb69dbad9b7.alt_text"
 msgid "Picture of Angela Oduor Lungati"
@@ -302,10 +302,6 @@ msgstr ""
 msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.08e9816a-a5c4-459d-b8a0-2ebdd4beee8b.buttons.c6285840-7e42-4282-b0d8-4c61d93181a1.label"
 msgid "View session"
 msgstr "Afficher la session"
-
-msgctxt "body.4c5e7b61-5c10-479f-a0b5-9d55437cd073.heading"
-msgid "Get your MozFest House Zambia tickets"
-msgstr "Obtenez vos billets pour le MozFest House Zambie"
 
 msgctxt "body.ce90a06f-ebf1-4ca6-956f-6a4a53bbee3e"
 msgid "Location and Venue"
@@ -1432,6 +1428,10 @@ msgstr "Logo Skoll"
 #~ msgid "https://schedule.mozillafestival.org/session/CMKSKH-1"
 #~ msgstr "https://schedule.mozillafestival.org/session/CMKSKH-1"
 
+#~ msgctxt "body.4c5e7b61-5c10-479f-a0b5-9d55437cd073.heading"
+#~ msgid "Get your MozFest House Zambia tickets"
+#~ msgstr "Obtenez vos billets pour le MozFest House Zambie"
+
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid ""
 #~ "Technology further codifies biases and categorizes personhood, not simply a reflection of the society that creates it but possibly an imperfect and flawed mirror of it. That has resulted in software"
@@ -2235,6 +2235,14 @@ msgstr "Logo Skoll"
 #~ msgid "Facilitate Virtually"
 #~ msgstr "Présentez virtuellement"
 
+#~ msgctxt "cta_button_label"
+#~ msgid "Get Your Ticket"
+#~ msgstr "Acheter votre billet"
+
+#~ msgctxt "banner_link_text"
+#~ msgid "Get Your Ticket"
+#~ msgstr "Acheter votre billet"
+
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.ac9d46fc-99c7-42fc-aaac-a78edf39e146.metadata"
 #~ msgid "20th February, 4pm UTC"
 #~ msgstr "20 février, 16h UTC"
@@ -2339,10 +2347,6 @@ msgstr "Logo Skoll"
 #~ msgid "Announcing 2024 Dates Soon"
 #~ msgstr "Les dates 2024 seront bientôt annoncées"
 
-#~ msgctxt "banner_link_text"
-#~ msgid "Connect on Discord"
-#~ msgstr "Nous rejoindre sur Discord"
-
 #~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.title"
 #~ msgid "Speculative F(r)iction in GenAI"
 #~ msgstr "Speculative F(r)iction in GenAI"
@@ -2383,10 +2387,6 @@ msgstr "Logo Skoll"
 #~ msgid "sessions"
 #~ msgstr "sessions"
 
-#~ msgctxt "cta_button_label"
-#~ msgid "Connect on Discord"
-#~ msgstr "Rejoindre le Discord"
-
 #~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.e22b267f-4d81-49a2-9561-320703bfd80a.description"
 #~ msgid "countries"
 #~ msgstr "pays"
@@ -2402,10 +2402,6 @@ msgstr "Logo Skoll"
 #~ msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.heading"
 #~ msgid "Join MozFest on Disocrd"
 #~ msgstr "Rejoignez le MozFest sur Discord"
-
-#~ msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.link_text"
-#~ msgid "Connect on Discord"
-#~ msgstr "Nous rejoindre sur Discord"
 
 #~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.metadata"
 #~ msgid "Amsterdam, 2023"
@@ -2661,10 +2657,6 @@ msgstr "Logo Skoll"
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.link_url"
 #~ msgid "https://discord.gg/mozfest?event=1204808402165829705"
 #~ msgstr "https://discord.gg/mozfest?event=1204808402165829705"
-
-#~ msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.label"
-#~ msgid "Connect on Discord"
-#~ msgstr "Nous rejoindre sur Discord"
 
 #~ msgctxt "banner_meta"
 #~ msgid "June 11-13 2024 | Tolhuistuin"
