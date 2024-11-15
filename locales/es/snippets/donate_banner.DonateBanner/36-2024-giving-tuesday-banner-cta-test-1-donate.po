@@ -1,19 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-11-15 08:16:03.406324+00:00\n"
+"PO-Revision-Date: 2024-11-15 08:31+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 94fe32df-629d-4a4a-9349-fadc2913664c\n"
 
 msgctxt "title"
 msgid "Donate to Mozilla for Giving Tuesday"
-msgstr ""
+msgstr "Dona a Mozilla este Día para Dar"
 
 msgctxt "subtitle"
 msgid "Together we can reclaim the internet from Big Tech. Donate now."
-msgstr ""
+msgstr "Juntos rescatemos internet de las grandes tecnológicas. Dona."
 
 msgctxt "cta_button_text"
 msgid "Donate →"
-msgstr ""
+msgstr "Donar →"
