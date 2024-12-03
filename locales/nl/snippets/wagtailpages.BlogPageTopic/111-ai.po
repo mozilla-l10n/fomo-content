@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2024-12-03 08:32:41.801037+00:00\n"
+"PO-Revision-Date: 2024-12-03 15:56+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: c2c2fab6-f902-47d5-a0ad-5dbf64d3fa20\n"
 
 msgctxt "name"
 msgid "AI"
-msgstr ""
+msgstr "AI"
 
 msgctxt "intro"
 msgid "Read stories and insights into the current AI landscape and how we can build a better and more trustworthy one"
