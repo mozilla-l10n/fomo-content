@@ -12,8 +12,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: c29843c7-9ea5-4ff3-bba5-482fd3df068d\n"
 
 msgctxt "title"
-msgid "Donate to Mozilla before midnight"
-msgstr "Dona a Mozilla antes de las 12 am"
+msgid "Donate to Mozilla before Dec 31"
+msgstr "Dona a Mozilla antes del 31/12"
 
 msgctxt "subtitle"
 msgid "Time is running out to reach our 2024 goal. Can you donate?"
@@ -22,3 +22,7 @@ msgstr "Falta poco para lograr nuestra meta de 2024. ¿Puedes donar?"
 msgctxt "cta_button_text"
 msgid "Donate →"
 msgstr "Donar →"
+
+#~ msgctxt "title"
+#~ msgid "Donate to Mozilla before midnight"
+#~ msgstr "Dona a Mozilla antes de las 12 am"
