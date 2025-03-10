@@ -1,0 +1,43 @@
+name: Check Wagtail headers
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+jobs:
+  extraction:
+    concurrency:
+      group: ${{ github.ref }}
+      cancel-in-progress: true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+      - name: Set up Python 3
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - name: Restore know headers
+        run: >
+          python .github/scripts/restore_headers.py
+          --path .
+          --json .github/scripts/ids.json
+      - name: Store new headers
+        run: >
+          python .github/scripts/extract_headers.py
+          --path .
+      - name: Add comment on completion
+        run: >
+          python .github/scripts/comment_complete_experiment.py
+          --repo ${{ github.repository }}
+          --token ${{ secrets.API_GITHUB_TOKEN }}
+      - name: Commit changes
+        continue-on-error: true
+        run : |
+          # Commit changes. Failure is allowed if there is nothing to commit.
+          git config --global user.email 'mozilla-pontoon@users.noreply.github.com'
+          git config --global user.name 'Mozilla Pontoon'
+          git add .
+          git commit -m "Update or restore Wagtail headers"
+          git push
