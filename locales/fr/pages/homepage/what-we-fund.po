@@ -4,9 +4,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 9a41ae65-81c6-45f4-b4e5-fcd1532ffd62\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 9a41ae65-81c6-45f4-b4e5-fcd1532ffd62\n"
 
 msgctxt "seo_title"
 msgid "What We Fund | Mozilla Foundation"
@@ -104,3 +104,727 @@ msgstr "Veuillez consulter <a id=\"a1\">nos FAQ</a> ou <a id=\"a2\">contactez-no
 msgctxt "title"
 msgid "What We Fund"
 msgstr "Nos financements"
+
+#~ msgctxt "search_description"
+#~ msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
+#~ msgstr "Financement et ressources pour des personnes exceptionnelles et des idées audacieuses qui participent au développement d’un Internet davantage centré sur l’humain."
+
+#~ msgctxt "search_description"
+#~ msgid "Funding and resources for a more human-centered internet."
+#~ msgstr "Financement et ressources pour un Internet davantage centré sur l’humain."
+
+#~ msgctxt "intro"
+#~ msgid "Funding and resources for a more human-centered internet."
+#~ msgstr "Financement et ressources pour un Internet davantage centré sur l’humain."
+
+#~ msgctxt "body.f8eaaa22-ef47-4927-9b17-28ad3630e4ea"
+#~ msgid "Why we make grants"
+#~ msgstr "Pourquoi nous attribuons des subventions"
+
+#~ msgctxt "body.f8eaaa22-ef47-4927-9b17-28ad3630e4ea"
+#~ msgid "The internet has the potential to uplift society — it can promote democracy, open markets, and free expression. But it can also promote polarization, mass surveillance, and misinformation."
+#~ msgstr ""
+#~ "Internet a le pouvoir d’améliorer la société : il peut promouvoir la démocratie, l’ouverture des marchés et la libre expression. Mais il peut aussi favoriser la polarisation, la surveillance de "
+#~ "masse et la désinformation."
+
+#~ msgctxt "body.f8eaaa22-ef47-4927-9b17-28ad3630e4ea"
+#~ msgid ""
+#~ "More than ever, we need a movement to ensure the internet remains a force for good. Mozilla’s Fellowships and Awards fuel this movement by supporting individual and collective actions that advance a"
+#~ " more human-centered internet. We provide funding, mentorship, and amplification to innovators of all types — from technologists and scientists to activists and artists. In turn, these individuals "
+#~ "pilot ethical computer science curricula at leading universities. They track the spread of online disinformation and present their findings to top U.S. policymakers. They connect the unconnected in "
+#~ "rural Tanzania using television white-space technology. And far more."
+#~ msgstr ""
+#~ "Plus que jamais, nous avons besoin d’un mouvement qui permette de garantir qu’Internet reste un outil bénéfique. Les bourses et les subventions attribuées par Mozilla soutiennent ce mouvement en "
+#~ "encourageant des actions individuelles et collectives qui favorisent un Internet plus humain. Nous offrons un financement, un accompagnement et une visibilité à des innovateurs et innovatrices de "
+#~ "tous les horizons : des technologues aux scientifiques, en passant par des activistes et des artistes. En retour, ces personnes développent des programmes d’éthique des sciences informatiques dans "
+#~ "des universités reconnues. Elles étudient la propagation de la désinformation en ligne et présentent les résultats de leurs recherches à des législateurs et législatrices états-unien·ne·s. Elles "
+#~ "permettent aux résident·e·s de Tanzanie rurale sans accès à Internet de se connecter grâce à la technologie des espaces blancs de télévision. Et plus encore."
+
+#~ msgctxt "body.f8eaaa22-ef47-4927-9b17-28ad3630e4ea"
+#~ msgid "Our Approach"
+#~ msgstr "Notre approche"
+
+#~ msgctxt "body.f8eaaa22-ef47-4927-9b17-28ad3630e4ea"
+#~ msgid "We take an ecosystem approach to building the movement at the intersection of technology and society that is grounded in these values -"
+#~ msgstr "Pour ériger un mouvement à la croisée de la technologie et de la société, nous adoptons une approche écosystémique ancrée dans ces valeurs :"
+
+#~ msgctxt "body.f8eaaa22-ef47-4927-9b17-28ad3630e4ea"
+#~ msgid ""
+#~ "We provide funding, mentorship, and community to leaders and organizations, fueling a movement that can shift the internet and AI in a better direction. Our funding mechanisms are nimble — from "
+#~ "small grants to full-time fellowships to donor collaboratives — to suit the movement’s needs. And our <a id=\"a1\">funding learnings are open-source</a>, so like-minded thinkers can build on them."
+#~ msgstr ""
+#~ "Nous fournissons des financements, du mentorat et un accès à une communauté à des leaders et des organisations, alimentant un mouvement qui peut faire avancer Internet et l’IA dans la bonne "
+#~ "direction. Nos mécanismes de financement sont flexibles — des petites subventions aux bourses à temps plein aux collaborations de donateurs — pour répondre aux besoins du mouvement. Et <a "
+#~ "id=\"a1\">les enseignements tirés de nos financements sont open source</a>, donc des personnes qui partagent la même vision peuvent s’en inspirer."
+
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
+#~ msgid "https://www.youtube.com/embed/oV4yQ3PWN0s"
+#~ msgstr "https://www.youtube.com/embed/oV4yQ3PWN0s"
+
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
+#~ msgid "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
+#~ msgstr "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.altText"
+#~ msgid "globe heart"
+#~ msgstr "globe avec un cœur"
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
+#~ msgid "<a id=\"a1\">Mozilla Technology Fund →</a>"
+#~ msgstr "<a id=\"a1\">Mozilla Technology Fund →</a>"
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
+#~ msgid "<a id=\"a1\">Creative Media Awards →</a>"
+#~ msgstr "<a id=\"a1\">Creative Media Awards →</a>"
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
+#~ msgid "<a id=\"a1\">Senior Fellows - Trustworthy AI →</a>"
+#~ msgstr "<a id=\"a1\">Senior Fellows - IA digne de confiance →</a>"
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
+#~ msgid "<a id=\"a1\">Senior Fellows - Responsible Computing →</a>"
+#~ msgstr "<a id=\"a1\">Senior Fellows - Informatique responsable →</a>"
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
+#~ msgid "<a id=\"a1\">Common Voice Kiswahili Awards →</a>"
+#~ msgstr "<a id=\"a1\">Subventions Common Voice en kiswahili →</a>"
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
+#~ msgid "No funding opportunities are open at this time."
+#~ msgstr "Aucune opportunité de financement n’est proposée en ce moment."
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
+#~ msgid "<b>Applications are now open for Senior Fellow: Tech Policy.</b> <a id=\"a1\"><b>Learn more and apply.</b></a>"
+#~ msgstr "<b>Les candidatures pour le poste Senior Fellow : Tech Policy sont à présent ouvertes.</b> <a id=\"a1\"><b>En savoir plus et postuler.</b></a>"
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
+#~ msgid "We are not currently accepting applications."
+#~ msgstr "Nous n’acceptons pas de candidatures pour le moment."
+
+#~ msgctxt "body.4ed1b642-1471-48fd-ba09-440fdac41bb7"
+#~ msgid "Who we’ve funded"
+#~ msgstr "Qui avons-nous financé ?"
+
+#~ msgctxt "body.4ed1b642-1471-48fd-ba09-440fdac41bb7"
+#~ msgid ""
+#~ "Mozilla Fellows and Awardees represent a range of disciplines and geographies: They are policymakers in Kenya, journalists in Brazil, engineers in Germany, privacy activists in the United States, "
+#~ "and data scientists in the Netherlands. We seek fellows and awardees who are mission-driven, are masters of their trade, and have bold, new ideas that can catalyze lasting change."
+#~ msgstr ""
+#~ "Les bénéficiaires de bourses et subventions Mozilla sont issu·e·s d’un large spectre de disciplines et de pays : législateurs et législatrices au Kenya, journalistes au Brésil, ingénieur·e·s en "
+#~ "Allemagne, activistes de défense de la confidentialité aux États-Unis, ou encore scientifiques des données aux Pays-Bas. Nous recherchons des personnes passionnées par leur mission, qui maîtrisent "
+#~ "leur discipline et proposent des idées nouvelles et audacieuses pouvant entraîner des changements durables."
+
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
+#~ msgid "Mozilla Fellows make an impact"
+#~ msgstr "Les bénéficiaires de bourses Mozilla font la différence"
+
+#~ msgctxt "body.10eb1636-1692-47e9-8df9-2dd2796c54b3"
+#~ msgid "What we fund"
+#~ msgstr "Que finançons-nous ?"
+
+#~ msgctxt "body.10eb1636-1692-47e9-8df9-2dd2796c54b3"
+#~ msgid ""
+#~ "Mozilla finds, supports, and connects movement partners building a more open, inclusive internet and more trustworthy AI. Through fellowships and awards, we bolster people and bold ideas that can "
+#~ "shape a more human-centered internet."
+#~ msgstr ""
+#~ "Mozilla repère, aide et met en relation des membres du mouvement œuvrant pour un Internet plus ouvert et inclusif et une IA digne de confiance. Nos bourses et subventions nous permettent de soutenir"
+#~ " des individus et des idées audacieuses qui peuvent développer un Internet davantage centré sur l’humain."
+
+#~ msgctxt "body.10eb1636-1692-47e9-8df9-2dd2796c54b3"
+#~ msgid "These leaders build new technology, develop toolkits and curricula, run campaigns, prototype solutions, and influence policy around the globe to:"
+#~ msgstr ""
+#~ "Dans le monde entier, ces visionnaires conçoivent de nouvelles technologies, développent des trousses à outils et des formations, mènent des campagnes, imaginent des solutions et influencent les "
+#~ "politiques afin de :"
+
+#~ msgctxt "body.c67bd2a2-9390-47bf-8c8c-c3b19f058531.altText"
+#~ msgid "Illustration of two people high fiving"
+#~ msgstr "Illustration : deux personnes se tapent dans la main"
+
+#~ msgctxt "body.c67bd2a2-9390-47bf-8c8c-c3b19f058531.text"
+#~ msgid "<b>Reimagine</b> new norms, policies, infrastructure, and technologies that protect and empower individuals and communities online."
+#~ msgstr "<b>Réimaginer</b> de nouvelles normes, politiques, infrastructures et technologies pour protéger et émanciper les individus et les communautés en ligne."
+
+#~ msgctxt "body.981e6b66-06bb-4cc8-b451-67e004d3aa84.altText"
+#~ msgid "Illustration of a person fixing the word \"web\""
+#~ msgstr "Illustration : une personne répare le mot « web »"
+
+#~ msgctxt "body.981e6b66-06bb-4cc8-b451-67e004d3aa84.text"
+#~ msgid "<b>Reconstitute</b> more — and more diverse — groups in the development, deployment, and management of the technologies that make up the web."
+#~ msgstr "<b>Reconstituer</b> davantage de groupes (plus diversifiés) pour participer au développement, au déploiement et à la gestion des technologies qui constituent le Web."
+
+#~ msgctxt "body.9c1c3154-361a-456c-904a-6be6b878d8df.altText"
+#~ msgid "Illustration of a scale with a corporation on one side and a person thinking on the other side"
+#~ msgstr "Illustration : une balance, avec d’un côté une entreprise et de l’autre une personne qui réfléchit"
+
+#~ msgctxt "body.9c1c3154-361a-456c-904a-6be6b878d8df.text"
+#~ msgid "<b>Rebalance</b> power online, shifting it back to individuals and communities."
+#~ msgstr "<b>Rééquilibrer</b> la balance du pouvoir en ligne, pour la refaire pencher du côté des individus et des communautés."
+
+#~ msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
+#~ msgid "How we fund"
+#~ msgstr "Comment finançons-nous ?"
+
+#~ msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
+#~ msgid ""
+#~ "Mozilla works with partners and allies to fuel a movement of internet users, academics, artists, technologists, thought-leaders, and activists fighting for a healthy internet. The individual and "
+#~ "collective actions we support help to nurture an intersectional community, incubate emerging technologies and models, and build the long term infrastructure needed for a more open, secure, and "
+#~ "inclusive internet. Learn more about our <a id=\"a1\">fellowships</a> and <a id=\"a2\">awards</a> programs."
+#~ msgstr ""
+#~ "Mozilla travaille avec ses partenaires et allié·e·s pour encourager un mouvement rassemblant des internautes, des académicien·ne·s, des artistes, des technologues, des visionnaires et des activistes"
+#~ " qui luttent pour un Internet plus sain. Les actions individuelles et collectives que nous soutenons permettent de développer une communauté intersectionnelle, de créer des technologies et des "
+#~ "modèles émergents et de construire l’infrastructure nécessaire pour un Internet plus ouvert, plus sûr et plus sain à long terme. Apprenez-en plus sur nos <a id=\"a1\">bourses</a> et nos <a "
+#~ "id=\"a2\">subventions</a>."
+
+#~ msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
+#~ msgid "Who we’ve funded"
+#~ msgstr "Qui avons-nous financé ?"
+
+#~ msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
+#~ msgid ""
+#~ "Mozilla Fellows and Awardees represent a range of disciplines and geographies: They are policymakers in Kenya, journalists in Brazil, engineers in Germany, privacy activists in the United States, "
+#~ "and data scientists in the Netherlands. We seek fellows and awardees who are mission-driven, are masters of their trade, and have bold, new ideas that can catalyze lasting change."
+#~ msgstr ""
+#~ "Les bénéficiaires de bourses et subventions Mozilla sont issu·e·s d’un large spectre de disciplines et de pays : législateurs et législatrices au Kenya, journalistes au Brésil, ingénieur·e·s en "
+#~ "Allemagne, activistes de défense de la confidentialité aux États-Unis, ou encore scientifiques des données aux Pays-Bas. Nous recherchons des personnes passionnées par leur mission, qui maîtrisent "
+#~ "leur discipline et proposent des idées nouvelles et audacieuses pouvant entraîner des changements durables."
+
+#~ msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
+#~ msgid ""
+#~ "Mozilla works with partners and allies to fuel a movement of internet users, academics, artists, technologists, thought-leaders, and activists fighting for a healthy internet. Funding is made via <a"
+#~ " id=\"a1\">fellowships</a> and<a id=\"a2\"> awards</a> to support individual and collective actions to help nurture an intersectional community, incubate emerging technologies and models, and build "
+#~ "the long term infrastructure needed for a more open, secure, and inclusive internet."
+#~ msgstr ""
+#~ "Mozilla travaille avec ses partenaires et allié·e·s pour encourager un mouvement rassemblant des internautes, des académicien·ne·s, des artistes, des technologues, des visionnaires et des activistes"
+#~ " qui luttent pour un Internet plus sain. Des financements sont proposés via nos programmes de <a id=\"a1\">bourses</a> et de <a id=\"a2\">subventions</a> pour soutenir les actions individuelles et "
+#~ "collectives et aider à développer une communauté intersectionnelle, à créer des technologies et des modèles émergents et à construire l’infrastructure nécessaire pour un Internet plus ouvert, plus "
+#~ "sûr et plus sain à long terme."
+
+#~ msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
+#~ msgid ""
+#~ "Mozilla also hosts, contributes to, and are active members of a number of <a id=\"a1\">donor collaboratives</a>. We do this as part of an ecosystem level approach to fuel a movement for a healthier "
+#~ "internet, and as a way to work with others to have broader and more meaningful impact."
+#~ msgstr ""
+#~ "Mozilla accueille, contribue et est membre actif d’un certain nombre de <a id=\"a1\">collaborations avec des mécènes</a>. Nous le faisons dans le cadre d’une approche au niveau de l’écosystème pour "
+#~ "renforcer le mouvement en faveur d’un Internet plus sain, et comme moyen de collaborer avec d’autres pour avoir une influence plus large et plus significative."
+
+#~ msgctxt "body.cb4b7e4b-dde3-47a9-ae60-0cad27da51d0.altText"
+#~ msgid "Profile picture of Anouk Ruhaak"
+#~ msgstr "Photo de profil d’Anouk Ruhaak"
+
+#~ msgctxt "body.cb4b7e4b-dde3-47a9-ae60-0cad27da51d0.text"
+#~ msgid "<a id=\"a1\">Anouk Ruhaak</a> | <i>Mozilla Fellow</i>"
+#~ msgstr "<a id=\"a1\">Anouk Ruhaak</a> | <i>Bénéficiaire de bourse Mozilla</i>"
+
+#~ msgctxt "body.cb4b7e4b-dde3-47a9-ae60-0cad27da51d0.text"
+#~ msgid ""
+#~ "Anouk creates new models of data governance for the public good. As an architect and advocate of data trusts, she promotes governance models that safeguard privacy and protect society from the "
+#~ "negative externalities of data sharing."
+#~ msgstr ""
+#~ "Anouk crée de nouveaux modèles de gouvernance des données d’intérêt public. En tant qu’architecte et adepte du concept de tiers de confiance en matière de données, elle défend des modèles de "
+#~ "gouvernance qui garantissent la confidentialité et protègent la société des externalités négatives liées au partage de données."
+
+#~ msgctxt "body.cb4b7e4b-dde3-47a9-ae60-0cad27da51d0.url"
+#~ msgid "https://www.mozillapulse.org/profile/2467"
+#~ msgstr "https://www.mozillapulse.org/profile/2467"
+
+#~ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.label"
+#~ msgid "See more Fellows"
+#~ msgstr "Découvrir plus de bénéficiaires de bourses Mozilla"
+
+#~ msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.altText"
+#~ msgid "Screen capture from the game"
+#~ msgstr "Capture d’écran du jeu"
+
+#~ msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.text"
+#~ msgid "Survival of the Best Fit | <i>Previous Award</i>"
+#~ msgstr "Survival of the Best Fit | <i>Subvention antérieure</i>"
+
+#~ msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.text"
+#~ msgid ""
+#~ "Built by Gabor Csapo, Jihyun Kim, Miha Klasinc, and Alia ElKattan, <a id=\"a1\"><b>Survival of the Best Fit</b></a> is an educational game about hiring bias in AI. It aims to explain how the misuse "
+#~ "of AI can make machines inherit human biases and further inequality."
+#~ msgstr ""
+#~ "Conçu par Gabor Csapo, Jihyun Kim, Miha Klasinc et Alia ElKattan, <a id=\"a1\"><b>Survival of the Best Fit</b></a> (« La survie du plus fort ») est un jeu éducatif qui traite des préjugés de l’IA "
+#~ "dans le domaine de l’embauche. Il vise à expliquer comment une mauvaise utilisation de l’IA peut entraîner une intégration des préjugés humains par les machines et amplifier les inégalités."
+
+#~ msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.url"
+#~ msgid "https://www.survivalofthebestfit.com/"
+#~ msgstr "https://www.survivalofthebestfit.com/"
+
+#~ msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.label"
+#~ msgid "See more Awards"
+#~ msgstr "Découvrir plus de projets subventionnés"
+
+#~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
+#~ msgid "Where we’ve funded"
+#~ msgstr "Où avons-nous octroyé des financements ?"
+
+#~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
+#~ msgid ""
+#~ "The challenges facing the internet are complex, and we know that there are few one-size-fits-all solutions. Mozilla is committed to supporting diverse innovators around the world to imagine "
+#~ "solutions that will work for their communities. In 2020, we’ve supported Fellows and Awardees in 18 countries across six continents."
+#~ msgstr ""
+#~ "Les défis concernant Internet sont complexes et nous savons qu’il existe peu de solutions universelles. Mozilla s’engage à soutenir des innovateurs et innovatrices issu·e·s d’horizons divers à "
+#~ "travers le monde afin de les aider à imaginer des solutions pour leurs communautés. En 2020, nous avons soutenu des bénéficiaires de bourses et de subventions dans 18 pays et 6 continents "
+#~ "différents."
+
+#~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
+#~ msgid ""
+#~ "The challenges facing the internet are complex, and we know that there are few one-size-fits-all solutions. Mozilla is committed to supporting diverse innovators around the world to imagine "
+#~ "solutions that will work for their communities. Since 2015, Mozilla has distributed over $20 million in award funds and supported nearly 200 fellows. This funding has supported organizations and "
+#~ "individuals in 38 countries across six continents."
+#~ msgstr ""
+#~ "Les défis concernant Internet sont complexes et nous savons qu’il existe peu de solutions universelles. Mozilla s’engage à soutenir des innovateurs et innovatrices issu·e·s d’horizons divers à "
+#~ "travers le monde afin de les aider à imaginer des solutions pour leurs communautés. Depuis 2015, Mozilla a distribué plus de 20 millions de dollars en bourses et soutenu près de 200 personnes. Ce "
+#~ "financement a soutenu des organisations et des individus dans 38 pays sur six continents."
+
+#~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
+#~ msgid ""
+#~ "The challenges facing the internet are complex, and we know that there are few one-size-fits-all solutions. Mozilla is committed to supporting diverse innovators around the world to imagine "
+#~ "solutions that will work for their communities."
+#~ msgstr ""
+#~ "Les défis concernant Internet sont complexes et nous savons qu’il existe peu de solutions universelles. Mozilla s’engage à soutenir des innovateurs et innovatrices issu·e·s d’horizons divers à "
+#~ "travers le monde afin de les aider à imaginer des solutions pour leurs communautés."
+
+#~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
+#~ msgid ""
+#~ "Mozilla has distributed over $20 million in award funds since 2015 and supported more than 200 fellows. This funding has supported organizations and individuals in 46 countries across six "
+#~ "continents."
+#~ msgstr ""
+#~ "Mozilla a distribué plus de 20 millions de dollars en bourses depuis 2015 et soutenu près de 200 personnes. Ce financement a soutenu des organisations et des individus dans 46 pays sur "
+#~ "six continents."
+
+#~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
+#~ msgid ""
+#~ "Mozilla has distributed $22 million in award funds since 2015 and supported more than 200 fellows. This funding has supported organizations and individuals in 46 countries across six continents."
+#~ msgstr ""
+#~ "Mozilla a distribué 22 millions de dollars en bourses depuis 2015 et soutenu près de 200 personnes. Ce financement a soutenu des organisations et des individus dans 46 pays sur six continents."
+
+#~ msgctxt "body.77be3916-5dd0-49b0-b592-636803e5af76"
+#~ msgid "Learn more"
+#~ msgstr "En savoir plus"
+
+#~ msgctxt "body.619dc705-42f2-4e61-8002-490dac4f9bf6.altText"
+#~ msgid "Picture of Fellows"
+#~ msgstr "Photo de bénéficiaires de bourses Mozilla"
+
+#~ msgctxt "body.619dc705-42f2-4e61-8002-490dac4f9bf6.text"
+#~ msgid "Fellowships"
+#~ msgstr "Bourses"
+
+#~ msgctxt "body.619dc705-42f2-4e61-8002-490dac4f9bf6.text"
+#~ msgid "Mozilla Fellowships provide resources, community, and amplification to internet health leaders building a more ​humane​ ​digital​ ​world."
+#~ msgstr "Les bourses Mozilla fournissent des ressources, une aide communautaire et une visibilité à des pionniers et pionnières œuvrant pour un Internet sain et un monde numérique plus humain."
+
+#~ msgctxt "body.619dc705-42f2-4e61-8002-490dac4f9bf6.text"
+#~ msgid "<a id=\"a1\">Learn more about Mozilla Fellows →</a>"
+#~ msgstr "<a id=\"a1\">En savoir plus sur les bénéficiaires de bourses Mozilla →</a>"
+
+#~ msgctxt "body.859591bb-04d9-4228-b990-9854fb93587d.altText"
+#~ msgid "Picture of an awardee side by side with his project"
+#~ msgstr "Photo de bénéficiaire à côté de son projet"
+
+#~ msgctxt "body.859591bb-04d9-4228-b990-9854fb93587d.text"
+#~ msgid "Awards"
+#~ msgstr "Subventions"
+
+#~ msgctxt "body.859591bb-04d9-4228-b990-9854fb93587d.text"
+#~ msgid "Mozilla Awards provide funding, peer support, and mentoring to projects that address the most pressing challenges facing the internet and its users."
+#~ msgstr ""
+#~ "Les subventions Mozilla offrent un financement, un soutien communautaire et un accompagnement aux projets visant à résoudre les problématiques les plus urgentes qui touchent Internet et les "
+#~ "internautes."
+
+#~ msgctxt "body.859591bb-04d9-4228-b990-9854fb93587d.text"
+#~ msgid "<a id=\"a1\">Apply for Current Funding Opportunities →</a>"
+#~ msgstr "<a id=\"a1\">Postuler à une offre de financement disponible →</a>"
+
+#~ msgctxt "body.22a82de6-cb2c-42dd-9205-64979e0e55bf.altText"
+#~ msgid "Picture of a smiling woman with a Firefox shirt"
+#~ msgstr "Photo d’une femme souriante portant un t-shirt Firefox"
+
+#~ msgctxt "body.22a82de6-cb2c-42dd-9205-64979e0e55bf.text"
+#~ msgid "Become a Partner"
+#~ msgstr "Devenir partenaire"
+
+#~ msgctxt "body.22a82de6-cb2c-42dd-9205-64979e0e55bf.text"
+#~ msgid "Our funding partners help us grow our fellowships and awards program, reaching new parts of the globe and exploring new intersections of civil society and the internet."
+#~ msgstr ""
+#~ "Nos partenaires en matière de financement nous aident à faire évoluer notre programme de bourses et subventions afin d’accéder à d’autres régions du monde et d’étudier de nouvelles interactions "
+#~ "entre la société civile et Internet."
+
+#~ msgctxt "body.22a82de6-cb2c-42dd-9205-64979e0e55bf.text"
+#~ msgid "<a id=\"a1\">Support Mozilla Fellowships and Awards →</a>"
+#~ msgstr "<a id=\"a1\">Soutenir les bourses et subventions Mozilla →</a>"
+
+#~ msgctxt "title"
+#~ msgid "What we fund"
+#~ msgstr "Nos financements"
+
+#~ msgctxt "body.1e9ec611-635e-44d3-a09d-6004d39433db.altText"
+#~ msgid "Data futures lab icon"
+#~ msgstr "Icône du Data Futures Lab"
+
+#~ msgctxt "body.1e9ec611-635e-44d3-a09d-6004d39433db.text"
+#~ msgid "Data Futures Lab"
+#~ msgstr "Data Futures Lab"
+
+#~ msgctxt "body.1e9ec611-635e-44d3-a09d-6004d39433db.text"
+#~ msgid "An experimental space for instigating new approaches to data stewardship challenges."
+#~ msgstr "Un espace expérimental pour susciter de nouvelles approches face aux défis liés à la gestion des données."
+
+#~ msgctxt "body.1e9ec611-635e-44d3-a09d-6004d39433db.text"
+#~ msgid "<a id=\"a1\">Learn more about the lab →</a>"
+#~ msgstr "<a id=\"a1\">En savoir plus sur le Data Futures Lab →</a>"
+
+#~ msgctxt "body.c01d35f9-8f3a-4b0a-b9b3-30069bda56fd.altText"
+#~ msgid "Auditing project"
+#~ msgstr "Projet d’audit"
+
+#~ msgctxt "body.c01d35f9-8f3a-4b0a-b9b3-30069bda56fd.text"
+#~ msgid "Open Source Auditing (OAT) Project"
+#~ msgstr "Projet d’audit open source (OAT)"
+
+#~ msgctxt "body.c01d35f9-8f3a-4b0a-b9b3-30069bda56fd.text"
+#~ msgid "A new project focused specifically on audit outcomes and the tooling, methodologies and resources required to support those engaging in this kind of work."
+#~ msgstr "Un nouveau projet porté spécifiquement sur les résultats d’audit et les outils, méthodologies et ressources nécessaires pour aider celles et ceux qui s’engagent dans ce type de travail."
+
+#~ msgctxt "body.c01d35f9-8f3a-4b0a-b9b3-30069bda56fd.text"
+#~ msgid "<a id=\"a1\">Learn more about the project</a> →"
+#~ msgstr "<a id=\"a1\">En savoir plus sur le projet</a> →"
+
+#~ msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.altText"
+#~ msgid "connect icon"
+#~ msgstr "icône de connexion"
+
+#~ msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.text"
+#~ msgid "<a id=\"a1\">Mozilla Technology Fund: Auditing Tools for AI Systems</a> · <i>Apply by 4 October </i>"
+#~ msgstr "<a id=\"a1\">Mozilla Technology Fund : outils d’audit pour les systèmes d’IA</a> · <i>Postulez avant le 4 octobre</i>"
+
+#~ msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.text"
+#~ msgid "There are currently no open calls for proposals. Keep an eye out for updates!"
+#~ msgstr "Il n’y a actuellement aucun appel à propositions ouvert. Gardez un œil sur cette page !"
+
+#~ msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.text"
+#~ msgid "2023 Data Futures Lab Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à propositions 2023 de la cohorte Data Futures Lab est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.5b46d6fb-82af-444b-8be0-63b18ea4c406.altText"
+#~ msgid "Data Futures Lab"
+#~ msgstr "Data Futures Lab"
+
+#~ msgctxt "body.5b46d6fb-82af-444b-8be0-63b18ea4c406.text"
+#~ msgid "2023 Data Futures Lab Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à propositions 2023 de la cohorte Data Futures Lab est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.3ec2216f-99db-4fd7-9b89-f661cd6e3d3b.altText"
+#~ msgid "Creative Media Awards"
+#~ msgstr "Creative Media Awards"
+
+#~ msgctxt "body.3ec2216f-99db-4fd7-9b89-f661cd6e3d3b.text"
+#~ msgid "2023 Creative Media Awards Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à propositions 2023 pour les Creative Media Awards est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.f21ef906-5d99-4035-991a-f9ec09ae892a.altText"
+#~ msgid "Mradi"
+#~ msgstr "Mradi"
+
+#~ msgctxt "body.f21ef906-5d99-4035-991a-f9ec09ae892a.text"
+#~ msgid "2023 Africa Mradi IRL Fund Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à propositions 2023 pour l’Africa Mradi IRL Fund est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.altText"
+#~ msgid "Current Opportunities"
+#~ msgstr "Opportunités actuelles"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Africa Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à propositions pour l’<b>Africa Mradi IRL Fund</b> est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Data Futures Lab</b> Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à propositions de la cohorte <b>Data Futures Lab</b> est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Creative Media Awards</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à proposition pour les <b>Creative Media Awards</b> est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Responsible Computer Science Challenge</b> in Kenya is accepting applications <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "Le <b>Responsible Computer Science Challenge</b> au Kenya accepte les candidatures ! <a id=\"a1\">En savoir plus et postuler →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Africa Innovation Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à propositions pour le fonds <b>Africa Innovation Mradi IRL</b> est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "We do not currently have any open funding opportunities."
+#~ msgstr "Nous n’avons actuellement aucune possibilité de financement disponible."
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "Apply for a Africa Innovation Mradi Research Grant by 14 August! <a id=\"a1\">Learn more</a>"
+#~ msgstr "Demandez une subvention de recherche Africa Innovation Mradi avant le 14 août ! <a id=\"a1\">En savoir plus</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "Apply for the Data Future's Lab Infrastructure Fund by 31 August! <a id=\"a1\">Learn more</a>"
+#~ msgstr "Demandez à bénéficier du fonds Infrastructure du Data Future Lab d’ici au 31 août ! <a id=\"a1\">En savoir plus</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "Apply to the Responsible Computing Challenge in India by 18 August! <a id=\"a1\">Learn more</a>"
+#~ msgstr "Demandez à bénéficier du Responsible Computing Challenge en Inde d’ici au 18 août ! <a id=\"a1\">En savoir plus</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "Apply to the Data Future's Lab Infrastructure Fund by 31 August! <a id=\"a1\">Learn more</a>"
+#~ msgstr "Demandez à bénéficier du fonds Infrastructure du Data Future Lab d’ici au 31 août ! <a id=\"a1\">En savoir plus</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "Registration is now closed for the Africa Innovation Mradi Research Grants. <a id=\"a1\">Learn more</a>"
+#~ msgstr "Il n’est plus possible d’effectuer de demandes de subventions de recherche Africa Innovation Mradi. <a id=\"a1\">En savoir plus</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "Stay tuned for more funding opportunities coming soon!"
+#~ msgstr "Restez à l’écoute, d’autres possibilités de financement seront bientôt disponibles !"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "Apply to the <a id=\"a1\">Mozilla Technology Fund</a> before 5 October!"
+#~ msgstr "Envoyez votre demande pour le <a id=\"a1\">Mozilla Technology Fund</a> avant le 5 octobre !"
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "We do not have any funding opportunities open at this time."
+#~ msgstr "Nous n’avons aucune possibilité de financement disponible en ce moment."
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "Apply to The Green Screen Coalition's <a id=\"a1\">Catalyst Fund</a> by 15 November!"
+#~ msgstr "Envoyez votre demande de subvention pour le <a id=\"a1\">fonds Catalyst</a> de la coalition The Green Screen d’ici au 15 novembre !"
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "Apply by 22 January to be a <a id=\"a1\">Tech + Society Fellow!</a>"
+#~ msgstr "Postulez d’ici au 22 janvier pour devenir <a id=\"a1\">Tech + Society Fellow</a> !"
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "Stay tuned! We don't have any calls open right now, but more opportunities will be coming soon."
+#~ msgstr "Restez à l’écoute ! Nous n’avons aucun appel ouvert pour l’instant, mais d’autres opportunités seront bientôt disponibles."
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "We do not currently have any open funding opportunities."
+#~ msgstr "Nous n’avons actuellement aucune possibilité de financement disponible."
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "Applications are now being accepted for the second Alumni Connection Grant cohort! <a id=\"a1\">Apply by 1 October</a>."
+#~ msgstr "Les candidatures pour la deuxième cohorte de la subvention Alumni Connection sont ouvertes ! <a id=\"a1\">Postulez avant le 1er octobre</a>."
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "<a id=\"a1\">Apply to join the next cohort of Mozilla Senior Fellows!</a>"
+#~ msgstr "<a id=\"a1\">Postulez pour rejoindre la prochaine cohorte de Mozilla Senior Fellows !</a>"
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "Find out more about the Responsible Computing Challenge South Africa <a id=\"a1\">call for proposals →</a>"
+#~ msgstr "Apprenez-en davantage sur <a id=\"a1\">l’appel à candidatures</a> du Responsible Computing Challenge en Afrique du Sud →"
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "There are currently no open funding opportunities."
+#~ msgstr "Il n’y a actuellement aucune possibilité de financement disponible."
+
+#~ msgctxt "body.5e7da322-49b7-44d1-bce0-a507b0a99a48.altText"
+#~ msgid "Read Mozilla's AI Funding Principles"
+#~ msgstr "Lire les principes de financement de l’IA de Mozilla"
+
+#~ msgctxt "body.5e7da322-49b7-44d1-bce0-a507b0a99a48.text"
+#~ msgid "Read Mozilla's AI Funding Principles"
+#~ msgstr "Lire les principes de financement de l’IA de Mozilla"
+
+#~ msgctxt "body.5e7da322-49b7-44d1-bce0-a507b0a99a48.text"
+#~ msgid "<a id=\"a1\"><b>Read it here</b></a>"
+#~ msgstr "<a id=\"a1\"><b>Lire les principes</b></a>"
+
+#~ msgctxt "body.5e7da322-49b7-44d1-bce0-a507b0a99a48.text"
+#~ msgid "Rooted in our experience as an AI grantmaker, Mozilla's AI Funding Principles explore how foundations can support more trustworthy artificial intelligence."
+#~ msgstr ""
+#~ "Les principes de financement de l’IA de Mozilla s’appuient sur notre expérience en tant qu’organisme octroyant des subventions pour l’IA et explorent la manière dont les fondations peuvent favoriser"
+#~ " une intelligence artificielle plus digne de confiance."
+
+#~ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+
+#~ msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
+
+#~ msgctxt "body.41f4d169-9ca9-4399-b212-dc7ca8025ba0"
+#~ msgid "We support smart people and bold ideas at the intersection of technology and society."
+#~ msgstr "Nous soutenons des personnes brillantes et des idées audacieuses au croisement de la technologie et de la société."
+
+#~ msgctxt "body.41f4d169-9ca9-4399-b212-dc7ca8025ba0"
+#~ msgid "We urgently need structural changes that unlock the technology’s benefits and confront its harms. But Mozilla cannot do that alone — no one can."
+#~ msgstr ""
+#~ "Nous avons besoin de toute urgence de changements structurels qui permettent de tirer les bénéfices de la technologie tout en combattant ses méfaits. Mais Mozilla ne peut y parvenir seule, et "
+#~ "personne ne le peut."
+
+#~ msgctxt "body.41f4d169-9ca9-4399-b212-dc7ca8025ba0"
+#~ msgid "Through our Fellowships and Awards, Mozilla supports smart people and bold ideas making AI more trustworthy and our digital world healthier."
+#~ msgstr ""
+#~ "Par le biais de nos programmes de bourses et de subventions, Mozilla soutient des personnes brillantes et des idées audacieuses pour rendre l’IA plus digne de confiance et notre monde numérique plus"
+#~ " sain."
+
+#~ msgctxt "body.41f4d169-9ca9-4399-b212-dc7ca8025ba0"
+#~ msgid ""
+#~ "The internet, and especially artificial intelligence (AI), are at an inflection point. The technology is unlocking major benefits, from scientific discovery to new modes of creativity. But its harms"
+#~ " have never been more pressing: AI can be used to deceive and harass, perpetuate bias, and deepen surveillance."
+#~ msgstr ""
+#~ "Internet, et en particulier l’intelligence artificielle (IA), se trouvent à un point d’inflexion. Cette technologie génère des avantages majeurs, allant des découvertes scientifiques à de nouveaux "
+#~ "modes de créativité. Mais ses méfaits n’ont jamais été aussi urgents : l’IA peut être utilisée pour tromper et harceler, perpétuer les préjugés et renforcer la surveillance."
+
+#~ msgctxt "body.41f4d169-9ca9-4399-b212-dc7ca8025ba0"
+#~ msgid ""
+#~ "At present, we are convening <a id=\"a1\">a 2024 cohort of Tech + Society fellows</a> as well as a 2025 cohort of Mozilla Fellows. Moving forward, there will be a single fellowship program, through "
+#~ "which we will seek to engage a diverse group of experts working to make technology more trustworthy. <a id=\"a2\">You can read more about the future of our Fellowship program—and learn how to share "
+#~ "any thoughts you might have with us—here</a>."
+#~ msgstr ""
+#~ "Actuellement, nous réunissons <a id=\"a1\">une cohorte 2024 de boursiers Tech + Society</a> ainsi qu’une cohorte 2025 de boursiers Mozilla. À l’avenir, nous mettrons en place un programme de bourses"
+#~ " unique, par lequel nous chercherons à mobiliser un groupe diversifié d’expert·e·s œuvrant à rendre la technologie plus digne de confiance. <a id=\"a2\">Vous pouvez en savoir plus sur l’avenir de "
+#~ "notre programme de bourses et savoir comment partager toutes vos réflexions ici</a>."
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.0b1c46bd-7cd0-4466-9f05-e43892134b5a.title"
+#~ msgid "Movement Complexities and Geographic Issues"
+#~ msgstr "Complexités des mouvements et problèmes géographiques"
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.0b1c46bd-7cd0-4466-9f05-e43892134b5a.content.6d3fc230-701c-4e06-9904-60cf7e95f749"
+#~ msgid ""
+#~ "We recognize that the global majority are disproportionately impacted by disparities in technological developments and power. We seek to align with existing movements using a geography-focused "
+#~ "commitment to contextualize our grantmaking in a relevant, intersectional and impactful way."
+#~ msgstr ""
+#~ "Nous sommes conscients que la majorité de la planète est touchée de manière disproportionnée par les différences de pouvoir et de progrès technologiques. Nous cherchons à nous aligner sur les "
+#~ "mouvements existants en adoptant une approche centrée sur la géographie afin de contextualiser notre processus de financement de manière pertinente, intersectionnelle et efficace."
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.99a501be-9415-44e2-97bb-0b9793feef76.title"
+#~ msgid "Open Source Movement"
+#~ msgstr "Mouvement open source"
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.99a501be-9415-44e2-97bb-0b9793feef76.content.f15fabff-211a-45b4-bd44-f7c9e2c5b022"
+#~ msgid ""
+#~ "Grounded in our open source values, we seek to more equitably redistribute power by supporting open technologies and investing in people who are mitigating ‘closed’ technologies’ harms. As a "
+#~ "movement and methodology, the practices of openness, transparency and community stewardship guide our work and that of our awardees and fellows."
+#~ msgstr ""
+#~ "En nous reposant sur nos valeurs open source, nous nous efforçons de redistribuer le pouvoir de manière plus équitable en soutenant les technologies ouvertes et en investissant dans des personnes "
+#~ "qui limitent les méfaits des technologies « fermées ». En tant que mouvement et méthodologie, les pratiques d’ouverture, de transparence et de gestion communautaire guident notre travail et celui de"
+#~ " nos titulaires de bourses et de subventions."
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.60e8c574-3e3a-45fd-ab96-76cf84c17b7e.title"
+#~ msgid "Human Rights"
+#~ msgstr "Droits humains"
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.60e8c574-3e3a-45fd-ab96-76cf84c17b7e.content.df5ae4a9-4b1d-4390-bd66-be5ddfb3f7dd"
+#~ msgid ""
+#~ "Human rights provides a powerful approach to all of our grant making: it provides a framework to guide our interactions, underscores the assertion that technology plays a vital role in exercising "
+#~ "rights for everyone, and intersects with other justice movements."
+#~ msgstr ""
+#~ "Les droits humains fournissent un puissant angle d’approche pour l’ensemble de nos activités d’attribution de subventions : ils fournissent un cadre pour guider nos interactions, soulignent "
+#~ "l’affirmation selon laquelle la technologie joue un rôle vital dans l’exercice des droits de chacun et recoupe les autres mouvements pour la justice."
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.cef0d154-4010-4615-91aa-10e454894745.title"
+#~ msgid "Reframed Community Justice"
+#~ msgstr "Redéfinition de la justice communautaire"
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.cef0d154-4010-4615-91aa-10e454894745.content.15b703a8-29e5-46bd-bf8c-865c42f001ef"
+#~ msgid ""
+#~ "Our work is framed through a commitment to community justice, which includes where and how inequality manifests globally and how different issues intersect in specific communities. This encompasses,"
+#~ " but is not limited to, racial justice, decolonization, indigenous justice, economic justice, anti-caste movements and gender justice and recognizes the complex history of migrations, colonialism, "
+#~ "economic colonization and systems of power."
+#~ msgstr ""
+#~ "Notre travail s’appuie sur un engagement en faveur de la justice communautaire, qui considère notamment où et comment les inégalités se manifestent à l’échelle mondiale et comment différentes "
+#~ "problématiques se recoupent au sein de communautés spécifiques. Cela comprend, sans s’y limiter, la justice raciale, la décolonisation, la justice indigène, la justice économique, les mouvements "
+#~ "anti-castes et la justice de genre, et reconnaît l’histoire complexe des migrations, du colonialisme, de la colonisation économique et des systèmes de pouvoir."
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.742e5d3d-ff7a-4e4d-b504-671b6497a10e.title"
+#~ msgid "Intersectionality"
+#~ msgstr "Intersectionnalité"
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.742e5d3d-ff7a-4e4d-b504-671b6497a10e.content.39edad45-1bee-4a11-b103-f9122bbd4386"
+#~ msgid ""
+#~ "Intersectionality as a lens and method that is dynamic, evolving, internal and external facing, that recognizes different identities and realities, acknowledges the way those are interconnected, and"
+#~ " the ways in which power impacts those interactions, or power relates to those interconnections."
+#~ msgstr ""
+#~ "L’intersectionnalité en tant que prisme et méthode dynamique, évolutif, faisant face à l’interne et à l’externe, qui reconnaît différentes identités et réalités, qui reconnaît la façon dont celles-"
+#~ "ci sont reliées entre elles et les façons dont le pouvoir impacte ces interactions, ou dont le pouvoir est lié à ces interconnexions."
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.b1bb8264-5892-40f3-b886-fe9384be0b66.title"
+#~ msgid "Long Term Alignment"
+#~ msgstr "Alignement à long terme"
+
+#~ msgctxt "body.00bbf4f6-805b-4f5e-8f17-f5443dbdf2d2.accordion_items.b1bb8264-5892-40f3-b886-fe9384be0b66.content.494d50bc-cb50-49c4-9e8c-79d03ea17368"
+#~ msgid ""
+#~ "Our long term commitment to a healthy, open internet informs our philanthropic investments: we support both nascent and emerging issues while centering sustainability, opportunity, and movement "
+#~ "building. We recognize change can be iterative and dynamic for all the movements with whom we partner. We want to show up as a responsible funder. We hold true to a clear, shared North Star: that "
+#~ "the internet must remain a global, public good -- open and accessible to all."
+#~ msgstr ""
+#~ "Notre engagement à long terme en faveur d’un Internet sain et ouvert oriente nos investissements philanthropiques : nous soutenons à la fois des problématiques naissantes et émergentes tout en nous "
+#~ "concentrant sur la durabilité, les opportunités et la création d’un mouvement. Nous sommes conscients que le changement peut être itératif et dynamique pour tous les mouvements avec lesquels nous "
+#~ "collaborons. Nous voulons apparaître comme un bailleur de fonds responsable. Nous restons fidèles à une direction claire et commune : qu’Internet reste un bien commun mondial, ouvert et accessible à"
+#~ " tout le monde."
+
+#~ msgctxt "body.2d7555e8-7e55-43dd-acb1-08ebe0dee60a"
+#~ msgid "Our Community"
+#~ msgstr "Notre communauté"
+
+#~ msgctxt "body.2d7555e8-7e55-43dd-acb1-08ebe0dee60a"
+#~ msgid ""
+#~ "Mozilla Fellows and Awardees have briefed legislatures, shaped public policy, pushed the largest tech companies to improve their products, and more. Mozilla Fellows and Awardees are policymakers in "
+#~ "Kenya, journalists in Brazil, engineers in Germany, activists in the United States, researchers in Namibia, and data scientists in the Netherlands. They are reimagining new norms, policies, "
+#~ "infrastructure, and technologies — every single day."
+#~ msgstr ""
+#~ "Les bénéficiaires de bourses et de subventions Mozilla ont informé les législatures, façonné des politiques publiques, incité les plus grandes entreprises de la tech à améliorer leurs produits, et "
+#~ "bien plus. Les bénéficiaires de bourses et de subventions Mozilla sont des responsables politiques au Kenya, des journalistes au Brésil, des ingénieur·e·s en Allemagne, des militant·e·s aux États-"
+#~ "Unis, des chercheurs et chercheuses en Namibie et des data scientists aux Pays-Bas. Chaque jour, toutes ces personnes réinventent de nouvelles normes, politiques, infrastructures et technologies."
+
+#~ msgctxt "body.19a3bc55-a461-4cc5-8015-f37cb79a7662"
+#~ msgid "Learn More"
+#~ msgstr "En savoir plus"
+
+#~ msgctxt "body.e4c66279-c042-4c6a-853a-9a994516c81f.altText"
+#~ msgid "Picture of Fellows"
+#~ msgstr "Photo de bénéficiaires de bourses Mozilla"
+
+#~ msgctxt "body.e4c66279-c042-4c6a-853a-9a994516c81f.text"
+#~ msgid "Opportunities"
+#~ msgstr "Opportunités"
+
+#~ msgctxt "body.e4c66279-c042-4c6a-853a-9a994516c81f.text"
+#~ msgid "<a id=\"a1\">Find more opportunities</a> →"
+#~ msgstr "<a id=\"a1\">Découvrir plus d’opportunités</a> →"
+
+#~ msgctxt "body.e4c66279-c042-4c6a-853a-9a994516c81f.text"
+#~ msgid "Mozilla Fellowships provide resources, community, and amplification to internet health leaders building a more ​humane​ ​digital​ ​world."
+#~ msgstr "Les bourses Mozilla fournissent des ressources, une aide communautaire et une visibilité à des pionniers et pionnières œuvrant pour un Internet sain et un monde numérique plus humain."
+
+#~ msgctxt "body.0df8db45-8ef2-492c-adf4-9ed82dc5accd.altText"
+#~ msgid "How we fund icon"
+#~ msgstr "Icône financement"
+
+#~ msgctxt "body.0df8db45-8ef2-492c-adf4-9ed82dc5accd.text"
+#~ msgid "How We Fund"
+#~ msgstr "Comment finançons-nous ?"
+
+#~ msgctxt "body.0df8db45-8ef2-492c-adf4-9ed82dc5accd.text"
+#~ msgid "<a id=\"a1\">Learn more about how we fund →</a>"
+#~ msgstr "<a id=\"a1\">En savoir plus sur notre financement →</a>"
+
+#~ msgctxt "body.0df8db45-8ef2-492c-adf4-9ed82dc5accd.text"
+#~ msgid ""
+#~ "Rooted in our experience as an AI grantmaker, Mozilla's AI Funding Principles explores how foundations can support more trustworthy artificial intelligence and guide our approach to grantmaking."
+#~ msgstr ""
+#~ "Les principes de financement de l’IA de Mozilla s’appuient sur notre expérience en tant qu’organisme octroyant des subventions pour l’IA et explorent la manière dont les fondations peuvent favoriser"
+#~ " une intelligence artificielle plus digne de confiance et guident notre approche en matière de financement."
+
+#~ msgctxt "body.c871e123-332c-42d6-bca9-b0561afc9909.alt_text"
+#~ msgid "image"
+#~ msgstr "image"
+
+#~ msgctxt "body.c871e123-332c-42d6-bca9-b0561afc9909.title"
+#~ msgid "Shaping the Future: Mozilla Fellows Share 2025 Tech Visions"
+#~ msgstr "Façonner l’avenir : des bénéficiaires de bourses Mozilla partagent leur vision pour la tech en 2025"
+
+#~ msgctxt "body.c871e123-332c-42d6-bca9-b0561afc9909.body"
+#~ msgid "From groundbreaking innovations to bold visions, our 2025 Fellows share their predictions on where technology is headed—and the impact it could have on the world. See their predictions."
+#~ msgstr ""
+#~ "Qu’il s’agisse d’innovations révolutionnaires ou de visions ambitieuses, nos boursiers 2025 nous livrent leurs prévisions sur l’évolution de la technologie et son éventuel impact sur le monde. "
+#~ "Découvrez leurs prévisions."
