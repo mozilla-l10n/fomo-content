@@ -5,7 +5,7 @@ on:
       - main
   workflow_dispatch:
 jobs:
-  extraction:
+  fix_headers:
     concurrency:
       group: ${{ github.ref }}
       cancel-in-progress: true
@@ -26,11 +26,6 @@ jobs:
         run: >
           python .github/scripts/extract_headers.py
           --path .
-      - name: Add comment on completion
-        run: >
-          python .github/scripts/comment_complete_experiment.py
-          --repo ${{ github.repository }}
-          --token ${{ secrets.API_GITHUB_TOKEN }}
       - name: Commit changes
         continue-on-error: true
         run : |
