@@ -28,8 +28,8 @@ msgid "Mozilla Festival"
 msgstr "Festival Mozilla"
 
 msgctxt "cta_button_label"
-msgid "Sign up for updates"
-msgstr "Regístrate para recibir actualizaciones"
+msgid "Secure your badge"
+msgstr ""
 
 msgctxt "banner_heading"
 msgid "Mozilla Festival 2025"
@@ -42,6 +42,10 @@ msgstr "Del 7 al 9 de noviembre de 2025 | BARCELONA"
 msgctxt "banner_text"
 msgid "The premier gathering for people working to build a better digital world."
 msgstr "El principal encuentro de las personas que trabajan para construir un mundo digital mejor."
+
+msgctxt "banner_link_text"
+msgid "Secure your badge"
+msgstr ""
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.heading"
 msgid "Join us in Barcelona to celebrate 15 years of MozFest."
@@ -96,8 +100,8 @@ msgstr ""
 "invita a los espectadores a interactuar con los conceptos de confianza, elección y percepción de una manera abstracta e inmersiva."
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.title"
-msgid "2000+"
-msgstr "+2000"
+msgid "3000+"
+msgstr ""
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.description"
 msgid "people redefining tech and culture"
@@ -127,21 +131,9 @@ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.2c37c0d6-6ba7-4fcb
 msgid "global community"
 msgstr "comunidad global"
 
-msgctxt "body.41ffe282-00de-43fa-83fd-fc917c47da8f.alt_text"
-msgid "123"
-msgstr "123"
-
-msgctxt "body.41ffe282-00de-43fa-83fd-fc917c47da8f.title"
-msgid "Our theme for 2025: Unlearning"
-msgstr "Nuestro tema para 2025: Desaprender"
-
-msgctxt "body.41ffe282-00de-43fa-83fd-fc917c47da8f.body"
-msgid ""
-"The future won’t be built by following old rules. This climate calls us to reexamine the systems, institutions and defaults we have all constructed and supported, and look with fresh eyes at "
-"solutions – not just critiques."
+msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
+msgid "Secure your badge now -  early bird pricing ends June 1st"
 msgstr ""
-"El futuro no se construirá siguiendo viejas reglas. Este clima nos llama a reexaminar los sistemas, las instituciones y las normas que hemos construido y apoyado, y a obsevar las soluciones con "
-"nuevos ojos, en lugar de solo hacer críticas."
 
 msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
 msgid "Join Us"
@@ -176,18 +168,20 @@ msgid "Get in touch"
 msgstr "Ponte en contacto"
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.alt_text"
-msgid "A volunteer wearing a blue \"Mozilla Festival 2018 #MozHelp\" T-shirt stands in a busy event space, assisting attendees. People in the background engage in conversations and activities."
+msgid "Two people sit on a wooden bench by a waterfront. One holds a microphone with a purple windscreen and a visible label, while the other gestures mid-conversation."
 msgstr ""
-"Un voluntario con una camiseta azul que dice «Mozilla Festival 2018 #MozHelp» se encuentra en un concurrido espacio para eventos, ayudando a los asistentes. En el fondo, hay personas conversando y "
-"realizando actividades."
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.title"
-msgid "Volunteer"
-msgstr "Voluntariado"
+msgid "Press"
+msgstr ""
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.body"
-msgid "Step behind the scenes and attend Mozilla Festival for free by giving some of your time as a volunteer.  Applications open soon."
-msgstr "Entra en escena y asiste al Festival Mozilla de forma gratuita donando parte de tu tiempo como voluntario o voluntaria. Las inscripciones se abrirán pronto."
+msgid "Get access to the voices and ideas shaping the digital world."
+msgstr ""
+
+msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.link.5350e7e8-84e1-428a-9f66-ff6b41999bd4.label"
+msgid "Register for press credentials"
+msgstr ""
 
 msgctxt "body.6f34e914-10cc-46a0-a107-356cb0f46eb0"
 msgid "Unforgettable Highlights"
@@ -359,6 +353,10 @@ msgstr "La IA y las tecnologías populares no cambiarán el mundo por sí solas:
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.metadata"
 #~ msgid "June 13th, 7:30pm CET"
 #~ msgstr "13 de junio, 19:30 CET"
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Sign up for updates"
+#~ msgstr "Regístrate para recibir actualizaciones"
 
 #~ msgctxt "banner_heading"
 #~ msgid "Arrive with an idea, leave with a community."
@@ -1728,3 +1726,37 @@ msgstr "La IA y las tecnologías populares no cambiarán el mundo por sí solas:
 #~ msgctxt "banner_link_text"
 #~ msgid "Connect on Discord"
 #~ msgstr "Conéctate en Discord"
+
+#~ msgctxt "body.41ffe282-00de-43fa-83fd-fc917c47da8f.alt_text"
+#~ msgid "123"
+#~ msgstr "123"
+
+#~ msgctxt "body.41ffe282-00de-43fa-83fd-fc917c47da8f.title"
+#~ msgid "Our theme for 2025: Unlearning"
+#~ msgstr "Nuestro tema para 2025: Desaprender"
+
+#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.title"
+#~ msgid "2000+"
+#~ msgstr "+2000"
+
+#~ msgctxt "body.41ffe282-00de-43fa-83fd-fc917c47da8f.body"
+#~ msgid ""
+#~ "The future won’t be built by following old rules. This climate calls us to reexamine the systems, institutions and defaults we have all constructed and supported, and look with fresh eyes at "
+#~ "solutions – not just critiques."
+#~ msgstr ""
+#~ "El futuro no se construirá siguiendo viejas reglas. Este clima nos llama a reexaminar los sistemas, las instituciones y las normas que hemos construido y apoyado, y a obsevar las soluciones con "
+#~ "nuevos ojos, en lugar de solo hacer críticas."
+
+#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.alt_text"
+#~ msgid "A volunteer wearing a blue \"Mozilla Festival 2018 #MozHelp\" T-shirt stands in a busy event space, assisting attendees. People in the background engage in conversations and activities."
+#~ msgstr ""
+#~ "Un voluntario con una camiseta azul que dice «Mozilla Festival 2018 #MozHelp» se encuentra en un concurrido espacio para eventos, ayudando a los asistentes. En el fondo, hay personas conversando y "
+#~ "realizando actividades."
+
+#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.title"
+#~ msgid "Volunteer"
+#~ msgstr "Voluntariado"
+
+#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.body"
+#~ msgid "Step behind the scenes and attend Mozilla Festival for free by giving some of your time as a volunteer.  Applications open soon."
+#~ msgstr "Entra en escena y asiste al Festival Mozilla de forma gratuita donando parte de tu tiempo como voluntario o voluntaria. Las inscripciones se abrirán pronto."
