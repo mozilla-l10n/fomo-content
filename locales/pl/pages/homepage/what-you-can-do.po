@@ -25,7 +25,7 @@ msgid "Add your name"
 msgstr ""
 
 msgctxt "ctaButtonURL"
-msgid "https://foundation.mozilla.org/campaigns/tell-the-uk-government-dont-break-apples-icloud-encryption/"
+msgid "https://www.mozillafoundation.org/campaigns/tell-the-uk-government-dont-break-apples-icloud-encryption/"
 msgstr ""
 
 msgctxt "ctaHeroHeader2"
@@ -43,8 +43,8 @@ msgid "Donate Now"
 msgstr "Wpłać datek teraz"
 
 msgctxt "ctaButtonURL2"
-msgid "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_hero&amp;utm_term=en"
-msgstr "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_hero&amp;utm_term=pl"
+msgid "https://www.mozillafoundation.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_hero&amp;utm_term=en"
+msgstr ""
 
 msgctxt "ctaHeroHeader3"
 msgid "The Internet starts with us"
@@ -99,8 +99,8 @@ msgid "Be A Fellow"
 msgstr "Zostań stypendystą"
 
 msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.buttonURL"
-msgid "https://foundation.mozilla.org/what-we-fund/fellowships/"
-msgstr "https://foundation.mozilla.org/what-we-fund/fellowships/"
+msgid "https://www.mozillafoundation.org/what-we-fund/fellowships/"
+msgstr ""
 
 #~ msgctxt "ctaHeroHeader"
 #~ msgid "Reclaim the internet: donate to Mozilla today"
@@ -194,6 +194,10 @@ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships/"
 #~ msgstr "Osoby takie jak Ty pomagają nam stać na straży zdrowego i dostępnego dla wszystkich Internetu. Przekaż datek na rzecz otwartej i wolnej przestrzeni online."
 
 #~ msgctxt "ctaButtonURL2"
+#~ msgid "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_hero&amp;utm_term=en"
+#~ msgstr "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_hero&amp;utm_term=pl"
+
+#~ msgctxt "ctaButtonURL2"
 #~ msgid "?form=donate"
 #~ msgstr "?form=donate"
 
@@ -224,3 +228,7 @@ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships/"
 #~ msgctxt "h2Subheader"
 #~ msgid "From signing a petition, contributing to a project or attending an event, people can save the Internet. Here are ways to get involved."
 #~ msgstr "Petycje, projekty, wydarzenia — Internet można ratować na wiele sposobów. Oto jak możesz zacząć działać."
+
+#~ msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.buttonURL"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships/"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships/"
