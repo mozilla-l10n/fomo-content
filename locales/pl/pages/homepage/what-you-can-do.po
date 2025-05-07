@@ -4,9 +4,9 @@ msgstr ""
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 35f3fcc0-d547-4dbf-b8c1-e061a6fc434c\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 35f3fcc0-d547-4dbf-b8c1-e061a6fc434c\n"
 
 msgctxt "title"
 msgid "What you can do"
@@ -101,3 +101,134 @@ msgstr "Zostań stypendystą"
 msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.buttonURL"
 msgid "https://www.mozillafoundation.org/what-we-fund/fellowships/"
 msgstr "https://www.mozillafoundation.org/what-we-fund/fellowships/"
+
+#~ msgctxt "ctaHeroHeader"
+#~ msgid "Reclaim the internet: donate to Mozilla today"
+#~ msgstr "Odzyskaj internet: przekaż datek Mozilli już dziś"
+
+#~ msgctxt "ctaHeroHeader"
+#~ msgid "We Want Voice AI to Work for Everyone"
+#~ msgstr "Chcemy, żeby sztuczna inteligencja rozumiała głos nas wszystkich"
+
+#~ msgctxt "ctaHeroHeader"
+#~ msgid "MozFest House: Amsterdam June 19-21"
+#~ msgstr "MozFest House: Amsterdam, 19-21 czerwca"
+
+#~ msgctxt "ctaHeroHeader"
+#~ msgid "WhatsApp: Update Your Product to Protect Global Elections"
+#~ msgstr "WhatsApp: zaktualizuj swój produkt, aby chronić wybory na całym świecie"
+
+#~ msgctxt "ctaHeroSubhead"
+#~ msgid "Mozilla is fighting for an internet that is open and accessible to all, that respects people and their privacy, and that promotes human dignity."
+#~ msgstr ""
+#~ "Mozilla walczy o zachowanie otwartości i dostępności internetu dla wszystkich. Chcemy, aby w sieci szanowane były prawa i prywatność wszystkich użytkowników, a ludzka godność była najważniejsza."
+
+#~ msgctxt "ctaHeroSubhead"
+#~ msgid "Donate now to help build a healthier online world."
+#~ msgstr "Wpłać datek teraz i pomóż nam tworzyć zdrowszy świat online."
+
+#~ msgctxt "ctaHeroSubhead"
+#~ msgid ""
+#~ "We don't all speak in one voice and we should all be heard. Project Common Voice is a Mozilla Initiative to improve voice recognition technology for all, by collecting data in multiple languages, "
+#~ "openly."
+#~ msgstr ""
+#~ "Nie wszyscy mówimy jednym głosem, ale wszyscy zasługujemy na wysłuchanie. Projekt Common Voice to inicjatywa Mozilli, która ma na celu ulepszenie technologii rozpoznawania głosu dla wszystkich, "
+#~ "poprzez gromadzenie danych w wielu językach — w sposób otwarty."
+
+#~ msgctxt "ctaHeroSubhead"
+#~ msgid ""
+#~ "This year, MozFest House is harnessing our collective power to better our digital landscape, build transformative systems, and sustain momentum within our community towards positive human and "
+#~ "digital rights progress"
+#~ msgstr ""
+#~ "W tym roku MozFest House pozwala nam się zjednoczyć i połączyć siły, aby poprawić nasz cyfrowy krajobraz, budować transformacyjne systemy i utrzymywać w naszej społeczności dynamikę dążącą do "
+#~ "pozytywnego postępu w zakresie praw człowieka i praw cyfrowych"
+
+#~ msgctxt "ctaHeroSubhead"
+#~ msgid "TikTok's addictive algorithm keeps you watching for hours on end. Yet very little is understood about how it works — TikTok doesn't provide robust tools for researchers."
+#~ msgstr ""
+#~ "Uzależniający algorytm TikToka sprawia, że użytkownicy oglądają filmiki bez przerwy, czasami przez długie godziny. Jednak wciąż niewiele wiemy o jego funkcjonowaniu, bo TikTok nie udostępnia "
+#~ "badaczom odpowiednich narzędzi."
+
+#~ msgctxt "ctaHeroSubhead"
+#~ msgid "Add your name to ask WhatsApp to update its product to protect global elections."
+#~ msgstr "Dodaj swoje imię i nazwisko, aby poprosić twórców aplikacji WhatsApp o aktualizację produktu w celu ochrony wyborów na całym świecie."
+
+#~ msgctxt "ctaButtonTitle"
+#~ msgid "Donate now"
+#~ msgstr "Wpłać datek teraz"
+
+#~ msgctxt "ctaButtonTitle"
+#~ msgid "Contribute Your Voice Today"
+#~ msgstr "Nagraj swój głos już dziś"
+
+#~ msgctxt "ctaButtonTitle"
+#~ msgid "Secure Your Ticket"
+#~ msgstr "Zdobądź swój bilet"
+
+#~ msgctxt "ctaButtonTitle"
+#~ msgid "Add Your Name"
+#~ msgstr "Podpisz petycję"
+
+#~ msgctxt "ctaButtonURL"
+#~ msgid "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_1&amp;utm_term=en"
+#~ msgstr "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_1&amp;utm_term=pl"
+
+#~ msgctxt "ctaButtonURL"
+#~ msgid "https://commonvoice.mozilla.org/"
+#~ msgstr "https://commonvoice.mozilla.org/"
+
+#~ msgctxt "ctaButtonURL"
+#~ msgid "https://www.mozillafestival.org/house/"
+#~ msgstr "https://www.mozillafestival.org/house/"
+
+#~ msgctxt "ctaButtonURL"
+#~ msgid "https://foundation.mozilla.org/?form=FUNXBEJRNED&amp;c_id=7014x000000eQOC"
+#~ msgstr "https://foundation.mozilla.org/?form=FUNXBEJRNED&amp;c_id=7014x000000eQOC"
+
+#~ msgctxt "ctaButtonURL"
+#~ msgid "https://foundation.mozilla.org/campaigns/whatsapp-must-act-to-protect-elections/"
+#~ msgstr "https://foundation.mozilla.org/pl/campaigns/whatsapp-must-act-to-protect-elections/"
+
+#~ msgctxt "ctaHeroSubhead2"
+#~ msgid "People like you help us stand for a healthy accessible web for all. Donate to keep the web open and free."
+#~ msgstr "Osoby takie jak Ty pomagają nam stać na straży zdrowego i dostępnego dla wszystkich Internetu. Przekaż datek na rzecz otwartej i wolnej przestrzeni online."
+
+#~ msgctxt "ctaButtonURL2"
+#~ msgid "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_hero&amp;utm_term=en"
+#~ msgstr "https://foundation.mozilla.org/what-you-can-do/?form=wtg&amp;utm_medium=web&amp;utm_source=cando-page&amp;utm_campaign=WTG&amp;utm_content=button_hero&amp;utm_term=pl"
+
+#~ msgctxt "ctaButtonURL2"
+#~ msgid "?form=donate"
+#~ msgstr "?form=donate"
+
+#~ msgctxt "ctaHeroHeader3"
+#~ msgid "Spread the word"
+#~ msgstr "Opowiedz o nas innym"
+
+#~ msgctxt "ctaHeroSubhead3"
+#~ msgid "A healthy internet needs people. Share Mozilla’s work with your people to grow."
+#~ msgstr "Bez ludzi nie ma zdrowego Internetu. Pokaż znajomym, czym zajmuje się Mozilla."
+
+#~ msgctxt "ctaFacebook3"
+#~ msgid "http://foundation.mozilla.org/"
+#~ msgstr "http://foundation.mozilla.org/"
+
+#~ msgctxt "ctaTwitter3"
+#~ msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
+#~ msgstr "Kliknij tutaj, aby razem z Mozillą dbać o zdrowie Internetu: http://foundation.mozilla.org/"
+
+#~ msgctxt "ctaEmailShareBody3"
+#~ msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
+#~ msgstr "Kliknij tutaj, aby razem z Mozillą dbać o zdrowie Internetu: http://foundation.mozilla.org/"
+
+#~ msgctxt "ctaEmailShareSubject3"
+#~ msgid "The Internet starts with people"
+#~ msgstr "Internet to przede wszystkim ludzie"
+
+#~ msgctxt "h2Subheader"
+#~ msgid "From signing a petition, contributing to a project or attending an event, people can save the Internet. Here are ways to get involved."
+#~ msgstr "Petycje, projekty, wydarzenia — Internet można ratować na wiele sposobów. Oto jak możesz zacząć działać."
+
+#~ msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.buttonURL"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships/"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships/"
