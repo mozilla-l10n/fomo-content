@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 0527c03a-0321-4612-9c79-c2812a6aa016\n"
 
 msgctxt "name"
 msgid "Festival Badge"
@@ -29,15 +28,3 @@ msgstr ""
 msgctxt "button_text"
 msgid "Buy Festival Badge"
 msgstr "Kup plakietkę festiwalową"
-
-#~ msgctxt "name"
-#~ msgid "Festival Badge - Early Bird"
-#~ msgstr "Plakietki festiwalowe – Early Bird"
-
-#~ msgctxt "cost"
-#~ msgid "€319"
-#~ msgstr "319 EUR"
-
-#~ msgctxt "sticker_text"
-#~ msgid "Save 20%"
-#~ msgstr "Zaoszczędź 20%"
