@@ -9,12 +9,12 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 0527c03a-0321-4612-9c79-c2812a6aa016\n"
 
 msgctxt "name"
-msgid "Festival Badge - Early Bird"
-msgstr "Plakietki festiwalowe – Early Bird"
+msgid "Festival Badge"
+msgstr ""
 
 msgctxt "cost"
-msgid "€319"
-msgstr "319 EUR"
+msgid "€399"
+msgstr ""
 
 msgctxt "group"
 msgid "Festival Badge"
@@ -26,10 +26,18 @@ msgstr ""
 "Zyskujesz dostęp do pełnego festiwalowego doświadczenia. Od głównych rozmów po praktyczne sesje – dzięki tej plakietce znajdziesz się tam, gdzie nabierają kształtu odważne pomysły z cyfrowego "
 "świata."
 
-msgctxt "sticker_text"
-msgid "Save 20%"
-msgstr "Zaoszczędź 20%"
-
 msgctxt "button_text"
 msgid "Buy Festival Badge"
 msgstr "Kup plakietkę festiwalową"
+
+#~ msgctxt "name"
+#~ msgid "Festival Badge - Early Bird"
+#~ msgstr "Plakietki festiwalowe – Early Bird"
+
+#~ msgctxt "cost"
+#~ msgid "€319"
+#~ msgstr "319 EUR"
+
+#~ msgctxt "sticker_text"
+#~ msgid "Save 20%"
+#~ msgstr "Zaoszczędź 20%"

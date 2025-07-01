@@ -9,12 +9,12 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 455a9c0a-656b-476a-b1e4-b444973bf1f9\n"
 
 msgctxt "name"
-msgid "Festival Badge - Early Bird"
-msgstr "Credencial del festival - Venta anticipada"
+msgid "Festival Badge"
+msgstr ""
 
 msgctxt "cost"
-msgid "€319"
-msgstr "319 €"
+msgid "€399"
+msgstr ""
 
 msgctxt "group"
 msgid "Festival Badge"
@@ -26,10 +26,18 @@ msgstr ""
 "Tu pase de acceso completo a la experiencia del festival. Desde conversaciones en el escenario principal hasta sesiones prácticas, esta credencial te pone en el lugar donde toman forma las ideas "
 "audaces para el mundo digital."
 
-msgctxt "sticker_text"
-msgid "Save 20%"
-msgstr "Ahorra un 20 %"
-
 msgctxt "button_text"
 msgid "Buy Festival Badge"
 msgstr "Compra tu credencial"
+
+#~ msgctxt "name"
+#~ msgid "Festival Badge - Early Bird"
+#~ msgstr "Credencial del festival - Venta anticipada"
+
+#~ msgctxt "cost"
+#~ msgid "€319"
+#~ msgstr "319 €"
+
+#~ msgctxt "sticker_text"
+#~ msgid "Save 20%"
+#~ msgstr "Ahorra un 20 %"

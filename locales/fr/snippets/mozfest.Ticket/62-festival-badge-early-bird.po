@@ -9,12 +9,12 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 89a0c4de-3791-4f33-87c4-75f956ddd3d5\n"
 
 msgctxt "name"
-msgid "Festival Badge - Early Bird"
-msgstr "Festival Badge - Early Bird"
+msgid "Festival Badge"
+msgstr ""
 
 msgctxt "cost"
-msgid "€319"
-msgstr "319 €"
+msgid "€399"
+msgstr ""
 
 msgctxt "group"
 msgid "Festival Badge"
@@ -26,10 +26,18 @@ msgstr ""
 "Votre pass pour vivre l’expérience complète du festival. Qu’il s’agisse de conversations sur la scène principale ou de sessions pratiques, ce badge vous permet de découvrir des idées audacieuses "
 "pour le monde numérique."
 
-msgctxt "sticker_text"
-msgid "Save 20%"
-msgstr "Économisez 20 %"
-
 msgctxt "button_text"
 msgid "Buy Festival Badge"
 msgstr "Acheter le badge Festival"
+
+#~ msgctxt "name"
+#~ msgid "Festival Badge - Early Bird"
+#~ msgstr "Festival Badge - Early Bird"
+
+#~ msgctxt "cost"
+#~ msgid "€319"
+#~ msgstr "319 €"
+
+#~ msgctxt "sticker_text"
+#~ msgid "Save 20%"
+#~ msgstr "Économisez 20 %"
