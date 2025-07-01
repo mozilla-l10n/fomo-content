@@ -4,9 +4,9 @@ msgstr ""
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: f25271a5-e316-4c10-9811-e8492c7bf968\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: f25271a5-e316-4c10-9811-e8492c7bf968\n"
 
 msgctxt "name"
 msgid "Academia Badge"
@@ -27,3 +27,7 @@ msgstr "Este crachá oferece a alunos, pesquisadores e educadores acesso total a
 msgctxt "button_text"
 msgid "Buy Academia Badge"
 msgstr "Comprar crachá acadêmico"
+
+#~ msgctxt "name"
+#~ msgid "Academia Badges - Early Bird"
+#~ msgstr "Crachás Acadêmicos - Venda antecipada"
