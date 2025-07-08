@@ -9,8 +9,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: bd1b0837-4ca8-4bf4-aeb0-ff963853de03\n"
 
 msgctxt "header"
-msgid "Let’s protect users' privacy on Meta’s AI app — together."
-msgstr "Schützen wir die Privatsphäre der Nutzer*innen in Metas KI-App – gemeinsam."
+msgid "You helped make Meta’s AI app safer — thank you."
+msgstr "Sie haben dazu beigetragen, die Meta KI-App sicherer zu machen. Vielen Dank!"
 
 msgctxt "body"
 msgid "Because people like you spoke out, Meta - if only briefly - added a warning screen to help users avoid accidentally sharing private AI chats."
@@ -27,3 +27,7 @@ msgstr "Ja, ich spende"
 msgctxt "dismiss_text"
 msgid "No thanks"
 msgstr "Nein, danke"
+
+#~ msgctxt "header"
+#~ msgid "Let’s protect users' privacy on Meta’s AI app — together."
+#~ msgstr "Schützen wir die Privatsphäre der Nutzer*innen in Metas KI-App – gemeinsam."
