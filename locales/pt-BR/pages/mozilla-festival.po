@@ -24,9 +24,9 @@ msgctxt "title"
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
-msgctxt "cta_button_label"
-msgid "Secure your badge"
-msgstr "Garanta já o seu crachá de acesso"
+msgctxt "nav_cta.9140b030-0ebd-47ed-8fe8-35c1289774ac.button_label"
+msgid "Secure your ticket"
+msgstr ""
 
 msgctxt "banner_heading"
 msgid "Mozilla Festival 2025"
@@ -40,9 +40,9 @@ msgctxt "banner_text"
 msgid "The premier gathering for people working to build a better digital world."
 msgstr "O principal encontro para quem trabalha por um mundo digital melhor"
 
-msgctxt "banner_link_text"
-msgid "Secure your badge"
-msgstr "Garanta já o seu crachá de acesso"
+msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.button_label"
+msgid "Secure your ticket"
+msgstr ""
 
 msgctxt "body.1ce48040-cbfc-4fcd-bd3b-85426fb12132.alt_text"
 msgid "A photograph of Ruha Benjamin"
@@ -292,10 +292,6 @@ msgstr "Zâmbia"
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1e4048a2-1635-4874-bbf5-ea3089c41dd1.body"
 msgid "AI and grassroots technology won’t change the world on their own—it’s how communities use them that will."
 msgstr "O que mudará o mundo não é a IA ou a tecnologia de base, mas como serão utilizadas pelas comunidades."
-
-#~ msgctxt "cta_button_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Garanta seu ingresso"
 
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
 #~ msgid "Call for Proposals"
@@ -1360,33 +1356,13 @@ msgstr "O que mudará o mundo não é a IA ou a tecnologia de base, mas como ser
 #~ msgid "Tech We Trust"
 #~ msgstr "Tecnologia em que confiamos"
 
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.898f5bea-0a5a-4758-b9cd-2e188c8ecffe.buttons.c4595b39-b4a5-4a6d-b9de-b5a3c9f25345.label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Garanta seu ingresso"
-
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.1a30556f-d227-46c2-aff7-9d966cd9fa11.title"
 #~ msgid "Who Pulls The Strings Of AI?"
 #~ msgstr "Quem manipula inteligência artificial?"
 
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.1a30556f-d227-46c2-aff7-9d966cd9fa11.buttons.4e44c217-361e-45e8-b522-93c6364a772d.label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Garanta seu ingresso"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.buttons.ea6ab0cf-f31d-4c25-afad-cbdfaca97524.label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Garanta seu ingresso"
-
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
 #~ msgid "Fostering Transparency and Building a Cooperative Economy"
 #~ msgstr "Promovendo a transparência e construindo uma economia cooperativa"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.cd37d31c-0e90-4675-b2fd-98918d21884c.label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Garanta seu ingresso"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.buttons.8a7f3134-cb0d-40cd-9e1c-ee2127c13ebe.label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Garanta seu ingresso"
 
 #~ msgctxt "body.e01b0013-000d-4530-aed7-599cfc9571ea"
 #~ msgid "MozFest On-Demand"
@@ -1874,6 +1850,14 @@ msgstr "O que mudará o mundo não é a IA ou a tecnologia de base, mas como ser
 #~ msgctxt "banner_meta"
 #~ msgid "Announcing 2024 Dates Soon"
 #~ msgstr "Em breve anunciaremos as datas de 2024"
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Secure your badge"
+#~ msgstr "Garanta já o seu crachá de acesso"
+
+#~ msgctxt "banner_link_text"
+#~ msgid "Secure your badge"
+#~ msgstr "Garanta já o seu crachá de acesso"
 
 #~ msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
 #~ msgid "The future starts now: early bird badges available through June 1st."
