@@ -24,9 +24,13 @@ msgctxt "title"
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
-msgctxt "nav_cta.9140b030-0ebd-47ed-8fe8-35c1289774ac.button_label"
-msgid "Secure your ticket"
-msgstr "Zdobądź swoją plakietkę"
+msgctxt "nav_cta.6b9be990-e60b-4423-8e5e-256860b29eea.button_label"
+msgid "Secure your badge"
+msgstr ""
+
+msgctxt "nav_cta.6b9be990-e60b-4423-8e5e-256860b29eea.source"
+msgid "navcta"
+msgstr ""
 
 msgctxt "banner_heading"
 msgid "Mozilla Festival 2025"
@@ -41,8 +45,12 @@ msgid "The premier gathering for people working to build a better digital world.
 msgstr "Nasze główne wydarzenie dla osób, które pracują nad stworzeniem lepszego świata cyfrowego."
 
 msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.button_label"
-msgid "Secure your ticket"
-msgstr "Zdobądź swoją plakietkę"
+msgid "Secure your badge"
+msgstr ""
+
+msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.source"
+msgid "homehero"
+msgstr ""
 
 msgctxt "body.1ce48040-cbfc-4fcd-bd3b-85426fb12132.alt_text"
 msgid "A photograph of Ruha Benjamin"
@@ -292,14 +300,6 @@ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1e4048a2-1635-4874-bbf5
 msgid "AI and grassroots technology won’t change the world on their own—it’s how communities use them that will."
 msgstr "Sztuczna inteligencja i oddolne technologie same nie zmienią świata – liczy się to, w jaki sposób wykorzystają je społeczności."
 
-#~ msgctxt "cta_button_label"
-#~ msgid "Secure your badge"
-#~ msgstr "Zdobądź swoją plakietkę"
-
-#~ msgctxt "banner_link_text"
-#~ msgid "Secure your badge"
-#~ msgstr "Zdobądź swoją plakietkę"
-
 #~ msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
 #~ msgid "The future starts now: early bird badges available through June 1st."
 #~ msgstr "Przyszłość zaczyna się teraz: plakietki early bird są dostępne do 1 czerwca."
@@ -323,3 +323,11 @@ msgstr "Sztuczna inteligencja i oddolne technologie same nie zmienią świata �
 #~ msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
 #~ msgid "20% early bird discount - extended until June 30th."
 #~ msgstr "20% zniżki za wcześniejszą rezerwację - przedłużono do 30 czerwca."
+
+#~ msgctxt "nav_cta.9140b030-0ebd-47ed-8fe8-35c1289774ac.button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Zdobądź swoją plakietkę"
+
+#~ msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Zdobądź swoją plakietkę"

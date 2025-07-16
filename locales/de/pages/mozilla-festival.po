@@ -24,9 +24,13 @@ msgctxt "title"
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
-msgctxt "nav_cta.9140b030-0ebd-47ed-8fe8-35c1289774ac.button_label"
-msgid "Secure your ticket"
-msgstr "Sichern Sie sich Ihren Badge"
+msgctxt "nav_cta.6b9be990-e60b-4423-8e5e-256860b29eea.button_label"
+msgid "Secure your badge"
+msgstr ""
+
+msgctxt "nav_cta.6b9be990-e60b-4423-8e5e-256860b29eea.source"
+msgid "navcta"
+msgstr ""
 
 msgctxt "banner_heading"
 msgid "Mozilla Festival 2025"
@@ -41,8 +45,12 @@ msgid "The premier gathering for people working to build a better digital world.
 msgstr "Das wichtigste Treffen für Menschen, die an einer besseren digitalen Welt arbeiten."
 
 msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.button_label"
-msgid "Secure your ticket"
-msgstr "Sichern Sie sich Ihren Badge"
+msgid "Secure your badge"
+msgstr ""
+
+msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.source"
+msgid "homehero"
+msgstr ""
 
 msgctxt "body.1ce48040-cbfc-4fcd-bd3b-85426fb12132.alt_text"
 msgid "A photograph of Ruha Benjamin"
@@ -331,6 +339,10 @@ msgstr "KI und Graswurzel-Technologie werden die Welt nicht von alleine verände
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
 #~ msgid "Watch the recording"
 #~ msgstr "Sehen Sie sich die Aufnahme an"
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Sicheren Sie sich Ihr Ticket"
 
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Early Bird Tickets Now Available"
@@ -1512,6 +1524,10 @@ msgstr "KI und Graswurzel-Technologie werden die Welt nicht von alleine verände
 #~ msgid "Join us at MozFest House Zambia"
 #~ msgstr "Besuchen Sie uns beim MozFest House Sambia"
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.buttons.8a7f3134-cb0d-40cd-9e1c-ee2127c13ebe.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Sicheren Sie sich Ihr Ticket"
+
 #~ msgctxt "body.e01b0013-000d-4530-aed7-599cfc9571ea"
 #~ msgid "MozFest On-Demand"
 #~ msgstr "MozFest auf Abruf"
@@ -1586,6 +1602,10 @@ msgstr "KI und Graswurzel-Technologie werden die Welt nicht von alleine verände
 #~ "Wir müssen die nächste Generation von Digital Leadern darauf vorbereiten, dass sie die Gefahren voreingenommener Algorithmen verstehen. Entwickeln Sie in diesem unterhaltsamen Workshop Ihren eigenen"
 #~ " Algorithmus und sehen Sie ihn dann in Aktion. Können Sie fair sein? Oder schaffen Sie sich versehentlich einen Nachteil unter Ihren Kollegen?"
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.898f5bea-0a5a-4758-b9cd-2e188c8ecffe.buttons.c4595b39-b4a5-4a6d-b9de-b5a3c9f25345.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Sicheren Sie sich Ihr Ticket"
+
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.1a30556f-d227-46c2-aff7-9d966cd9fa11.title"
 #~ msgid "Who Pulls The Strings Of AI?"
 #~ msgstr "Wer zieht die Fäden der KI?"
@@ -1598,6 +1618,10 @@ msgstr "KI und Graswurzel-Technologie werden die Welt nicht von alleine verände
 #~ "Eine Herausforderung für die verantwortungsvolle Entwicklung von KI besteht darin, sich anzusprechen, wie Machtdynamiken die Schaffung eines KI-Systems beeinflusst. Durch die Verwendung von Boundary"
 #~ " Objects wird die Machtdynamik der KI auch für diejenigen ohne technische Erfahrung greifbar und interaktiv."
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.1a30556f-d227-46c2-aff7-9d966cd9fa11.buttons.4e44c217-361e-45e8-b522-93c6364a772d.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Sicheren Sie sich Ihr Ticket"
+
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.title"
 #~ msgid "Ethical Dilemma Cafe"
 #~ msgstr "Ethisches-Dilemma-Café"
@@ -1607,6 +1631,10 @@ msgstr "KI und Graswurzel-Technologie werden die Welt nicht von alleine verände
 #~ msgstr ""
 #~ "Holen Sie sich ein Heißgetränk, erkunden Sie Installationen, hören Sie verwandte Vorträge und nehmen Sie an Workshops teil, die die Probleme aufwerfen, mit denen wir heute mit Daten konfrontiert "
 #~ "sind. Welche persönlichen Daten würden Sie für ein kostenloses Heißgetränk preisgeben?"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.buttons.ea6ab0cf-f31d-4c25-afad-cbdfaca97524.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Sicheren Sie sich Ihr Ticket"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
 #~ msgid "Fostering Transparency and Building a Cooperative Economy"
@@ -1619,6 +1647,10 @@ msgstr "KI und Graswurzel-Technologie werden die Welt nicht von alleine verände
 #~ msgstr ""
 #~ "Wenn wir offen und transparent sind, können wir Vertrauen aufbauen und Menschen bestärken, Tech-Unternehmen zur Verantwortung zu ziehen. Nehmen Sie an dieser Diskussion am runden Tisch teil, um "
 #~ "Aktionspunkte für Gesetzgeber, Führungskräfte und zivilgesellschaftliche Organisationen zu benennen."
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.cd37d31c-0e90-4675-b2fd-98918d21884c.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Sicheren Sie sich Ihr Ticket"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.title"
 #~ msgid "Cross-cultural &amp; Generational Interactive Media Exploration"
@@ -3281,14 +3313,6 @@ msgstr "KI und Graswurzel-Technologie werden die Welt nicht von alleine verände
 #~ msgid "Secure your badge now -  early bird pricing ends June 1st"
 #~ msgstr "Sichern Sie sich jetzt Ihr Abzeichen – der Frühbucherpreis endet am 1. Juni"
 
-#~ msgctxt "cta_button_label"
-#~ msgid "Secure your badge"
-#~ msgstr "Sichern Sie sich Ihren Badge"
-
-#~ msgctxt "banner_link_text"
-#~ msgid "Secure your badge"
-#~ msgstr "Sichern Sie sich Ihren Badge"
-
 #~ msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
 #~ msgid "The future starts now: early bird badges available through June 1st."
 #~ msgstr "Die Zukunft beginnt jetzt: Early-Bird-Badges sind bis zum 1. Juni erhältlich."
@@ -3304,3 +3328,11 @@ msgstr "KI und Graswurzel-Technologie werden die Welt nicht von alleine verände
 #~ msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
 #~ msgid "20% early bird discount - extended until June 30th."
 #~ msgstr "20% Frühbucher-Rabatt – verlängert bis zum 30. Juni."
+
+#~ msgctxt "nav_cta.9140b030-0ebd-47ed-8fe8-35c1289774ac.button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Sichern Sie sich Ihren Badge"
+
+#~ msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Sichern Sie sich Ihren Badge"

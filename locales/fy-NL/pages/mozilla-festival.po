@@ -24,9 +24,13 @@ msgctxt "title"
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
-msgctxt "nav_cta.9140b030-0ebd-47ed-8fe8-35c1289774ac.button_label"
-msgid "Secure your ticket"
-msgstr "Stel jo badge feilich"
+msgctxt "nav_cta.6b9be990-e60b-4423-8e5e-256860b29eea.button_label"
+msgid "Secure your badge"
+msgstr ""
+
+msgctxt "nav_cta.6b9be990-e60b-4423-8e5e-256860b29eea.source"
+msgid "navcta"
+msgstr ""
 
 msgctxt "banner_heading"
 msgid "Mozilla Festival 2025"
@@ -41,8 +45,12 @@ msgid "The premier gathering for people working to build a better digital world.
 msgstr "De wichtichste gearkomst foar minsken dy’t wurkje oan in bettere digitale wrâld."
 
 msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.button_label"
-msgid "Secure your ticket"
-msgstr "Stel jo badge feilich"
+msgid "Secure your badge"
+msgstr ""
+
+msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.source"
+msgid "homehero"
+msgstr ""
 
 msgctxt "body.1ce48040-cbfc-4fcd-bd3b-85426fb12132.alt_text"
 msgid "A photograph of Ruha Benjamin"
@@ -299,6 +307,10 @@ msgstr "AI en basistechnology sille de wrâld net op har eigen feroarje – it i
 #~ msgctxt "banner_heading"
 #~ msgid "Arrive with an idea, leave with a community."
 #~ msgstr "Kom mei in idee, stek ôf mei in mienskip."
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Stel jo ticket feilich"
 
 #~ msgctxt "search_description"
 #~ msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2022?"
@@ -1499,13 +1511,33 @@ msgstr "AI en basistechnology sille de wrâld net op har eigen feroarje – it i
 #~ msgid "Tech We Trust"
 #~ msgstr "Technology dy’t wy fertrouwe"
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.898f5bea-0a5a-4758-b9cd-2e188c8ecffe.buttons.c4595b39-b4a5-4a6d-b9de-b5a3c9f25345.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Stel jo ticket feilich"
+
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.1a30556f-d227-46c2-aff7-9d966cd9fa11.title"
 #~ msgid "Who Pulls The Strings Of AI?"
 #~ msgstr "Wa lûkt de toukes fan AI?"
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.1a30556f-d227-46c2-aff7-9d966cd9fa11.buttons.4e44c217-361e-45e8-b522-93c6364a772d.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Stel jo ticket feilich"
+
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.title"
 #~ msgid "Ethical Dilemma Cafe"
 #~ msgstr "Etysk dilemmakafee"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.buttons.ea6ab0cf-f31d-4c25-afad-cbdfaca97524.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Stel jo ticket feilich"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.cd37d31c-0e90-4675-b2fd-98918d21884c.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Stel jo ticket feilich"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.buttons.8a7f3134-cb0d-40cd-9e1c-ee2127c13ebe.label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Stel jo ticket feilich"
 
 #~ msgctxt "body.e01b0013-000d-4530-aed7-599cfc9571ea"
 #~ msgid "MozFest On-Demand"
@@ -3142,14 +3174,6 @@ msgstr "AI en basistechnology sille de wrâld net op har eigen feroarje – it i
 #~ msgid "Step behind the scenes and attend Mozilla Festival for free by giving some of your time as a volunteer.  Applications open soon."
 #~ msgstr "Stap efter de skermen en wenje Mozilla Festival fergees by troch wat fan jo tiid te jaan as frijwilliger.  Ynskriuwingen iepenje gau."
 
-#~ msgctxt "cta_button_label"
-#~ msgid "Secure your badge"
-#~ msgstr "Stel jo badge feilich"
-
-#~ msgctxt "banner_link_text"
-#~ msgid "Secure your badge"
-#~ msgstr "Stel jo badge feilich"
-
 #~ msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
 #~ msgid "The future starts now: early bird badges available through June 1st."
 #~ msgstr "De takomst begjint no: badges foar betide fûgels binne beskikber oant 1 juny."
@@ -3165,3 +3189,11 @@ msgstr "AI en basistechnology sille de wrâld net op har eigen feroarje – it i
 #~ msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
 #~ msgid "20% early bird discount - extended until June 30th."
 #~ msgstr "20% koarting foar betide oanmeldingen - ferlinge oant 30 juny."
+
+#~ msgctxt "nav_cta.9140b030-0ebd-47ed-8fe8-35c1289774ac.button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Stel jo badge feilich"
+
+#~ msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Stel jo badge feilich"
