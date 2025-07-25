@@ -18,11 +18,19 @@ msgid "November 7 - 9 2025 | BARCELONA, SPAIN"
 msgstr ""
 
 msgctxt "banner_text"
-msgid "The premier gathering for people working to build a better digital world."
+msgid "The premier gathering for people working to build a better digital world. Community Badges available for €45."
 msgstr ""
 
-msgctxt "banner_link_text"
-msgid "Secure your badge"
+msgctxt "banner_cta.0f3eb460-6573-456b-b14a-bf6a62d5e10e.button_label"
+msgid "Secure your Community Badge"
+msgstr ""
+
+msgctxt "banner_cta.0f3eb460-6573-456b-b14a-bf6a62d5e10e.releases"
+msgid "community-badge"
+msgstr ""
+
+msgctxt "banner_cta.0f3eb460-6573-456b-b14a-bf6a62d5e10e.source"
+msgid "join-us"
 msgstr ""
 
 msgctxt "body.42d67710-bfeb-438d-be77-5feb012fef68.heading"
@@ -85,124 +93,72 @@ msgctxt "body.5fc25ee5-fb90-4f52-9e85-f501007d859c.altText"
 msgid "Dr. Ruha Benjamin"
 msgstr ""
 
-msgctxt "body.1eeda1ba-a8fc-492f-8bdf-158201407622"
-msgid "Secure your badge now - early bird pricing ends June 1st"
+msgctxt "body.d152d787-86ee-41a9-be80-53213c9742fc.heading"
+msgid "Secure your badge to Mozilla Festival 2025"
 msgstr ""
 
-msgctxt "body.5c61e41c-f362-43b4-9509-834852266b02.altText"
-msgid "badge 1"
+msgctxt "body.d152d787-86ee-41a9-be80-53213c9742fc.source"
+msgid "join-us"
 msgstr ""
 
-msgctxt "body.5c61e41c-f362-43b4-9509-834852266b02.text"
-msgid "Festival Badge"
-msgstr ""
-
-msgctxt "body.5c61e41c-f362-43b4-9509-834852266b02.text"
-msgid "€319"
-msgstr ""
-
-msgctxt "body.5c61e41c-f362-43b4-9509-834852266b02.text"
-msgid "Your all-access pass to the full festival experience. From mainstage conversations to hands-on sessions, this badge puts you in the room where bold ideas for the digital world take shape."
-msgstr ""
-
-msgctxt "body.5c61e41c-f362-43b4-9509-834852266b02.text"
-msgid "<a id=\"a1\"><b>Buy Festival Badge →</b></a>"
-msgstr ""
-
-msgctxt "body.5c61e41c-f362-43b4-9509-834852266b02.url.f8013561-c9c2-4682-8562-a4b34a0bf53b.relative_url"
-msgid "?tito=%2Fgiantcookie-mozfest%2Fmozilla-festival-2025%2Fen%2Fregistrations%2Fnew%3Freleases%3Dccp0dnli8ti%26prefill%3D%257B%257D%26source%3D25-0522-Mozfest-EarlyBird-Kicker"
-msgstr ""
-
-msgctxt "body.0d028906-5e93-4a1c-a99c-a263b170c7a4.altText"
-msgid "badge 1"
-msgstr ""
-
-msgctxt "body.0d028906-5e93-4a1c-a99c-a263b170c7a4.text"
-msgid "Non-Profit Badge"
-msgstr ""
-
-msgctxt "body.0d028906-5e93-4a1c-a99c-a263b170c7a4.text"
-msgid "€239"
-msgstr ""
-
-msgctxt "body.0d028906-5e93-4a1c-a99c-a263b170c7a4.text"
-msgid "Full festival access, just at a lower price. This badge supports people working in non-profits, charities, and NGOs to take part in the conversations shaping the future of tech."
-msgstr ""
-
-msgctxt "body.0d028906-5e93-4a1c-a99c-a263b170c7a4.text"
-msgid "<a id=\"a1\"><b>Buy Non-Profit Badge →</b></a>"
-msgstr ""
-
-msgctxt "body.0d028906-5e93-4a1c-a99c-a263b170c7a4.url.2c408756-5ab9-43d2-bf1d-7da323409ebb.relative_url"
-msgid "?tito=%2Fgiantcookie-mozfest%2Fmozilla-festival-2025%2Fen%2Fregistrations%2Fnew%3Freleases%3Di-kbeyjoohi%26prefill%3D%257B%257D%26source%3D25-0522-Mozfest-EarlyBird-Kicker"
-msgstr ""
-
-msgctxt "body.ec35b23c-a150-4ee6-b243-3e721a07426d.altText"
-msgid "badge 1"
-msgstr ""
-
-msgctxt "body.ec35b23c-a150-4ee6-b243-3e721a07426d.text"
-msgid "Academia Badge"
-msgstr ""
-
-msgctxt "body.ec35b23c-a150-4ee6-b243-3e721a07426d.text"
-msgid "€120"
-msgstr ""
-
-msgctxt "body.ec35b23c-a150-4ee6-b243-3e721a07426d.text"
-msgid "For students, researchers, and educators. This badge unlocks the full festival and includes access to an invite-only hackathon. <i>Proof of academic affiliation is required.</i>"
-msgstr ""
-
-msgctxt "body.ec35b23c-a150-4ee6-b243-3e721a07426d.text"
-msgid "<a id=\"a1\"><b>Buy Academia Badge →</b></a>"
-msgstr ""
-
-msgctxt "body.ec35b23c-a150-4ee6-b243-3e721a07426d.url.6b533ae8-3bb9-44a8-bb75-3ac5f3feaccd.relative_url"
-msgid "?tito=%2Fgiantcookie-mozfest%2Fmozilla-festival-2025%2Fen%2Fregistrations%2Fnew%3Freleases%3Deici-d1g2r8%26prefill%3D%257B%257D%26source%3D25-0522-Mozfest-EarlyBird-Kicker"
+msgctxt "body.33cc96c5-96e5-4b4f-9ca2-506b3b11732f"
+msgid "What To Expect at Mozilla Festival 2025"
 msgstr ""
 
 msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.dd7e05c7-7041-4fb8-b1ba-95360290bf8e.alt_text"
-msgid "A woman wearing a patterned dress speaks into a microphone while holding a notebook. Several attendees sit behind her in the audience."
+msgid "Angela Oduor Lungati on stage at MozFest House Zambia"
 msgstr ""
 
 msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.dd7e05c7-7041-4fb8-b1ba-95360290bf8e.title"
-msgid "Host an Experience"
+msgid "Debates"
 msgstr ""
 
 msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.dd7e05c7-7041-4fb8-b1ba-95360290bf8e.body"
-msgid "Lead a session, run a workshop, share your art, or build something hands-on. The call for proposals launches later this year."
-msgstr ""
-
-msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.d1373d63-53cb-4609-a9be-5d5811b341c6.alt_text"
-msgid "A blue balloon with the Firefox logo is placed on a white shelf in the middle of a library bookshelf filled with colorful books on design and crafts."
+msgid "World-class leaders go head-to-head, rethinking the systems and norms that shape our world."
 msgstr ""
 
 msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.d1373d63-53cb-4609-a9be-5d5811b341c6.title"
-msgid "Sponsor"
+msgid "Labs"
 msgstr ""
 
 msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.d1373d63-53cb-4609-a9be-5d5811b341c6.body"
-msgid "Support the movement for a better internet by becoming a sponsor."
-msgstr ""
-
-msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.d1373d63-53cb-4609-a9be-5d5811b341c6.link.fe2728c1-7c1b-4822-819e-18990fa742a0.label"
-msgid "Get in touch"
+msgid "Hands-on sessions where you build new skills to grow your work and impact."
 msgstr ""
 
 msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.eb7b41c1-25ce-4fb7-8dcb-6386603d86d7.alt_text"
-msgid "Two people sit on a wooden bench by a waterfront. One holds a microphone with a purple windscreen and a visible label, while the other gestures mid-conversation."
+msgid "31794343288_5c529fe5db_c"
 msgstr ""
 
 msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.eb7b41c1-25ce-4fb7-8dcb-6386603d86d7.title"
-msgid "Press"
+msgid "Forums"
 msgstr ""
 
 msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.eb7b41c1-25ce-4fb7-8dcb-6386603d86d7.body"
-msgid "Get access to the voices and ideas shaping the digital world."
+msgid "Collaborative space to unpack challenges and build solutions together."
 msgstr ""
 
-msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.eb7b41c1-25ce-4fb7-8dcb-6386603d86d7.link.fe2728c1-7c1b-4822-819e-18990fa742a0.label"
-msgid "Register for press credentials"
+msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.afb18064-0ca1-4c5c-bb51-ad1cfc9f66f2.title"
+msgid "Showcases"
+msgstr ""
+
+msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.afb18064-0ca1-4c5c-bb51-ad1cfc9f66f2.body"
+msgid "Discover bold ideas, meet the makers, and explore innovations shaping the future."
+msgstr ""
+
+msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.8b664083-0753-4dc4-981f-408bdd9bd965.title"
+msgid "Talks"
+msgstr ""
+
+msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.8b664083-0753-4dc4-981f-408bdd9bd965.body"
+msgid "Deep dive into big ideas followed by a discussion"
+msgstr ""
+
+msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.cd1aa538-5713-48ce-a1ed-003afa9daac7.title"
+msgid "Installations"
+msgstr ""
+
+msgctxt "body.de74962a-04da-4e7d-972e-c3c9dac1dcde.cards.cd1aa538-5713-48ce-a1ed-003afa9daac7.body"
+msgid "Interactive experiences that invite exploration—art, media, games, and more."
 msgstr ""
 
 msgctxt "body.a9fded37-2ba0-4860-8f9e-90fa3a787463"
