@@ -1,10 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2025-08-04 18:12:23.608020+00:00\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 816c78a9-0c35-4164-ac6d-81fe5943be06\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "title"
 msgid "Redesign Homepage"
@@ -48,7 +49,7 @@ msgstr ""
 
 msgctxt "body.6ab6133e-8830-4cfa-9da6-c7e2ebe4b0ca.title"
 msgid "Impact"
-msgstr ""
+msgstr "Impact"
 
 msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.70ec79bc-81fd-460c-bb26-b7d5123e15e6.stat_number"
 msgid "2.5m"
@@ -80,7 +81,7 @@ msgstr ""
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.category"
 msgid "Campaign"
-msgstr ""
+msgstr "Campagne"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.title"
 msgid "See No Evil: Shining a light surveillance tech"
@@ -88,7 +89,7 @@ msgstr ""
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.image.alt_text"
 msgid "Internet Health"
-msgstr ""
+msgstr "Internetgezondheid"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.link.label"
 msgid "Our ShadowDragon campaign"
@@ -96,7 +97,7 @@ msgstr ""
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.category"
 msgid "Mozilla Festival 2025"
-msgstr ""
+msgstr "Mozilla Festival 2025"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.title"
 msgid "Community badges are on sale"
@@ -104,7 +105,7 @@ msgstr ""
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.image.alt_text"
 msgid "Privacy and Security"
-msgstr ""
+msgstr "Privacy en beveiliging"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.link.label"
 msgid "Get yours today!"
@@ -112,7 +113,7 @@ msgstr ""
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.7afe6d0d-2f44-4abe-9db3-6359a3c5a3aa.category"
 msgid "Data"
-msgstr ""
+msgstr "Gegevens"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.7afe6d0d-2f44-4abe-9db3-6359a3c5a3aa.title"
 msgid "The most diverse open voice dataset in the world"
@@ -136,7 +137,7 @@ msgstr ""
 
 msgctxt "body.9635ed11-bc3d-44fe-94ca-4ac7ec56e34c.cards.5616ed11-a690-4120-bd9f-9e980646ec47.name"
 msgid "Dr. Mary Mwadulo"
-msgstr ""
+msgstr "Dr. Mary Mwadulo"
 
 msgctxt "body.9635ed11-bc3d-44fe-94ca-4ac7ec56e34c.cards.5616ed11-a690-4120-bd9f-9e980646ec47.description"
 msgid ""
@@ -150,11 +151,11 @@ msgstr ""
 
 msgctxt "body.9635ed11-bc3d-44fe-94ca-4ac7ec56e34c.cards.bb52da0e-15c0-46e5-a953-e12ba6bd7548.title"
 msgid "Common Voice"
-msgstr ""
+msgstr "Common Voice"
 
 msgctxt "body.9635ed11-bc3d-44fe-94ca-4ac7ec56e34c.cards.bb52da0e-15c0-46e5-a953-e12ba6bd7548.name"
 msgid "Irvin Chen"
-msgstr ""
+msgstr "Irvin Chen"
 
 msgctxt "body.9635ed11-bc3d-44fe-94ca-4ac7ec56e34c.cards.bb52da0e-15c0-46e5-a953-e12ba6bd7548.description"
 msgid ""
@@ -172,7 +173,7 @@ msgstr ""
 
 msgctxt "body.9635ed11-bc3d-44fe-94ca-4ac7ec56e34c.cards.8533cb13-473c-413d-b949-29890b7bdc5f.name"
 msgid "Surabhi Srivastava"
-msgstr ""
+msgstr "Surabhi Srivastava"
 
 msgctxt "body.9635ed11-bc3d-44fe-94ca-4ac7ec56e34c.cards.8533cb13-473c-413d-b949-29890b7bdc5f.description"
 msgid ""
@@ -198,11 +199,11 @@ msgstr ""
 
 msgctxt "body.60f7c2c1-5db5-4e43-9669-5f6ec42ad4a6.button.label"
 msgid "Donate now"
-msgstr ""
+msgstr "Nu doneren"
 
 msgctxt "body.60f7c2c1-5db5-4e43-9669-5f6ec42ad4a6.button.relative_url"
 msgid "?form=donate-feature"
-msgstr ""
+msgstr "?form=donate-feature"
 
 msgctxt "hero_accordion.e0a49a3e-8a14-489b-bad3-bd486ef8b478.label"
 msgid "Stand up for a better internet"
