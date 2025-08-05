@@ -1,18 +1,19 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2025-08-04 18:12:20.125689+00:00\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 144fefe4-e703-4f30-9136-8b62e986d23c\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "title"
 msgid "Redesign Homepage"
-msgstr ""
+msgstr "Page d’accueil mise à jour"
 
 msgctxt "slug"
 msgid "redesign-home"
-msgstr ""
+msgstr "redesign-home"
 
 msgctxt "seo_title"
 msgid "Welcome to Mozilla Foundation"
@@ -21,6 +22,8 @@ msgstr ""
 msgctxt "search_description"
 msgid "With over two decades of global impact, Mozilla Foundation continues to lead the movement for a better technology future—powered by people, open by design, and fueled by imagination."
 msgstr ""
+"Fort de plus de vingt ans d’influence à l’échelle mondiale, la Fondation Mozilla reste à la pointe du mouvement pour un futur technologique plus prometteur — animée par les individus, ouverte par "
+"nature et stimulée par la créativité."
 
 msgctxt "body.54c711eb-63e6-49c5-823b-95f215ef7395.cards.158a5e9c-6653-418f-a970-5fc778a2d288.headline"
 msgid "We're building alternative digital futures"
@@ -48,11 +51,11 @@ msgstr ""
 
 msgctxt "body.6ab6133e-8830-4cfa-9da6-c7e2ebe4b0ca.title"
 msgid "Impact"
-msgstr ""
+msgstr "Influence"
 
 msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.70ec79bc-81fd-460c-bb26-b7d5123e15e6.stat_number"
 msgid "2.5m"
-msgstr ""
+msgstr "2,5m"
 
 msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.70ec79bc-81fd-460c-bb26-b7d5123e15e6.stat_heading"
 msgid "People in our global movement"
@@ -60,7 +63,7 @@ msgstr ""
 
 msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.0185c238-4a96-4bdf-b610-4fda96e383fe.stat_number"
 msgid "750k"
-msgstr ""
+msgstr "750 k"
 
 msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.0185c238-4a96-4bdf-b610-4fda96e383fe.stat_heading"
 msgid "Global voices donated for a more diverse internet"
@@ -68,7 +71,7 @@ msgstr ""
 
 msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.7549c0b8-7095-4cf5-a84c-77c00ff55c44.stat_number"
 msgid "$33m"
-msgstr ""
+msgstr "33 millions $"
 
 msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.7549c0b8-7095-4cf5-a84c-77c00ff55c44.stat_heading"
 msgid "Grants awarded for a good technology future"
@@ -80,7 +83,7 @@ msgstr ""
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.category"
 msgid "Campaign"
-msgstr ""
+msgstr "Campagne"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.title"
 msgid "See No Evil: Shining a light surveillance tech"
@@ -88,27 +91,27 @@ msgstr ""
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.image.alt_text"
 msgid "Internet Health"
-msgstr ""
+msgstr "Santé d’Internet"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.link.label"
 msgid "Our ShadowDragon campaign"
-msgstr ""
+msgstr "Notre campagne ShadowDragon"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.category"
 msgid "Mozilla Festival 2025"
-msgstr ""
+msgstr "Mozilla Festival 2025"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.title"
 msgid "Community badges are on sale"
-msgstr ""
+msgstr "Les badges à destination de la communauté sont en vente"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.image.alt_text"
 msgid "Privacy and Security"
-msgstr ""
+msgstr "Sécurité et vie privée"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.link.label"
 msgid "Get yours today!"
-msgstr ""
+msgstr "Obtenez le vôtre !"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.7afe6d0d-2f44-4abe-9db3-6359a3c5a3aa.category"
 msgid "Data"
