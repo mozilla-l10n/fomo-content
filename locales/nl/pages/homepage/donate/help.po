@@ -17,8 +17,8 @@ msgid "Need help with a donation to Mozilla Foundation? Use the help form or rea
 msgstr "Hulp nodig met een donatie aan Mozilla Foundation? Gebruik het hulpformulier of lees de veelgestelde vragen over doneren aan ons."
 
 msgctxt "title"
-msgid "Donate Help"
-msgstr "Doneerhulp"
+msgid "Donor Help"
+msgstr ""
 
 msgctxt "body.b2c0c460-35b3-4b13-989c-47c360118ca4"
 msgid "Quick Links"
@@ -394,6 +394,10 @@ msgstr "pictogram"
 msgctxt "body.710d48f1-b173-496e-b328-32ede70cddd1.text"
 msgid "Ready to donate? <a id=\"a1\">Donate now.</a>"
 msgstr "Klaar om te doneren? <a id=\"a1\">Doneer nu.</a>"
+
+#~ msgctxt "title"
+#~ msgid "Donate Help"
+#~ msgstr "Doneerhulp"
 
 #~ msgctxt "notice.c7731ccb-73d9-48b2-980b-acd8db6486ee.text"
 #~ msgid "Our team is experiencing a backlog in donor inquiries. Please expect a delay of up to 5 business days to respond to your inquiry."

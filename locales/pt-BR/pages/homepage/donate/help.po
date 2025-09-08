@@ -17,8 +17,8 @@ msgid "Need help with a donation to Mozilla Foundation? Use the help form or rea
 msgstr "Precisa de ajuda com uma doação para a Fundação Mozilla? Use o formulário de ajuda ou leia nossas perguntas frequentes sobre doações para nós."
 
 msgctxt "title"
-msgid "Donate Help"
-msgstr "Ajuda a doações"
+msgid "Donor Help"
+msgstr ""
 
 msgctxt "body.b2c0c460-35b3-4b13-989c-47c360118ca4"
 msgid "Quick Links"
@@ -391,6 +391,10 @@ msgstr "ícone"
 msgctxt "body.710d48f1-b173-496e-b328-32ede70cddd1.text"
 msgid "Ready to donate? <a id=\"a1\">Donate now.</a>"
 msgstr "Pronto para fazer uma doação? <a id=\"a1\">Doe agora.</a>"
+
+#~ msgctxt "title"
+#~ msgid "Donate Help"
+#~ msgstr "Ajuda a doações"
 
 #~ msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
 #~ msgid "Mozilla Foundation<br/>attn: Donor Care<br/>149 New Montgomery St, 4th Floor<br/>San Francisco, CA. 94105"
