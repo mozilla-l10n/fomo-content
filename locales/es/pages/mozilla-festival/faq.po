@@ -65,6 +65,16 @@ msgstr ""
 "No, tu boleto permite la entrada al festival, pero no incluye los gastos de viaje ni de alojamiento. Sin embargo, tendremos una selección de hoteles y otros alojamientos con tarifas preferenciales "
 "para quienes tengan una credencial."
 
+msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.49aade3e-ad2e-4598-84f7-add91e7b154c.title"
+msgid "I've signed up for a badge, but haven't received any confirmation emails."
+msgstr ""
+
+msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.49aade3e-ad2e-4598-84f7-add91e7b154c.content.02c72ee1-4a45-4b30-a1b9-ca4f1f7d417c"
+msgid ""
+"Badge confirmations are sent from our ticketing partner via support@tito.io, please check your spam to make sure it's not being sent there. If you haven't received your badge confirmation please "
+"reach out to us at <a id=\"a1\">festival@mozillafoundation.org</a>"
+msgstr ""
+
 msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.ab331815-b445-4a9c-98e4-92a9d6a20907.title"
 msgid "What if I can’t attend after purchasing a badge?"
 msgstr "¿Qué pasa si compro una credencial pero luego no puedo asistir?"
@@ -86,6 +96,56 @@ msgstr ""
 "El Festival Mozilla está diseñado para adultos mayores de 18 años. Los menores de 13 años entran gratis y no necesitan un boleto para entrar. Los menores de 18 años deben estar acompañados por un "
 "adulto con boleto, quien asumirá la responsabilidad total por el menor y lo supervisará en todo momento. Si el menor ya camina, solicitaremos que lleve una pulsera con el número de teléfono móvil de"
 " su padre, madre o tutor. Dispondremos de una sala para cambiar y alimentar a bebés en el recinto."
+
+msgctxt "body.139918c7-0d7e-45fb-9076-bc7e73b8df41"
+msgid "Schedule / Plaza"
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.a38580c8-cca1-45a3-b040-a5d88350d00f.title"
+msgid "How do I login into the schedule?"
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.a38580c8-cca1-45a3-b040-a5d88350d00f.content.9e33df61-d44f-4a46-b9ad-1823925999ae"
+msgid ""
+"Press the Login button on the top right corner of the MozFest Plaza. You'll then see the Login screen where you need to enter the email address you have used to register for your "
+"ticket.<br/><br/>You'll then recieve a login code by email to enter and complete login."
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.8eae9a59-1715-4d82-b616-830e9a82af57.title"
+msgid "I'm unable to login to the Plaza? / The login box turns red when I enter my email."
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.8eae9a59-1715-4d82-b616-830e9a82af57.content.641ebc3c-c51c-46ab-9f7c-48413ad0cae5"
+msgid "There are a couple of reasons for your email address not being accepted by the system."
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.8eae9a59-1715-4d82-b616-830e9a82af57.content.641ebc3c-c51c-46ab-9f7c-48413ad0cae5"
+msgid "If you have just registered, it can take up to 5 minutes for the schedule to recognize your email address. Please wait a moment and try again."
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.8eae9a59-1715-4d82-b616-830e9a82af57.content.641ebc3c-c51c-46ab-9f7c-48413ad0cae5"
+msgid "Ensure you've assigned your ticket. Click on View Order in your confirmation email and follow the steps to assign the ticket to yourself."
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.8eae9a59-1715-4d82-b616-830e9a82af57.content.641ebc3c-c51c-46ab-9f7c-48413ad0cae5"
+msgid ""
+"Did someone else register on your behalf? First ensure they have assigned the ticket to you, and if they have, you will need to complete your ticket sign up - check your inbox for an email from "
+"support@tito.io."
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.8eae9a59-1715-4d82-b616-830e9a82af57.content.641ebc3c-c51c-46ab-9f7c-48413ad0cae5"
+msgid "If you're still having problems logging in after following these steps get in touch with on in the #help channel on Discord or emailing us <a id=\"a1\">festival@mozillafoundation.org</a>."
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.e6efbdaa-7596-40a3-9577-618c5f88708d.title"
+msgid "The website said a login code was sent, but I did not receive it."
+msgstr ""
+
+msgctxt "body.5051e8e0-2c6d-41ff-bf0f-85e1fe8e8126.accordion_items.e6efbdaa-7596-40a3-9577-618c5f88708d.content.21a6068a-9ddc-4194-b6e2-36db15332106"
+msgid ""
+"Please check your spam folder in the first instance as it may of ended up there. If you're still having problems receiving your login link please reach out get in the #help channel on Discord or "
+"emailing us <a id=\"a1\">festival@mozillafoundation.org</a>and we can look into this for you."
+msgstr ""
 
 msgctxt "body.60396484-004f-408b-a01d-44ab0156f906"
 msgid "Travel &amp; Accommodation"
