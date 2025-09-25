@@ -1,29 +1,32 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2025-09-25 07:34:26.822095+00:00\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: d19f1a3a-3bb3-43a1-bcba-1c90588fb279\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "header"
 msgid "While you're here"
-msgstr ""
+msgstr "Skoro już tu jesteś"
 
 msgctxt "body"
 msgid "Thank you for letting us know you're still around - we love that you block tracking and value  privacy as much as we do!"
-msgstr ""
+msgstr "Dziękujemy za informację, że nadal jesteś z nami. Świetnie, że blokujesz narzędzia śledzące i dbasz o prywatność tak samo jak my!"
 
 msgctxt "body"
 msgid ""
 "Mozilla is non-profit and we're fighting for a healthy internet, where privacy is included by design and you have more control over your personal information. We depend on contributions from people "
 "like you to carry out this work. Can you donate today?"
 msgstr ""
+"Mozilla to organizacja non profit walcząca o zdrowy Internet — w którego strukturę wpisana jest prywatność i w którym użytkownicy mają większą kontrolę nad swoimi danymi osobowymi. Nasza działalność"
+" zależy od wsparcia osób takich jak Ty. Czy możesz dzisiaj przekazać nam datek?"
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Tak, dorzucam się"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Nie, dziękuję"
