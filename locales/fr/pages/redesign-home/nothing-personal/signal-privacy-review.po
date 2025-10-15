@@ -1,14 +1,15 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2025-10-15 07:02:50.887208+00:00\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 48f54f0a-5fff-45b3-aaaa-50c19bf7177e\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "seo_title"
 msgid "Signal App Review 2025: Privacy, Pros and Cons, Personal Data"
-msgstr ""
+msgstr "Test de l’application Signal 2025 : vie privée, avantages et inconvénients, données personnelles"
 
 msgctxt "search_description"
 msgid ""
@@ -28,11 +29,11 @@ msgstr ""
 
 msgctxt "hero_image_alt_text"
 msgid "The messaging app Signal"
-msgstr ""
+msgstr "L’application de messagerie Signal"
 
 msgctxt "hours_tested"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "type_of_testing"
 msgid "Hands On - Inspection of Android Packages &amp; WireShark Packet Analysis"
