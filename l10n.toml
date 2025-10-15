@@ -3465,11 +3465,6 @@ l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/22-timebound-eoy-3.
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/test-product-review.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/test-product-review.po"
-locales = [ "de",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/124-toys-games-ereaders-for-kids-sort-order-1.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/124-toys-games-ereaders-for-kids-sort-order-1.po"
 locales = [ "de", "es", "fr", "pt-BR",]
