@@ -1,14 +1,15 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2025-10-15 10:21:23.818861+00:00\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: e8b4a984-1dea-4829-96fd-2062f3f81fbd\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "seo_title"
 msgid "iMessage App Review 2025: Privacy, Pros and Cons, Personal Data"
-msgstr ""
+msgstr "Test de l’application iMessage en 2025 : vie privée, avantages et inconvénients, données personnelles"
 
 msgctxt "search_description"
 msgid ""
@@ -18,7 +19,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "iMessage Privacy Review"
-msgstr ""
+msgstr "Analyse du respect de la vie privée par iMessage"
 
 msgctxt "lede_text"
 msgid ""
@@ -28,11 +29,11 @@ msgstr ""
 
 msgctxt "hero_image_alt_text"
 msgid "The messaging app iMessage"
-msgstr ""
+msgstr "L’application de messagerie iMessage"
 
 msgctxt "hours_tested"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "type_of_testing"
 msgid "Hands On - WireShark Packet Analysis"
@@ -47,3 +48,6 @@ msgid ""
 "I’m a digital privacy and cybersecurity expert with over half a decade worth of experience reviewing privacy products. My research in academia included speculative execution attacks and AI-based "
 "hacking simulations. My privacy work appears in TechRadar, CNET, and ITPro, in addition to a previous stint at ProPrivacy as their in-house technical researcher for VPNs."
 msgstr ""
+"Je suis spécialiste de la confidentialité numérique et de la cybersécurité, avec plus de cinq ans d’expérience dans l’évaluation de produits liés à la vie privée. Au cours de mon parcours "
+"universitaire, j’ai mené des recherches sur les attaques par exécution spéculative et les simulations de piratage utilisant l’IA. Mes travaux sur la confidentialité ont été publiés sur TechRadar, "
+"CNET et ITPro, et j’ai également occupé le poste de chercheur technique interne pour les VPN chez ProPrivacy."
