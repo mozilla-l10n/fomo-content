@@ -4,9 +4,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 81cb216a-ca3d-41bb-9ea9-6e4b2602afe8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 81cb216a-ca3d-41bb-9ea9-6e4b2602afe8\n"
 
 msgctxt "body.9113257d-e98f-4a28-a49c-07f2c3dbbb65"
 msgid "Protect the internet as a global public resource."
@@ -19,3 +19,11 @@ msgstr "Inscrivez-vous à notre newsletter pour agir et rester au courant de nos
 msgctxt "title"
 msgid "Newsletter (legacy)"
 msgstr ""
+
+#~ msgctxt "title"
+#~ msgid "Newsletter Sign Up"
+#~ msgstr "Inscrivez-vous à notre newsletter"
+
+#~ msgctxt "title"
+#~ msgid "Newsletter"
+#~ msgstr "Newsletter"
