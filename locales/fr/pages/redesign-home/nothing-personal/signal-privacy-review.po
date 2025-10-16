@@ -34,8 +34,8 @@ msgstr ""
 "messagerie, Signal adopte une approche totalement passive vis-à-vis de vos données. Tout votre trafic bénéficie d’un chiffrement de bout en bout, sans aucune exception."
 
 msgctxt "hero_image_alt_text"
-msgid "The messaging app Signal"
-msgstr "L’application de messagerie Signal"
+msgid "Logo of the messaging app Signal"
+msgstr ""
 
 msgctxt "hours_tested"
 msgid "20"
@@ -46,8 +46,8 @@ msgid "Hands On - Inspection of Android Packages &amp; WireShark Packet Analysis
 msgstr "Mise en pratique — Inspection des paquets Android et analyse des paquets réseau avec WireShark"
 
 msgctxt "byline"
-msgid "Sam Dawson"
-msgstr "Sam Dawson"
+msgid "Reviewed by Sam Dawson"
+msgstr ""
 
 msgctxt "who_am_i"
 msgid ""
@@ -57,3 +57,11 @@ msgstr ""
 "Je suis spécialiste de la confidentialité numérique et de la cybersécurité, avec plus de cinq ans d’expérience dans l’évaluation de produits liés à la vie privée. Au cours de mon parcours "
 "universitaire, j’ai mené des recherches sur les attaques par exécution spéculative et les simulations de piratage utilisant l’IA. Mes travaux sur la confidentialité ont été publiés sur TechRadar, "
 "CNET et ITPro, et j’ai également occupé le poste de chercheur technique interne pour les VPN chez ProPrivacy."
+
+#~ msgctxt "hero_image_alt_text"
+#~ msgid "The messaging app Signal"
+#~ msgstr "L’application de messagerie Signal"
+
+#~ msgctxt "byline"
+#~ msgid "Sam Dawson"
+#~ msgstr "Sam Dawson"
