@@ -3900,8 +3900,8 @@ l10n = "locales/{locale}/pages/homepage/blog/tune-into-the-sounds-of-the-interne
 locales = [ "es",]
 
 [[paths]]
-reference = "templates/snippets/snippets.NewsletterSignup/2-footer-newsletter.pot"
-l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/2-footer-newsletter.po"
+reference = "templates/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.pot"
+l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.po"
 locales = [ "fr",]
 
 [[paths]]
@@ -4540,9 +4540,14 @@ l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/3-main-newsletter-ex
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
-locales = [ "nl",]
+reference = "templates/snippets/snippets.NewsletterSignup/2-footer-newsletter.pot"
+l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/2-footer-newsletter.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/snippets/snippets.NewsletterSignup/1-main-newsletter-expanded-on-focus.pot"
+l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/1-main-newsletter-expanded-on-focus.po"
+locales = [ "fr",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/509-lucie-click.pot"
@@ -4552,6 +4557,11 @@ locales = [ "nl",]
 [[paths]]
 reference = "templates/pages/homepage/blog/mozfest-house-is-coming-to-amsterdam-june-20-21.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-is-coming-to-amsterdam-june-20-21.po"
+locales = [ "nl",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
 locales = [ "nl",]
 
 [[paths]]
@@ -4570,6 +4580,11 @@ l10n = "locales/{locale}/pages/homepage/blog/regulating-ai-in-brazil-could-it-mi
 locales = [ "pt-BR",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/273-george-githuma-njogu.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/273-george-githuma-njogu.po"
+locales = [ "sw",]
+
+[[paths]]
 reference = "templates/snippets/wagtailpages.Profile/293-tracy-kariuki.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/293-tracy-kariuki.po"
 locales = [ "sw",]
@@ -4577,16 +4592,6 @@ locales = [ "sw",]
 [[paths]]
 reference = "templates/pages/homepage/blog/access-denied-this-doesnt-sound-like-you.pot"
 l10n = "locales/{locale}/pages/homepage/blog/access-denied-this-doesnt-sound-like-you.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/conversations-on-culture-and-preserving-history.pot"
-l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preserving-history.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/language-and-culture.pot"
-l10n = "locales/{locale}/pages/homepage/blog/language-and-culture.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4600,13 +4605,8 @@ l10n = "locales/{locale}/pages/homepage/blog/hekaya-arts-initiative-announces-th
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/common-voice/in-country-programmes.pot"
-l10n = "locales/{locale}/pages/homepage/common-voice/in-country-programmes.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.po"
+reference = "templates/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.pot"
+l10n = "locales/{locale}/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4615,18 +4615,8 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/226-alice-munyua.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.pot"
-l10n = "locales/{locale}/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.po"
-locales = [ "sw",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/voice-technologies-and-privacy.pot"
-l10n = "locales/{locale}/pages/homepage/blog/voice-technologies-and-privacy.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4640,8 +4630,13 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/183-rebecca-ryakitimbo.po
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/273-george-githuma-njogu.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/273-george-githuma-njogu.po"
+reference = "templates/pages/homepage/blog/language-and-culture.pot"
+l10n = "locales/{locale}/pages/homepage/blog/language-and-culture.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.pot"
+l10n = "locales/{locale}/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4655,13 +4650,18 @@ l10n = "locales/{locale}/pages/homepage/blog/taxation-and-digital-literacy-effor
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/common-voice/events.pot"
-l10n = "locales/{locale}/pages/homepage/common-voice/events.po"
+reference = "templates/pages/homepage/common-voice/in-country-programmes.pot"
+l10n = "locales/{locale}/pages/homepage/common-voice/in-country-programmes.po"
 locales = [ "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.pot"
 l10n = "locales/{locale}/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/common-voice/events.pot"
+l10n = "locales/{locale}/pages/homepage/common-voice/events.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4672,6 +4672,11 @@ locales = [ "sw",]
 [[paths]]
 reference = "templates/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.pot"
 l10n = "locales/{locale}/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/221-hillary-juma.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/221-hillary-juma.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4690,18 +4695,8 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/559-cynthia-nzuki.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/221-hillary-juma.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/221-hillary-juma.po"
-locales = [ "sw",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.pot"
-l10n = "locales/{locale}/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4710,8 +4705,8 @@ l10n = "locales/{locale}/pages/homepage/blog/common-voice-and-hekaya-arts-initia
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/220-britone-mwasaru.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/220-britone-mwasaru.po"
+reference = "templates/pages/homepage/blog/voice-technologies-and-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/voice-technologies-and-privacy.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4720,13 +4715,18 @@ l10n = "locales/{locale}/pages/homepage/blog/lessons-from-building-for-kinyarwan
 locales = [ "sw",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/220-britone-mwasaru.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/220-britone-mwasaru.po"
+locales = [ "sw",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.pot"
 l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.pot"
-l10n = "locales/{locale}/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.po"
+reference = "templates/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.pot"
+l10n = "locales/{locale}/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4735,8 +4735,13 @@ l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-int
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.pot"
-l10n = "locales/{locale}/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.po"
+reference = "templates/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.pot"
+l10n = "locales/{locale}/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/conversations-on-culture-and-preserving-history.pot"
+l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preserving-history.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4747,5 +4752,10 @@ locales = [ "sw",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.po"
 locales = [ "sw",]
 
