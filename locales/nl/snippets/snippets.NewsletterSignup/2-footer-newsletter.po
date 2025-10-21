@@ -1,10 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2025-10-20 19:22:26.183841+00:00\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 234c947b-d0b8-4dad-9385-936eb7ca546b\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "cta_header"
 msgid "Stay updated with our newsletter"
@@ -12,4 +13,4 @@ msgstr ""
 
 msgctxt "button_text"
 msgid "Sign Up"
-msgstr ""
+msgstr "Registreren"
