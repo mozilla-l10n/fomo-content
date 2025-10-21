@@ -1,19 +1,20 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2025-10-20 16:49:25.085184+00:00\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: aa8a6d97-8e1c-4a2d-8df9-601266d15279\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "title"
 msgid "Unsubscribe Success"
-msgstr ""
+msgstr "Suscripción cancelada correctamente"
 
 msgctxt "body.37d2b829-c856-48c2-96bf-83a992a26823"
 msgid "You’ve been unsubscribed."
-msgstr ""
+msgstr "Se ha cancelado tu suscripción."
 
 msgctxt "body.37d2b829-c856-48c2-96bf-83a992a26823"
 msgid "We’re sorry to see you go. If this was a mistake, you can <a id=\"a1\"><b>rejoin</b></a> anytime"
-msgstr ""
+msgstr "Lamentamos que te vayas. Si se trata de un error, puedes <a id=\"a1\"><b>volver a unirte</b></a> en cualquier momento."
