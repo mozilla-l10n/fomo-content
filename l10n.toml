@@ -4380,8 +4380,8 @@ l10n = "locales/{locale}/pages/homepage/blog/mozilla-publishes-ring-doorbell-vul
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/meet-mozilla.pot"
-l10n = "locales/{locale}/pages/redesign-home/meet-mozilla.po"
+reference = "templates/pages/redesign-home/meet-mozilla/robin-curran.pot"
+l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/robin-curran.po"
 locales = [ "fr",]
 
 [[paths]]
