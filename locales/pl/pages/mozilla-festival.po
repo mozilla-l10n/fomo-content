@@ -6,15 +6,15 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 1a6db2c7-086b-45f0-8816-c2d42b63814f\n"
 
 msgctxt "seo_title"
 msgid "Mozilla Festival 2025 | Ethical AI, Open Source &amp; Digital Rights in Barcelona"
-msgstr ""
+msgstr "Mozilla Festival 2025 | Wydarzenie poświęcone etycznej sztucznej inteligencji i prawom cyfrowym w Barcelonie"
 
 msgctxt "search_description"
 msgid "Join MozFest 2025 in Barcelona, Nov 7–9 — the global AI policy summit, digital rights event &amp; open source festival for a healthier internet."
 msgstr ""
+"Dołącz do MozFest 2025 w Barcelonie, 7–9 listopada – globalnego szczytu poświęconego polityce sztucznej inteligencji, festiwalu open source poświęconego prawom cyfrowym i zdrowemu Internetowi."
 
 msgctxt "title"
 msgid "Mozilla Festival"
@@ -22,7 +22,7 @@ msgstr "Mozilla Festival"
 
 msgctxt "nav_cta.6b9be990-e60b-4423-8e5e-256860b29eea.button_label"
 msgid "Get your badge"
-msgstr "Zarezerwuj miejsce"
+msgstr "Pobierz plakietkę"
 
 msgctxt "nav_cta.6b9be990-e60b-4423-8e5e-256860b29eea.source"
 msgid "navcta"
@@ -42,7 +42,7 @@ msgstr "Nasze główne wydarzenie dla osób, które pracują nad stworzeniem lep
 
 msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.button_label"
 msgid "Get your badge"
-msgstr "Zarezerwuj miejsce"
+msgstr "Pobierz plakietkę"
 
 msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.source"
 msgid "homehero"
@@ -50,11 +50,11 @@ msgstr "homehero"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.title"
 msgid "2000+"
-msgstr ""
+msgstr "Ponad 2000"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.description"
 msgid "people redefining tech and culture"
-msgstr "osób redefiniujących technologię i kulturę"
+msgstr "osób na nowo definiujących technologię i kulturę"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.8436e364-d587-4efc-85a5-a328f425df9a.title"
 msgid "200+"
@@ -82,7 +82,7 @@ msgstr "globalna społeczność"
 
 msgctxt "body.0970f2fb-b617-42ff-8027-f40636c83032.title"
 msgid "Join us in Barcelona to celebrate our 15th year"
-msgstr ""
+msgstr "Dołącz do nas w Barcelonie, aby świętować 15. rocznicę"
 
 msgctxt "body.0970f2fb-b617-42ff-8027-f40636c83032.text"
 msgid ""
@@ -106,88 +106,94 @@ msgstr "To Twoja przestrzeń, w której możesz myśleć inaczej, działać odwa
 
 msgctxt "body.0970f2fb-b617-42ff-8027-f40636c83032.altText"
 msgid "Frances Haugen speaks on stage at Mozilla Festival, gesturing while presenting a slide with major news headlines about social media’s impact."
-msgstr ""
+msgstr "Frances Haugen przemawia na scenie podczas Mozilla Festival, gestykulując, prezentując slajd z głównymi nagłówkami w mediach społecznościowych."
 
 msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
 msgid "Get your badge to Mozilla Festival 2025"
-msgstr ""
+msgstr "Pobierz plakietkę na Mozilla Festival 2025"
 
 msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.source"
 msgid "homepage"
-msgstr "homepage"
+msgstr "strona główna"
 
 msgctxt "body.ab3671ea-f409-4db3-9042-91100f78a223"
 msgid "Meet our Main Stage headliners"
-msgstr ""
+msgstr "Poznaj nasze nagłówki sceny głównej"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.c3027336-358c-4943-a928-10f96df0be3d.alt_text"
 msgid "Jason Silva"
-msgstr ""
+msgstr "Jason Silva"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.c3027336-358c-4943-a928-10f96df0be3d.title"
 msgid "Jason Silva"
-msgstr ""
+msgstr "Jason Silva"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.c3027336-358c-4943-a928-10f96df0be3d.highlighted_metadata"
 msgid "Awe as an Antidote to the Grid"
-msgstr ""
+msgstr "Zachwyt jako antidotum na codzienną rutynę"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.c3027336-358c-4943-a928-10f96df0be3d.metadata"
 msgid "Plenary"
-msgstr ""
+msgstr "Część wspólna"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.c3027336-358c-4943-a928-10f96df0be3d.body"
 msgid ""
 "Jason Silva is an Emmy-nominated storyteller, filmmaker. Step outside the algorithm and experiment with unmapping the self, as he sheds inherited assumptions and reimagines unlearning as liberation."
 msgstr ""
+"Jason Silva, nominowany do nagrody Emmy gawędziarz, twórca filmowy. Wyjdź poza algorytm i eksperymentuj z wizją siebie, porzucając odziedziczone założenia i stosując oduczenie się jako drogę do "
+"wyzwolenia."
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.1c8fb522-ba44-4658-85e0-da23daad1da8.alt_text"
 msgid "Dr. Ruha Benjamin"
-msgstr ""
+msgstr "Dr Ruha Benjamin"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.1c8fb522-ba44-4658-85e0-da23daad1da8.title"
 msgid "Dr. Ruha Benjamin"
-msgstr ""
+msgstr "Dr Ruha Benjamin"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.1c8fb522-ba44-4658-85e0-da23daad1da8.highlighted_metadata"
 msgid "On Unlearning"
-msgstr ""
+msgstr "O oduczaniu się"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.1c8fb522-ba44-4658-85e0-da23daad1da8.metadata"
 msgid "Plenary"
-msgstr ""
+msgstr "Część wspólna"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.1c8fb522-ba44-4658-85e0-da23daad1da8.body"
 msgid ""
 "Dr. Ruha is an enthralling storyteller, brilliant scholar, and fierce advocate for all things just. Break free from the power of digital biases and system-shaping myths. She redefines unlearning as "
 "a radical act of possibility."
 msgstr ""
+"Dr Ruha jest fascynującym gawędziarzem, genialnym uczonym i zagorzałym orędownikiem wszystkiego, co sprawiedliwe. Uwolnij się od mocy cyfrowych uprzedzeń i mitów kształtujących system. Na nowo "
+"definiuje oduczenie się jako radykalny akt zdobywania nowych możliwości."
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.0ee60ab4-9c5f-4e18-95ae-c73a00c62217.alt_text"
 msgid "Chelsea Manning"
-msgstr ""
+msgstr "Chelsea Manning"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.0ee60ab4-9c5f-4e18-95ae-c73a00c62217.title"
 msgid "Chelsea Manning"
-msgstr ""
+msgstr "Chelsea Manning"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.0ee60ab4-9c5f-4e18-95ae-c73a00c62217.highlighted_metadata"
 msgid "A World of New Learnings"
-msgstr ""
+msgstr "Świat nowych doświadczeń"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.0ee60ab4-9c5f-4e18-95ae-c73a00c62217.metadata"
 msgid "Plenary"
-msgstr ""
+msgstr "Część wspólna"
 
 msgctxt "body.509f5553-aefe-4b2b-96c3-ab290e716296.cards.0ee60ab4-9c5f-4e18-95ae-c73a00c62217.body"
 msgid ""
 "Chelsea Manning is a technologist, data scientist, and security   consultant. Known for her expertise in security and artificial  intelligence, she advocates for industry-wide adoption of ethical  "
 "guardrails in machine learning."
 msgstr ""
+"Chelsea Manning jest technologiem, analitykiem danych i konsultantem ds. bezpieczeństwa. Znana ze swojego doświadczenia w dziedzinie bezpieczeństwa i sztucznej inteligencji, opowiada się za "
+"przyjęciem w całej branży barier etycznych w uczeniu maszynowym."
 
 msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
 msgid "Get Involved"
-msgstr ""
+msgstr "Dołącz do nas"
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.98876986-8fc1-4ca8-b0a3-a89dc7241cb8.alt_text"
 msgid "A blue balloon with the Firefox logo is placed on a white shelf in the middle of a library bookshelf filled with colorful books on design and crafts."
@@ -199,15 +205,15 @@ msgstr "Sponsoring"
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.98876986-8fc1-4ca8-b0a3-a89dc7241cb8.body"
 msgid "MozFest is a unique opportunity to partner with Mozilla, ensuring the internet remains a force for good."
-msgstr ""
+msgstr "MozFest to wyjątkowa okazja do nawiązania współpracy z Mozillą, dzięki której Internet będzie używany do dobrych celów."
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.98876986-8fc1-4ca8-b0a3-a89dc7241cb8.link.e1050a49-1ea8-4d4d-ae57-16cb109cc7d0.label"
 msgid "Learn more"
-msgstr ""
+msgstr "Dowiedz się więcej"
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.alt_text"
 msgid "Two people sit on a bench by the water; one holds a microphone with a logo while the other gestures during conversation."
-msgstr ""
+msgstr "Dwie osoby siedzą na ławce nad wodą; jedna trzyma mikrofon z logo, a druga gestykuluje podczas rozmowy."
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.title"
 msgid "Press"
@@ -219,11 +225,11 @@ msgstr "Uzyskaj dostęp do głosów i pomysłów kształtujących cyfrowy świat
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.link.5350e7e8-84e1-428a-9f66-ff6b41999bd4.label"
 msgid "Apply for free Press Accreditation"
-msgstr ""
+msgstr "Złóż wniosek o bezpłatną akredytację prasową"
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.alt_text"
 msgid "Two people sitting at a picnic bench wearing pink tshirts, doing crafts with purple Mozilla Festival banners."
-msgstr ""
+msgstr "Dwie osoby w różowych koszulkach siedzą przy stole piknikowym i wykonują rękodzieło z fioletowymi transparentami Mozilla Festival."
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.title"
 msgid "Volunteer"
@@ -231,47 +237,47 @@ msgstr "Wolontariat"
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.body"
 msgid "Volunteer applications for Mozilla Festival 2025 are now open."
-msgstr ""
+msgstr "Aplikacje wolontariuszy na Mozilla Festival 2025 są już otwarte."
 
 msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.link.98023239-36e0-423b-a129-dd438e46e155.label"
 msgid "Learn more"
-msgstr ""
+msgstr "Dowiedz się więcej"
 
 msgctxt "body.ae68274d-e0fa-4a08-b5ea-3aca0205b63c"
 msgid "Our 2025 Sponsors"
-msgstr ""
+msgstr "Nasi sponsorzy 2025"
 
 msgctxt "body.fbb40759-ba28-404f-8179-4daf8e3d9192.cards.c27447e9-ba20-45c2-989f-a105f6891495.alt_text"
 msgid "Ethereum Foundation Logo"
-msgstr ""
+msgstr "Logo Fundacji Ethereum"
 
 msgctxt "body.fbb40759-ba28-404f-8179-4daf8e3d9192.cards.c27447e9-ba20-45c2-989f-a105f6891495.title"
 msgid "Ethereum Foundation"
-msgstr ""
+msgstr "Fundacja Ethereum"
 
 msgctxt "body.fbb40759-ba28-404f-8179-4daf8e3d9192.cards.1532807b-8a97-4dd0-b26b-88dd06430005.alt_text"
 msgid "Luminate Logo"
-msgstr ""
+msgstr "Logo Luminate"
 
 msgctxt "body.fbb40759-ba28-404f-8179-4daf8e3d9192.cards.1532807b-8a97-4dd0-b26b-88dd06430005.title"
 msgid "Luminate"
-msgstr ""
+msgstr "Luminate"
 
 msgctxt "body.fbb40759-ba28-404f-8179-4daf8e3d9192.cards.f0aa6bc6-0e2a-4c9a-bb8f-d7720635fa07.alt_text"
 msgid "Siegel Family Endowment Logo"
-msgstr ""
+msgstr "Logo Siegel Family Endowment"
 
 msgctxt "body.fbb40759-ba28-404f-8179-4daf8e3d9192.cards.f0aa6bc6-0e2a-4c9a-bb8f-d7720635fa07.title"
 msgid "Siegel Family Endowment"
-msgstr ""
+msgstr "Siegel Family Endowment"
 
 msgctxt "body.89d95a0f-fb1d-495e-8e06-cb1203d93cc0"
 msgid "Our Program Partners"
-msgstr ""
+msgstr "Partnerzy Programu"
 
 msgctxt "body.d6eb5201-be86-4363-a46b-78b9723675d5.altText"
 msgid "Logos of SMEX, Decidim, MEEDAN, Slickcity Studios, Xnet, Pluitzer Center, DDS, EFF, Open Television, Flickr.org, GiZ, Fair Forward"
-msgstr ""
+msgstr "Logo SMEX, Decidim, MEEDAN, Slickcity Studios, Xnet, Pluitzer Center, DDS, EFF, Open Television, Flickr.org, GiZ, Fair Forward"
 
 msgctxt "body.6f34e914-10cc-46a0-a107-356cb0f46eb0"
 msgid "Unforgettable Highlights"
@@ -291,7 +297,7 @@ msgstr "Liderzy z Wikimedia, Creative Commons i Mozilli badają ewolucję oraz p
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.alt_text"
 msgid "Tim Berners-Lee speaks on stage in front of a projected screen, gesturing with his hands."
-msgstr ""
+msgstr "Tim Berners-Lee przemawia na scenie na tle projektora, gestykulując rękami."
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.title"
 msgid "Tim Berners-Lee"
@@ -311,7 +317,7 @@ msgstr "Sir Tim Berners-Lee, wynalazca sieci WWW, dzieli się swoją wizją zdec
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.alt_text"
 msgid "Split-screen video call shows Christian Smalls on the left and Angela Davis on the right, both smiling during a conversation."
-msgstr ""
+msgstr "Rozmowa wideo na podzielonym ekranie z Christianem Smallsem po lewej stronie i Angelą Davis po prawej stronie, którzy uśmiechają się podczas rozmowy."
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.title"
 msgid "A Conversation with Angela Davis and Christian Smalls"
@@ -331,11 +337,11 @@ msgstr "Spostrzeżenia z pierwszej linii frontu dotyczące budowania, mobilizowa
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1df71f9e-8906-4bdd-8fcb-1a1a57376032.alt_text"
 msgid "Three people sit on stage in a panel discussion with a large display screen, while an audience listens."
-msgstr ""
+msgstr "Trzy osoby siedzą na scenie z dużym ekranem podczas dyskusji panelowej, a publiczność słucha."
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1df71f9e-8906-4bdd-8fcb-1a1a57376032.title"
 msgid "Navigating Deceptive Design and Regulation"
-msgstr "Zwodnicze projektowanie i regulacje"
+msgstr "Poruszanie się po zwodniczym projektowaniu i regulacji"
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1df71f9e-8906-4bdd-8fcb-1a1a57376032.highlighted_metadata"
 msgid "2023"
@@ -351,7 +357,7 @@ msgstr "Badanie mocnych stron oraz luk w politykach UE dotyczących zwodniczego 
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1e4048a2-1635-4874-bbf5-ea3089c41dd1.alt_text"
 msgid "Angela Oduor Lungati stands on stage, gesturing. A large screen behind her displays bold text and a city skyline silhouette."
-msgstr ""
+msgstr "Angela Oduor Lungati stoi na scenie, gestykulując. Duży ekran za nią wyświetla pogrubiony tekst i zarys panoramy miasta."
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1e4048a2-1635-4874-bbf5-ea3089c41dd1.title"
 msgid "Angela Oduor Lungati - Your Data, Your Power"
@@ -368,143 +374,3 @@ msgstr "Zambia"
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1e4048a2-1635-4874-bbf5-ea3089c41dd1.body"
 msgid "AI and grassroots technology won’t change the world on their own—it’s how communities use them that will."
 msgstr "Sztuczna inteligencja i oddolne technologie same nie zmienią świata – liczy się to, w jaki sposób wykorzystają je społeczności."
-
-#~ msgctxt "search_description"
-#~ msgid ""
-#~ "For 15 years, Mozilla Festival has been the home for big ideas, bold conversations, and the movement for a better internet. From November 7th to 9th, we’re bringing that energy back to Barcelona, "
-#~ "and you’re invited to be a part of it."
-#~ msgstr ""
-#~ "Od 15 lat Mozilla Festival jest domem dla wielkich pomysłów, odważnych rozmów i ruchu na rzecz lepszego Internetu. Od 7 do 9 listopada w Barcelonie znów będziemy dostarczać tę energię, a Ty możesz "
-#~ "do nas dołączyć."
-
-#~ msgctxt "cta_button_label"
-#~ msgid "Secure your badge"
-#~ msgstr "Zdobądź swoją plakietkę"
-
-#~ msgctxt "banner_link_text"
-#~ msgid "Secure your badge"
-#~ msgstr "Zdobądź swoją plakietkę"
-
-#~ msgctxt "body.1ce48040-cbfc-4fcd-bd3b-85426fb12132.alt_text"
-#~ msgid "A photograph of Ruha Benjamin"
-#~ msgstr "Fotografia Ruhy Benjamin"
-
-#~ msgctxt "body.1ce48040-cbfc-4fcd-bd3b-85426fb12132.title"
-#~ msgid "Meet our headline speaker, Dr. Ruha Benjamin"
-#~ msgstr "Poznaj naszą główną prelegentkę, dr Ruhę Benjamin"
-
-#~ msgctxt "body.1ce48040-cbfc-4fcd-bd3b-85426fb12132.body"
-#~ msgid ""
-#~ "From the biases baked into our digital worlds to the myths that shape our laws and institutions, this conversation will explore how power operates through the stories we inherit. Whatever your "
-#~ "background or perspective on technology, Dr. Benjamin will challenge our defaults to unlock new ways of thinking, building, and belonging."
-#~ msgstr ""
-#~ "Od uprzedzeń wpisanych w nasze cyfrowe światy po mity kształtujące nasze prawa i instytucje, ta prelekcja skupi się ta tym, w jaki sposób władza oddziałuje poprzez historie, które dziedziczymy. "
-#~ "Niezależnie od Twojego doświadczenia czy spojrzenia na technologię, dr Benjamin rzuci wyzwanie naszym standardom, aby odblokować nowe sposoby myślenia, tworzenia i przynależności."
-
-#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.heading"
-#~ msgid "Join us in Barcelona to celebrate 15 years of MozFest."
-#~ msgstr "Dołącz do nas w Barcelonie, aby świętować 15 lat MozFest."
-
-#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.0c16e243-29d1-440a-bbad-55b6d7731635.altText"
-#~ msgid ""
-#~ "Frances Haugen speaks on stage at Mozilla Festival, gesturing while presenting a slide with major news headlines about social media’s impact. In the foreground, the audience sits in rows facing the "
-#~ "stage."
-#~ msgstr ""
-#~ "Frances Haugen przemawia na scenie podczas Mozilla Festival, gestykulując, prezentując slajd z najważniejszymi nagłówkami w mediach społecznościowych. Na pierwszym planie widać gości siedzących w "
-#~ "rzędach i zwróconych w stronę sceny."
-
-#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.25fd5ad9-c02b-4b6e-b07d-133537116713.altText"
-#~ msgid "A panel of five people is engaged in a discussion on stage at Mozilla Festival 2018. A screen behind them displays the session title \"AI's Collateral Damage.\""
-#~ msgstr "Panel pięciu osób zaangażowanych w dyskusję na scenie podczas Mozilla Festival 2018. Na ekranie za nimi wyświetla się tytuł sesji: „Szkody towarzyszące SI”."
-
-#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.ad9cfbe7-b2ef-4d6d-bdf1-26ff221ba71c.altText"
-#~ msgid ""
-#~ "A group of people is engaged in a discussion in a creative, decorated space with hanging fabric and artwork. A woman stands at the front, speaking, while others sit in a semi-circle, listening or "
-#~ "interacting. Some attendees appear deep in thought. The walls are covered with colorful posters, diagrams, and handwritten notes."
-#~ msgstr ""
-#~ "Grupa ludzi angażuje się w dyskusję w kreatywnej, ozdobionej przestrzeni z wiszącą tkaniną i dziełami sztuki. Kobieta stoi z przodu, mówi, podczas gdy inni siedzą w półokręgu, słuchając lub wchodząc"
-#~ " w interakcje. Niektórzy uczestnicy zdają się pogrążeni w myślach. Ściany pokryte są kolorowymi plakatami, schematami i odręcznymi notatkami."
-
-#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.db9a07cb-6e0d-46d8-8c16-a3a6c3d88ff5.altText"
-#~ msgid ""
-#~ "A woman crouches on a dark floor with white text arranged in a spiral, posing thought-provoking questions about technology, AI, and human decision-making. The text invites viewers to engage with "
-#~ "concepts of trust, choice, and perception in an abstract, immersive way."
-#~ msgstr ""
-#~ "Kobieta kuca na ciemnej podłodze z białym tekstem ułożonym w spiralę, co skłania do zadawania pytań dotyczących technologii, sztucznej inteligencji oraz decyzji podejmowanych przez człowieka. Tekst "
-#~ "zachęca odbiorców w sposób abstrakcyjny i wciągający do zaangażowania się w kwestie zaufania, wyboru i percepcji."
-
-#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.title"
-#~ msgid "3000+"
-#~ msgstr "Ponad 3000"
-
-#~ msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
-#~ msgid "The future starts now: early bird badges available through June 1st."
-#~ msgstr "Przyszłość zaczyna się teraz: plakietki early bird są dostępne do 1 czerwca."
-
-#~ msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
-#~ msgid "Join Us"
-#~ msgstr "Dołącz do nas"
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.alt_text"
-#~ msgid "A woman wearing a patterned dress speaks into a microphone while holding a notebook. Several attendees sit behind her in the audience."
-#~ msgstr "Kobieta we wzorzystej sukience mówi do mikrofonu, trzymając notatnik. Kilku uczestników siedzi za nią na widowni."
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.title"
-#~ msgid "Host an Experience"
-#~ msgstr "Kreuj doświadczenia"
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.body"
-#~ msgid "Lead a session, run a workshop, share your art, or build something hands-on. The call for proposals launches later this year."
-#~ msgstr "Poprowadź sesję lub warsztat, podziel się swoją sztuką albo zbuduj coś praktycznego. Zaproszenie do składania wniosków ruszy jeszcze w tym roku."
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.98876986-8fc1-4ca8-b0a3-a89dc7241cb8.body"
-#~ msgid "Support the movement for a better internet by becoming a sponsor."
-#~ msgstr "Wspieraj ruch na rzecz lepszego Internetu, zostając sponsorem."
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.98876986-8fc1-4ca8-b0a3-a89dc7241cb8.link.e1050a49-1ea8-4d4d-ae57-16cb109cc7d0.label"
-#~ msgid "Get in touch"
-#~ msgstr "Skontaktuj się z nami"
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.alt_text"
-#~ msgid "Two people sit on a wooden bench by a waterfront. One holds a microphone with a purple windscreen and a visible label, while the other gestures mid-conversation."
-#~ msgstr "Dwie osoby siedzą na drewnianej ławce przy nabrzeżu. Jedna trzyma mikrofon z fioletową nakładką i widocznym logo, podczas gdy druga osoba gestykuluje w trakcie rozmowy."
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.bff6e3c4-8f8e-4f71-9179-66b4d377b823.link.5350e7e8-84e1-428a-9f66-ff6b41999bd4.label"
-#~ msgid "Register for press credentials"
-#~ msgstr "Zarejestruj się, aby uzyskać akredytację prasową"
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.alt_text"
-#~ msgid "Tim Berners-Lee gestures with both hands while speaking on stage. A presentation screen and event backdrop are visible in the background."
-#~ msgstr "Tim Berners-Lee gestykuluje obiema rękami podczas przemawiania na scenie. W tle widoczny jest ekran prezentacji i prospekt wydarzenia."
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1df71f9e-8906-4bdd-8fcb-1a1a57376032.alt_text"
-#~ msgid "Three panelists sit on stage engaged in discussion, with a large screen between them. The audience is seated in rows, facing the stage."
-#~ msgstr "Trzej paneliści siedzą na scenie zajęci dyskusją, z dużym ekranem między nimi. Publiczność siedzi w rzędach, twarzą do sceny."
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.1e4048a2-1635-4874-bbf5-ea3089c41dd1.alt_text"
-#~ msgid "Angela Oduor Lungati stands on stage, gesturing while holding a presentation remote. A large screen behind her displays bold text and a city skyline silhouette."
-#~ msgstr "Angela Oduor Lungati stoi na scenie i gestykuluje, trzymając pilota do prezentacji. Na dużym ekranie za nią widoczny jest pogrubiony tekst i zarys panoramy miasta."
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.body"
-#~ msgid "Lead a session, run a workshop, share your art, or build something hands-on."
-#~ msgstr "Poprowadź sesję lub warsztat, podziel się swoją sztuką albo zbuduj coś praktycznego."
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.link.36756c14-86e7-4cfc-ade6-c2f11dba1c1d.label"
-#~ msgid "Submit a proposal"
-#~ msgstr "Prześlij propozycję"
-
-#~ msgctxt "body.1763e368-65f5-4023-bbaf-a9d633626a19.heading"
-#~ msgid "20% early bird discount - extended until June 30th."
-#~ msgstr "20% zniżki za wcześniejszą rezerwację - przedłużono do 30 czerwca."
-
-#~ msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.body"
-#~ msgid "More information about volunteering oppertunities at Mozilla Festival will be announced soon."
-#~ msgstr "Więcej informacji na temat możliwości wolontariatu na Mozilla Festival zostanie wkrótce ogłoszonych."
-
-#~ msgctxt "nav_cta.9140b030-0ebd-47ed-8fe8-35c1289774ac.button_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Zdobądź swoją plakietkę"
-
-#~ msgctxt "banner_cta.9695874f-f82f-4676-9f0d-7dd19f188fb0.button_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Zdobądź swoją plakietkę"
