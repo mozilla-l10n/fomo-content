@@ -4,9 +4,9 @@ msgstr ""
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 1dbd4bd2-2958-476f-9896-112745a69667\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 1dbd4bd2-2958-476f-9896-112745a69667\n"
 
 msgctxt "title"
 msgid "Plan Your Trip"
@@ -215,3 +215,57 @@ msgstr "Tibidabo"
 msgctxt "body.ad27596a-cb67-41ac-b2eb-8c411748813f.session_items.13198e32-b1f6-4fa1-957d-718a549b8250.body"
 msgid "Barcelona’s highest point, with unbeatable city views, a historic amusement park, and the stunning Sagrat Cor church. A perfect mix of nostalgia, scenery, and adventure."
 msgstr "Najwyższy punkt Barcelony z niezrównanym widokiem na miasto, zabytkowym parkiem rozrywki i oszałamiającym kościołem Sagrat Cor. To idealne połączenie nostalgii, scenerii i przygody."
+
+#~ msgctxt "body.6c8bd2e6-aa12-4dac-8b1f-ad48221f7d59.carousel_images.dafd3944-1e69-4ecc-9a43-afcfa7d01bd3.altText"
+#~ msgid "Aerial view of Poble Espanyol in Barcelona, showcasing its medieval-style architecture, narrow streets, and central plaza. Lush greenery and Montjuïc landmarks surround the area."
+#~ msgstr ""
+#~ "Widok z lotu ptaka na Poble Espanyol w Barcelonie, prezentujący jego średniowieczną zabudowę, wąskie uliczki i centralny plac. Okolica otoczona jest bujną zielenią i punktami orientacyjnymi wzgórza "
+#~ "Montjuïc."
+
+#~ msgctxt "body.6c8bd2e6-aa12-4dac-8b1f-ad48221f7d59.carousel_images.7e40885b-44c5-412b-9620-1c0fcf98a492.altText"
+#~ msgid ""
+#~ "A stone entrance gate to Poble Espanyol in Barcelona, resembling a medieval fortress with two round towers. Two large yellow advertising banners hang on the towers. Two statues of traditionally "
+#~ "dressed figures stand on pedestals at the entrance."
+#~ msgstr ""
+#~ "Kamienna brama wjazdowa do Poble Espanyol w Barcelonie, przypominająca średniowieczną twierdzę z dwiema okrągłymi wieżami. Na wieżach zawieszone są dwa duże żółte banery reklamowe. Dwa posągi "
+#~ "tradycyjnie ubranych postaci stoją na postumentach przy wejściu."
+
+#~ msgctxt "body.6c8bd2e6-aa12-4dac-8b1f-ad48221f7d59.carousel_images.03d1c3dc-60ff-4cdc-94d4-bfff8d182d3e.altText"
+#~ msgid "A sunlit plaza in Poble Espanyol, Barcelona, featuring a row of historic-style buildings with balconies, arched walkways, and greenery. A few people walk in the foreground."
+#~ msgstr "Słoneczny plac w Poble Espanyol w Barcelonie z rzędem zabytkowych budynków z balkonami, arkadami i zielenią. Na pierwszym planie widać kilka osób."
+
+#~ msgctxt "body.b73beaeb-d827-43e4-b5db-cbb516d860e9.cards.898e3a1b-8897-4fed-b9eb-234a75b0d374.alt_text"
+#~ msgid "Illuminated airport sign for Arrivals Hall 1, displaying a plane icon and the word \"Arrivals\" in English and Dutch (\"Aankomst\"). Ceiling panels and lights are visible above."
+#~ msgstr "Podświetlany znak na lotnisku w hali przylotów 1 z ikoną samolotu oraz angielskim słowem „Arrivals” i niderlandzkim „Aankomst”. Powyżej widoczne są panele sufitowe i oświetlenie."
+
+#~ msgctxt "body.b73beaeb-d827-43e4-b5db-cbb516d860e9.cards.6e17505c-6b85-49f4-99d6-e7e32158dbe7.alt_text"
+#~ msgid "A beige hotel building with black-shuttered windows and wrought-iron balconies. The rooftop sign reads \"HOTEL\" in large letters. Green foliage and a lamppost are in the foreground."
+#~ msgstr "Beżowy budynek hotelu z czarnymi okiennicami i balkonami z kutego żelaza. Na szyldzie na dachu widnieje dużymi literami napis „HOTEL”. Na pierwszym planie widać zielone liście oraz latarnię."
+
+#~ msgctxt "body.c8cec713-d265-4417-8e9f-7ef9cf2589c5.cards.4000dd05-c466-4378-9886-289c04179f97.body"
+#~ msgid "Use the code MOZFEST to get 10% discount on non-refundable rates from 6th - 9th November."
+#~ msgstr "Skorzystaj z kodu MOZFEST, aby zyskać 10% zniżki na bezzwrotne stawki od 6 do 9 listopada."
+
+#~ msgctxt "body.c8cec713-d265-4417-8e9f-7ef9cf2589c5.cards.6e3e2280-540c-40fd-883c-d7fd6fcb0d10.title"
+#~ msgid "Hotel H10 Itaca"
+#~ msgstr "Hotel H10 Itaca"
+
+#~ msgctxt "body.c8cec713-d265-4417-8e9f-7ef9cf2589c5.cards.6e3e2280-540c-40fd-883c-d7fd6fcb0d10.body"
+#~ msgid "Located 15 minutes away on public transport. Use the code MOZFEST to get a 10% discount."
+#~ msgstr "Położony 15 minut jazdy komunikacją miejską od festiwalu. Skorzystaj z kodu MOZFEST, aby odebrać 10% zniżki."
+
+#~ msgctxt "body.c8cec713-d265-4417-8e9f-7ef9cf2589c5.cards.322cfe24-a859-4647-ab78-1bb53a2bf219.title"
+#~ msgid "Hotel Vilamari"
+#~ msgstr "Hotel Vilamari"
+
+#~ msgctxt "body.c8cec713-d265-4417-8e9f-7ef9cf2589c5.cards.322cfe24-a859-4647-ab78-1bb53a2bf219.body"
+#~ msgid "Located 17 minutes walk away. Use the code MOZFEST to get a 10% discount on website rates from November 6th through 10th."
+#~ msgstr "Położony 17 minut spacerem od festiwalu. Skorzystaj z kodu MOZFEST, aby zyskać 10% zniżki na ceny ze strony od 6 do 10 listopada."
+
+#~ msgctxt "body.c8cec713-d265-4417-8e9f-7ef9cf2589c5.cards.9e7451d7-833b-41a3-a91d-2e6e1bdcd92d.title"
+#~ msgid "Moxy Hotel"
+#~ msgstr "Moxy Hotel"
+
+#~ msgctxt "body.c8cec713-d265-4417-8e9f-7ef9cf2589c5.cards.9e7451d7-833b-41a3-a91d-2e6e1bdcd92d.body"
+#~ msgid "Easily within a brisk walking distance or located 10 minutes away by public transportation."
+#~ msgstr "Do lokalizacji festiwalowej wystarczy krótki spacer lub 10 minut komunikacją miejską."
