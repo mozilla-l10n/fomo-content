@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: d53d95a9-d8ba-4ed6-8981-d62fa549dc28\n"
 
 msgctxt "seo_title"
 msgid "Mozilla Festival 2025 | FAQ on Travel, Badges, Venue &amp; More"
@@ -64,11 +63,13 @@ msgstr "Am Veranstaltungsort gibt es keine Garderobe, bitte behalten Sie alle Ih
 
 msgctxt "body.f6119832-5909-41d9-9a58-f3ce9056ab6c.accordion_items.6a520f82-3193-4c4e-8735-83693fdcbe79.title"
 msgid "Is the venue accessible?"
-msgstr ""
+msgstr "Ist der Veranstaltungsort barrierefrei?"
 
 msgctxt "body.f6119832-5909-41d9-9a58-f3ce9056ab6c.accordion_items.6a520f82-3193-4c4e-8735-83693fdcbe79.content.fc50dd13-95f7-4da5-a69b-44459dc64b22"
 msgid "We've put together a map that shows the accessible routes across the venue. <a id=\"a1\">Download it here</a>, printed copies will also be available at Info Desks."
 msgstr ""
+"Wir haben eine Karte zusammengestellt, die die barrierefreien Strecken durch den Veranstaltungsort zeigt. <a id=\"a1\">Laden Sie sie hier herunter</a>, gedruckte Versionen sind auch an den Info-"
+"Desks erhältlich."
 
 msgctxt "body.f6119832-5909-41d9-9a58-f3ce9056ab6c.accordion_items.8f08e8f4-c0c2-4910-ae1f-94866e7169e4.title"
 msgid "Is there food and beverage available at the venue?"
@@ -160,28 +161,32 @@ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b9b0b61f-47e7
 msgid ""
 "No need! Just head back through badge pick up - you'll need to be rescanned (for monitoring numbers in the space) by one of our volunteers but no need to wait in line again once you have your badge."
 msgstr ""
+"Nicht nötig! Gehen Sie einfach wieder zum Stand, wo sie Ihren Badge abgeholt haben – einer unserer Freiwilligen wird Sie nochmal scannen (um die Personenzahl auf dem Gelände zu überwachen), aber Sie"
+" müssen nicht nochmal Anstehen, wenn Sie Ihren Badge haben."
 
 msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b8cbcc99-8c06-4fdc-9432-379ef7d0f580.title"
 msgid "Can I pick up my badge before the 7th of November?"
-msgstr ""
+msgstr "Kann ich meinen Badge vor dem 7. November abholen?"
 
 msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b8cbcc99-8c06-4fdc-9432-379ef7d0f580.content.d2710c18-4b53-43cf-a8bf-11b9d6f56e6b"
 msgid ""
 "Yes! you can collect your badge early between 14:00 and 18:00 on Tuesday the 6th of November. Please note - festival spaces and services won't be open that day, so it'll just be a quick and easy "
 "badge pick-up before the fun begins!"
 msgstr ""
+"Ja! Sie können Ihren Badge schonn am Dienstag, den 6. November zwischen 14:00 und 18:00 Uhr abholen. Bitte beachten Sie – die Räume und Dienste des Festivals sind an diesem Tag nicht geöffnet, "
+"sodass Sie nur schnell und einfach den Badge abholen können, bevor der Spaß beginnt!"
 
 msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.ba394ec8-9554-4e99-8951-e982654d4d7e.title"
 msgid "What time can I register for my badge?"
-msgstr ""
+msgstr "Bis wann kann ich mich für meinen Badge registrieren?"
 
 msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.ba394ec8-9554-4e99-8951-e982654d4d7e.content.114dbd2b-b2c1-43c1-9369-e3f99e7971da"
 msgid "November 6th: 2-6PM"
-msgstr ""
+msgstr "6. November: 14:00 – 18:00 Uhr"
 
 msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.ba394ec8-9554-4e99-8951-e982654d4d7e.content.114dbd2b-b2c1-43c1-9369-e3f99e7971da"
 msgid "November 7-9th: 8:30AM - 7:00PM"
-msgstr ""
+msgstr "7. – 9. November: 8:30 – 19:00 Uhr"
 
 msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.deebb3dc-b11a-4e1e-bf53-acb61458b34a.title"
 msgid "How can I request a Companion Badge?"
@@ -443,47 +448,3 @@ msgstr "Wie erhalte ich weitere Informationen?"
 msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.709b3423-0154-4ecc-b099-ce60e10a2691.content.70e9a68f-5ec7-4bb9-a0f9-03bdef5496d6"
 msgid "If you have any other questions, contact us at <a id=\"a1\">festival@mozillafoundation.org</a>"
 msgstr "Wenn Sie weitere Fragen haben, kontaktieren Sie uns unter <a id=\"a1\">festival@mozillafoundation.org</a>."
-
-#~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.51ac667c-2be7-4e1e-abaa-3c1c4dee5b1b.content.36de5bc7-3494-4681-8944-93461b6cf84a"
-#~ msgid "For press accreditation and other media requests, reach out to <a id=\"a1\">festival@mozilla.org</a>"
-#~ msgstr "Für Presseakkreditierungen und andere Medienanfragen wenden Sie sich bitte an <a id=\"a1\">festival@mozilla.org.</a>"
-
-#~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.709b3423-0154-4ecc-b099-ce60e10a2691.content.70e9a68f-5ec7-4bb9-a0f9-03bdef5496d6"
-#~ msgid "If you have any other questions, contact us at <a id=\"a1\">festival@mozilla.org</a>"
-#~ msgstr "Wenn Sie weitere Fragen haben, kontaktieren Sie uns unter <a id=\"a1\">festival@mozilla.org</a>"
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.a0c7aa27-4ab6-4a9a-a46f-e24c8cfa4fcb.content.9a2f7e71-18a2-4407-a1b5-e121ed661d32"
-#~ msgid "Badges will be on sale right here on the Mozilla Festival website. Sign up to our community Discord and newsletter and you’ll be the first to know once they go on sale."
-#~ msgstr "Badges werden hier auf der Mozilla Festival-Website verkauft. Melden Sie sich in unserem Community Discord und Newsletter an, um als Erster zu erfahren, wenn der Verkauf beginnt."
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.47c1faf8-2bea-4af8-9cbf-4437bc3b7212.content.d3217ab6-c762-457f-a67b-26d7794bde4b"
-#~ msgid "Once you have registered and paid for your badge, please submit your details (including your booking code) via festival@mozilla.org to receive a letter of invitation."
-#~ msgstr "Sobald Sie sich registriert und Ihr Badge bezahlt haben, senden Sie bitte Ihre Daten (einschließlich Ihres Buchungscodes) an festival@mozilla.org, um ein Einladungsschreiben zu erhalten."
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.78aacd8f-f805-4474-8c7f-f82a62a4704f.content.9d65f3b3-e0ee-4b9c-848d-50389c382e0e"
-#~ msgid "We’ll provide recommendations for hotels and other accommodations in Barcelona once badges are available."
-#~ msgstr "Wir werden Empfehlungen für Hotels und andere Unterkünfte in Barcelona geben, sobald die Badges verfügbar sind."
-
-#~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.a0c7aa27-4ab6-4a9a-a46f-e24c8cfa4fcb.content.07068f4d-d8ea-4fea-a166-b352bc93b655"
-#~ msgid "We’d love to discuss sponsorship possibilities! Reach out to us at <a id=\"a1\">festival@mozilla.org</a> and one of the team will be in touch."
-#~ msgstr ""
-#~ "Wir würden uns freuen, Sponsoring-Möglichkeiten zu besprechen! Kontaktieren Sie uns unter <a id=\"a1\">festival@mozilla.org</a> und ein Mitglied unseres Teams wird sich mit Ihnen in Verbindung "
-#~ "setzen."
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.78aacd8f-f805-4474-8c7f-f82a62a4704f.content.9d65f3b3-e0ee-4b9c-848d-50389c382e0e"
-#~ msgid "See our <a id=\"a1\">Plan Your Trip page</a> for information on hotel rates and where to stay [see separate file in folder for hotel info)"
-#~ msgstr ""
-#~ "Auf unserer <a id=\"a1\">Seite zur Reiseplanung</a> finden Sie Informationen zu Hotelpreisen und der Möglichkeit, Ihre Unterkunft zu finden (Hotelinformationen) finden Sie in einer anderen Datei in "
-#~ "diesem Ordner)."
-
-#~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.51ac667c-2be7-4e1e-abaa-3c1c4dee5b1b.content.36de5bc7-3494-4681-8944-93461b6cf84a"
-#~ msgid "For press accreditation and other media requests, reach out to <a id=\"a1\">festival@mozillafoundation.org</a>"
-#~ msgstr "Für Presseakkreditierungen und andere Medienanfragen wenden Sie sich bitte an <a id=\"a1\">festival@mozillafoundation.org</a>."
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b9b0b61f-47e7-46dc-826e-6c5f39ddbc18.content.5b1a224c-f7b1-4158-bae5-f157bf263cb4"
-#~ msgid ""
-#~ "No need! Just head through the main entrance - you’ll need to be re-scanned (for monitoring numbers in the space) with one of our volunteers but no need to wait in line again once you have your "
-#~ "badge."
-#~ msgstr ""
-#~ "Nicht nötig! Gehen Sie einfach durch den Haupteingang – einer unserer Freiwilligen wird Sie nochmal scannen (um die Personenzahl auf dem Gelände zu überwachen), aber Sie müssen nicht nochmal "
-#~ "Anstehen, wenn Sie Ihren Badge haben."
