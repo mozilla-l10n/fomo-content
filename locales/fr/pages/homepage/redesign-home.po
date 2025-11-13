@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 144fefe4-e703-4f30-9136-8b62e986d23c\n"
 
 msgctxt "seo_title"
 msgid "Welcome to Mozilla Foundation"
@@ -52,12 +51,14 @@ msgstr "Photo de groupe des bénéficiaires de bourses Tech + Society"
 
 msgctxt "hero_accordion.589ae280-c328-42c6-9c5c-efeccd107806.cta_text"
 msgid "Get Funded"
-msgstr ""
+msgstr "Obtenir des fonds"
 
 msgctxt "hero_accordion.589ae280-c328-42c6-9c5c-efeccd107806.description"
 msgid ""
 "Our grantmaking supports changemakers building better. We're looking for who innovators are building the alternatives a better future demands. We support great work to scale without compromise."
 msgstr ""
+"Notre programme de subventions accompagne les agents du changement qui œuvrent pour un avenir plus radieux. Nous recherchons des innovateurs·trices qui conçoivent les alternatives nécessaires à un "
+"futur plus prometteur. Nous appuyons des initiatives ambitieuses, menées à grande échelle et sans compromis."
 
 msgctxt "hero_accordion.9002b9b1-9b24-4626-85bd-d968ab13d1d2.label"
 msgid "Be part of our community"
@@ -151,7 +152,7 @@ msgstr "Foule de gens regardant vers le haut"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.link.label"
 msgid "Join MDC—Create, Curate, Control"
-msgstr ""
+msgstr "Rejoignez MDC — Création, curation, contrôle"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.category"
 msgid "Be inspired"
@@ -159,7 +160,7 @@ msgstr "Laissez-vous inspirer"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.title"
 msgid "Introducing Nothing Personal: A counterculture magazine for independent thinkers"
-msgstr ""
+msgstr "Nous vous présentons Nothing Personal : un magazine alternatif qui s’adresse aux esprits indépendants"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.image.alt_text"
 msgid "Internet Health"
@@ -270,105 +271,3 @@ msgstr "Faire un don"
 msgctxt "body.60f7c2c1-5db5-4e43-9669-5f6ec42ad4a6.button.relative_url"
 msgid "?form=donate-feature"
 msgstr "?form=donate-feature"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.7afe6d0d-2f44-4abe-9db3-6359a3c5a3aa.image.alt_text"
-#~ msgid "Digital Inclusion"
-#~ msgstr "Inclusion numérique"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.7afe6d0d-2f44-4abe-9db3-6359a3c5a3aa.link.label"
-#~ msgid "Be part of Common Voice"
-#~ msgstr "Rejoignez Common Voice"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.7afe6d0d-2f44-4abe-9db3-6359a3c5a3aa.title"
-#~ msgid "The most diverse open voice dataset in the world"
-#~ msgstr "Le jeu de données vocales ouvertes le plus diversifié au monde"
-
-#~ msgctxt "slug"
-#~ msgid "redesign-home"
-#~ msgstr "redesign-home"
-
-#~ msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.70ec79bc-81fd-460c-bb26-b7d5123e15e6.stat_number"
-#~ msgid "2.5m"
-#~ msgstr "2,5 m"
-
-#~ msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.0185c238-4a96-4bdf-b610-4fda96e383fe.stat_number"
-#~ msgid "750k"
-#~ msgstr "750 k"
-
-#~ msgctxt "body.a1284b1d-df7f-4b08-8363-1f89272127e1.stats.7549c0b8-7095-4cf5-a84c-77c00ff55c44.stat_number"
-#~ msgid "$33m"
-#~ msgstr "33 m $"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.category"
-#~ msgid "Campaign"
-#~ msgstr "Campagne"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.title"
-#~ msgid "See No Evil: Shining a light surveillance tech"
-#~ msgstr "See No Evil : pleins feux sur les technologies de surveillance"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.link.label"
-#~ msgid "Our ShadowDragon campaign"
-#~ msgstr "Notre campagne ShadowDragon"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.category"
-#~ msgid "Mozilla Festival 2025"
-#~ msgstr "Mozilla Festival 2025"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.title"
-#~ msgid "Community badges are on sale"
-#~ msgstr "Les badges destinés à la communauté sont en vente"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.title"
-#~ msgid "It's not too late to get your badge"
-#~ msgstr "Il n’est pas trop tard pour obtenir votre badge"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.image.alt_text"
-#~ msgid "Privacy and Security"
-#~ msgstr "Sécurité et vie privée"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.link.label"
-#~ msgid "Get yours today!"
-#~ msgstr "Obtenez le vôtre !"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.c12a0d8b-b6db-43d2-a42d-eb861c931a6c.link.label"
-#~ msgid "Join us in Barcelona this November!"
-#~ msgstr "Rejoignez-nous à Barcelone en novembre !"
-
-#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.7afe6d0d-2f44-4abe-9db3-6359a3c5a3aa.category"
-#~ msgid "Data"
-#~ msgstr "Données"
-
-#~ msgctxt "hero_accordion.589ae280-c328-42c6-9c5c-efeccd107806.label"
-#~ msgid "Mozilla Festival 2025"
-#~ msgstr "Mozilla Festival 2025"
-
-#~ msgctxt "hero_accordion.589ae280-c328-42c6-9c5c-efeccd107806.heading"
-#~ msgid "Bold ideas shaping the future of technology"
-#~ msgstr "Des idées novatrices qui façonnent l’avenir de la technologie"
-
-#~ msgctxt "hero_accordion.589ae280-c328-42c6-9c5c-efeccd107806.heading"
-#~ msgid "Join us in Barcelona to shape the future of technology"
-#~ msgstr "Rejoignez-nous à Barcelone pour façonner l’avenir de la technologie"
-
-#~ msgctxt "hero_accordion.589ae280-c328-42c6-9c5c-efeccd107806.image.alt_text"
-#~ msgid "Mozilla Festival 2025 visual"
-#~ msgstr "Visuel du Mozilla Festival 2025"
-
-#~ msgctxt "hero_accordion.589ae280-c328-42c6-9c5c-efeccd107806.description"
-#~ msgid "Forget what you’ve been told. The future of tech isn’t set—it’s ours to shape. Join us in Barcelona, November 7–9, to unlearn defaults, imagine boldly and build what’s next."
-#~ msgstr ""
-#~ "Oubliez ce qu’on vous a dit. L’avenir de la technologie n’est pas figé, c’est à nous de le définir. Rejoignez-nous à Barcelone, du 7 au 9 novembre, pour déconstruire les idées reçues, imaginer avec "
-#~ "audace et définir l’avenir."
-
-#~ msgctxt "hero_accordion.9002b9b1-9b24-4626-85bd-d968ab13d1d2.label"
-#~ msgid "Community"
-#~ msgstr "Communauté"
-
-#~ msgctxt "hero_accordion.589ae280-c328-42c6-9c5c-efeccd107806.cta_text"
-#~ msgid "Get your badge"
-#~ msgstr "Obtenez votre badge"
-
-#~ msgctxt "hero_accordion.589ae280-c328-42c6-9c5c-efeccd107806.cta_text"
-#~ msgid "Book now for November"
-#~ msgstr "Réservez dès maintenant pour novembre"
