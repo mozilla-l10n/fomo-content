@@ -96,12 +96,12 @@ msgid "But so far, none of the companies have agreed:"
 msgstr "À ce jour, aucune des entreprises contactées n’a souhaité y répondre favorablement."
 
 msgctxt "body.96aac14d-e4d2-4e9d-94ac-2c076a39a455.accordion_items.3f837f0e-4a7b-4808-859f-d8b2ed2f3325.content.75af78f8-2af5-4b6a-94b5-3e304282d9be"
-msgid "<b>LinkedIn, YouTube, Meta, and X</b> responded and declined."
-msgstr "<b>LinkedIn, YouTube, Meta et X</b> nous ont répondu et ont refusé."
+msgid "<b>LinkedIn, YouTube, Meta, and X</b> declined our request."
+msgstr ""
 
 msgctxt "body.96aac14d-e4d2-4e9d-94ac-2c076a39a455.accordion_items.3f837f0e-4a7b-4808-859f-d8b2ed2f3325.content.75af78f8-2af5-4b6a-94b5-3e304282d9be"
-msgid "<b>TikTok</b> says they’re considering it, but their response is already well past our reasonable timeline."
-msgstr "<b>TikTok</b> nous a laissé entendre qu’ils y réfléchissaient, mais leur réponse se fait toujours attendre."
+msgid "<b>TikTok</b> said they were considering our request, but then declined."
+msgstr ""
 
 msgctxt "body.96aac14d-e4d2-4e9d-94ac-2c076a39a455.accordion_items.3f837f0e-4a7b-4808-859f-d8b2ed2f3325.content.75af78f8-2af5-4b6a-94b5-3e304282d9be"
 msgid "Read more about this request in our blog post: <a id=\"a1\">Request for Basic Data</a>."
@@ -142,3 +142,11 @@ msgid "The lack of basic data around this content also makes it harder to assess
 msgstr ""
 "Enfin, l’absence de données de base sur ces contenus rend également plus difficile l’évaluation des systèmes de recommandation des plateformes. Car mieux les comprendre nécessite de savoir quels "
 "contenus elles mettent le plus en avant."
+
+#~ msgctxt "body.96aac14d-e4d2-4e9d-94ac-2c076a39a455.accordion_items.3f837f0e-4a7b-4808-859f-d8b2ed2f3325.content.75af78f8-2af5-4b6a-94b5-3e304282d9be"
+#~ msgid "<b>LinkedIn, YouTube, Meta, and X</b> responded and declined."
+#~ msgstr "<b>LinkedIn, YouTube, Meta et X</b> nous ont répondu et ont refusé."
+
+#~ msgctxt "body.96aac14d-e4d2-4e9d-94ac-2c076a39a455.accordion_items.3f837f0e-4a7b-4808-859f-d8b2ed2f3325.content.75af78f8-2af5-4b6a-94b5-3e304282d9be"
+#~ msgid "<b>TikTok</b> says they’re considering it, but their response is already well past our reasonable timeline."
+#~ msgstr "<b>TikTok</b> nous a laissé entendre qu’ils y réfléchissaient, mais leur réponse se fait toujours attendre."
