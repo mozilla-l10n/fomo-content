@@ -130,9 +130,26 @@ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\
 #~ msgid "When and where can I buy badges for Mozilla Festival?"
 #~ msgstr "Quand et où puis-je acheter des badges pour le Festival Mozilla ?"
 
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.a0c7aa27-4ab6-4a9a-a46f-e24c8cfa4fcb.content.9a2f7e71-18a2-4407-a1b5-e121ed661d32"
+#~ msgid "Badges will be on sale right here on the Mozilla Festival website. Sign up to our community Discord and newsletter and you’ll be the first to know once they go on sale."
+#~ msgstr ""
+#~ "Les badges seront en vente ici même sur le site web du Festival Mozilla. Rejoignez notre communauté Discord et abonnez-vous à notre newsletter pour être informé·e dès qu’ils seront mis en vente."
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.a0c7aa27-4ab6-4a9a-a46f-e24c8cfa4fcb.content.9a2f7e71-18a2-4407-a1b5-e121ed661d32"
+#~ msgid "Badges are available to purchase here on the Mozilla Festival website. Go to the <a id=\"a1\">Attend page</a> for more details."
+#~ msgstr "Les badges sont disponibles à l’achat ici, sur le site web du Mozilla Festival. Consultez la page <a id=\"a1\">Assister au festival</a> pour plus de détails."
+
 #~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.153c3b98-c697-4686-851c-52e4bb9c0d87.title"
 #~ msgid "Does my badge cover travel or accommodation?"
 #~ msgstr "Mon badge inclut-il les frais de déplacement ou d’hébergement ?"
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.153c3b98-c697-4686-851c-52e4bb9c0d87.content.1a0fdbe6-03db-44da-8320-4316a11a35ff"
+#~ msgid ""
+#~ "No, your ticket grants entry to the festival but does not include travel or accommodation costs. However we will have a selection of hotels and other accommodations with preferential rates for badge"
+#~ " holders."
+#~ msgstr ""
+#~ "Non, votre billet vous donne uniquement l’accès au festival, il ne comprend pas les frais de déplacement ni d’hébergement. Cependant, nous proposons une sélection d’hôtels et d’autres hébergements à"
+#~ " des tarifs préférentiels pour les détenteurs de badges."
 
 #~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.ab331815-b445-4a9c-98e4-92a9d6a20907.title"
 #~ msgid "What if I can’t attend after purchasing a badge?"
@@ -182,6 +199,12 @@ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\
 #~ msgid "Once you have registered and paid for your badge, please submit your details (including your booking code) via festival@mozilla.org to receive a letter of invitation."
 #~ msgstr ""
 #~ "Une fois inscrit et après avoir payé votre badge, veuillez envoyer vos coordonnées (y compris votre code de réservation) à l’adresse festival@mozilla.org pour recevoir une lettre d’invitation."
+
+#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.47c1faf8-2bea-4af8-9cbf-4437bc3b7212.content.d3217ab6-c762-457f-a67b-26d7794bde4b"
+#~ msgid "Once you have registered and paid for your badge, please submit your details (including your booking code) via <a id=\"a1\">this form</a> to receive a personalized letter of invitation."
+#~ msgstr ""
+#~ "Une fois inscrit·e et après avoir payé votre badge, veuillez envoyer vos coordonnées (en y incluant votre code de réservation) via <a id=\"a1\">ce formulaire</a> pour recevoir une lettre "
+#~ "d’invitation personnalisée."
 
 #~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.0a93a1ac-c6f8-4649-822b-8dd5e37c1b55.title"
 #~ msgid "How can I reach Poble Espanyol by public transport?"
@@ -267,6 +290,16 @@ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\
 #~ msgid "We’ll provide recommendations for hotels and other accommodations in Barcelona once badges are available."
 #~ msgstr "Nous vous fournirons des recommandations d’hôtels et autres hébergements à Barcelone dès que les badges seront disponibles."
 
+#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.78aacd8f-f805-4474-8c7f-f82a62a4704f.content.9d65f3b3-e0ee-4b9c-848d-50389c382e0e"
+#~ msgid "See our <a id=\"a1\">Plan Your Trip page</a> for information on hotel rates and where to stay [see separate file in folder for hotel info)"
+#~ msgstr ""
+#~ "Consultez notre <a id=\"a1\">page « Planifiez votre voyage »</a> pour plus d’informations sur les tarifs des hébergements et où se loger (voir le fichier séparé dans le dossier pour plus "
+#~ "d’informations sur les hébergements)"
+
+#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.78aacd8f-f805-4474-8c7f-f82a62a4704f.content.9d65f3b3-e0ee-4b9c-848d-50389c382e0e"
+#~ msgid "See our <a id=\"a1\">Plan Your Trip page</a> for information on hotel rates and where to stay."
+#~ msgstr "Consultez notre <a id=\"a1\">page « Trajet »</a> pour plus d’informations sur les tarifs des hébergements et où se loger."
+
 #~ msgctxt "body.ebfc4507-ae93-46fd-b5f5-087a4bbc9c38"
 #~ msgid "More"
 #~ msgstr "Autres"
@@ -275,80 +308,13 @@ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\
 #~ msgid "We’d love to discuss sponsorship possibilities! Reach out to us at <a id=\"a1\">festival@mozilla.org</a> and one of the team will be in touch."
 #~ msgstr "Nous aimerions discuter des possibilités de parrainage ! Contactez-nous à l’adresse <a id=\"a1\">festival@mozilla.org</a> et nos équipes vous répondront."
 
-#~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.51ac667c-2be7-4e1e-abaa-3c1c4dee5b1b.content.36de5bc7-3494-4681-8944-93461b6cf84a"
-#~ msgid "For press accreditation and other media requests, reach out to <a id=\"a1\">festival@mozilla.org</a>"
-#~ msgstr "Pour les accréditations presse et autres demandes des relatives aux médias, contactez <a id=\"a1\">festival@mozilla.org</a>"
-
-#~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.709b3423-0154-4ecc-b099-ce60e10a2691.content.70e9a68f-5ec7-4bb9-a0f9-03bdef5496d6"
-#~ msgid "If you have any other questions, contact us at <a id=\"a1\">festival@mozilla.org</a>"
-#~ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\"a1\">festival@mozilla.org</a>"
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.629e21fc-bbda-429a-809d-9ccc590cd6d3.content.220555eb-8b09-47ef-8579-f82a9891bb64"
-#~ msgid "Email: <a id=\"a1\">jtorrescasana@barcelonaspecialtraveler.com</a>"
-#~ msgstr "Adresse e-mail : <a id=\"a1\">jtorrescasana@barcelonaspecialtraveler.com</a>"
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.629e21fc-bbda-429a-809d-9ccc590cd6d3.content.220555eb-8b09-47ef-8579-f82a9891bb64"
-#~ msgid "Phone: +34 609 675 466"
-#~ msgstr "Téléphone : +34 609 675 466"
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.78aacd8f-f805-4474-8c7f-f82a62a4704f.content.9d65f3b3-e0ee-4b9c-848d-50389c382e0e"
-#~ msgid "See our <a id=\"a1\">Plan Your Trip page</a> for information on hotel rates and where to stay [see separate file in folder for hotel info)"
-#~ msgstr ""
-#~ "Consultez notre <a id=\"a1\">page « Planifiez votre voyage »</a> pour plus d’informations sur les tarifs des hébergements et où se loger (voir le fichier séparé dans le dossier pour plus "
-#~ "d’informations sur les hébergements)"
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.629e21fc-bbda-429a-809d-9ccc590cd6d3.content.220555eb-8b09-47ef-8579-f82a9891bb64"
-#~ msgid "Please contact our local partner <a id=\"a1\">www.barcelonaspecialtraveler.com</a> for any information on accessibility around the city or at the venue"
-#~ msgstr "Veuillez contacter notre partenaire local <a id=\"a1\">www.barcelonaspecialtraveler.com</a> pour toute information sur l’accessibilité dans la ville ou sur le lieu de l’évènement."
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.629e21fc-bbda-429a-809d-9ccc590cd6d3.title"
-#~ msgid "I need a mobility vehicle whilst in the city and/or require a taxi to accommodate my vehicle?"
-#~ msgstr "J’ai besoin d’un véhicule adapté aux personnes à mobilité réduite durant mon séjour en ville et/ou d’un taxi capable d’accueillir mon véhicule"
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.a0c7aa27-4ab6-4a9a-a46f-e24c8cfa4fcb.content.9a2f7e71-18a2-4407-a1b5-e121ed661d32"
-#~ msgid "Badges will be on sale right here on the Mozilla Festival website. Sign up to our community Discord and newsletter and you’ll be the first to know once they go on sale."
-#~ msgstr ""
-#~ "Les badges seront en vente ici même sur le site web du Festival Mozilla. Rejoignez notre communauté Discord et abonnez-vous à notre newsletter pour être informé·e dès qu’ils seront mis en vente."
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.153c3b98-c697-4686-851c-52e4bb9c0d87.content.1a0fdbe6-03db-44da-8320-4316a11a35ff"
-#~ msgid ""
-#~ "No, your ticket grants entry to the festival but does not include travel or accommodation costs. However we will have a selection of hotels and other accommodations with preferential rates for badge"
-#~ " holders."
-#~ msgstr ""
-#~ "Non, votre billet vous donne uniquement l’accès au festival, il ne comprend pas les frais de déplacement ni d’hébergement. Cependant, nous proposons une sélection d’hôtels et d’autres hébergements à"
-#~ " des tarifs préférentiels pour les détenteurs de badges."
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.a0c7aa27-4ab6-4a9a-a46f-e24c8cfa4fcb.content.9a2f7e71-18a2-4407-a1b5-e121ed661d32"
-#~ msgid "Badges are available to purchase here on the Mozilla Festival website. Go to the <a id=\"a1\">Attend page</a> for more details."
-#~ msgstr "Les badges sont disponibles à l’achat ici, sur le site web du Mozilla Festival. Consultez la page <a id=\"a1\">Assister au festival</a> pour plus de détails."
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.47c1faf8-2bea-4af8-9cbf-4437bc3b7212.content.d3217ab6-c762-457f-a67b-26d7794bde4b"
-#~ msgid "Once you have registered and paid for your badge, please submit your details (including your booking code) via <a id=\"a1\">this form</a> to receive a personalized letter of invitation."
-#~ msgstr ""
-#~ "Une fois inscrit·e et après avoir payé votre badge, veuillez envoyer vos coordonnées (en y incluant votre code de réservation) via <a id=\"a1\">ce formulaire</a> pour recevoir une lettre "
-#~ "d’invitation personnalisée."
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b18846a9-948d-4f77-8d42-4d1c9ac801e5.title"
-#~ msgid "Can under 18s attend Mozilla Festival?"
-#~ msgstr "Les moins de 18 ans peuvent-ils assister au Mozilla Festival ?"
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b18846a9-948d-4f77-8d42-4d1c9ac801e5.content.933324aa-632b-4627-a559-a43897fd4e3b"
-#~ msgid ""
-#~ "Mozilla Festival is designed for adults who are 18 and over. Children aged 13 and under are admitted free and do not require a ticket. Anyone under 18 must be accompanied by a ticket-holding adult "
-#~ "who assumes full responsibility and supervision at all times. If the child is of walking age, we request they wear a wristband with the parent or carer’s cell number. We will have a baby changing "
-#~ "and feeding room onsite."
-#~ msgstr ""
-#~ "Le Mozilla Festival est destiné aux adultes âgés de 18 ans et plus. Les enfants de 13 ans et moins sont admis gratuitement et n’ont pas besoin de billet. Toute personne de moins de 18 ans doit être "
-#~ "accompagnée d’un adulte détenteur d’un billet qui en assumera l’entière responsabilité et la surveillance à tout moment. Si l’enfant est en âge de marcher, nous demandons qu’il porte un bracelet "
-#~ "avec le numéro de téléphone du parent ou de l’accompagnant. Une salle à langer ainsi qu’une salle dédiée aux repas des bébés seront disponibles sur place."
-
-#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.78aacd8f-f805-4474-8c7f-f82a62a4704f.content.9d65f3b3-e0ee-4b9c-848d-50389c382e0e"
-#~ msgid "See our <a id=\"a1\">Plan Your Trip page</a> for information on hotel rates and where to stay."
-#~ msgstr "Consultez notre <a id=\"a1\">page « Trajet »</a> pour plus d’informations sur les tarifs des hébergements et où se loger."
-
 #~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.a0c7aa27-4ab6-4a9a-a46f-e24c8cfa4fcb.content.07068f4d-d8ea-4fea-a166-b352bc93b655"
 #~ msgid "We’d love to discuss sponsorship possibilities! Reach out to us at <a id=\"a1\">festival@mozillafoundation.org</a> and one of the team will be in touch."
 #~ msgstr "Nous aimerions discuter des possibilités de parrainage ! Contactez-nous à l’adresse <a id=\"a1\">festival@mozillafoundation.org</a> et nos équipes vous répondront."
+
+#~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.51ac667c-2be7-4e1e-abaa-3c1c4dee5b1b.content.36de5bc7-3494-4681-8944-93461b6cf84a"
+#~ msgid "For press accreditation and other media requests, reach out to <a id=\"a1\">festival@mozilla.org</a>"
+#~ msgstr "Pour les accréditations presse et autres demandes des relatives aux médias, contactez <a id=\"a1\">festival@mozilla.org</a>"
 
 #~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.51ac667c-2be7-4e1e-abaa-3c1c4dee5b1b.content.36de5bc7-3494-4681-8944-93461b6cf84a"
 #~ msgid "For press accreditation and other media requests, reach out to <a id=\"a1\">festival@mozillafoundation.org</a>"
@@ -366,6 +332,40 @@ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\
 #~ msgid "If you have any other questions or media requests, reach out to <a id=\"a1\">press@mozillafoundation.org</a>"
 #~ msgstr "Si vous avez d’autres questions ou demandes liées aux médias, contactez <a id=\"a1\">press@mozillafoundation.org</a>"
 
+#~ msgctxt "body.55f22452-573a-45b2-820f-9281c9767da8.accordion_items.709b3423-0154-4ecc-b099-ce60e10a2691.content.70e9a68f-5ec7-4bb9-a0f9-03bdef5496d6"
+#~ msgid "If you have any other questions, contact us at <a id=\"a1\">festival@mozilla.org</a>"
+#~ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\"a1\">festival@mozilla.org</a>"
+
+#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.629e21fc-bbda-429a-809d-9ccc590cd6d3.title"
+#~ msgid "I need a mobility vehicle whilst in the city and/or require a taxi to accommodate my vehicle?"
+#~ msgstr "J’ai besoin d’un véhicule adapté aux personnes à mobilité réduite durant mon séjour en ville et/ou d’un taxi capable d’accueillir mon véhicule"
+
+#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.629e21fc-bbda-429a-809d-9ccc590cd6d3.content.220555eb-8b09-47ef-8579-f82a9891bb64"
+#~ msgid "Email: <a id=\"a1\">jtorrescasana@barcelonaspecialtraveler.com</a>"
+#~ msgstr "Adresse e-mail : <a id=\"a1\">jtorrescasana@barcelonaspecialtraveler.com</a>"
+
+#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.629e21fc-bbda-429a-809d-9ccc590cd6d3.content.220555eb-8b09-47ef-8579-f82a9891bb64"
+#~ msgid "Phone: +34 609 675 466"
+#~ msgstr "Téléphone : +34 609 675 466"
+
+#~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.629e21fc-bbda-429a-809d-9ccc590cd6d3.content.220555eb-8b09-47ef-8579-f82a9891bb64"
+#~ msgid "Please contact our local partner <a id=\"a1\">www.barcelonaspecialtraveler.com</a> for any information on accessibility around the city or at the venue"
+#~ msgstr "Veuillez contacter notre partenaire local <a id=\"a1\">www.barcelonaspecialtraveler.com</a> pour toute information sur l’accessibilité dans la ville ou sur le lieu de l’évènement."
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b18846a9-948d-4f77-8d42-4d1c9ac801e5.title"
+#~ msgid "Can under 18s attend Mozilla Festival?"
+#~ msgstr "Les moins de 18 ans peuvent-ils assister au Mozilla Festival ?"
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b18846a9-948d-4f77-8d42-4d1c9ac801e5.content.933324aa-632b-4627-a559-a43897fd4e3b"
+#~ msgid ""
+#~ "Mozilla Festival is designed for adults who are 18 and over. Children aged 13 and under are admitted free and do not require a ticket. Anyone under 18 must be accompanied by a ticket-holding adult "
+#~ "who assumes full responsibility and supervision at all times. If the child is of walking age, we request they wear a wristband with the parent or carer’s cell number. We will have a baby changing "
+#~ "and feeding room onsite."
+#~ msgstr ""
+#~ "Le Mozilla Festival est destiné aux adultes âgés de 18 ans et plus. Les enfants de 13 ans et moins sont admis gratuitement et n’ont pas besoin de billet. Toute personne de moins de 18 ans doit être "
+#~ "accompagnée d’un adulte détenteur d’un billet qui en assumera l’entière responsabilité et la surveillance à tout moment. Si l’enfant est en âge de marcher, nous demandons qu’il porte un bracelet "
+#~ "avec le numéro de téléphone du parent ou de l’accompagnant. Une salle à langer ainsi qu’une salle dédiée aux repas des bébés seront disponibles sur place."
+
 #~ msgctxt "body.6feceebc-b8a5-47fc-8609-efadedd8d881.accordion_items.55a2fa31-1680-42ce-ae5c-865bd80d7e08.title"
 #~ msgid "Do you offer sponsorship or stipends to participants to travel to Mozilla Festival"
 #~ msgstr "Offrez-vous des aides financières ou des bourses aux participants pour leur permettre de se rendre au Mozilla Festival ?"
@@ -377,6 +377,18 @@ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\
 #~ msgstr ""
 #~ "Nous avons un budget limité pour les animateurs et animatrices qui ont besoin d’aide pour se rendre au Mozilla Festival dans le cadre du processus d’appel à propositions. Cependant, nous ne sommes "
 #~ "pas en mesure de fournir d’aide financière ni de bourse pour les voyages en tant que participant au festival."
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.49aade3e-ad2e-4598-84f7-add91e7b154c.title"
+#~ msgid "I've signed up for a badge, but haven't received any confirmation emails."
+#~ msgstr "J’ai demandé un badge, mais je n’ai pas reçu d’e-mail de confirmation."
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.49aade3e-ad2e-4598-84f7-add91e7b154c.content.02c72ee1-4a45-4b30-a1b9-ca4f1f7d417c"
+#~ msgid ""
+#~ "Badge confirmations are sent from our ticketing partner via support@tito.io, please check your spam to make sure it's not being sent there. If you haven't received your badge confirmation please "
+#~ "reach out to us at <a id=\"a1\">festival@mozillafoundation.org</a>"
+#~ msgstr ""
+#~ "Les confirmations de badge sont envoyées par notre partenaire de billetterie depuis l’adresse support@tito.io, pensez à vérifier votre dossier spam pour vous assurer qu’elles n’y ont pas été "
+#~ "dirigées. Si vous n’avez pas reçu votre confirmation de badge, contactez-nous à l’adresse <a id=\"a1\">festival@mozillafoundation.org</a>"
 
 #~ msgctxt "body.139918c7-0d7e-45fb-9076-bc7e73b8df41"
 #~ msgid "Schedule / Plaza"
@@ -434,21 +446,37 @@ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\
 #~ "Merci de vérifier d’abord vos courriers indésirables, il se peut que le code s’y trouve. Si vous avez toujours des difficultés à recevoir votre lien de connexion, n’hésitez pas à nous contacter sur "
 #~ "le canal #help de Discord ou à nous écrire à l’adresse <a id=\"a1\">festival@mozillafoundation.org</a> afin que nous puissions examiner la situation pour vous."
 
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.49aade3e-ad2e-4598-84f7-add91e7b154c.title"
-#~ msgid "I've signed up for a badge, but haven't received any confirmation emails."
-#~ msgstr "J’ai demandé un badge, mais je n’ai pas reçu d’e-mail de confirmation."
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.49aade3e-ad2e-4598-84f7-add91e7b154c.content.02c72ee1-4a45-4b30-a1b9-ca4f1f7d417c"
-#~ msgid ""
-#~ "Badge confirmations are sent from our ticketing partner via support@tito.io, please check your spam to make sure it's not being sent there. If you haven't received your badge confirmation please "
-#~ "reach out to us at <a id=\"a1\">festival@mozillafoundation.org</a>"
-#~ msgstr ""
-#~ "Les confirmations de badge sont envoyées par notre partenaire de billetterie depuis l’adresse support@tito.io, pensez à vérifier votre dossier spam pour vous assurer qu’elles n’y ont pas été "
-#~ "dirigées. Si vous n’avez pas reçu votre confirmation de badge, contactez-nous à l’adresse <a id=\"a1\">festival@mozillafoundation.org</a>"
-
 #~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.dba36304-e504-420c-af02-6e33e44705aa.title"
 #~ msgid "I have registered for a badge - how do I collect this when I arrive at the venue?"
 #~ msgstr "J’ai demandé un badge — comment le récupérer à mon arrivée sur place ?"
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.dba36304-e504-420c-af02-6e33e44705aa.content.80d17ba5-5b4c-4a5e-9554-61b476e1f2ab"
+#~ msgid ""
+#~ "Have your QR code ready and head to badge pick up - our registration team will be ready to scan your code, then you’ll be directed to collect your badge and wristband. This gives you access to the "
+#~ "festival for the duration, and with your wristbands you can access all of the festival sessions, installations and common spaces."
+#~ msgstr ""
+#~ "Munissez-vous de votre code QR et rendez-vous au point de retrait des badges : notre équipe d’inscription sera là pour scanner votre code, après quoi vous serez invité·e à récupérer votre badge "
+#~ "ainsi que votre bracelet. Cela vous permettra d’accéder au festival pendant toute sa durée, et grâce à vos bracelets, vous pourrez profiter de toutes les sessions, installations et espaces communs "
+#~ "du festival."
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b9b0b61f-47e7-46dc-826e-6c5f39ddbc18.title"
+#~ msgid "Once I collect my badge onsite - do I have to go back through badge pick up if I re-enter the space?"
+#~ msgstr "Après avoir récupéré mon badge sur place, dois-je repasser par le point de retrait des badges si je rentre à nouveau dans le lieu de l’évènement ?"
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b9b0b61f-47e7-46dc-826e-6c5f39ddbc18.content.5b1a224c-f7b1-4158-bae5-f157bf263cb4"
+#~ msgid ""
+#~ "No need! Just head through the main entrance - you’ll need to be re-scanned (for monitoring numbers in the space) with one of our volunteers but no need to wait in line again once you have your "
+#~ "badge."
+#~ msgstr ""
+#~ "Inutile ! Passez simplement par l’entrée principale : un de nos bénévoles devra vous rescanner (pour contrôler le nombre de personnes dans l’espace), mais une fois votre badge en main, il ne sera "
+#~ "plus nécessaire de refaire la queue !"
+
+#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b9b0b61f-47e7-46dc-826e-6c5f39ddbc18.content.5b1a224c-f7b1-4158-bae5-f157bf263cb4"
+#~ msgid ""
+#~ "No need! Just head back through badge pick up - you'll need to be rescanned (for monitoring numbers in the space) by one of our volunteers but no need to wait in line again once you have your badge."
+#~ msgstr ""
+#~ "Inutile ! Repassez simplement au point de retrait des badges : un de nos bénévoles devra vous rescanner (pour contrôler le nombre de personnes dans l’espace), mais une fois votre badge en main, il "
+#~ "ne sera plus nécessaire de refaire la queue !"
 
 #~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.deebb3dc-b11a-4e1e-bf53-acb61458b34a.title"
 #~ msgid "How can I request a Companion Badge?"
@@ -486,27 +514,6 @@ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\
 #~ "Le festival propose un large choix de food trucks adaptés à tous les régimes, avec des plats allant de 5 à 17 €. Vous pourrez également acheter des cafés dans les différents espaces. Des points "
 #~ "d’eau sont répartis sur tout le site, alors pensez à prendre votre gourde !"
 
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.dba36304-e504-420c-af02-6e33e44705aa.content.80d17ba5-5b4c-4a5e-9554-61b476e1f2ab"
-#~ msgid ""
-#~ "Have your QR code ready and head to badge pick up - our registration team will be ready to scan your code, then you’ll be directed to collect your badge and wristband. This gives you access to the "
-#~ "festival for the duration, and with your wristbands you can access all of the festival sessions, installations and common spaces."
-#~ msgstr ""
-#~ "Munissez-vous de votre code QR et rendez-vous au point de retrait des badges : notre équipe d’inscription sera là pour scanner votre code, après quoi vous serez invité·e à récupérer votre badge "
-#~ "ainsi que votre bracelet. Cela vous permettra d’accéder au festival pendant toute sa durée, et grâce à vos bracelets, vous pourrez profiter de toutes les sessions, installations et espaces communs "
-#~ "du festival."
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b9b0b61f-47e7-46dc-826e-6c5f39ddbc18.title"
-#~ msgid "Once I collect my badge onsite - do I have to go back through badge pick up if I re-enter the space?"
-#~ msgstr "Après avoir récupéré mon badge sur place, dois-je repasser par le point de retrait des badges si je rentre à nouveau dans le lieu de l’évènement ?"
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b9b0b61f-47e7-46dc-826e-6c5f39ddbc18.content.5b1a224c-f7b1-4158-bae5-f157bf263cb4"
-#~ msgid ""
-#~ "No need! Just head through the main entrance - you’ll need to be re-scanned (for monitoring numbers in the space) with one of our volunteers but no need to wait in line again once you have your "
-#~ "badge."
-#~ msgstr ""
-#~ "Inutile ! Passez simplement par l’entrée principale : un de nos bénévoles devra vous rescanner (pour contrôler le nombre de personnes dans l’espace), mais une fois votre badge en main, il ne sera "
-#~ "plus nécessaire de refaire la queue !"
-
 #~ msgctxt "body.f6119832-5909-41d9-9a58-f3ce9056ab6c.accordion_items.6a520f82-3193-4c4e-8735-83693fdcbe79.title"
 #~ msgid "Is the venue accessible?"
 #~ msgstr "Le lieu est-il accessible ?"
@@ -540,10 +547,3 @@ msgstr "Si vous avez d’autres questions, contactez-nous à l’adresse <a id=\
 #~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.ba394ec8-9554-4e99-8951-e982654d4d7e.content.114dbd2b-b2c1-43c1-9369-e3f99e7971da"
 #~ msgid "November 7-9th: 8:30AM - 7:00PM"
 #~ msgstr "7-9 novembre : 8 h 30 - 19 h 00"
-
-#~ msgctxt "body.7bce918e-835b-4938-8cf9-564c17ff8e6b.accordion_items.b9b0b61f-47e7-46dc-826e-6c5f39ddbc18.content.5b1a224c-f7b1-4158-bae5-f157bf263cb4"
-#~ msgid ""
-#~ "No need! Just head back through badge pick up - you'll need to be rescanned (for monitoring numbers in the space) by one of our volunteers but no need to wait in line again once you have your badge."
-#~ msgstr ""
-#~ "Inutile ! Repassez simplement au point de retrait des badges : un de nos bénévoles devra vous rescanner (pour contrôler le nombre de personnes dans l’espace), mais une fois votre badge en main, il "
-#~ "ne sera plus nécessaire de refaire la queue !"

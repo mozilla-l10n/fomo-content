@@ -293,6 +293,14 @@ msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.ed0adbe2-dc75-48b7-8b92
 msgid "Listen now"
 msgstr "Escuchar ahora"
 
+#~ msgctxt "body.0f19c526-1c8e-4c3f-9d26-ba3b158f3a2a.label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Envía tu idea para una sesión"
+
+#~ msgctxt "body.0f19c526-1c8e-4c3f-9d26-ba3b158f3a2a.external_url"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
+
 #~ msgctxt "body.0c889490-caa3-468e-ba0b-91425d311ed5.altText"
 #~ msgid "space placeholders"
 #~ msgstr "marcadores de posición"
@@ -304,38 +312,6 @@ msgstr "Escuchar ahora"
 #~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.external_url"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
-
-#~ msgctxt "body.0f19c526-1c8e-4c3f-9d26-ba3b158f3a2a.label"
-#~ msgid "Submit your session idea"
-#~ msgstr "Envía tu idea para una sesión"
-
-#~ msgctxt "body.0f19c526-1c8e-4c3f-9d26-ba3b158f3a2a.external_url"
-#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
-#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
-
-#~ msgctxt "body.e6c2a4ba-aa77-451a-b765-31bb5d8b7d17.button_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Asegura tu boleto"
-
-#~ msgctxt "body.df3c7b2f-caee-454c-8f3e-268c52a36bad.url_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Asegura tu boleto"
-
-#~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Asegura tu boleto"
-
-#~ msgctxt "body.51d014e0-2762-4ea4-97b7-fa3339474d0a.url_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Asegura tu boleto"
-
-#~ msgctxt "body.df3c7b2f-caee-454c-8f3e-268c52a36bad.url"
-#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
-#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
-
-#~ msgctxt "body.51d014e0-2762-4ea4-97b7-fa3339474d0a.url"
-#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
-#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
 
 #~ msgctxt "body.d21f5799-a7f9-4b48-9059-27f3145cb04a.session_items.c53e276a-8301-4ca6-9dd1-02eda56928fc.body"
 #~ msgid ""
@@ -350,6 +326,10 @@ msgstr "Escuchar ahora"
 #~ msgstr "marcador"
 
 #~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url_label"
 #~ msgid "Submit your session idea"
 #~ msgstr "Envía tu idea para una sesión"
 
@@ -357,7 +337,27 @@ msgstr "Escuchar ahora"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp?track=3240-tech-biodiversity-legado-2060"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp?track=3240-tech-biodiversity-legado-2060"
 
-#~ msgctxt "body.cebe4508-caae-4be7-9241-97d77db89f35.url"
+#~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url"
+#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
+
+#~ msgctxt "body.e6c2a4ba-aa77-451a-b765-31bb5d8b7d17.button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.df3c7b2f-caee-454c-8f3e-268c52a36bad.url_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.df3c7b2f-caee-454c-8f3e-268c52a36bad.url"
+#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
+
+#~ msgctxt "body.51d014e0-2762-4ea4-97b7-fa3339474d0a.url_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.51d014e0-2762-4ea4-97b7-fa3339474d0a.url"
 #~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
 #~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
 
@@ -365,6 +365,6 @@ msgstr "Escuchar ahora"
 #~ msgid "Secure your ticket"
 #~ msgstr "Asegura tu boleto"
 
-#~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url"
+#~ msgctxt "body.cebe4508-caae-4be7-9241-97d77db89f35.url"
 #~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
 #~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
