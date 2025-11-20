@@ -1,10 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2025-10-17 17:02:33.531077+00:00\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 0096cc1f-423b-4fdd-8614-6041fd902d6b\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "cta_header"
 msgid "The Internet we deserve starts with you. Sign up for our newsletter."
@@ -13,7 +14,3 @@ msgstr ""
 msgctxt "button_text"
 msgid "Sign Up"
 msgstr "Inscreva-se"
-
-#~ msgctxt "cta_header"
-#~ msgid "The internet we deserve starts with you. Sign up for our newsletter."
-#~ msgstr "A internet que merecemos começa com você. Inscreva-se em nosso boletim informativo."
