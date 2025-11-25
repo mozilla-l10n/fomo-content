@@ -4750,11 +4750,6 @@ l10n = "locales/{locale}/pages/homepage/campaigns/tell-french-lawmakers-dont-bre
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
-locales = [ "nl",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/togetherness-and-solidarity-explore-the-mozfest-house-amsterdam-program.pot"
 l10n = "locales/{locale}/pages/homepage/blog/togetherness-and-solidarity-explore-the-mozfest-house-amsterdam-program.po"
 locales = [ "nl",]
@@ -4770,6 +4765,11 @@ l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-is-coming-to-amsterda
 locales = [ "nl",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-internet.po"
+locales = [ "nl",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/regulating-ai-in-brazil-could-it-mitigate-algorithmic-racism.pot"
 l10n = "locales/{locale}/pages/homepage/blog/regulating-ai-in-brazil-could-it-mitigate-algorithmic-racism.po"
 locales = [ "pt-BR",]
@@ -4780,8 +4780,13 @@ l10n = "locales/{locale}/snippets/wagtailpages.Profile/429-tarcizio-silva.po"
 locales = [ "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.pot"
-l10n = "locales/{locale}/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.po"
+reference = "templates/snippets/wagtailpages.Profile/293-tracy-kariuki.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/293-tracy-kariuki.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.pot"
+l10n = "locales/{locale}/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4840,6 +4845,11 @@ l10n = "locales/{locale}/pages/homepage/blog/does-technology-have-a-gender.po"
 locales = [ "sw",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.po"
+locales = [ "sw",]
+
+[[paths]]
 reference = "templates/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.po"
 locales = [ "sw",]
@@ -4850,28 +4860,23 @@ l10n = "locales/{locale}/pages/homepage/blog/voice-technologies-and-privacy.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Profile/220-britone-mwasaru.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/220-britone-mwasaru.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/292-abdulrahman-ndegwa.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.pot"
-l10n = "locales/{locale}/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.po"
-locales = [ "sw",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/conversations-on-culture-and-preserving-history.pot"
 l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preserving-history.po"
 locales = [ "sw",]
 
 [[paths]]
+reference = "templates/snippets/wagtailpages.Profile/220-britone-mwasaru.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/220-britone-mwasaru.po"
+locales = [ "sw",]
+
+[[paths]]
 reference = "templates/snippets/wagtailpages.Profile/559-cynthia-nzuki.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/559-cynthia-nzuki.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.pot"
+l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4887,11 +4892,6 @@ locales = [ "sw",]
 [[paths]]
 reference = "templates/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozfest-house-kenya-will-mobilize-african-communities-around-trustworthy-ai.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.pot"
-l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -4940,6 +4940,11 @@ l10n = "locales/{locale}/pages/homepage/blog/the-politics-of-language-the-contro
 locales = [ "sw",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.pot"
+l10n = "locales/{locale}/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.po"
+locales = [ "sw",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.pot"
 l10n = "locales/{locale}/pages/homepage/blog/open-call-the-second-edition-of-common-voices-kiswahili-essay-writing-competition.po"
 locales = [ "sw",]
@@ -4952,10 +4957,5 @@ locales = [ "sw",]
 [[paths]]
 reference = "templates/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.pot"
 l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/common-voice-kiswahili-awards.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/293-tracy-kariuki.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/293-tracy-kariuki.po"
 locales = [ "sw",]
 
