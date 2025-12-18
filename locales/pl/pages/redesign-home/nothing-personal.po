@@ -6,19 +6,18 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: c781d16e-d77b-4b72-bbb7-43ce7c4d32ed\n"
 
 msgctxt "seo_title"
 msgid "Nothing Personal, a new editorial platform by Mozilla Foundation"
-msgstr "Nothing Personal, nowa platforma redakcyjna Mozilla Foundation"
+msgstr "Nothing Personal, nowa platforma redakcyjna Fundacji Mozilla"
 
 msgctxt "search_description"
 msgid ""
 "Nothing Personal is Mozilla Foundation's counterculture magazine and editorial platform for independent thinkers like you. We imagine and defend the endless possibilities of the Internet. Read our "
 "reported stories on internet counterculture, humor columns, and privacy reviews."
 msgstr ""
-"Nothing Personal to magazyn kontrkulturowy i platforma redakcyjna Mozilla Foundation dla niezależnych myślicieli, takich jak Ty. Wyobrażamy sobie nieskończone możliwości Internetu i stajemy w ich "
-"obronie. Zapoznaj się z naszymi relacjami na temat kontrkultury internetowej, humorystycznymi felietonami i przeglądami prywatności."
+"Nothing Personal to magazyn kontrkulturowy i platforma redakcyjna Fundacji Mozilla dla niezależnych myślicieli, takich jak Ty. Wyobrażamy sobie nieskończone możliwości Internetu i stajemy w ich "
+"obronie. Zapoznaj się z naszymi relacjami na temat kontrkultury internetowej, humorystycznymi felietonami i artykułami o prywatności."
 
 msgctxt "title"
 msgid "Nothing Personal"
@@ -38,7 +37,7 @@ msgstr "Dowiedz się, co należy wziąć pod uwagę przy wyborze nowej technolog
 
 msgctxt "body.60ec48e4-2032-4359-82aa-5d376e93fbf9.title"
 msgid "Superficial Intelligence: Tech Parenting"
-msgstr ""
+msgstr "Powierzchowna inteligencja: rodzicielstwo pełne techniki"
 
 msgctxt "body.60ec48e4-2032-4359-82aa-5d376e93fbf9.subtitle"
 msgid "Humor"
@@ -86,15 +85,3 @@ msgstr ""
 msgctxt "tagline"
 msgid "An editorial platform for independent thinkers, technologists, and creatives on the front lines of digital culture."
 msgstr "Platforma redakcyjna dla niezależnych myślicieli, technologów i twórców na pierwszej linii frontu kultury cyfrowej."
-
-#~ msgctxt "body.60ec48e4-2032-4359-82aa-5d376e93fbf9.title"
-#~ msgid "Superficial Intelligence"
-#~ msgstr "Powierzchowna inteligencja"
-
-#~ msgctxt "body.60ec48e4-2032-4359-82aa-5d376e93fbf9.media.video_url"
-#~ msgid "https://player.vimeo.com/progressive_redirect/playback/1119192224/rendition/1080p/file.mp4?loc=external&amp;signature=76be710157be30d478e9464aaab0cb69cc97c3f8bce963d98ff0d76145827ef9"
-#~ msgstr "https://player.vimeo.com/progressive_redirect/playback/1119192224/rendition/1080p/file.mp4?loc=external&amp;signature=76be710157be30d478e9464aaab0cb69cc97c3f8bce963d98ff0d76145827ef9"
-
-#~ msgctxt "body.5a3c8cde-5f71-446f-9b77-ed576e492a24.text"
-#~ msgid "Learn about what to consider when choosing your messaging app"
-#~ msgstr "Dowiedz się, co należy wziąć pod uwagę przy wyborze aplikacji do przesyłania wiadomości"
