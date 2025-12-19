@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 7b050930-9bfc-4f91-800b-c5a5fd8c42b9\n"
 
 msgctxt "seo_title"
 msgid "IRL Podcast | Nothing Personal by Mozilla Foundation"
@@ -191,15 +190,3 @@ msgstr "Sezon 5"
 msgctxt "body.b818a03a-37d3-4656-bf7c-5fd4b22e3a3e.left_column.2b3ebbcc-3abb-43c4-b64b-c812cb05fb8c.items.ff1daccc-6012-495f-9527-b239e2ddf3ec.label"
 msgid "Season 4"
 msgstr "Sezon 4"
-
-#~ msgctxt "title"
-#~ msgid "IRL Podcast"
-#~ msgstr "Podcast IRL"
-
-#~ msgctxt "hero_title"
-#~ msgid "IRL Podcast"
-#~ msgstr "Podcast IRL"
-
-#~ msgctxt "hero_image_alt_text"
-#~ msgid "IRL Podcast Logo by Mozilla Foundaiton"
-#~ msgstr "Logo podcastu IRL Mozilla Foundaiton"
