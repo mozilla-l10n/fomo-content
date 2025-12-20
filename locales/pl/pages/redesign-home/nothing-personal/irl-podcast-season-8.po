@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 7b050930-9bfc-4f91-800b-c5a5fd8c42b9\n"
 
 msgctxt "seo_title"
 msgid "IRL Podcast | Nothing Personal by Mozilla Foundation"
@@ -24,11 +23,11 @@ msgstr ""
 
 msgctxt "title"
 msgid "Our Podcast"
-msgstr ""
+msgstr "Nasz podcast"
 
 msgctxt "hero_title"
 msgid "Our Podcast"
-msgstr ""
+msgstr "Nasz podcast"
 
 msgctxt "hero_description"
 msgid "Bridget Todd explores how AI is reshaping our desires, our systems, and our futures."
@@ -36,11 +35,11 @@ msgstr "Bridget Todd bada, w jaki sposób sztuczna inteligencja zmienia nasze pr
 
 msgctxt "hero_image_alt_text"
 msgid "Podcast Logo by Mozilla Foundaiton"
-msgstr ""
+msgstr "Logo podcastu Mozilla Foundaiton"
 
 msgctxt "body.201a254f-fec9-4905-b5db-cd7585c497a2"
 msgid "Bonus Episode"
-msgstr ""
+msgstr "Odcinek bonusowy"
 
 msgctxt "body.b77cd93e-2cb5-45c2-839b-16a31c6af4b9.title"
 msgid "Watching the Watchers"
@@ -90,7 +89,7 @@ msgstr ""
 
 msgctxt "body.f5c52178-e7da-4b6a-aca6-dca64921f3f9"
 msgid "<a id=\"a1\">Episode transcript</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Transkrypcja odcinka</a>"
 
 msgctxt "body.506a4d32-73ad-4ea7-91f2-aff0103ad47e"
 msgid "Episode 3"
@@ -191,15 +190,3 @@ msgstr "Sezon 5"
 msgctxt "body.b818a03a-37d3-4656-bf7c-5fd4b22e3a3e.left_column.2b3ebbcc-3abb-43c4-b64b-c812cb05fb8c.items.ff1daccc-6012-495f-9527-b239e2ddf3ec.label"
 msgid "Season 4"
 msgstr "Sezon 4"
-
-#~ msgctxt "title"
-#~ msgid "IRL Podcast"
-#~ msgstr "Podcast IRL"
-
-#~ msgctxt "hero_title"
-#~ msgid "IRL Podcast"
-#~ msgstr "Podcast IRL"
-
-#~ msgctxt "hero_image_alt_text"
-#~ msgid "IRL Podcast Logo by Mozilla Foundaiton"
-#~ msgstr "Logo podcastu IRL Mozilla Foundaiton"
