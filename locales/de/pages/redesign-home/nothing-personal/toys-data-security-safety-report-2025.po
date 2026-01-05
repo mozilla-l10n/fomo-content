@@ -1,0 +1,577 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-05 08:17:57.063846+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5cc3c933-b4f2-4290-8a79-cc9a73cbd041\n"
+
+msgctxt "seo_title"
+msgid "Privacy Review: Toys Report"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Read Mozilla Foundation's guide to connected toys. We’ve commissioned research from 7ASecurity, a trusted cybersecurity consultancy, to hack ten of the most popular internet toys for privacy and "
+"security concerns."
+msgstr ""
+
+msgctxt "title"
+msgid "Special Report: Hacking 10 Popular Toys for Safety and Privacy"
+msgstr ""
+
+msgctxt "hero_image_alt_text"
+msgid "Two kids playing on a tablet with parents in the background."
+msgstr ""
+
+msgctxt "lede_text"
+msgid "There are more cloud-connected toys out there than we can count. This holiday, it’s not just AI you have to look out for when you’re unwrapping presents for the kids."
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid ""
+"If a toy’s connected to the internet, it can send information about you and your children back to the vendor’s servers, as well as to third-party companies the vendor has data-sharing agreements "
+"with."
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "We’ve commissioned research from <a id=\"a1\">7ASecurity</a>, a trusted cybersecurity consultancy, to hack ten of the most popular internet toys for privacy and security concerns."
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid ""
+"“Across the ten smart toys audited for this report, 7ASecurity found widespread security and privacy weaknesses. In practical terms, that means many toys marketed for children could be misused to "
+"spy on families, manipulate what kids hear or see, or expose sensitive data.”"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid ""
+"We chose these toys based on their popularity with shoppers globally. These ten toys are also widely representative of other connected toys on the market in terms of their features. Our findings "
+"show there are some serious security holes lurking in these products. 7ASecurity tested the following toys:"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "Amazon Fire Kids Tablet, an Amazon tablet designed for kids age 3-7 with parental controls"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "Emo Robot, a mini robot companion that plays with you at your desk"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "GoCube Edge, Bluetooth-connected Rubik’s Cube puzzle"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "Huawei Watch Kids 4, a smartwatch designed for kids"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "Miko Mini, a conversational companion robot for kids"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "PlayShifu Plugo Count, a stem learning game that connects to a tablet or phone"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "Powerup 4.0 Airplane, a smartphone connected paper airplane"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "Sphero Mini Activity Kit, a smartphone connected robotic ball and toy set"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "TickTalk 5, a smartwatch designed for kids"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "Toniebox 1, an audioplayer with music, stories, and games"
+msgstr ""
+
+msgctxt "body.718714ff-4a83-4e16-8f58-b876ddc44aa6"
+msgid "Here are the most common issues we’ve identified from our security audit with 7ASecurity."
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid "A Stranger’s Voice in Your Toy"
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid ""
+"Children's toys with voice features have come a long way since the days of a draw-string attached to a speaker box. Internet-connected toys with speech recognition can listen to your child and talk "
+"back by making a request to an online service, which is usually powered by AI."
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid "The internet service then generates a response using text-to-speech software, which is then piped back from the internet to the toy's speaker for playback."
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid ""
+"7ASecurity’s audit found that some of the toys we’ve listed have security vulnerabilities that mean an attacker could hijack the speaker by intercepting and altering responses sent back to your "
+"child."
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid ""
+"<b>What's the Risk:</b> While security on these toys could certainly be better, 7ASecurity didn’t find any evidence the voice injection attacks discovered among the 10 audited toys can be carried "
+"out completely remotely. An attacker would need to be able to intercept your traffic using a Man in the Middle technique, so the only plausible culprits are a rogue ISP employee, a hacker using the "
+"same Wi-Fi network as your toy or an attacker within Bluetooth range."
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid ""
+"Realistically, if your home Wi-Fi is using suitable security controls like WPA3 and you trust the other devices on your network, then you won't need to worry about it. However, you would need to be "
+"concerned if you’re using an insecure public Wi-Fi access point where a hacker could potentially monitor your internet traffic."
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid "Real-World Implications:"
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid "7ASecurity found that the following toys are affected by this issue:"
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid "Emo Robot, a mini robot companion that plays with you at your desk"
+msgstr ""
+
+msgctxt "body.7b24143e-0da9-4e96-93d9-7caaf75c664f"
+msgid ""
+"With control over the speaker, an attacker could send inappropriate voice messages to your child without oversight. Imagine spending hundreds of dollars on a voice-connected teddy bear, just for it "
+"to start speaking profanity at random. It goes beyond pranks, too. In the worst case, a predator could use the implicit trust kids place in their toys to lure them to a dangerous location."
+msgstr ""
+
+msgctxt "body.737c7cb9-92a8-4528-a8b0-3e916c05c363.label"
+msgid "3 Ways to Play Safe With Digital Toys"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Location, Location, Location"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid ""
+"Most of the toys in this list come with internal memory that allows them to save media like voice clips, images, and video captured through microphones and cameras. Even if your loved ones' "
+"favourite moments aren’t being sent to the cloud to fuel AI models, the problem doesn’t end there."
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid ""
+"7ASecurity found that these files are sometimes poorly secured: both on the toys on our list and their accompanying apps. Our research suggests that there’s multiple issues with how personal data is"
+" stored locally, ranging from manufacturers choosing not to use the most secure data-storage options available when saving data to mobile apps, to not using encryption for files saved to internal "
+"and external storage."
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "However, it seems that poor physical security is the main culprit. According to 7ASecurity, “4 out of 10 [toys] exposed sensitive data through insecure physical storage.”"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid ""
+"<b>What's the Risk:</b> If your child's toy is stolen or lost, your private information could be accessed.. This also goes for toys you've donated, sold, or discarded. Without proper encryption in "
+"place, an attacker would be able to remove the SD card from the toy and access all of the images and videos stored on the device."
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid ""
+"Make sure you pick an encrypted option if asked to choose how your data is stored. If you're not properly wiping all stored data from the toy before it passes out of your hands, it's a potential "
+"privacy threat."
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Real World Implications:"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "7ASecurity found that the following toys are affected by this issue:"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Amazon Fire Kids Tablet, an Amazon tablet designed for kids age 3-7 with parental controls"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Emo Robot, a mini robot companion that plays with you at your desk"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Huawei Watch Kids 4, a smartwatch designed for kids"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "PlayShifu Plugo Count, a stem learning game that connects to a tablet or phone"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "TickTalk 5, a smartwatch designed for kids"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Toniebox 1, an audioplayer with music, stories, and games"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid ""
+"Depending on what the toy has recorded, an attacker could have access to anything from intimate family discussions to clues about the layout of your house. Here’s just a few things an attacker could"
+" learn from your discarded data:"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Addresses, phone numbers, or daily routines through voice recordings"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Location data embedded in photos and recordings"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Family member names and relationships from contact data"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "Timestamps revealing when the home is occupied or empty"
+msgstr ""
+
+msgctxt "body.fdf504ca-7001-47f4-ba20-3dc663f6c8e0"
+msgid "There's a wealth of information these toys record, so taking the right precautions is a must."
+msgstr ""
+
+msgctxt "body.221f5307-6df6-46a5-8ada-765f36711cd0.quote"
+msgid "There’s a few things you can do to mitigate the risks of internet connected toys, from password safety to removing the SD card."
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "The Data You Give"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid ""
+"You've probably been there before: Everyone's unwrapped their presents, started playing with their shiny new toys, and before you know it you're downloading apps and filling out account registration"
+" forms just so your kid's internet-connected dinosaur action figure will roar when they pass in front of it."
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid ""
+"If you're concerned about whether your child's personal data is being correctly safeguarded when you sign up to these services, you're right to be worried. 7ASecurity’s audits found that “6 out of "
+"10 exhibited server‑side vulnerabilities or missing authentication controls”."
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid ""
+"<a id=\"a1\">Server-side vulnerabilities</a> can vary widely in scope, but from what we’ve been shown by 7ASecurity at least some of these could be abused to scrape the personal data you’ve provided"
+" to a vendor. Personal data you’ve been forced to hand over to make full use of these toys' functionality."
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "We’ve seen evidence that some of these misconfigurations could be abused to carry out remote code execution on a toy, giving an attacker complete control over the toy’s functions."
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid ""
+"<b>What's the Risk:</b> It really depends on the service you're using, but we've seen that some of these internet-enabled services have significant security holes that would allow an attacker to "
+"infiltrate entire databases and harvest personal details wholesale."
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "The data you could potentially lose includes:"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "Full names, birthdates, and ages of children"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "Your email addresses and phone numbers"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "Home addresses for product shipments"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "Voice recordings and video chats"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "Usage patterns revealing when children are home and awake"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "GPS coordinates from location-aware toys"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid ""
+"As for remote code execution, an attacker who gains control of a connected toy could activate cameras and microphones without your knowledge, turning your toy into a surveillance device in your "
+"child’s bedroom. Any data that passes through the toy would be available for the attacker to you."
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "Real-World Consequences:"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "7ASecurity found that the following toys are affected by this issue:"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "PlayShifu Plugo Count, a stem learning game that connects to a tablet or phone"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "Powerup 4.0 Airplane, a smartphone connected paper airplane"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "Sphero Mini Activity Kit, a smartphone connected robotic ball and toy set"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "TickTalk 5, a smartwatch designed for kids"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "Toniebox 1, an audioplayer with music, stories, and games"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid "No two data breaches are alike in scope or impact. However, 7ASecurity noted that:"
+msgstr ""
+
+msgctxt "body.16bacc50-2fdc-4b6c-929d-542ef204d2d2"
+msgid ""
+"“Every toy in the study handled some form of personal data about children or parents, and half of them collected location data as well. When that level of data collection is combined with weak "
+"protections, attackers or abusive insiders could reconstruct a child’s identity, daily routine or whereabouts with worrying precision.”"
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid "What’s the Policy, Actually"
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid ""
+"Reading through privacy policy documentation for an internet-enabled toy is the last thing you want to be doing during the busy holidays, but it's important to do your due diligence considering the "
+"capabilities some of these toys have access to. If a toy can record sound, video, and GPS coordinates, you want to make sure that data is being handled properly."
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid ""
+"Some of these toys we looked at have inadequate information available when it comes to documenting which personal information is collected, especially relating to how third parties process your "
+"data. In other cases, the relevant information is buried under pages and pages of legalese which makes it extremely difficult to understand exactly how and where your child’s data is being used."
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid "<b>Where's the Risk:</b> You can't make an informed decision about the data your child's toy is collecting and how it's being shared with third parties."
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid ""
+"Not only does this lack of transparency violate the basic principle of informed consent, but it can also bring toy vendors into conflict with children's privacy laws such as COPPA in the United "
+"States or GDPR in Europe."
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid "Real-World Consequences:"
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid "7ASecurity found that the following toys are affected by this issue:"
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid "Emo Robot, a mini robot companion that plays with you at your desk"
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid "Toniebox 1, an audioplayer with music, stories, and games"
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid ""
+"Without proper documentation, it’s impossible to know how a manufacturer is using your data. If a manufacturer can't be bothered to properly document their data practices, it's worth asking what "
+"else they can't be bothered to do properly."
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid ""
+"It’s also necessary to know which data is being collected on you so you can effectively exercise your rights. You should also be able to understand what security measures are protecting the data, "
+"what your rights are to access, correct, or delete your children's data."
+msgstr ""
+
+msgctxt "body.ef2588e9-d1eb-484f-b55e-7724bb70e41e"
+msgid ""
+"At a minimum, you should expect to see clear information about every type of data collected (audio, video, location, usage patterns), how that data is used by both the manufacturer and third "
+"parties, how long data is retained and the process for deletion, and who has access to it."
+msgstr ""
+
+msgctxt "body.4ee84589-31b0-41bc-b104-cb764afdea15.heading"
+msgid "Here are 3 ways for parents to play safe with connected toys"
+msgstr ""
+
+msgctxt "body.4ee84589-31b0-41bc-b104-cb764afdea15.description"
+msgid "Reduce risks and take control of your children's data. Read <a id=\"a1\">our story.</a>"
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid "Bluetooth Vulnerabilities"
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid ""
+"We’ve saved the most worrying issue 7ASecurity found for last. Some of the devices we've asked 7ASecurity to examine feature very limited or no Bluetooth authentication whatsoever, meaning that an "
+"attacker can remotely control the toy if they’re in pairing range of the device."
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid ""
+"On the surface, this might seem like a relatively low-risk attack vector but the reality is more concerning. While Bluetooth attacks require an attacker to be closeby, they’re trivial to carry out. "
+"Worse, Bluetooth signals easily carry between walls in places like apartment buildings and can reach toys in schools, daycares, or even in your car when stopped at public locations."
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid "Once they’re connected, many of these toys have no mechanism to alert you that an unauthorized device has paired with them. The toy simply accepts the connection and responds to commands."
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid ""
+"In at least one case, we’ve seen that a Bluetooth exploit could lead to total permanent take-over of the device. Your child's toy could be compromised for days or weeks without you having any way to"
+" know."
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid ""
+"<b>What's the Risk:</b> It really depends on the capabilities of the toy and how much access an attacker has. At the lower end, they could flash lights or play sounds to disturb sleep or frighten "
+"children, drain the toy's battery rendering it unusable, or make the toy move erratically."
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid ""
+"However, we’ve also seen that more serious privacy violations are also possible. If a device with poor bluetooth security also has access to a microphone or camera, an attacker could activate it to "
+"eavesdrop on conversations, or track the toy's location if it's GPS-enabled. In fact, previous research by 7ASecurity demonstrated that this exact attack was possible on the <a id=\"a1\">CloudPets "
+"series of toys</a>, leading to them being withdrawn from the market."
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid "Real-World Implications:"
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid "7ASecurity found that the following toys are affected by this issue:"
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid "GoCube Edge, Bluetooth-connected Rubik’s Cube puzzle"
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid "Powerup 4.0 Airplane, a smartphone connected paper airplane"
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid "Sphero Mini Activity Kit, a smartphone connected robotic ball and toy set"
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid "It’s unlikely, but a particularly motivated hacker could use a Bluetooth-connected toy as a pivot point to infiltrate your entire home network."
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid ""
+"Although this would require significant capabilities, we've confirmed with 7ASecurity that Bluetooth exploits aren’t just limited to taking control over a toy’s functions. In some cases, an attacker"
+" could exploit the lack of Bluetooth authentication on a toy to gain a foothold on your network, then use that access to attack other devices like computers, smartphones, smart home systems, and "
+"security cameras."
+msgstr ""
+
+msgctxt "body.19cfe1d3-e0f9-4a3f-b32e-b730b852f71f"
+msgid "This is an advanced attack scenario, which is very unlikely, but it's a real threat for families with high-profile parents."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "But there’s some good news"
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid ""
+"Across the ten toys we put to the test, two of the toymakers told us, in response to our inquiries, that they have already addressed the security issues we identified— either in updates or in their "
+"latest products."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid ""
+"The Toniebox 1, the model we tested, is no longer in production but you can still purchase it online. A spokesperson said the Toniebox 2 has implemented changes and upgrades that prevent data from "
+"being accessed. “Among other advancements, we have also addressed both findings you are mentioning.”"
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "The Miko Mini has undergone multiple security-hardening updates in the last year to prevent the device from connecting to open or unsecured Wi-Fi networks."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid ""
+"“The Miko Parental App strictly enforces WPA 2.0–secured Wi-Fi for both setup and operation. Open networks, captive portals, and public Wi-Fi environments (such as cafés, airports, or hotels) are "
+"explicitly blocked at the configuration layer and cannot be bypassed by users,” said Ritvik Sharma, Miko’s Chief Growth Officer."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "The company has also set up a <a id=\"a1\">vulnerability reporting program</a> where security issues can be flagged, and even accepts patch or mitigation suggestions from its community."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "I already have one of these toys, what now?"
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid ""
+"Don’t throw in the towel yet. It might be tempting after reading our report to throw in the towel entirely and hope the kids in your life will be happy with a stick and hoop, but there’s still a few"
+" things you can do to mitigate the risks of internet connected toys."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "Do your research:"
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid ""
+"When you’re buying a toy, check if it has an offline mode or whether there are capabilities that strictly need an online account or mobile app. It’s also worth doing some online searching to see if "
+"any issues have already been found in the toy you have."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "<b>After you purchase</b>:"
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid ""
+"If there’s a default password, change it! If possible, you should also disable features like a toy’s camera and microphone when not in use. Keeping any toys you’ve bought on a separate Wi-Fi network"
+" or turning Wi-Fi off is also a good idea, just in case."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "<b>When getting rid of a toy</b>:"
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "Factory reset the device, remove the SD card alongside any internal storage and dispose of them separately, and delete any accounts you have with the manufacturer."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "The bottom line:"
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "The convenience of internet connectivity should never come at the expense of your child's safety and privacy."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid ""
+"If the issues we’ve highlighted sound scary enough to make you think twice about buying gifts this Christmas, there’s one sure-fire way to ensure you don’t get stung by any of these attacks: buy "
+"low-tech gifts until the toy industry as a whole adopts regular third-party auditing for internet connected toys."
+msgstr ""
+
+msgctxt "body.73b6ccac-c792-458d-844d-f024e21e0b0a"
+msgid "<i>Illustration by Nancy Tran. Photo:</i> <a id=\"a1\"><i>Adobe Stock</i></a>"
+msgstr ""
