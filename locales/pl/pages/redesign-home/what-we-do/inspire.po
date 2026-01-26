@@ -6,15 +6,14 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 5488e386-2d0d-4d7c-b06c-c079e31da426\n"
 
 msgctxt "seo_title"
 msgid "Disrupting Tech Defaults"
-msgstr ""
+msgstr "Rozbijanie domyślnych opcji technicznych"
 
 msgctxt "search_description"
 msgid "To build a better internet we first have to imagine it. Learn how Mozilla Foundation supports the people and ideas that stretch what technology can be."
-msgstr ""
+msgstr "Aby zbudować lepszy internet, najpierw musimy go sobie wyobrazić. Dowiedz się, jak Fundacja Mozilla wspiera ludzi i idee, które poszerzają możliwości techniki."
 
 msgctxt "title"
 msgid "Inspire"
@@ -131,7 +130,7 @@ msgstr ""
 
 msgctxt "body.4d7a3f38-0fa3-4602-8640-82c54b23cfbe.cards.7345c39e-d052-43a3-9367-acbd98983745.headline"
 msgid "Responsible Computing Challenge"
-msgstr "Responsible Computing Challenge"
+msgstr "Wyzwanie Responsible Computing"
 
 msgctxt "body.4d7a3f38-0fa3-4602-8640-82c54b23cfbe.cards.7345c39e-d052-43a3-9367-acbd98983745.image.alt_text"
 msgid "A group of people sitting in chairs on a stage"
@@ -163,7 +162,7 @@ msgstr "Osoba przemawiająca ze sceny"
 
 msgctxt "body.4d7a3f38-0fa3-4602-8640-82c54b23cfbe.cards.04760a0b-17bc-4a7d-b079-f1461d946598.cta_link.label"
 msgid "Learn more"
-msgstr "Więcej informacji"
+msgstr "Dowiedz się więcej"
 
 msgctxt "body.edde2e95-54dd-453f-8067-1e2ab646870c.left_column.857a5d26-9c48-471a-aad7-9a8d86216bae.quote"
 msgid "Mozilla stands for the defiant optimism that the future of technology can and will be good – so long as communities can build that for themselves."
@@ -181,11 +180,11 @@ msgstr "Podejmij działanie"
 
 msgctxt "body.23e4ed41-23e6-4ff8-89dc-594e0955fc10.left_column.980f6aff-9fdd-4825-8c28-cc35450f742d.items.05b14d43-da6d-4105-8a44-a29a8802b29e.label"
 msgid "Read the Imagine Intel Zine"
-msgstr ""
+msgstr "Przeczytaj zin Imagine Intel Zine"
 
 msgctxt "body.23e4ed41-23e6-4ff8-89dc-594e0955fc10.left_column.980f6aff-9fdd-4825-8c28-cc35450f742d.items.28dbab76-1a0e-44d5-893b-af15eb8dceb0.label"
 msgid "Donate your voice"
-msgstr "Przekaż swój głos"
+msgstr "Podaruj swój głos"
 
 msgctxt "body.23e4ed41-23e6-4ff8-89dc-594e0955fc10.left_column.980f6aff-9fdd-4825-8c28-cc35450f742d.items.c9d69b43-d436-4ebf-9e5e-d965e5887fd1.label"
 msgid "Get your dose of counterculture"
@@ -194,32 +193,3 @@ msgstr "Uzyskaj swoją dawkę kontrkultury"
 msgctxt "body.23e4ed41-23e6-4ff8-89dc-594e0955fc10.left_column.980f6aff-9fdd-4825-8c28-cc35450f742d.items.c57a179e-e0bf-4e27-8bd4-d8c950ee8bd5.label"
 msgid "Appy for a grant"
 msgstr "Ubiegaj się o grant"
-
-#~ msgctxt "seo_title"
-#~ msgid "Democratizing Tech Learning"
-#~ msgstr "Demokratyzacja edukacji technologicznej"
-
-#~ msgctxt "search_description"
-#~ msgid "Learn how Mozilla Foundation supports equitable, inclusive access to tech education, AI literacy, and computing resources for learners, educators, and researchers."
-#~ msgstr ""
-#~ "Dowiedz się, jak Fundacja Mozilla wspiera sprawiedliwy i włączający dostęp do edukacji technologicznej, umiejętności w zakresie sztucznej inteligencji oraz zasobów informatycznych dla uczniów, "
-#~ "nauczycieli i badaczy."
-
-#~ msgctxt "hero_description"
-#~ msgid "To build a better internet, first we have to imagine it."
-#~ msgstr "Aby stworzyć lepszy Internet, najpierw musimy go sobie wyobrazić."
-
-#~ msgctxt "body.3bbd2923-404d-4387-ae30-c9d43292b7f6.right_column.71010e52-f2ff-4fad-907a-69a12ef772e3.quote"
-#~ msgid ""
-#~ "When I was first introduced to the internet, I had an incredible sense of possibility, of awe, of optimism. The next generation deserves to feel the upside of connectivity, not just the downside."
-#~ msgstr ""
-#~ "Przy pierwszym kontakcie z Internetem miałam poczucie niewiarygodnych możliwości, poczułam zachwyt i optymizm. Kolejne pokolenie zasługuje na to, aby poznać świat cyfrowy od dobrej strony, a nie "
-#~ "tylko od tej złej."
-
-#~ msgctxt "body.23e4ed41-23e6-4ff8-89dc-594e0955fc10.left_column.980f6aff-9fdd-4825-8c28-cc35450f742d.items.05b14d43-da6d-4105-8a44-a29a8802b29e.label"
-#~ msgid "Ready to join us?"
-#~ msgstr "Chcesz do nas dołączyć?"
-
-#~ msgctxt "body.73996116-e064-436c-ae55-8d2908cd087e.right_column.1d7789d7-0709-4ff7-b33b-d4ae3d960f69"
-#~ msgid "Here, you’ll find the insight to make good tech choices, stories which will spark curiosity, and the inspiration to imagine an internet that truly belongs to you."
-#~ msgstr "Tutaj uzyskasz wgląd w dobre wybory technologiczne, historie, które wzbudzą ciekawość, oraz inspiracje do wyobrażenia sobie Internetu, który naprawdę należy do Ciebie."
