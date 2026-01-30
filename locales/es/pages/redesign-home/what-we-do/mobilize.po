@@ -180,12 +180,8 @@ msgid "We believe society has a right to basic data from big tech platforms, sta
 msgstr "Creemos que la sociedad tiene derecho a conocer datos básicos de las grandes plataformas tecnológicas, empezando por <a id=\"a1\"><b>los contenidos más vistos</b></a>."
 
 msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.cbaf29fe-3400-4aa1-a64b-221d8daf983b.text"
-msgid ""
-"Every day, EU citizens consume a vast stream of content on big tech platforms, shaping what they think and do. But — absurdly — we don’t know what this most viewed content is, because big tech "
-"platforms don’t share lists of it."
+msgid "We're asking for big tech platforms to share those lists."
 msgstr ""
-"Todos los días, los ciudadanos de la UE consumen una gran cantidad de contenidos en las grandes plataformas tecnológicas, que influyen en lo que piensan y hacen. Sin embargo —absurdamente— no "
-"podemos saber cuáles son los contenidos más vistos, porque las grandes plataformas tecnológicas no lo comparten."
 
 msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.cbaf29fe-3400-4aa1-a64b-221d8daf983b.image.alt_text"
 msgid "Man sits at a laptop with handrawn elements radiating outwards"
@@ -208,7 +204,7 @@ msgid "We gathered 91 creatives and technologists to ask: <i>What is creative pu
 msgstr "Reunimos a 91 creativos y tecnólogos para preguntarles: <i>¿Qué significa tener un propósito creativo en los albores de la era de la IA?</i>"
 
 msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.93d00de7-d81f-4ce5-852a-33082a766d50.text"
-msgid "Their answer: <a id=\"a1\">8 Rules for AI from Creative Communities</a> — a blueprint for AI that amplifies, not automates, the human spark behind culture."
+msgid "Read their answer: <a id=\"a1\">8 Rules for AI from Creative Communities</a>"
 msgstr ""
 
 msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.93d00de7-d81f-4ce5-852a-33082a766d50.link.label"
@@ -224,12 +220,8 @@ msgid "Protect Privacy: Drop Chat Control"
 msgstr "Protege la privacidad: No al control de chat"
 
 msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.92891ffd-1887-45fd-8ff8-fcc5bb281aa4.text"
-msgid "The EU’s proposed Chat Control law would force tech companies to scan everyone’s private messages."
-msgstr "La ley de control de chat propuesta por la UE obligaría a las empresas de tecnología a escanear los mensajes privados de todas las personas."
-
-msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.92891ffd-1887-45fd-8ff8-fcc5bb281aa4.text"
-msgid "We are calling on EU leaders to protect encryption and listen to independent experts to find real, privacy and rights-respecting solutions."
-msgstr "Hacemos un llamamiento a los líderes de la UE para que protejan el cifrado y escuchen a expertos independientes para encontrar soluciones reales que respeten la privacidad y los derechos."
+msgid "The EU’s proposed Chat Control law would force tech companies to scan everyone’s private messages. We need real, rights-respecting solutions."
+msgstr ""
 
 msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.92891ffd-1887-45fd-8ff8-fcc5bb281aa4.image.alt_text"
 msgid "Hands holding a phone, with decorative graphic elements"
@@ -359,9 +351,25 @@ msgstr "Mira la sesión"
 #~ msgid "Thank you for joining us‚ see you next year!"
 #~ msgstr "Gracias por acompañarnos, ¡nos vemos el año que viene!"
 
+#~ msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.cbaf29fe-3400-4aa1-a64b-221d8daf983b.text"
+#~ msgid ""
+#~ "Every day, EU citizens consume a vast stream of content on big tech platforms, shaping what they think and do. But — absurdly — we don’t know what this most viewed content is, because big tech "
+#~ "platforms don’t share lists of it."
+#~ msgstr ""
+#~ "Todos los días, los ciudadanos de la UE consumen una gran cantidad de contenidos en las grandes plataformas tecnológicas, que influyen en lo que piensan y hacen. Sin embargo —absurdamente— no "
+#~ "podemos saber cuáles son los contenidos más vistos, porque las grandes plataformas tecnológicas no lo comparten."
+
 #~ msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.93d00de7-d81f-4ce5-852a-33082a766d50.text"
 #~ msgid "Their answer: 8 Rules for AI from Creative Communities — a blueprint for AI that amplifies, not automates, the human spark behind culture."
 #~ msgstr "Su respuesta, las 8 reglas de las Comunidades Creativas para la IA, es un plan destinado a amplificar, no automatizar, la chispa humana detrás de la cultura."
+
+#~ msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.92891ffd-1887-45fd-8ff8-fcc5bb281aa4.text"
+#~ msgid "The EU’s proposed Chat Control law would force tech companies to scan everyone’s private messages."
+#~ msgstr "La ley de control de chat propuesta por la UE obligaría a las empresas de tecnología a escanear los mensajes privados de todas las personas."
+
+#~ msgctxt "body.bbf152bd-2ed2-4a0e-a90d-44e074927d1b.cards.92891ffd-1887-45fd-8ff8-fcc5bb281aa4.text"
+#~ msgid "We are calling on EU leaders to protect encryption and listen to independent experts to find real, privacy and rights-respecting solutions."
+#~ msgstr "Hacemos un llamamiento a los líderes de la UE para que protejan el cifrado y escuchen a expertos independientes para encontrar soluciones reales que respeten la privacidad y los derechos."
 
 #~ msgctxt "body.1f1911d1-cde8-49a5-b5ff-8e66d96ce064.tabs.8c1f7f92-2f50-40ad-88cc-695a81fb7a91.content.8b8288d0-e309-4fc7-b7b1-2f30de78283a.subtitle"
 #~ msgid "Brazil"
