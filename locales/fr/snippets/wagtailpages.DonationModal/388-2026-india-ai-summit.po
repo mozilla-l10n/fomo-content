@@ -1,10 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2026-02-13 13:13:07.290058+00:00\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 3356d91c-2718-4c43-bc01-dee670b7c5cb\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "header"
 msgid "Thank you for adding your name! Can you make a donation to Mozilla?"
@@ -20,8 +21,8 @@ msgstr ""
 
 msgctxt "donate_text"
 msgid "Yes, I'll chip in"
-msgstr ""
+msgstr "Oui, je fais un don"
 
 msgctxt "dismiss_text"
 msgid "No thanks"
-msgstr ""
+msgstr "Non merci"
