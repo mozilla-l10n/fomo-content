@@ -495,14 +495,14 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/kiiroo-titan-vr-exper
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/highlights.Highlight/28-how-do-we-collaboratively-make-trustworthy-ai-a-reality.pot"
-l10n = "locales/{locale}/snippets/highlights.Highlight/28-how-do-we-collaboratively-make-trustworthy-ai-a-reality.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/lovense-nora-max.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-nora-max.po"
 locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/highlights.Highlight/28-how-do-we-collaboratively-make-trustworthy-ai-a-reality.pot"
+l10n = "locales/{locale}/snippets/highlights.Highlight/28-how-do-we-collaboratively-make-trustworthy-ai-a-reality.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/225-tiktok-is-misleading-android-users.pot"
@@ -595,6 +595,11 @@ l10n = "locales/{locale}/pages/homepage/common-voice.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/mozilla-researchers-find-privacy-policies-for-seasons-hottest-connected-gifts-are-more-complicated-and-incomprehensible-than-ever.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozilla-researchers-find-privacy-policies-for-seasons-hottest-connected-gifts-are-more-complicated-and-incomprehensible-than-ever.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/redesign-home/meet-mozilla/ziyaad-bhorat.pot"
 l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/ziyaad-bhorat.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
@@ -605,14 +610,14 @@ l10n = "locales/{locale}/snippets/wagtailpages.Petition/90-tiktok-petition.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/mozilla-researchers-find-privacy-policies-for-seasons-hottest-connected-gifts-are-more-complicated-and-incomprehensible-than-ever.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozilla-researchers-find-privacy-policies-for-seasons-hottest-connected-gifts-are-more-complicated-and-incomprehensible-than-ever.po"
-locales = [ "de", "es", "fr", "pt-BR",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.Profile/7-ashley-boyd.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/7-ashley-boyd.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Profile/13-xavier-harding.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/13-xavier-harding.po"
+locales = [ "de", "es", "fr", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/redesign-home/what-we-do/grantmaking/incubator/abeba-birhane.pot"
@@ -623,11 +628,6 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 reference = "templates/pages/homepage/campaigns/eu-misinformation.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation.po"
 locales = [ "de", "es", "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/13-xavier-harding.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/13-xavier-harding.po"
-locales = [ "de", "es", "fr", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/articles/privacy-policies-for-seasons-hottest-connected-gifts-are-more-complicated-and-incomprehensible-than-ever.pot"
