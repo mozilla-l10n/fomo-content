@@ -4,9 +4,9 @@ msgstr ""
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 25decc0c-2d45-4a66-88dd-f92d59b73d47\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 25decc0c-2d45-4a66-88dd-f92d59b73d47\n"
 
 msgctxt "internal_links.51b9339b-1f64-416f-885a-3d106eb37a85.label"
 msgid "Licensing"
@@ -57,3 +57,11 @@ msgid "Mozilla Foundation is a global non-profit and parent of the <a id=\"a1\">
 msgstr ""
 "Die Mozilla Foundation ist eine weltweite, gemeinnützige Organisation und Muttergesellschaft der <a id=\"a1\">Mozilla Corporation</a>. Die meisten Inhalte stehen unter einer <a id=\"a2\">Creative-"
 "Commons-Lizenz</a>."
+
+#~ msgctxt "internal_links.7ba95de2-42cd-4aea-886f-fd56ba05cc4e.label"
+#~ msgid "Grantmaking"
+#~ msgstr "Fördermittelvergabe"
+
+#~ msgctxt "external_links.e35fa835-15e8-42b7-bd68-5e8ee120ce4e.label"
+#~ msgid "Participation guidelines"
+#~ msgstr "Richtlinien zum Mitmachen"
