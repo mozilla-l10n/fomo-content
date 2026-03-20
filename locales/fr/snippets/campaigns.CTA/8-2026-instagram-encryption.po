@@ -9,8 +9,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 8346bc0c-61d3-4c4f-b3a8-79411b55a763\n"
 
 msgctxt "header"
-msgid "Sign the petition to keep encryption for Instagram messages"
-msgstr "Signez la pétition pour que Meta conserve le chiffrement dans les messages sur Instagram."
+msgid "Sign the petition to keep encryption for Instagram messages and make it the default."
+msgstr ""
 
 msgctxt "description"
 msgid "If enough people sign, we can protect privacy on Instagram."
@@ -27,3 +27,7 @@ msgstr "Je fais un don"
 msgctxt "cta_button_text"
 msgid "Add my name"
 msgstr "Je signe la pétition"
+
+#~ msgctxt "header"
+#~ msgid "Sign the petition to keep encryption for Instagram messages"
+#~ msgstr "Signez la pétition pour que Meta conserve le chiffrement dans les messages sur Instagram."
