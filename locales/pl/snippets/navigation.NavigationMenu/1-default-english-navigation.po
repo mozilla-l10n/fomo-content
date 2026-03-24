@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 756a2277-c92b-4ffd-b6ee-b4f79ac683d3\n"
 
 msgctxt "dropdowns.7e41b983-89aa-491c-8cd3-3e9ed660a6c9.header.label"
 msgid "Meet Mozilla"
@@ -34,8 +33,4 @@ msgstr "Dołącz do nas"
 
 msgctxt "dropdowns.96e722f3-b827-4a0f-85a2-43cdc00578c9.header.label"
 msgid "Magazine"
-msgstr ""
-
-#~ msgctxt "dropdowns.96e722f3-b827-4a0f-85a2-43cdc00578c9.header.label"
-#~ msgid "Nothing Personal"
-#~ msgstr "Nothing Personal"
+msgstr "Magazyn"
