@@ -9,12 +9,12 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 0f3c7ebf-0592-41d4-96be-093b5196f9c6\n"
 
 msgctxt "seo_title"
-msgid "APPLY NOW Democracy x AI Cohort | Mozilla Foundation"
-msgstr "NU AANVRAGEN Democratie x AI Cohort | Mozilla Foundation"
+msgid "Democracy x AI Cohort | Mozilla Foundation"
+msgstr ""
 
 msgctxt "search_description"
-msgid "We are seeking to support working prototypes that prove AI can serve democracy. Apply now."
-msgstr "We willen werkende prototypes ondersteunen die bewijzen dat AI de democratie ten dienste kan zijn. Dien nu een aanvraag in."
+msgid "We are seeking to support working prototypes that prove AI can serve democracy. Applications are now closed, successful applicants will be announced in June."
+msgstr ""
 
 msgctxt "title"
 msgid "Democracy x AI Cohort Call for Proposals"
@@ -455,10 +455,6 @@ msgstr ""
 "<b>Vervolgfinanciering:</b> de sterkste projecten kunnen worden uitgenodigd voor Tier II (Sustain Track) voor aanvullende financiering ($250.000 per project) en ondersteuning op maat, gericht op het"
 " veiligstellen van vervolgfinanciering en het bouwen van duurzame modellen. Maar deelname aan het Buildtraject is op zichzelf al waardevol – niet elk project kan of moet worden voortgezet."
 
-msgctxt "body.37feb214-5c34-484d-a3fe-fadc5bdae156.label"
-msgid "Submit Your Application"
-msgstr "Uw aanvraag indienen"
-
 msgctxt "body.e65e2f0e-a5f2-4757-bc74-c2439f5bf389.title"
 msgid "Eligibility: who should apply"
 msgstr "Geschiktheid: wie zou moeten aanvragen"
@@ -585,8 +581,8 @@ msgstr ""
 " technische benadering."
 
 msgctxt "body.1d4b3021-6ffc-4844-9e25-fa46de260e97.title"
-msgid "How to apply"
-msgstr "Aanvragen"
+msgid "How to apply - NOW CLOSED"
+msgstr ""
 
 msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.left_column.1748af31-b1f0-4576-99bb-a81a541ea6c6"
 msgid "Applications are reviewed through a multi-stage process."
@@ -599,10 +595,8 @@ msgstr ""
 "dienen."
 
 msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.left_column.1748af31-b1f0-4576-99bb-a81a541ea6c6"
-msgid "We will also hold an Info Session to answer remaining questions about the Call for Proposals on Thursday, March 5, at 5pm CET/11am ET/8am PT. <a id=\"a1\">You can sign up here</a> to take part."
+msgid "We held an Info Session to answer remaining questions about the Call for Proposals on Thursday, March 5, at 5pm CET/11am ET/8am PT."
 msgstr ""
-"Op donderdag 5 maart om 17:00 uur CET/11am ET/8am PT houden we ook een infosessie om resterende vragen over de Oproep voor voorstellen te beantwoorden. <a id=\"a1\">U kunt zich hier aanmelden</a> om"
-" deel te nemen."
 
 msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.left_column.40cf0121-c884-4225-96bd-6ecabc183037.label"
 msgid "Submit your application"
@@ -625,16 +619,16 @@ msgid "Initial Project Proposal Deadline: March 16, 2026, 11:59pm PT"
 msgstr "Deadline voor initieel projectvoorstel: 16 maart 2026, 23:59 uur PT"
 
 msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.right_column.b5984b5d-ed75-4cce-bb48-bf17e49c2ba6"
-msgid "Finalists Notified: April 2, 2026"
-msgstr "Finalisten geïnformeerd: 2 april 2026"
+msgid "Finalists Notified: April 16, 2026"
+msgstr ""
 
 msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.right_column.b5984b5d-ed75-4cce-bb48-bf17e49c2ba6"
-msgid "Full Proposals Due: April 15, 2026"
-msgstr "Uiterlijke indieningsdatum volledige voorstellen: 15 april 2026"
+msgid "Full Proposals Due: April 30, 2026"
+msgstr ""
 
 msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.right_column.b5984b5d-ed75-4cce-bb48-bf17e49c2ba6"
-msgid "Selections Announced: June 1, 2026"
-msgstr "Selecties aangekondigd: 1 juni 2026"
+msgid "Selections Announced: mid June, 2026"
+msgstr ""
 
 msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.right_column.b5984b5d-ed75-4cce-bb48-bf17e49c2ba6"
 msgid "Cohort Begins: 12 months beginning June 2026"
@@ -668,6 +662,18 @@ msgctxt "body.1e47d5f4-331f-442b-bd03-bc694aa9c29e.left_column.b78dd910-76da-403
 msgid "Responsible Computing Challenge"
 msgstr "Verantwoorde computeruitdaging"
 
+#~ msgctxt "seo_title"
+#~ msgid "APPLY NOW Democracy x AI Cohort | Mozilla Foundation"
+#~ msgstr "NU AANVRAGEN Democratie x AI Cohort | Mozilla Foundation"
+
+#~ msgctxt "search_description"
+#~ msgid "We are seeking to support working prototypes that prove AI can serve democracy. Apply now."
+#~ msgstr "We willen werkende prototypes ondersteunen die bewijzen dat AI de democratie ten dienste kan zijn. Dien nu een aanvraag in."
+
+#~ msgctxt "body.37feb214-5c34-484d-a3fe-fadc5bdae156.label"
+#~ msgid "Submit Your Application"
+#~ msgstr "Uw aanvraag indienen"
+
 #~ msgctxt "body.659412f2-035e-4f56-9d8e-8aa9aae672e9"
 #~ msgid ""
 #~ "Be legally able to receive funds from Mozilla Foundation, a U.S. 501(c)(3) nonprofit organization. Please carefully review <a id=\"a1\">Mozilla Foundation’s grant eligibility guidelines</a> before "
@@ -675,3 +681,29 @@ msgstr "Verantwoorde computeruitdaging"
 #~ msgstr ""
 #~ "Juridisch in te staat zijn om geld van de Mozilla Foundation te ontvangen, een Amerikaanse 501(c)(3)-non-profitorganisatie. Lees zorgvuldig de <a id=\"a1\">richtlijnen om in aanmerking te komen voor"
 #~ " subsidies van de Mozilla Foundation</a> voordat u een aanvraag indient."
+
+#~ msgctxt "body.1d4b3021-6ffc-4844-9e25-fa46de260e97.title"
+#~ msgid "How to apply"
+#~ msgstr "Aanvragen"
+
+#~ msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.left_column.1748af31-b1f0-4576-99bb-a81a541ea6c6"
+#~ msgid "We will also hold an Info Session to answer remaining questions about the Call for Proposals on Thursday, March 5, at 5pm CET/11am ET/8am PT. <a id=\"a1\">You can sign up here</a> to take part."
+#~ msgstr ""
+#~ "Op donderdag 5 maart om 17:00 uur CET/11am ET/8am PT houden we ook een infosessie om resterende vragen over de Oproep voor voorstellen te beantwoorden. <a id=\"a1\">U kunt zich hier aanmelden</a> om"
+#~ " deel te nemen."
+
+#~ msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.right_column.b5984b5d-ed75-4cce-bb48-bf17e49c2ba6"
+#~ msgid "Finalists Notified: April 2, 2026"
+#~ msgstr "Finalisten geïnformeerd: 2 april 2026"
+
+#~ msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.right_column.b5984b5d-ed75-4cce-bb48-bf17e49c2ba6"
+#~ msgid "Full Proposals Due: April 15, 2026"
+#~ msgstr "Uiterlijke indieningsdatum volledige voorstellen: 15 april 2026"
+
+#~ msgctxt "body.b3214592-9d25-42f2-95b4-31f322b43a99.right_column.b5984b5d-ed75-4cce-bb48-bf17e49c2ba6"
+#~ msgid "Selections Announced: June 1, 2026"
+#~ msgstr "Selecties aangekondigd: 1 juni 2026"
+
+#~ msgctxt "body.c5605b53-25c6-41fa-8c7c-1f915ed6e1ea.label"
+#~ msgid "Submit Your Application"
+#~ msgstr "Uw aanvraag indienen"
