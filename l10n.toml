@@ -3480,8 +3480,8 @@ l10n = "locales/{locale}/pages/homepage/blog/seeking-bold-public-interest-techno
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/nothing-personal.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal.po"
+reference = "templates/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.pot"
+l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
@@ -3493,6 +3493,11 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 reference = "templates/pages/homepage/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy.po"
 locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/nothing-personal.pot"
+l10n = "locales/{locale}/pages/redesign-home/nothing-personal.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/379-tasmiha-khan.pot"
@@ -3508,11 +3513,6 @@ locales = [ "de", "es", "fr", "pt-BR",]
 reference = "templates/pages/homepage/blog/thank-you.pot"
 l10n = "locales/{locale}/pages/homepage/blog/thank-you.po"
 locales = [ "de", "es", "fr",]
-
-[[paths]]
-reference = "templates/snippets/snippets.NewsletterSignup/2-footer-newsletter.pot"
-l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/2-footer-newsletter.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/alexa-help-me-which-smart-speaker-has-the-best-privacy.pot"
@@ -3532,6 +3532,11 @@ locales = [ "de", "es", "fr", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/8-video-call-apps.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.BuyersGuideProductCategory/8-video-call-apps.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/snippets.NewsletterSignup/2-footer-newsletter.pot"
+l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/2-footer-newsletter.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
@@ -3562,11 +3567,6 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 [[paths]]
 reference = "templates/pages/redesign-home/newsletter.pot"
 l10n = "locales/{locale}/pages/redesign-home/newsletter.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/redesign-home/newsletter/unsubscribe/success.pot"
-l10n = "locales/{locale}/pages/redesign-home/newsletter/unsubscribe/success.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
@@ -3620,14 +3620,14 @@ l10n = "locales/{locale}/snippets/highlights.Highlight/382-tell-microsoft-google
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/pages/redesign-home/newsletter/unsubscribe/success.pot"
+l10n = "locales/{locale}/pages/redesign-home/newsletter/unsubscribe/success.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/articles/tell-tiktok-stop-misleading-android-users-and-provide-full-transparency-about-your-privacy-practices.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/tell-tiktok-stop-misleading-android-users-and-provide-full-transparency-about-your-privacy-practices.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/redesign-home/newsletter/unsubscribe.pot"
-l10n = "locales/{locale}/pages/redesign-home/newsletter/unsubscribe.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/highlights.Highlight/384-join-our-global-movement-for-privacy-rights.pot"
@@ -3640,6 +3640,11 @@ l10n = "locales/{locale}/snippets/highlights.Highlight/225-tiktok-is-misleading-
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
+reference = "templates/pages/redesign-home/newsletter/unsubscribe.pot"
+l10n = "locales/{locale}/pages/redesign-home/newsletter/unsubscribe.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
 reference = "templates/snippets/highlights.Highlight/383-microsoft-are-you-using-customer-data-to-train-ai.pot"
 l10n = "locales/{locale}/snippets/highlights.Highlight/383-microsoft-are-you-using-customer-data-to-train-ai.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
@@ -3648,11 +3653,6 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 reference = "templates/pages/homepage/research/library/accelerating-progress-toward-trustworthy-ai.pot"
 l10n = "locales/{locale}/pages/homepage/research/library/accelerating-progress-toward-trustworthy-ai.po"
 locales = [ "de", "es", "fr",]
-
-[[paths]]
-reference = "templates/snippets/snippets.NewsletterUnsubscribe/1-newsletter-unsubscribe.pot"
-l10n = "locales/{locale}/snippets/snippets.NewsletterUnsubscribe/1-newsletter-unsubscribe.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/6-pets.pot"
@@ -3665,14 +3665,14 @@ l10n = "locales/{locale}/pages/homepage/blog/thank-you-apple-for-standing-strong
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/newsletter/success.pot"
-l10n = "locales/{locale}/pages/redesign-home/newsletter/success.po"
+reference = "templates/snippets/snippets.NewsletterUnsubscribe/1-newsletter-unsubscribe.pot"
+l10n = "locales/{locale}/snippets/snippets.NewsletterUnsubscribe/1-newsletter-unsubscribe.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.pot"
-l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/pages/redesign-home/newsletter/success.pot"
+l10n = "locales/{locale}/pages/redesign-home/newsletter/success.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/lovense-nora-max.pot"
