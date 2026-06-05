@@ -1,0 +1,197 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-06-05 10:45:13.077923+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 09cc0ad4-05d6-43dd-9ba1-0c84c2860be0\n"
+
+msgctxt "seo_title"
+msgid "Oura Ring Review 2026: Privacy, Pros and Cons, Personal Data"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Read our privacy expert's review of the Oura Ring Gen 4. While Oura says the right things about data protection in their privacy policy, there's no getting away from the fact that the product "
+"doesn't work without cloud connection, meaning that your most intimate health data lives on servers you do not control."
+msgstr ""
+
+msgctxt "title"
+msgid "Oura Ring Privacy Review"
+msgstr ""
+
+msgctxt "what_you_should_know_section.40f7a168-fa9d-46d2-bc2a-4123c96ff3a6.trust_default_settings"
+msgid ""
+"Oura asks for your location data during setup. Opting out locks you out of some features that are only available on a regional basis. You must provide your age, height, and biological sex during "
+"onboarding. Without these pieces of information, the Oura Ring would provide an incomplete view of your overall health."
+msgstr ""
+
+msgctxt "what_you_should_know_section.40f7a168-fa9d-46d2-bc2a-4123c96ff3a6.trust_default_settings"
+msgid "All third-party data-sharing integrations are turned off by default, and you must actively opt in to enable them."
+msgstr ""
+
+msgctxt "what_you_should_know_section.40f7a168-fa9d-46d2-bc2a-4123c96ff3a6.what_personal_data_they_have"
+msgid ""
+"The volume of data the Oura Ring captures is substantial. On a daily basis it tracks: sleep stages and duration, heart rate and heart rate variability, blood oxygen levels, skin temperature, "
+"respiratory rate, activity levels and movement, and, for users who opt in, menstrual cycle data and hormonal contraceptive use. The Oura App can also sync the GPS location on your phone to "
+"activities detected by the Oura Ring so you can record your route and lap times while working out."
+msgstr ""
+
+msgctxt "what_you_should_know_section.40f7a168-fa9d-46d2-bc2a-4123c96ff3a6.what_personal_data_they_have"
+msgid ""
+"All of this data lives on Oura's cloud servers. The company does not provide a direct way for a consumer to pull live data from the ring itself without going through their app and cloud "
+"infrastructure. The Oura API is inaccessible without a subscription."
+msgstr ""
+
+msgctxt "what_you_should_know_section.40f7a168-fa9d-46d2-bc2a-4123c96ff3a6.track_record"
+msgid ""
+"Oura, founded in Finland in 2013, has maintained a fairly strong reputation as one of the more privacy-focused consumer health wearable companies. Unfortunately, we think that Oura's online-only "
+"approach is fundamentally incompatible with their privacy approach."
+msgstr ""
+
+msgctxt "what_you_should_know_section.40f7a168-fa9d-46d2-bc2a-4123c96ff3a6.track_record"
+msgid ""
+"Oura has gotten a lot of attention around its partnership with the the US DoD, although the reality is a little more nuanced than what you may have previously read online. Oura holds a contract to "
+"supply the United States Department of Defense with Oura products in order to track the health of military personnel. It used Palantir’s FedStart as its secure government cloud environment to meet "
+"DoD program compliance requirements."
+msgstr ""
+
+msgctxt "what_you_should_know_section.40f7a168-fa9d-46d2-bc2a-4123c96ff3a6.track_record"
+msgid "Oura is not operational on FedStart today, and no Oura data—consumer or commercial—currently interacts with Palantir systems, said an Oura spokesperson."
+msgstr ""
+
+msgctxt "what_you_should_know_section.40f7a168-fa9d-46d2-bc2a-4123c96ff3a6.sells_or_shares_user_data"
+msgid ""
+"If you want to see the data Oura holds on you without a subscription, Oura does allow you to export all of your data as a series of CSV files. You own your data, but not the derived insights that "
+"Oura shows you."
+msgstr ""
+
+msgctxt "what_you_should_know_section.40f7a168-fa9d-46d2-bc2a-4123c96ff3a6.sells_or_shares_user_data"
+msgid "“You can delete or export your personal data at any time, and we don't sell your personal data to third parties,” said an Oura spokesperson."
+msgstr ""
+
+msgctxt "good_and_bad_section.9c22d9f8-c7f7-4e39-b323-974f68da7cbb.the_good"
+msgid "Third-party data sharing is off by default. Location data is optional."
+msgstr ""
+
+msgctxt "good_and_bad_section.9c22d9f8-c7f7-4e39-b323-974f68da7cbb.the_good"
+msgid "You must actively choose to connect Apple Health, Strava, or any research partner."
+msgstr ""
+
+msgctxt "good_and_bad_section.9c22d9f8-c7f7-4e39-b323-974f68da7cbb.the_good"
+msgid ""
+"Oura allows data access requests so you can see every metric they hold, including fields never shown in the app. The company is subject to GDPR, which carries stronger consumer protections than U.S."
+" law alone."
+msgstr ""
+
+msgctxt "good_and_bad_section.9c22d9f8-c7f7-4e39-b323-974f68da7cbb.the_bad"
+msgid ""
+"Without a subscription, there's no way to use the Oura ring. Your data will still be tracked and uploaded, but the only way you can access it is via a data request that can take up to several days "
+"to process."
+msgstr ""
+
+msgctxt "good_and_bad_section.9c22d9f8-c7f7-4e39-b323-974f68da7cbb.the_bad"
+msgid ""
+"It's disappointing that you need to link your payment details when you sign up for the Oura service. Without signing up for a subscription, you're limited to an extremely basic subset of Oura's "
+"features which renders the ring basically useless. Worse, there's no way to use the ring without uploading your biometric data to Oura's cloud servers."
+msgstr ""
+
+msgctxt "good_and_bad_section.9c22d9f8-c7f7-4e39-b323-974f68da7cbb.the_bad"
+msgid ""
+"While the data captured by your Oura Ring is encrypted in transit using TLS 1.2+ (the same encryption used for most web traffic) and AES-256 while stored on Oura's servers, neither of these methods "
+"constitute true end-to-end encryption. In essence, you’ll have to trust Oura’s internal access controls."
+msgstr ""
+
+msgctxt "good_and_bad_section.9c22d9f8-c7f7-4e39-b323-974f68da7cbb.the_bad"
+msgid ""
+"It’s also unclear from Oura’s privacy policy how long it takes for data to be deleted. The company said that the deletion process is completed within time required by privacy laws. Factory resetting"
+" the device will clear any data from it instantly, but we’ve seen customer support responses that suggest it can take <a id=\"a1\">anywhere between two to three weeks to remove your data from Oura’s"
+" systems</a>."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.4b827d55-f2ad-4c05-9f58-bc06f5684603.content"
+msgid "There's a few steps you can take to make sure you're minimizing the Oura ring’s impact on your privacy."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.4b827d55-f2ad-4c05-9f58-bc06f5684603.content"
+msgid "Lock down your sharing settings"
+msgstr ""
+
+msgctxt "reduce_your_risks_section.4b827d55-f2ad-4c05-9f58-bc06f5684603.content"
+msgid ""
+"Open the Oura app, go to Settings and scroll down to Data Sharing. Make sure you're not sending your data out to any other third-party apps you're not comfortable with. While you're there, check the"
+" Oura Platform and Research options too and make sure you're not sending your data out to a third-party controller."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.4b827d55-f2ad-4c05-9f58-bc06f5684603.content"
+msgid "Minimize your profile data"
+msgstr ""
+
+msgctxt "reduce_your_risks_section.4b827d55-f2ad-4c05-9f58-bc06f5684603.content"
+msgid ""
+"Turn off your location permissions in the app, remove your country of residence, and turn off any Women’s Health features enabled. You can also delete any reproductive information immediately using "
+"the same interface, but any conversations you have with Oura’s AI assistant will need to be removed manually."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.4b827d55-f2ad-4c05-9f58-bc06f5684603.content"
+msgid "Request a copy of your data"
+msgstr ""
+
+msgctxt "reduce_your_risks_section.4b827d55-f2ad-4c05-9f58-bc06f5684603.content"
+msgid ""
+"Visit the Oura membership portal from the app and select “Export Data” to make a request. Review what Oura holds on you. Aside from deleting the data generated from Women’s Health features "
+"separately, there’s no way to delete specific information from your account <a id=\"a1\">short of wiping the whole thing</a>."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.4b827d55-f2ad-4c05-9f58-bc06f5684603.content"
+msgid "Use a disposable email address and credit card"
+msgstr ""
+
+msgctxt "reduce_your_risks_section.4b827d55-f2ad-4c05-9f58-bc06f5684603.content"
+msgid ""
+"Registering your Oura account with a disposable email address and a virtual credit card means there's very little linking your Oura account to your real-life identity. This limits the ability of "
+"third parties to cross-reference your health data with other accounts in the event of a breach."
+msgstr ""
+
+msgctxt "bottom_line_section.356d1a6c-772b-4c45-8a6c-4d9c8dca0166.content"
+msgid "The Oura Ring is a product that we're so close to recommending, but it's hard to justify the fact that there's no easy way to use it offline."
+msgstr ""
+
+msgctxt "bottom_line_section.356d1a6c-772b-4c45-8a6c-4d9c8dca0166.content"
+msgid ""
+"Turning on Oura's location tracking can create a detailed record of where you travel, where you exercise, and when you're away from home. GDPR compliance is great, but it's not backed by end-to-end "
+"encryption that keeps your data entirely in your hands. Oura would doubtless argue that they need to be able to access your data to provide a full set of services, and we accept this: what we don't "
+"accept is the lack of options for privacy-conscious users."
+msgstr ""
+
+msgctxt "hero_image_alt_text"
+msgid "A photo of the Oura Ring Gen 4"
+msgstr ""
+
+msgctxt "scoring"
+msgid "6/10"
+msgstr ""
+
+msgctxt "hours_tested"
+msgid "20"
+msgstr ""
+
+msgctxt "type_of_testing"
+msgid "Hands on"
+msgstr ""
+
+msgctxt "byline"
+msgid "Reviewed by Sam Dawson"
+msgstr ""
+
+msgctxt "who_am_i"
+msgid ""
+"I’m a digital privacy and cybersecurity expert with over half a decade worth of experience reviewing privacy products. My research in academia included speculative execution attacks and AI-based "
+"hacking simulations. My privacy work appears in TechRadar, CNET, and ITPro, in addition to a previous stint at ProPrivacy as their in-house technical researcher for VPNs."
+msgstr ""
+
+msgctxt "lede_text"
+msgid ""
+"The Oura Ring Gen 4 is a sleek health tracker that captures your daily fitness metrics. From your sleep quality, heart rate variability, body temperature to menstrual cycles: Use one for a few days and it rapidly becomes apparent that your body is a data goldmine, one that Oura has a direct line to for the 5 million people who use their services.\r"
+"<br/> <br/>While Oura says the right things about data protection in their privacy policy, there's no getting away from the fact that the product doesn't work without cloud connection, meaning that your most intimate health data lives on servers you do not control."
+msgstr ""
