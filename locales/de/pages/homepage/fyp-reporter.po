@@ -4,9 +4,9 @@ msgstr ""
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: ca772c84-fbae-4d45-874f-3d2fe8911a01\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: ca772c84-fbae-4d45-874f-3d2fe8911a01\n"
 
 msgctxt "search_description"
 msgid "FYP Reporter is a tool that enables crowdsourced investigations into TikTok. It’s built by the nonprofit Mozilla."
@@ -117,17 +117,9 @@ msgctxt "body.b6c36351-b78a-4253-a440-905e332afa61.grid_items.23b4449a-e255-4f22
 msgid "Available on the App Store"
 msgstr "Verfügbar im App Store"
 
-msgctxt "body.b6c36351-b78a-4253-a440-905e332afa61.grid_items.23b4449a-e255-4f22-b019-66cf7aca95bf.url"
-msgid "https://www.apple.com/app-store/"
-msgstr "https://www.apple.com/app-store/"
-
 msgctxt "body.b6c36351-b78a-4253-a440-905e332afa61.grid_items.8e2d73ad-14bb-4cb9-ac61-3d6c66c60df2.caption"
 msgid "Get it on Google Play"
 msgstr "Bei Google Play herunterladen"
-
-msgctxt "body.b6c36351-b78a-4253-a440-905e332afa61.grid_items.8e2d73ad-14bb-4cb9-ac61-3d6c66c60df2.url"
-msgid "https://play.google.com/store/"
-msgstr "https://play.google.com/store/"
 
 msgctxt "body.1ea6a149-2635-4160-a3f8-3463877d5c97"
 msgid "Privacy Policy"
@@ -168,3 +160,15 @@ msgstr "Google Play"
 msgctxt "download_buttons.820412b2-a8ed-485f-be44-d7b3ecaf6a54.icon_alt_text"
 msgid "Icon for google play store"
 msgstr "„Google Play Store“-Icon"
+
+#~ msgctxt "body.fa1feceb-1e94-4cab-b3c0-7485e81b6c5d.url"
+#~ msgid "https://www.youtube.com/embed/q5Tp1ZUbAFQ?si=mWjW2Ih_fGN_Q--U"
+#~ msgstr "https://www.youtube.com/embed/q5Tp1ZUbAFQ?si=mWjW2Ih_fGN_Q--U"
+
+#~ msgctxt "body.b6c36351-b78a-4253-a440-905e332afa61.grid_items.23b4449a-e255-4f22-b019-66cf7aca95bf.url"
+#~ msgid "https://www.apple.com/app-store/"
+#~ msgstr "https://www.apple.com/app-store/"
+
+#~ msgctxt "body.b6c36351-b78a-4253-a440-905e332afa61.grid_items.8e2d73ad-14bb-4cb9-ac61-3d6c66c60df2.url"
+#~ msgid "https://play.google.com/store/"
+#~ msgstr "https://play.google.com/store/"

@@ -4,9 +4,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: fb22fc9f-ea64-4a46-be6c-d4331cb4567c\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: fb22fc9f-ea64-4a46-be6c-d4331cb4567c\n"
 
 msgctxt "search_description"
 msgid ""
@@ -53,17 +53,9 @@ msgctxt "body.c125ef5d-a14f-401c-87d4-fd378eebdd15.label"
 msgid "Post to Facebook"
 msgstr "Partager sur Facebook"
 
-msgctxt "body.c125ef5d-a14f-401c-87d4-fd378eebdd15.external_url"
-msgid "http://share.mozilla.org/352/209150/facebook"
-msgstr "http://share.mozilla.org/352/209298/facebook"
-
 msgctxt "body.feac7d25-2df8-4593-8425-8f53b70cfa1f.label"
 msgid "Share a tweet"
 msgstr "Envoyer un tweet"
-
-msgctxt "body.feac7d25-2df8-4593-8425-8f53b70cfa1f.external_url"
-msgid "http://share.mozilla.org/352/209151/twitter"
-msgstr "http://share.mozilla.org/352/209299/twitter"
 
 msgctxt "body.59dd83cf-8eb2-43fb-a02a-58569bc1a7e6"
 msgid "<i>Don’t have Facebook or Twitter?</i> <a id=\"a1\"><i>Forward this email to a friend who does.</i></a>"
@@ -106,18 +98,26 @@ msgctxt "body.625aaac4-ae2b-4326-a90a-f143f797cb93.label"
 msgid "Post to Facebook"
 msgstr "Partager sur Facebook"
 
-msgctxt "body.625aaac4-ae2b-4326-a90a-f143f797cb93.external_url"
-msgid "http://share.mozilla.org/352/209150/facebook"
-msgstr "http://share.mozilla.org/352/209298/facebook"
-
 msgctxt "body.573184a8-e5d9-456c-8238-466bde56093e.label"
 msgid "Share a tweet"
 msgstr "Envoyer un tweet"
 
-msgctxt "body.573184a8-e5d9-456c-8238-466bde56093e.external_url"
-msgid "http://share.mozilla.org/352/209151/twitter"
-msgstr "http://share.mozilla.org/352/209299/twitter"
-
 msgctxt "title"
 msgid "A day to unite against hate speech and misinformation"
 msgstr "Une journée d’union contre les propos haineux et la désinformation"
+
+#~ msgctxt "body.c125ef5d-a14f-401c-87d4-fd378eebdd15.external_url"
+#~ msgid "http://share.mozilla.org/352/209150/facebook"
+#~ msgstr "http://share.mozilla.org/352/209298/facebook"
+
+#~ msgctxt "body.feac7d25-2df8-4593-8425-8f53b70cfa1f.external_url"
+#~ msgid "http://share.mozilla.org/352/209151/twitter"
+#~ msgstr "http://share.mozilla.org/352/209299/twitter"
+
+#~ msgctxt "body.625aaac4-ae2b-4326-a90a-f143f797cb93.external_url"
+#~ msgid "http://share.mozilla.org/352/209150/facebook"
+#~ msgstr "http://share.mozilla.org/352/209298/facebook"
+
+#~ msgctxt "body.573184a8-e5d9-456c-8238-466bde56093e.external_url"
+#~ msgid "http://share.mozilla.org/352/209151/twitter"
+#~ msgstr "http://share.mozilla.org/352/209299/twitter"

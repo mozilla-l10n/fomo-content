@@ -4,9 +4,9 @@ msgstr ""
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 78463c76-0fd3-425c-8072-119936793d9a\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 78463c76-0fd3-425c-8072-119936793d9a\n"
 
 msgctxt "title"
 msgid "Movement Building"
@@ -43,10 +43,6 @@ msgstr "contorno en blanco y negro de una bombilla"
 msgctxt "body.5279e8f3-c3c6-4d4c-bea3-af4ece94df43.text"
 msgid "At least 145 countries from around the world have been represented by the tens of thousands of participants who have taken part in MozFest over the past 12 years."
 msgstr "Al menos 145 países de todo el mundo han estado representados por las decenas de miles de personas que han participado en el MozFest en los últimos 12 años."
-
-msgctxt "body.acb9e081-9682-4d5f-86a1-36b3cd26e383.url"
-msgid "https://www.youtube-nocookie.com/embed/ia8UJm3ku_g"
-msgstr "https://www.youtube-nocookie.com/embed/ia8UJm3ku_g"
 
 msgctxt "body.da5024ad-c823-4187-a2b3-5c8662d681b8"
 msgid "MozFest 2023 Spaces"
@@ -246,14 +242,6 @@ msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.9ba32434-10cc-40fb-917e
 msgid "A global collective of individuals passionate and curious about Trustworthy AI who come from many different educational and professional backgrounds"
 msgstr "Un colectivo global de individuos apasionados y curiosos por la IA confiable, de diversos orígenes educativos y profesionales"
 
-msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.9ba32434-10cc-40fb-917e-28cc598a215a.link_url"
-msgid "https://www.mozillafestival.org/community/working-groups?utm_source=mozfest&amp;utm_medium=pathways&amp;utm_campaign=issues&amp;utm_content=movementbuilding"
-msgstr "https://www.mozillafestival.org/community/working-groups?utm_source=mozfest&utm_medium=pathways&utm_campaign=issues&utm_content=movementbuilding"
-
-msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.9ba32434-10cc-40fb-917e-28cc598a215a.link_label"
-msgid "Learn more"
-msgstr "Descubre más"
-
 msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.0b7f0b20-47d5-446e-a31b-aa8ac935d7e9.title"
 msgid "Movement Building Landscape Analysis"
 msgstr "Análisis del paisaje de la construcción de movimientos"
@@ -261,14 +249,6 @@ msgstr "Análisis del paisaje de la construcción de movimientos"
 msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.0b7f0b20-47d5-446e-a31b-aa8ac935d7e9.body"
 msgid "A landscape analysis of Mozilla Foundation’s potential movement partnerships at the intersection of AI and social justice."
 msgstr "Un análisis de las posibles asociaciones de movimientos de la Fundación Mozilla en la intersección de la IA y la justicia social."
-
-msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.0b7f0b20-47d5-446e-a31b-aa8ac935d7e9.link_url"
-msgid "https://movementbuilding.mozillafoundation.org/?utm_source=mozfest&amp;utm_medium=pathways&amp;utm_campaign=issues&amp;utm_content=movementbuilding"
-msgstr "https://movementbuilding.mozillafoundation.org/?utm_source=mozfest&utm_medium=pathways&utm_campaign=issues&utm_content=movementbuilding"
-
-msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.0b7f0b20-47d5-446e-a31b-aa8ac935d7e9.link_label"
-msgid "Read the analysis"
-msgstr "Lee el análisis"
 
 msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.ed0adbe2-dc75-48b7-8b92-06ec0bb002f4.title"
 msgid "The Tech We Won’t Build"
@@ -282,10 +262,106 @@ msgstr ""
 "¿En qué momento pitamos, llamamos al jefe e informamos al mundo? En este episodio del Informe sobre la Salud de Internet, descubrirás cómo es hacer sonar la alarma desde el interior de una gran "
 "empresa de tecnología, y más."
 
-msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.ed0adbe2-dc75-48b7-8b92-06ec0bb002f4.link_url"
-msgid "https://2022.internethealthreport.org/episodes/the-tech-we-wont-build/?utm_source=mozfest&amp;utm_medium=pathways&amp;utm_campaign=issues&amp;utm_content=movementbuilding"
-msgstr "https://2022.internethealthreport.org/episodes/the-tech-we-wont-build/?utm_source=mozfest&utm_medium=pathways&utm_campaign=issues&utm_content=movementbuilding"
+#~ msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.9ba32434-10cc-40fb-917e-28cc598a215a.link_label"
+#~ msgid "Learn more"
+#~ msgstr "Descubre más"
 
-msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.ed0adbe2-dc75-48b7-8b92-06ec0bb002f4.link_label"
-msgid "Listen now"
-msgstr "Escuchar ahora"
+#~ msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.0b7f0b20-47d5-446e-a31b-aa8ac935d7e9.link_url"
+#~ msgid "https://movementbuilding.mozillafoundation.org/?utm_source=mozfest&amp;utm_medium=pathways&amp;utm_campaign=issues&amp;utm_content=movementbuilding"
+#~ msgstr "https://movementbuilding.mozillafoundation.org/?utm_source=mozfest&utm_medium=pathways&utm_campaign=issues&utm_content=movementbuilding"
+
+#~ msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.0b7f0b20-47d5-446e-a31b-aa8ac935d7e9.link_label"
+#~ msgid "Read the analysis"
+#~ msgstr "Lee el análisis"
+
+#~ msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.ed0adbe2-dc75-48b7-8b92-06ec0bb002f4.link_url"
+#~ msgid "https://2022.internethealthreport.org/episodes/the-tech-we-wont-build/?utm_source=mozfest&amp;utm_medium=pathways&amp;utm_campaign=issues&amp;utm_content=movementbuilding"
+#~ msgstr "https://2022.internethealthreport.org/episodes/the-tech-we-wont-build/?utm_source=mozfest&utm_medium=pathways&utm_campaign=issues&utm_content=movementbuilding"
+
+#~ msgctxt "body.0f19c526-1c8e-4c3f-9d26-ba3b158f3a2a.label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Envía tu idea para una sesión"
+
+#~ msgctxt "body.0f19c526-1c8e-4c3f-9d26-ba3b158f3a2a.external_url"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
+
+#~ msgctxt "body.acb9e081-9682-4d5f-86a1-36b3cd26e383.url"
+#~ msgid "https://www.youtube-nocookie.com/embed/ia8UJm3ku_g"
+#~ msgstr "https://www.youtube-nocookie.com/embed/ia8UJm3ku_g"
+
+#~ msgctxt "body.0c889490-caa3-468e-ba0b-91425d311ed5.altText"
+#~ msgid "space placeholders"
+#~ msgstr "marcadores de posición"
+
+#~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Envía tu idea para una sesión"
+
+#~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.external_url"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
+
+#~ msgctxt "body.d21f5799-a7f9-4b48-9059-27f3145cb04a.session_items.c53e276a-8301-4ca6-9dd1-02eda56928fc.body"
+#~ msgid ""
+#~ "Are governments open to providing online complaints and reporting mechanisms? We discuss feminist research reports, then open the floor to a conversation on how to engage women's rights and "
+#~ "grassroots movement."
+#~ msgstr ""
+#~ "¿Los gobiernos están abiertos a proporcionar mecanismos de reclamación y presentación de informes en línea? Analizamos los informes feministas de investigación, luego cedemos la palabra para una "
+#~ "conversación sobre cómo incluir los derechos de las mujeres y los movimientos de base."
+
+#~ msgctxt "body.c444ebd6-bf4c-4d6c-887d-86a2eeecec37.altText"
+#~ msgid "placeholder"
+#~ msgstr "marcador"
+
+#~ msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.9ba32434-10cc-40fb-917e-28cc598a215a.link_url"
+#~ msgid "https://www.mozillafestival.org/community/working-groups?utm_source=mozfest&amp;utm_medium=pathways&amp;utm_campaign=issues&amp;utm_content=movementbuilding"
+#~ msgstr "https://www.mozillafestival.org/community/working-groups?utm_source=mozfest&utm_medium=pathways&utm_campaign=issues&utm_content=movementbuilding"
+
+#~ msgctxt "body.6340c9b5-7c6d-4ea4-a6f7-3e9ae37b151a.cards.ed0adbe2-dc75-48b7-8b92-06ec0bb002f4.link_label"
+#~ msgid "Listen now"
+#~ msgstr "Escuchar ahora"
+
+#~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url_label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Envía tu idea para una sesión"
+
+#~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url"
+#~ msgid "https://pretalx.com/mozilla-festival-2023/cfp?track=3240-tech-biodiversity-legado-2060"
+#~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp?track=3240-tech-biodiversity-legado-2060"
+
+#~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url"
+#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
+
+#~ msgctxt "body.e6c2a4ba-aa77-451a-b765-31bb5d8b7d17.button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.df3c7b2f-caee-454c-8f3e-268c52a36bad.url_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.df3c7b2f-caee-454c-8f3e-268c52a36bad.url"
+#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
+
+#~ msgctxt "body.51d014e0-2762-4ea4-97b7-fa3339474d0a.url_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.51d014e0-2762-4ea4-97b7-fa3339474d0a.url"
+#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
+
+#~ msgctxt "body.cebe4508-caae-4be7-9241-97d77db89f35.url_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.cebe4508-caae-4be7-9241-97d77db89f35.url"
+#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"

@@ -4,9 +4,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 141c04c4-7e97-4715-9abf-f09a460d6574\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 141c04c4-7e97-4715-9abf-f09a460d6574\n"
 
 msgctxt "title"
 msgid "Previous Festivals"
@@ -73,25 +73,13 @@ msgctxt "body.26ec6cce-6f5f-4001-b2db-0bfe0ff1f46c"
 msgid "Dialogues and Debates"
 msgstr "Débats et discussions"
 
-msgctxt "body.4461c047-d1db-4e66-8922-b7ac92037ee5.search_terms"
-msgid "#2021sessionsdnd"
-msgstr "#2021sessionsdnd"
-
 msgctxt "body.4abf1ad7-ffcb-4eb8-a63e-ad51205e5cf7"
 msgid "Sessions"
 msgstr "Sessions"
 
-msgctxt "body.a3cf6049-2317-4810-b632-aaebc19cfc6a.search_terms"
-msgid "MozFest Sessions 2021"
-msgstr "Sessions du MozFest 2021"
-
 msgctxt "body.1b71a99b-1d10-466b-85f8-0b61ab4fa5d6.label"
 msgid "Watch more MozFest 2021 sessions"
 msgstr "Voir plus de sessions du MozFest 2021"
-
-msgctxt "body.1b71a99b-1d10-466b-85f8-0b61ab4fa5d6.external_url"
-msgid "https://www.mozillapulse.org/tags/MozFest%20Sessions%202021"
-msgstr "https://www.mozillapulse.org/tags/MozFest%20Sessions%202021"
 
 msgctxt "body.c49276a8-8758-4cc6-b7f1-2be63b90debe"
 msgid "MozFest 2019 | Healthy AI"
@@ -104,10 +92,6 @@ msgid ""
 msgstr ""
 "2019 a été une année de changement, de célébration et de nouveaux horizons. C’était le 10e festival, la fin de la première décennie. Certains des plus grands penseurs du mouvement pour la bonne "
 "santé d’Internet ont rejoint la scène du MozFest pour parler d’IA responsable, de l’avenir de la désinformation, de l’état de la surveillance en ligne, etc."
-
-msgctxt "body.2cca8d41-334c-46f4-8c65-622bf29880b2.search_terms"
-msgid "#2019dnd"
-msgstr "#2019dnd"
 
 msgctxt "body.fb0330cd-d4f9-4522-b136-a2b791b6567c"
 msgid "MozFest 2018 | Your Data &amp; You"
@@ -123,10 +107,6 @@ msgstr ""
 "différentes vies affectées par l’état du Web, des modérateurs de contenu chargés de filtrer les contenus, aux communautés LGBTQ qui restent marginalisées dans de nombreux espaces en ligne. En "
 "examinant en profondeur la façon dont Internet et la vie humaine se croisent, nous avons cherché des moyens d’instaurer un changement positif."
 
-msgctxt "body.7645f6af-0f67-4387-957f-190c256cd6a4.search_terms"
-msgid "#2018dnd"
-msgstr "#2018dnd"
-
 msgctxt "body.c830688a-6cb8-42cf-86a0-901b4d956604"
 msgid "MozFest 2017 | Web For All"
 msgstr "MozFest 2017 | Web pour tous"
@@ -141,10 +121,6 @@ msgstr ""
 "inclusive, sûre et responsabilisante. Les orateurs et oratrices des Débats et discussions se sont interrogé·e·s sur la manière dont nous pourrions connecter chaque personne, indépendamment de son "
 "genre ou de sa situation géographique, à l’intégralité d’Internet. Les conversations se sont concentrées sur la manière dont le Web pourrait être un espace civilisé et sûr."
 
-msgctxt "body.17f3311c-691f-4669-8146-dce34832adeb.search_terms"
-msgid "#2017dnd"
-msgstr "#2017dnd"
-
 msgctxt "body.de3ed015-d0a1-417f-9964-b36020077731"
 msgid "MozFest 2016 | One Web"
 msgstr "MozFest 2016 | Un Web"
@@ -158,6 +134,30 @@ msgstr ""
 " où de grands noms pourraient discuter des problématiques les plus urgentes auxquelles est confronté le Web lors de discussions approfondies et de tables rondes. C’est ainsi que nos Débats et "
 "discussions sont nés."
 
-msgctxt "body.7d7a09e3-1217-4e98-8730-aac6b10245e0.search_terms"
-msgid "#2016dnd"
-msgstr "#2016dnd"
+#~ msgctxt "body.4461c047-d1db-4e66-8922-b7ac92037ee5.search_terms"
+#~ msgid "#2021sessionsdnd"
+#~ msgstr "#2021sessionsdnd"
+
+#~ msgctxt "body.a3cf6049-2317-4810-b632-aaebc19cfc6a.search_terms"
+#~ msgid "MozFest Sessions 2021"
+#~ msgstr "Sessions du MozFest 2021"
+
+#~ msgctxt "body.1b71a99b-1d10-466b-85f8-0b61ab4fa5d6.external_url"
+#~ msgid "https://www.mozillapulse.org/tags/MozFest%20Sessions%202021"
+#~ msgstr "https://www.mozillapulse.org/tags/MozFest%20Sessions%202021"
+
+#~ msgctxt "body.2cca8d41-334c-46f4-8c65-622bf29880b2.search_terms"
+#~ msgid "#2019dnd"
+#~ msgstr "#2019dnd"
+
+#~ msgctxt "body.7645f6af-0f67-4387-957f-190c256cd6a4.search_terms"
+#~ msgid "#2018dnd"
+#~ msgstr "#2018dnd"
+
+#~ msgctxt "body.17f3311c-691f-4669-8146-dce34832adeb.search_terms"
+#~ msgid "#2017dnd"
+#~ msgstr "#2017dnd"
+
+#~ msgctxt "body.7d7a09e3-1217-4e98-8730-aac6b10245e0.search_terms"
+#~ msgid "#2016dnd"
+#~ msgstr "#2016dnd"
