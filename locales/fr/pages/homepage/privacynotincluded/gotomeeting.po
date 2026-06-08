@@ -1,15 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-10-01 07:07:36.279969+00:00\n"
-"PO-Revision-Date: 2021-10-01 07:30+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 6d784f31-0bac-4b52-aca7-233d873aebeb\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "title"
 msgid "GoToMeeting"
@@ -96,7 +92,3 @@ msgstr "Aucun historique connu de fuites de données ou de failles rendues publi
 msgctxt "ai_helptext"
 msgid "GoToMeeting does use machine learning to improve certain features, such as its in-house transcription capabilities for cloud recorded meetings."
 msgstr "GoToMeeting utilise l’apprentissage automatique pour améliorer certaines fonctionnalités, comme ses capacités de transcription pour les réunions enregistrées sur le cloud."
-
-#~ msgctxt "price"
-#~ msgid "Free trial, Paid plans start at $12 per month"
-#~ msgstr "Essai gratuit, formule payante à partir de 12 $ par mois"

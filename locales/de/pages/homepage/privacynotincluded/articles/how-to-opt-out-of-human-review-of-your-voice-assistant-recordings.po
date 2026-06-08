@@ -1,15 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2022-11-15 09:57:33.662985+00:00\n"
-"PO-Revision-Date: 2022-11-15 10:14+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 23ae8095-20f6-4a9e-a8d9-273cbe14a49f\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "title"
 msgid "How to opt out of human review of your voice assistant recordings"
@@ -130,7 +126,3 @@ msgstr "So deaktivieren Sie die menschliche Überprüfung der Aufnahmen Ihres Sp
 msgctxt "search_description"
 msgid "If you have a voice assistant in your home or on your phone, have you ever been concerned that someone from the company could listen to your voice recordings?"
 msgstr "Wenn Sie zu Hause oder am Telefon einen Sprachassistenten haben, hatten Sie jemals Bedenken, dass jemand aus dem Unternehmen Ihre Sprachaufzeichnungen anhören könnte?"
-
-#~ msgctxt "slug"
-#~ msgid "how-to-opt-out-of-human-review-of-your-voice-assistant-recordings"
-#~ msgstr "how-to-opt-out-of-human-review-of-your-voice-assistant-recordings"

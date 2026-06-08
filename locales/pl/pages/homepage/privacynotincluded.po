@@ -1,15 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-06-23 08:14:45.778418+00:00\n"
-"PO-Revision-Date: 2024-03-21 08:58+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 7b29c1f2-4447-4cf3-b4b0-7aeca067027c\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "title"
 msgid "*Privacy Not Included"
@@ -30,11 +26,3 @@ msgid ""
 msgstr ""
 "Kupuj mądrze i bezpiecznie.\r"
 "<br/> <br/>Czy ten inteligentny głośnik, fitness tracker, bezprzewodowe słuchawki nie bywają straszne? Stworzyliśmy ten przewodnik, aby pomóc w kupowaniu bezpiecznych produktów podłączanych do sieci."
-
-#~ msgctxt "header"
-#~ msgid "Be Smart. Shop Safe."
-#~ msgstr "Kupuj mądrze i bezpiecznie."
-
-#~ msgctxt "intro_text"
-#~ msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
-#~ msgstr "Czy ten inteligentny głośnik, fitness tracker, bezprzewodowe słuchawki nie bywają straszne? Stworzyliśmy ten przewodnik, aby pomóc w kupowaniu bezpiecznych produktów podłączanych do sieci."

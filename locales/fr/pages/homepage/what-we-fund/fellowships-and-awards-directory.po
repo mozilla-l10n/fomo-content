@@ -1,15 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2023-03-17 09:55:38.047055+00:00\n"
-"PO-Revision-Date: 2024-06-07 18:50+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 381c32c7-0875-4010-95da-2fc0fe7587d5\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "search_description"
 msgid "Funding and resources for a more human-centered internet."
@@ -152,44 +148,3 @@ msgstr "Apprenez-en davantage sur nos titulaires de bourses Mozilla actuels et r
 msgctxt "title"
 msgid "Directory"
 msgstr "Annuaire"
-
-#~ msgctxt "search_description"
-#~ msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
-#~ msgstr "Financement et ressources pour des personnes exceptionnelles et des idées audacieuses qui participent au développement d’un Internet davantage centré sur l’humain."
-
-#~ msgctxt "body.a5c1f4cc-801b-4ba4-9a5e-63aa18d995b2.altText"
-#~ msgid "awards icon"
-#~ msgstr "icône des subventions"
-
-#~ msgctxt "body.a5c1f4cc-801b-4ba4-9a5e-63aa18d995b2.text"
-#~ msgid "See Past Awards"
-#~ msgstr "Découvrez les précédents projets subventionnés"
-
-#~ msgctxt "body.3d5a0804-a71a-4cd4-8339-4b4504ae99a0"
-#~ msgid ""
-#~ "Since 2015, Mozilla has distributed over $20 million in award funds to organizations and individuals in more than three dozen countries. The projects listed in the Awards Directory represent only a "
-#~ "fraction of the projects supported across Mozilla’s long history as a grantmaker. For additional information about past awards, please contact <a id=\"a1\">grants@mozillafoundation.com</a>."
-#~ msgstr ""
-#~ "Depuis 2015, Mozilla a distribué plus de 20 millions de dollars de subventions à des organisations et des individus dans plus de trente pays. Les projets répertoriés dans l’annuaire des subventions "
-#~ "ne représentent qu’une fraction des projets soutenus au cours de la longue histoire de Mozilla en tant qu’organisme octroyant des subventions. Pour plus d’informations sur les subventions "
-#~ "précédentes, veuillez contacter <a id=\"a1\">grants@mozillafoundation.com</a>."
-
-#~ msgctxt "body.66822d58-22f1-488e-a167-574dccf2ab29.external_url"
-#~ msgid "https://www.mozillapulse.org/search?keyword=mozilla-cma"
-#~ msgstr "https://www.mozillapulse.org/search?keyword=mozilla-cma"
-
-#~ msgctxt "body.1d819101-f78f-4de8-9fa8-347802420d62.external_url"
-#~ msgid "https://www.mozillapulse.org/projects?keyword=common%20voice"
-#~ msgstr "https://www.mozillapulse.org/projects?keyword=common%20voice"
-
-#~ msgctxt "body.469c9996-0446-47d3-87b8-05870a66fb34.external_url"
-#~ msgid "https://www.mozillapulse.org/projects?keyword=data%20futures%20lab"
-#~ msgstr "https://www.mozillapulse.org/projects?keyword=data%20futures%20lab"
-
-#~ msgctxt "body.ce6df460-eb37-4cfb-827c-8803a52b8099.external_url"
-#~ msgid "https://www.mozillapulse.org/projects?keyword=mozilla%20technology%20fund"
-#~ msgstr "https://www.mozillapulse.org/projects?keyword=mozilla%20technology%20fund"
-
-#~ msgctxt "body.dfa3dd5e-c3c1-420d-b66d-4a88ae5f93b0.external_url"
-#~ msgid "https://www.mozillapulse.org/projects?keyword=responsible%20computer%20science%20challenge"
-#~ msgstr "https://www.mozillapulse.org/projects?keyword=responsible%20computer%20science%20challenge"

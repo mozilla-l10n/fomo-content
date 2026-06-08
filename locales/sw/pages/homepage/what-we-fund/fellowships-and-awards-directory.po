@@ -1,15 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2023-03-17 09:55:52.039293+00:00\n"
-"PO-Revision-Date: 2024-02-26 09:49+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: sw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 48731bdb-252c-45ae-bdc9-1d946f79b673\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "search_description"
 msgid "Funding and resources for a more human-centered internet."
@@ -151,43 +147,3 @@ msgstr ""
 msgctxt "title"
 msgid "Directory"
 msgstr "Saraka"
-
-#~ msgctxt "search_description"
-#~ msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
-#~ msgstr "Ufadhili na rasilimali kwa ajili ya watu mahiri na wenye mawazo shupavu wanaojitahidi kuunda mtandao unaozingatia zaidi binadamu."
-
-#~ msgctxt "body.a5c1f4cc-801b-4ba4-9a5e-63aa18d995b2.altText"
-#~ msgid "awards icon"
-#~ msgstr "Mshindi maarufu wa tuzo"
-
-#~ msgctxt "body.a5c1f4cc-801b-4ba4-9a5e-63aa18d995b2.text"
-#~ msgid "See Past Awards"
-#~ msgstr "Angalia Tuzo za hapo awali"
-
-#~ msgctxt "body.3d5a0804-a71a-4cd4-8339-4b4504ae99a0"
-#~ msgid ""
-#~ "Since 2015, Mozilla has distributed over $20 million in award funds to organizations and individuals in more than three dozen countries. The projects listed in the Awards Directory represent only a "
-#~ "fraction of the projects supported across Mozilla’s long history as a grantmaker. For additional information about past awards, please contact <a id=\"a1\">grants@mozillafoundation.com</a>."
-#~ msgstr ""
-#~ "Tangu 2015, Mozilla imetoa zaidi ya dola milioni 20 kama fedha za tuzo kwa mashirika na watu binafsi katika nchi zaidi ya thelathini. Miradi iliyoorodheshwa katika Orodha ya Tuzo inawakilisha sehemu"
-#~ " tu ya miradi inayoungwa mkono katika historia ya muda mrefu ya Mozilla kama wafadhili. Kwa habari zaidi kuhusu tuzo za awali, tafadhali <a id=\"a1\">wasiliana na</a>grants@mozillafoundation.com"
-
-#~ msgctxt "body.66822d58-22f1-488e-a167-574dccf2ab29.external_url"
-#~ msgid "https://www.mozillapulse.org/search?keyword=mozilla-cma"
-#~ msgstr "https://www.mozillapulse.org/search?keyword=mozilla-cma"
-
-#~ msgctxt "body.1d819101-f78f-4de8-9fa8-347802420d62.external_url"
-#~ msgid "https://www.mozillapulse.org/projects?keyword=common%20voice"
-#~ msgstr "https://www.mozillapulse.org/projects?keyword=common%20voice"
-
-#~ msgctxt "body.469c9996-0446-47d3-87b8-05870a66fb34.external_url"
-#~ msgid "https://www.mozillapulse.org/projects?keyword=data%20futures%20lab"
-#~ msgstr "https://www.mozillapulse.org/projects?keyword=data%20futures%20lab"
-
-#~ msgctxt "body.ce6df460-eb37-4cfb-827c-8803a52b8099.external_url"
-#~ msgid "https://www.mozillapulse.org/projects?keyword=mozilla%20technology%20fund"
-#~ msgstr "https://www.mozillapulse.org/projects?keyword=mozilla%20technology%20fund"
-
-#~ msgctxt "body.dfa3dd5e-c3c1-420d-b66d-4a88ae5f93b0.external_url"
-#~ msgid "https://www.mozillapulse.org/projects?keyword=responsible%20computer%20science%20challenge"
-#~ msgstr "https://www.mozillapulse.org/projects?keyword=responsible%20computer%20science%20challenge"
