@@ -930,11 +930,6 @@ l10n = "locales/{locale}/pages/homepage/research/library/accelerating-progress-t
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/pages/mozilla-festival/technologists-reclaim-the-internet-at-mozfest-house.pot"
-l10n = "locales/{locale}/pages/mozilla-festival/technologists-reclaim-the-internet-at-mozfest-house.po"
-locales = [ "de", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/her.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/her.po"
 locales = [ "de", "es", "fr", "pt-BR",]
