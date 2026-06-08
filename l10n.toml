@@ -3440,10 +3440,6 @@ reference = "templates/pages/homepage/blog/research-southern-africa-faces-three-
 l10n = "locales/{locale}/pages/homepage/blog/research-southern-africa-faces-three-key-challenges-to-positive-ai-adoption.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
-[[paths]]
-reference = "templates/pages/homepage/blog/deepfakes-election-2024.pot"
-l10n = "locales/{locale}/pages/homepage/blog/deepfakes-election-2024.po"
-locales = [ "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.BuyersGuideProductCategory/131-pets-pet-feeders-sort-order-1.pot"
