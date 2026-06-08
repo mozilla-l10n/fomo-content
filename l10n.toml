@@ -2342,7 +2342,7 @@ locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 [[paths]]
 reference = "templates/pages/homepage/blog/deepfake-detector-app-chatgpts-creator-may-have-one-on-the-way.pot"
 l10n = "locales/{locale}/pages/homepage/blog/deepfake-detector-app-chatgpts-creator-may-have-one-on-the-way.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
+locales = [ "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/apples-anti-tracking-plans-iphone.pot"
