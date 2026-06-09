@@ -171,13 +171,9 @@ msgstr ""
 "fondos para la continuación de sus proyectos y los becarios avanzan en sus carreras hacia áreas de interés público. Todos continúan teniendo un impacto en el mundo real, independientemente de "
 "nosotros."
 
-msgctxt "body.258f7215-ced8-42cd-bc69-66500f16f094.left_column.63868861-e210-49de-a9e2-2fe56bccf64b"
-msgid "Learn about our current call for proposals by clicking the link below:"
-msgstr "Conoce nuestra convocatoria de propuestas actual haciendo clic en el siguiente enlace:"
-
 msgctxt "body.258f7215-ced8-42cd-bc69-66500f16f094.left_column.185a8cae-8f8d-4abc-bd59-c7eb3f53bfc2.label"
-msgid "Our next Incubator cohort"
-msgstr "Nuestra próxima cohorte de incubadoras"
+msgid "Explore our cohorts"
+msgstr ""
 
 msgctxt "body.258f7215-ced8-42cd-bc69-66500f16f094.right_column.d938ea65-ba6a-4e47-a4be-a3e9d06ac69c.image.alt_text"
 msgid "A person standing inside of an art installation consisting of circles of text"
@@ -190,18 +186,6 @@ msgstr "Oportunidades abiertas"
 msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.description"
 msgid "Check out current opportunities and register to stay in the know for future calls."
 msgstr "Echa un vistazo a las oportunidades actuales y regístrate para estar al tanto de futuras convocatorias."
-
-msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.items.b9634c8a-0419-4af9-8fb3-2299789d335c.label"
-msgid "Democracy x AI Incubator: Applications Closed, Announcing May"
-msgstr "Incubadora «Democracia x IA»: plazo de inscripción cerrado, anuncios en mayo"
-
-msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.items.37d3121e-6a30-4b03-a869-07400bde2df2.label"
-msgid "Fellows: Nominations Closed, Announcing June"
-msgstr "Fellows: nominaciones cerradas, anuncio en junio"
-
-msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.items.039350c5-7a50-453f-8ef1-a633ea8dbd9c.label"
-msgid "Responsible Computing Challenge: Open Calls"
-msgstr "Desafío de computación responsable: convocatoria abierta"
 
 msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.items.334bf28f-9f0e-474d-a7a9-b0ce67b014e6.label"
 msgid "Be notified about future opportunities"
@@ -226,6 +210,10 @@ msgstr "Recibe notificaciones sobre futuras oportunidades"
 #~ msgstr "¿Tienes una idea para un proyecto que podamos financiar? Envía tu información a continuación:"
 
 #~ msgctxt "body.258f7215-ced8-42cd-bc69-66500f16f094.left_column.63868861-e210-49de-a9e2-2fe56bccf64b"
+#~ msgid "Learn about our current call for proposals by clicking the link below:"
+#~ msgstr "Conoce nuestra convocatoria de propuestas actual haciendo clic en el siguiente enlace:"
+
+#~ msgctxt "body.258f7215-ced8-42cd-bc69-66500f16f094.left_column.63868861-e210-49de-a9e2-2fe56bccf64b"
 #~ msgid "This is what success looks like for us."
 #~ msgstr "Eso es el éxito para nosotros."
 
@@ -234,12 +222,24 @@ msgstr "Recibe notificaciones sobre futuras oportunidades"
 #~ msgstr "INSCRÍBETE AHORA: Democracy x AI Incubator"
 
 #~ msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.items.b9634c8a-0419-4af9-8fb3-2299789d335c.label"
+#~ msgid "Democracy x AI Incubator: Applications Closed, Announcing May"
+#~ msgstr "Incubadora «Democracia x IA»: plazo de inscripción cerrado, anuncios en mayo"
+
+#~ msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.items.b9634c8a-0419-4af9-8fb3-2299789d335c.label"
 #~ msgid "Incubator: 2026 Democracy x AI Cohort"
 #~ msgstr "Incubadora: Democracia 2026 x cohorte de IA"
 
 #~ msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.items.37d3121e-6a30-4b03-a869-07400bde2df2.label"
+#~ msgid "Fellows: Nominations Closed, Announcing June"
+#~ msgstr "Fellows: nominaciones cerradas, anuncio en junio"
+
+#~ msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.items.37d3121e-6a30-4b03-a869-07400bde2df2.label"
 #~ msgid "Fellows: Global Call for Nominations"
 #~ msgstr "Fellows: Convocatoria global para nominaciones"
+
+#~ msgctxt "body.d67ec4c0-c367-4708-a9a8-14f00b570c01.left_column.437c04e2-8472-4726-a635-e13b8b3df924.items.039350c5-7a50-453f-8ef1-a633ea8dbd9c.label"
+#~ msgid "Responsible Computing Challenge: Open Calls"
+#~ msgstr "Desafío de computación responsable: convocatoria abierta"
 
 #~ msgctxt "body.258f7215-ced8-42cd-bc69-66500f16f094.left_column.185a8cae-8f8d-4abc-bd59-c7eb3f53bfc2.label"
 #~ msgid "Submit your idea"
@@ -248,3 +248,7 @@ msgstr "Recibe notificaciones sobre futuras oportunidades"
 #~ msgctxt "body.258f7215-ced8-42cd-bc69-66500f16f094.left_column.185a8cae-8f8d-4abc-bd59-c7eb3f53bfc2.label"
 #~ msgid "Apply for our next Incubator cohort"
 #~ msgstr "Inscríbete a nuestra próxima cohorte de la Incubadora"
+
+#~ msgctxt "body.258f7215-ced8-42cd-bc69-66500f16f094.left_column.185a8cae-8f8d-4abc-bd59-c7eb3f53bfc2.label"
+#~ msgid "Our next Incubator cohort"
+#~ msgstr "Nuestra próxima cohorte de incubadoras"
