@@ -53,10 +53,14 @@ msgid "Participation Guidelines"
 msgstr "Richtlijnen voor deelname"
 
 msgctxt "legal_text"
-msgid "Mozilla Foundation is a global non-profit and parent of the <a id=\"a1\">Mozilla Corporation</a>. Most content available under a <a id=\"a2\">Creative Commons license</a>."
+msgid "Mozilla Foundation is a global non-profit and the philanthropic mission-holder of the <a id=\"a1\">Mozilla Project</a>. Most content available under a <a id=\"a2\">Creative Commons license</a>."
 msgstr ""
-"Mozilla Foundation is een wereldwijde non-profitorganisatie en moedermaatschappij van de <a id=\"a1\">Mozilla Corporation</a>. De meeste inhoud is beschikbaar onder een <a id=\"a2\">Creative "
-"Commons-licentie</a>."
+
+#~ msgctxt "legal_text"
+#~ msgid "Mozilla Foundation is a global non-profit and parent of the <a id=\"a1\">Mozilla Corporation</a>. Most content available under a <a id=\"a2\">Creative Commons license</a>."
+#~ msgstr ""
+#~ "Mozilla Foundation is een wereldwijde non-profitorganisatie en moedermaatschappij van de <a id=\"a1\">Mozilla Corporation</a>. De meeste inhoud is beschikbaar onder een <a id=\"a2\">Creative "
+#~ "Commons-licentie</a>."
 
 #~ msgctxt "internal_links.7ba95de2-42cd-4aea-886f-fd56ba05cc4e.label"
 #~ msgid "Grantmaking"

@@ -53,10 +53,14 @@ msgid "Participation Guidelines"
 msgstr "Richtlinien zum Mitmachen"
 
 msgctxt "legal_text"
-msgid "Mozilla Foundation is a global non-profit and parent of the <a id=\"a1\">Mozilla Corporation</a>. Most content available under a <a id=\"a2\">Creative Commons license</a>."
+msgid "Mozilla Foundation is a global non-profit and the philanthropic mission-holder of the <a id=\"a1\">Mozilla Project</a>. Most content available under a <a id=\"a2\">Creative Commons license</a>."
 msgstr ""
-"Die Mozilla Foundation ist eine weltweite, gemeinnützige Organisation und Muttergesellschaft der <a id=\"a1\">Mozilla Corporation</a>. Die meisten Inhalte stehen unter einer <a id=\"a2\">Creative-"
-"Commons-Lizenz</a>."
+
+#~ msgctxt "legal_text"
+#~ msgid "Mozilla Foundation is a global non-profit and parent of the <a id=\"a1\">Mozilla Corporation</a>. Most content available under a <a id=\"a2\">Creative Commons license</a>."
+#~ msgstr ""
+#~ "Die Mozilla Foundation ist eine weltweite, gemeinnützige Organisation und Muttergesellschaft der <a id=\"a1\">Mozilla Corporation</a>. Die meisten Inhalte stehen unter einer <a id=\"a2\">Creative-"
+#~ "Commons-Lizenz</a>."
 
 #~ msgctxt "internal_links.7ba95de2-42cd-4aea-886f-fd56ba05cc4e.label"
 #~ msgid "Grantmaking"
