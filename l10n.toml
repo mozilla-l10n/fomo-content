@@ -4940,11 +4940,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/10-theory.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/period-ovulation-trackers.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/period-ovulation-trackers.po"
-locales = [ "fr",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.RCCCurricularArea/12-technology-and-society.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.RCCCurricularArea/12-technology-and-society.po"
 locales = [ "fr",]
