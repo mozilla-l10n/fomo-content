@@ -4,9 +4,9 @@ msgstr ""
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: e9aaff8b-f9ed-41f3-bbe2-cd094b94a216\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: e9aaff8b-f9ed-41f3-bbe2-cd094b94a216\n"
 
 msgctxt "title"
 msgid "Donate to Mozilla before midnight"
@@ -19,3 +19,7 @@ msgstr "We hebben niet veel tijd meer om ons doel voor 2024 te behalen. Doneer j
 msgctxt "cta_button_text"
 msgid "Donate →"
 msgstr "Doneer →"
+
+#~ msgctxt "title"
+#~ msgid "Donate to Mozilla before Dec 31"
+#~ msgstr "Doneer aan Mozilla vóór 31 dec."

@@ -4,9 +4,9 @@ msgstr ""
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 7bf2ebb3-a4f7-4e88-905b-6e8d1ad90f7a\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 7bf2ebb3-a4f7-4e88-905b-6e8d1ad90f7a\n"
 
 msgctxt "title"
 msgid "Donate to Mozilla before Dec 31"
@@ -19,3 +19,7 @@ msgstr "Ainda não atingimos nossa meta atualizada de arrecadar US$ 4.700.000 em
 msgctxt "cta_button_text"
 msgid "Donate →"
 msgstr "Doe agora →"
+
+#~ msgctxt "subtitle"
+#~ msgid "We're still short of our goal to raise $4,354,000 USD in 2024."
+#~ msgstr "Ainda não atingimos nossa meta de US$ 4.354.000 para 2024."

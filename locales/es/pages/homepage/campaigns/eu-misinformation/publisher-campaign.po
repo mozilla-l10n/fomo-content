@@ -4,9 +4,9 @@ msgstr ""
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 9f6c901c-5d00-4f6e-b25a-750752a949a6\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 9f6c901c-5d00-4f6e-b25a-750752a949a6\n"
 
 msgctxt "seo_title"
 msgid "News publishers should follow the Guardian's lead to prevent the spread of misinformation."
@@ -79,3 +79,7 @@ msgstr "¿Agregarías tu nombre para agradecer a The Guardian y pedir a otras ed
 msgctxt "title"
 msgid "Publisher Campaign"
 msgstr "Campaña de editores"
+
+#~ msgctxt "body.02894459-f777-4508-9b43-fa5a4f2d54ce.captionURL"
+#~ msgid "https://www.cjr.org/innovations/you-may-hate-metrics-guardian-audience-twitter-images.php"
+#~ msgstr "https://www.cjr.org/innovations/you-may-hate-metrics-guardian-audience-twitter-images.php"
