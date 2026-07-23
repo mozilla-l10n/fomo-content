@@ -1,0 +1,178 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-07-23 08:54:51.218714+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4cf13d7a-1fc9-4e6a-924f-5e3f8b29c461\n"
+
+msgctxt "seo_title"
+msgid "Period Calendar Privacy Review 2026: Is the Period Calendar Period Tracker Safe?"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Read our hands-on testing results of the Period Calendar app. Find out if your cycle history and sensitive symptoms are being shared with third-party advertisers and why we gave the app a score of 6"
+" out of 10."
+msgstr ""
+
+msgctxt "title"
+msgid "Privacy Review: Period Calendar"
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.trust_default_settings"
+msgid "It depends on what, exactly, you’re worried about the app doing with your data."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.trust_default_settings"
+msgid ""
+"Among the period-tracking apps we analyzed, Period Calendar stands out as the only one dependent on advertising for monetization. Fundamentally, this means third-party advertising systems and their "
+"data handling practices are a core part of how the app functions."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.what_personal_data_they_have"
+msgid "Period Calendar serves ads. In practice, this means the app is sending device details and ad signals to third parties from the moment you open it, even if you never tap a thing."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.what_personal_data_they_have"
+msgid ""
+"Our testing caught the app’s home screen sending a steady stream of device details to Google, your phone model, screen dimensions, and timezone, feeding ad systems like DoubleClick and AdMob that "
+"run the ads inside the app and track how they perform. Similar information was also reaching other vendors, like the ad-serving companyInMobi. Every one of those requests also named the app they "
+"were coming from, and the name “Period Calendar” doesn’t leave much to the imagination."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.what_personal_data_they_have"
+msgid ""
+"That signal, that you’re using an app related to reproductive health, is tagged with a persistent identifier so Google and others can match it with whatever data they have to build a profile. That "
+"means the next time these systems serve you an ad inside the app or elsewhere, your period tracker data point will be part of what’s targeting it."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.track_record"
+msgid ""
+"Period Calendar is built by Simple Design Ltd., a company with a relatively minimal public footprint despite its portfolio of popular health and fitness apps. It hasn’t faced major regulatory "
+"action, but its data practices have been flagged in multiple independent investigations."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.track_record"
+msgid ""
+"A <a id=\"a1\">2022 Vice report</a> found that datasets tied to Period Calendar users appeared to be for sale on a commercial data marketplace. Meanwhile, a <a id=\"a2\">2025 investigation by "
+"Privacy International</a> found that the app shared data with multiple third parties, with much of it going to Google’s advertising and analytics systems, closely matching what we saw in our own "
+"testing. Privacy International also observed this behavior consistently throughout using the app, just like we did."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.track_record"
+msgid "Period Calendar did not respond to a request for comment."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.sells_or_shares_user_data"
+msgid "We didn’t see evidence of the app directly sharing any health-related details with third-party advertisers."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.sells_or_shares_user_data"
+msgid ""
+"If your main concern is whether the app directly shares what you log (like your cycle, symptoms, or contraceptive use) with outside companies, we didn’t see evidence of that in our testing. When we "
+"looked at the data leaving the app, we didn’t see anything related to cycle details, symptoms, or birth control choices."
+msgstr ""
+
+msgctxt "what_you_should_know_section.79974d63-2040-4848-8c1c-813fc838b08f.sells_or_shares_user_data"
+msgid ""
+"On the other hand, if your main concern is whether third parties can tell you’re using a period-tracking app at all, even without seeing the specifics of what you’re using it for, the answer is more"
+" complicated. From what we observed, we saw multiple companies, including Google and Microsoft, getting enough information to connect those dots."
+msgstr ""
+
+msgctxt "good_and_bad_section.9a843d76-1b31-4107-a796-a275ad4041ea.the_good"
+msgid ""
+"Period Calendar doesn’t require you to create an account to get started, which means you can use the app without tying your data directly to your name, email address, or another persistent "
+"identifier. That reduces, but doesn’t eliminate, the risk of your data being linked back to your identity."
+msgstr ""
+
+msgctxt "good_and_bad_section.9a843d76-1b31-4107-a796-a275ad4041ea.the_bad"
+msgid ""
+"Some level of data sharing is going to be built into any ad-supported app, including Period Calendar. This means there’s no real off switch. The data flows we observed are core to how the app works:"
+" to leave them behind, you’d need to leave the app altogether."
+msgstr ""
+
+msgctxt "good_and_bad_section.9a843d76-1b31-4107-a796-a275ad4041ea.the_bad"
+msgid ""
+"Period Calendar’s own privacy policy reinforces this. It directs users to manage ad personalization through Google’s settings, instead of offering clear in-app controls, putting the burden on users "
+"to navigate systems outside the app to limit how their data is used."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.b562ebc5-6c84-44f8-bbf3-410b8cdd2230.content"
+msgid "If you’re going to keep using Period Calendar, the goal is protecting your data while also making it harder to link that data back to you."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.b562ebc5-6c84-44f8-bbf3-410b8cdd2230.content"
+msgid ""
+"<b>Limit ad personalization where you can.</b> The app relies on Google’s ad systems, like AdMob and DoubleClick, to show and measure ads. Disabling ad personalization in your Google account can "
+"limit, but not eliminate, what the company is able to track. In your Google account, you can turn this off under Data &amp; Privacy, navigating to Ad Settings at myaccount.google.com."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.b562ebc5-6c84-44f8-bbf3-410b8cdd2230.content"
+msgid "<b>Skip the cloud backup.</b> The app lets you back up your data via Google or Apple, but doing so ties your activity to an account."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.b562ebc5-6c84-44f8-bbf3-410b8cdd2230.content"
+msgid ""
+"<b>Be mindful of what you log.</b> In our testing, we didn’t see health data like symptoms or cycle information being sent to ad systems, but that doesn’t mean it couldn’t be used in other ways. "
+"Only log what you need to, and keep in mind that tapping on ads can also send signals about what you’re doing."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.b562ebc5-6c84-44f8-bbf3-410b8cdd2230.content"
+msgid ""
+"<b>Check your device privacy settings.</b> Since this app sends identifiers and activity signals to ad systems, turning off app tracking on iOS or disabling ad personalization on Android can make it"
+" harder to link your activity across apps."
+msgstr ""
+
+msgctxt "bottom_line_section.087e81d6-2243-4bfa-8a39-f3b854a57b03.content"
+msgid "Whether this app works for you isn’t really about “safe” or “unsafe”: it’s about what you’re comfortable with."
+msgstr ""
+
+msgctxt "bottom_line_section.087e81d6-2243-4bfa-8a39-f3b854a57b03.content"
+msgid ""
+"For some people, it’s enough to know that their most intimate health details, like their period, pregnancy, or contraceptive use, aren’t being shared. For others, any kind of exposure may feel "
+"uncomfortable, especially with data this personal. Neither approach is wrong: they’re just different ways of coping with the ambient horror of using a smartphone."
+msgstr ""
+
+msgctxt "bottom_line_section.087e81d6-2243-4bfa-8a39-f3b854a57b03.content"
+msgid "Even if Period Calendar appears to be less data-hungry than other ad-supported apps on your phone, it’s still named Period Calendar. Apps like this should be held to a higher standard."
+msgstr ""
+
+msgctxt "bottom_line_section.087e81d6-2243-4bfa-8a39-f3b854a57b03.content"
+msgid ""
+"Plenty of people can tolerate a bit of background data sharing in exchange for a free, easy-to-use cycle tracker with reliable predictions. But if that idea makes you squeamish, this probably isn’t "
+"the app for you."
+msgstr ""
+
+msgctxt "hero_image_alt_text"
+msgid "Image of the Period Calendar App Logo"
+msgstr ""
+
+msgctxt "scoring"
+msgid "6/10"
+msgstr ""
+
+msgctxt "hours_tested"
+msgid "3"
+msgstr ""
+
+msgctxt "type_of_testing"
+msgid "Manual testing &amp; Network Analysis"
+msgstr ""
+
+msgctxt "byline"
+msgid "Reviewed by Shoshana Wodinsky"
+msgstr ""
+
+msgctxt "who_am_i"
+msgid ""
+"I’m a technologist and investigative researcher who’s spent the better part of a decade exposing ad tech, data brokers, and the surveillance economy built on harvesting everything we do online. I "
+"spent a year as a senior advisor at the FTC on privacy issues and cases, and since then I’ve helped nonprofits fighting to rein in the data economy. Cat enthusiast first, tech skeptic second."
+msgstr ""
+
+msgctxt "lede_text"
+msgid ""
+"Period Calendar is a popular cycle tracker that does exactly what it sounds like. You can use the app to log your period, track ovulation, monitor symptoms, and manage your birth control in an "
+"interface that its fans praise for being refreshingly simple and straightforward. Beyond logging, the app offers predictions about your cycle, like when to expect your next period or ovulation "
+"window. In our testing, we found that Period Calendar wasn’t sharing what you log or predict with third parties, but that doesn’t quite mean the app was built with your privacy in mind."
+msgstr ""

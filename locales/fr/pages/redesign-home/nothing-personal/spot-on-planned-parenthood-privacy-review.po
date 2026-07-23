@@ -1,0 +1,167 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-07-23 08:55:30.688900+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d8de710f-c0f9-4d11-a97e-84eda215b512\n"
+
+msgctxt "seo_title"
+msgid "Spot On App Privacy Review: Is the Spot On Period Tracker Safe?"
+msgstr ""
+
+msgctxt "search_description"
+msgid ""
+"Is the Spot On period tracking app safe? Read our deep-dive privacy review to see how the Planned Parenthood app handles your data, encryption, and third-party sharing. We gave the app a score of 5 "
+"out of 10. Our testing found that you should stick to the core logging features, keep the web out of the experience when you can, and use an anti-tracking browser when you can’t."
+msgstr ""
+
+msgctxt "title"
+msgid "Privacy Review: Spot On"
+msgstr ""
+
+msgctxt "what_you_should_know_section.0fbf7ccf-7613-4d77-9d69-c227cb03aacf.trust_default_settings"
+msgid ""
+"Mostly, yes, but there’s some important context. If you’re just using Spot On for the basics, like tracking your cycle, logging symptoms, and setting birth control reminders, everything stays within"
+" the app. From our testing, nothing about the default setup for these features jumps out as a red flag: basic privacy protections are in place from the jump."
+msgstr ""
+
+msgctxt "what_you_should_know_section.0fbf7ccf-7613-4d77-9d69-c227cb03aacf.what_personal_data_they_have"
+msgid ""
+"When we used the app on its own, we didn’t see it sharing data with other companies or trying to track us across visits. Beyond what you enter, the app collects basic technical data in the "
+"background."
+msgstr ""
+
+msgctxt "what_you_should_know_section.0fbf7ccf-7613-4d77-9d69-c227cb03aacf.track_record"
+msgid ""
+"Spot On hasn’t been at the center of the kind of major privacy scandals that have hit other apps in this category. Planned Parenthood, which develops Spot On, has faced scrutiny over its broader "
+"digital tools in the past. A <a id=\"a1\">2021 investigation from The Markup</a> found"
+msgstr ""
+
+msgctxt "what_you_should_know_section.0fbf7ccf-7613-4d77-9d69-c227cb03aacf.track_record"
+msgid ""
+"Planned Parenthood’s website running more than two dozen different ad trackers when users visited. The next year, <a id=\"a1\">The Washington Post reported</a> that Planned Parenthood’s website "
+"shared appointment-search details with companies like Google and TikTok. Planned Parenthood later said it had suspended tracking on the pages named in the report."
+msgstr ""
+
+msgctxt "what_you_should_know_section.0fbf7ccf-7613-4d77-9d69-c227cb03aacf.track_record"
+msgid ""
+"Notably, the privacy notice covering Spot On—governed by Planned Parenthood Direct's privacy notice, not a policy of its own—was last revised in April 2024. That's nearly two years after the Markup "
+"and Guardian investigations. And<a id=\"a1\"> according to Berkman Klein's snapshots of said policy</a>, it hasn't changed since."
+msgstr ""
+
+msgctxt "what_you_should_know_section.0fbf7ccf-7613-4d77-9d69-c227cb03aacf.track_record"
+msgid "Planned Parenthood did not respond to a request for comment."
+msgstr ""
+
+msgctxt "what_you_should_know_section.0fbf7ccf-7613-4d77-9d69-c227cb03aacf.sells_or_shares_user_data"
+msgid "When we used the app on its own, we didn’t see it sharing data with other companies or tracking users across visits. Activity mostly stayed within the app."
+msgstr ""
+
+msgctxt "what_you_should_know_section.0fbf7ccf-7613-4d77-9d69-c227cb03aacf.sells_or_shares_user_data"
+msgid "In our testing, we didn’t see obvious signs that Spot On is selling user data, like the ad-tech or data broker pipelines that often signal that kind of activity."
+msgstr ""
+
+msgctxt "good_and_bad_section.be42727b-b332-459f-9a83-fa9138a5b495.the_good"
+msgid ""
+"You can use Spot On without creating a full account, which already puts it ahead of a lot of apps in this category. That’s a meaningful privacy win, particularly in a space where apps often ask for "
+"personal information upfront."
+msgstr ""
+
+msgctxt "good_and_bad_section.be42727b-b332-459f-9a83-fa9138a5b495.the_bad"
+msgid ""
+"Features like the provider finder or Roo send users to Planned Parenthood’s website via an in-app browser where the site’s third-party tracking comes along too. In the provider-finder flow, for "
+"example, we consistently saw search details, like our city and the type of care we were looking for, sent to AB Tasty, a web analytics and personalization company. That included searches for health "
+"services that most users would expect to stay private, like HIV testing or gender-affirming care."
+msgstr ""
+
+msgctxt "good_and_bad_section.be42727b-b332-459f-9a83-fa9138a5b495.the_bad"
+msgid "In searches for abortion providers, AB Tasty received all of those self-reported details, plus two more: our age and the date of our last menstrual period."
+msgstr ""
+
+msgctxt "good_and_bad_section.be42727b-b332-459f-9a83-fa9138a5b495.the_bad"
+msgid ""
+"We saw more trackers from other companies, roughly half a dozen, to be precise, activate when we opened Roo’s webpage through the app. Google, Microsoft, TikTok, and Pinterest were among the names "
+"that showed up during those interactions. What we didn’t see, more importantly, was the sensitive data leakage we described earlier. The data Roo shared was more or less contextual: whether the "
+"visitor appeared to be using iOS or Android, what language the page loaded in, the timestamp of their visit, and the like."
+msgstr ""
+
+msgctxt "good_and_bad_section.be42727b-b332-459f-9a83-fa9138a5b495.the_bad"
+msgid ""
+"Those transmissions were also tied to identifiers for the visit, meaning a company like TikTok could potentially use someone’s Roo visit for ad targeting later, even if it doesn’t know the questions"
+" they asked."
+msgstr ""
+
+msgctxt "good_and_bad_section.be42727b-b332-459f-9a83-fa9138a5b495.the_bad"
+msgid ""
+"From what we found, Spot On doesn’t give users a clear way to turn off the tracking that happens inside the in-app browser. Once those Planned Parenthood pages load, the tracking runs automatically."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.bb154465-7bfd-411e-a273-4b24ca2d30b1.content"
+msgid "If you’re going to use Spot On, a few simple steps can help keep more of your data contained:"
+msgstr ""
+
+msgctxt "reduce_your_risks_section.bb154465-7bfd-411e-a273-4b24ca2d30b1.content"
+msgid "Stick to the app’s core features. In our testing, things like cycle tracking, symptom logging, and reminders stayed within the app."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.bb154465-7bfd-411e-a273-4b24ca2d30b1.content"
+msgid ""
+"Be intentional about how you search for care or ask questions. Those specific web pages can inadvertently pass along sensitive information about your cycle and the reproductive health services you "
+"might be trying to find."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.bb154465-7bfd-411e-a273-4b24ca2d30b1.content"
+msgid ""
+"Use a separate browser for sensitive searches. It’s not a silver bullet, but you can limit the data that these pages collect by using a mobile browser designed with privacy in mind, like Safari or "
+"DuckDuckGo."
+msgstr ""
+
+msgctxt "reduce_your_risks_section.bb154465-7bfd-411e-a273-4b24ca2d30b1.content"
+msgid "Return to the app once you’re done. The tracking we observed happens on those external pages, not during normal in-app use."
+msgstr ""
+
+msgctxt "bottom_line_section.953a3b4b-610f-4e96-803c-b08b672fad74.content"
+msgid ""
+"At most, Spot On collects what you give it, and some traceable identifiers. That's the case for just about every app you'll use. And Spot On's in-app browser loads Planned Parenthood's site just as "
+"any browser would, third-party trackers and all."
+msgstr ""
+
+msgctxt "bottom_line_section.953a3b4b-610f-4e96-803c-b08b672fad74.content"
+msgid ""
+"But Spot On isn't a shopping app, and Planned Parenthood isn't a shoe retailer. People who use these services reasonably hold the bar for discretion a bit higher than the average web-surfer. An app "
+"can clear that bar better than most and still prove that the smallest data, in the wrong context, is enough. That doesn’t mean you need to stop using Spot On if it’s part of your routine. Instead, "
+"be intentional: stick to the core logging features, keep the web out of the experience when you can, and use an anti-tracking browser when you can’t."
+msgstr ""
+
+msgctxt "hero_image_alt_text"
+msgid "Picture of Spot On App Logo"
+msgstr ""
+
+msgctxt "scoring"
+msgid "5/10"
+msgstr ""
+
+msgctxt "hours_tested"
+msgid "4"
+msgstr ""
+
+msgctxt "type_of_testing"
+msgid "Manual testing &amp; Network Analysis"
+msgstr ""
+
+msgctxt "byline"
+msgid "Reviewed by Shoshana Wodinsky"
+msgstr ""
+
+msgctxt "who_am_i"
+msgid ""
+"I’m a technologist and investigative researcher who’s spent the better part of a decade exposing ad tech, data brokers, and the surveillance economy built on harvesting everything we do online. I "
+"spent a year as a senior advisor at the FTC on privacy issues and cases, and since then I’ve helped nonprofits fighting to rein in the data economy. Cat enthusiast first, tech skeptic second."
+msgstr ""
+
+msgctxt "lede_text"
+msgid ""
+"Spot On is a period and birth control tracking app from Planned Parenthood, one of the best-known reproductive health organizations in the U.S. and a central organizational target in the country’s fights over abortion access.\r"
+"<br/>The app pairs cycle tracking and birth control reminders with built-in education tools on birth control and cycle health. It also links out to Planned Parenthood’s services search page where users look for providers offering care like gender-affirming care, STI testing, and abortion. The app also includes access to Roo, a chatbot that gives clear, no-judgment answers about sexual and reproductive health. Our privacy concerns with Spot On are when you navigate out of the app and into a web environment, where third-party tracking kicks in."
+msgstr ""
