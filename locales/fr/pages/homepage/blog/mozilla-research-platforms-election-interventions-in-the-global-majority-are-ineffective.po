@@ -4,9 +4,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 983c9fdc-0e1c-45ee-8841-2be255e154e2\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 983c9fdc-0e1c-45ee-8841-2be255e154e2\n"
 
 msgctxt "seo_title"
 msgid "Mozilla Research: Platforms’ Election Interventions in the Global Majority Are Ineffective"
@@ -200,3 +200,7 @@ msgstr "<b>Contacts presse :<br/></b><br/>Kevin Zawacki : kevin@mozillafoundat
 msgctxt "title"
 msgid "Mozilla Research: Platforms’ Election Interventions in the Global Majority Are Ineffective"
 msgstr "Étude de Mozilla : les initiatives électorales prises par les plateformes dans la majorité des pays du monde sont inefficaces"
+
+#~ msgctxt "body.433548cf-dec2-4a6b-b081-0ae3aecf6d5d.external_url"
+#~ msgid "https://foundation.mozilla.org/campaigns/platforms-promises-and-politics/"
+#~ msgstr "https://foundation.mozilla.org/campaigns/platforms-promises-and-politics/"

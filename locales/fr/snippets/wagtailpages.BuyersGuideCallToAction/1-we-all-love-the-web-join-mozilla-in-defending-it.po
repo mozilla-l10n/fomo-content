@@ -4,9 +4,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 2dd1064e-b216-4bdc-823b-ae0e3730ca65\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 2dd1064e-b216-4bdc-823b-ae0e3730ca65\n"
 
 msgctxt "title"
 msgid "We all love the web. Join Mozilla in defending it."
@@ -19,3 +19,11 @@ msgstr "Nous sommes fiers d’être une organisation à but non lucratif, non co
 msgctxt "link.3b29ff19-d9f4-4c86-9939-9f96ae244822.label"
 msgid "Donate today"
 msgstr "Faites un don"
+
+#~ msgctxt "link_target_url"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/?form=donate"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/?form=donate"
+
+#~ msgctxt "link_target_url"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/?form=donate&amp;utm_medium=FMO&amp;utm_source=PNI&amp;utm_campaign=23-PNI&amp;utm_content=banner&amp;c_id=7014x000000eQOD"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/?form=donate&amp;utm_medium=FMO&amp;utm_source=PNI&amp;utm_campaign=23-PNI&amp;utm_content=banner&amp;c_id=7014x000000eQOD"

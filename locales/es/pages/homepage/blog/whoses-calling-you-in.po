@@ -4,9 +4,9 @@ msgstr ""
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 3c81f2a1-9d08-428f-86d8-476b94a00af5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 3c81f2a1-9d08-428f-86d8-476b94a00af5\n"
 
 msgctxt "seo_title"
 msgid "Whose’s calling you in? Language, People and Technology"
@@ -240,3 +240,7 @@ msgstr "PD: El Informe sobre el Estado de las Lenguas en Internet también inclu
 msgctxt "title"
 msgid "Whose’s calling you in?"
 msgstr "Abrazando amistades críticas"
+
+#~ msgctxt "search_description"
+#~ msgid "OPED about the State of Internet Languages Report and its reception from the Mozilla Common Voice Team."
+#~ msgstr "Artículo de opinión del Equipo de Common Voice de Mozilla acerca del Informe sobre el Estado de las Lenguas en Internet y su recepción."

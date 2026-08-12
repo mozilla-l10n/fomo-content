@@ -4,9 +4,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 1ee22965-f0a8-4fb7-8ffc-30a17dc49e23\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 1ee22965-f0a8-4fb7-8ffc-30a17dc49e23\n"
 
 msgctxt "title"
 msgid "Donate to Mozilla’s mid-year campaign"
@@ -19,3 +19,11 @@ msgstr "Un meilleur avenir numérique commence ici. Faites un don dès aujourd�
 msgctxt "cta_button_text"
 msgid "Donate →"
 msgstr "Je fais un don →"
+
+#~ msgctxt "title"
+#~ msgid "Donate to Mozilla before June 30"
+#~ msgstr "Faites un don à Mozilla avant le 30 juin"
+
+#~ msgctxt "subtitle"
+#~ msgid "Time is running out to reach our mid-year goal. Can you donate?"
+#~ msgstr "Le temps presse pour atteindre notre objectif de mi-année. Faites un don !"

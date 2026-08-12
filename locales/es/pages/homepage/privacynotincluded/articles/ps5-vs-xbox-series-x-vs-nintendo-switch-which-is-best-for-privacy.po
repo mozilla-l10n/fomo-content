@@ -4,9 +4,9 @@ msgstr ""
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 04cae03b-909a-47f8-8d37-c5a195b780e9\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: 04cae03b-909a-47f8-8d37-c5a195b780e9\n"
 
 msgctxt "title"
 msgid "PS5 vs. Xbox Series X vs. Nintendo Switch: Which Is Best For Privacy?"
@@ -337,3 +337,7 @@ msgstr "PS5 vs. Xbox Series X vs. Nintendo Switch: ¿Cuál tiene la mejor privac
 msgctxt "search_description"
 msgid "Your gaming profile is rich with personal data. Here’s how to protect it."
 msgstr "Tu perfil de juego está repleto de datos personales. Aquí te explicamos qué debes hacer para protegerlo."
+
+#~ msgctxt "slug"
+#~ msgid "ps5-vs-xbox-series-x-vs-nintendo-switch-which-is-best-for-privacy"
+#~ msgstr "ps5-vs-xbox-series-x-vs-nintendo-switch-which-is-best-for-privacy"

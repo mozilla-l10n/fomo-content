@@ -4,9 +4,9 @@ msgstr ""
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: d0d95b87-bd8a-4020-8748-aa4598c6d1db\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
+"X-WagtailLocalize-TranslationID: d0d95b87-bd8a-4020-8748-aa4598c6d1db\n"
 
 msgctxt "title"
 msgid "Huawei Smart Watch ES"
@@ -85,3 +85,7 @@ msgid "Huawei has been indicted for corporate espionage in the United States for
 msgstr ""
 "Aux États-Unis, Huawei a été inculpé pour vol de secrets industriels à des entreprises états-uniennes. La directrice financière d’Huawei, accusée de fraude, est actuellement en résidence surveillée "
 "au Canada."
+
+#~ msgctxt "price"
+#~ msgid "99.90 euros"
+#~ msgstr "99,90 euros"
