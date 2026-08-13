@@ -4740,19 +4740,9 @@ l10n = "locales/{locale}/pages/homepage/insights/trustworthy-ai-whitepaper.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/what-we-fund/fellowships-and-awards-directory.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/fellowships-and-awards-directory.po"
-locales = [ "fr", "sw",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.Signup/223-mozfest-house-amsterdam.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Signup/223-mozfest-house-amsterdam.po"
 locales = [ "fr", "fy-NL", "nl",]
-
-[[paths]]
-reference = "templates/pages/homepage/what-we-fund/awards/creative-media-awards/previous-awards.pot"
-l10n = "locales/{locale}/pages/homepage/what-we-fund/awards/creative-media-awards/previous-awards.po"
-locales = [ "fr",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.Profile/68-kevin-zawacki.pot"
