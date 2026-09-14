@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-09-14 12:15:08.494705+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3a1e0238-d635-49e8-b76d-9221a10bafd4\n"
+
+msgctxt "seo_title"
+msgid "Mathys Rennela"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Mathys is a Mozilla Fellow building open-source tools to make quantum computing more accessible."
+msgstr ""
+
+msgctxt "title"
+msgid "Mathys Rennela"
+msgstr ""
+
+msgctxt "role"
+msgid "Quantum software researcher"
+msgstr ""
+
+msgctxt "bio"
+msgid ""
+"I am Mathys Rennela, a quantum software researcher based in Paris, working on designing the foundational layer of quantum software, to ensure that the wonders of quantum computing are accessible to "
+"everyone. I am focusing on quantum error correction (QEC), quantum computing's biggest bottleneck, where I identify critical gaps in software tooling."
+msgstr ""
+
+msgctxt "bio"
+msgid ""
+"Verifying good QEC software is hard: most key properties are computationally intractable, it quickly gets hard to visualize, and the common methods to test produce flaky behaviors. This is a hard "
+"barrier for access to quantum computing, and a key reason why quantum software is so gate-kept. I want to foster a community that makes such tooling standard practice."
+msgstr ""
+
+msgctxt "bio"
+msgid ""
+"The core of my program as a Mozilla fellow is <a id=\"a1\">emlint, the first static linter for quantum error correction</a>. It catches structural bugs in milliseconds that would otherwise take long"
+" and computationally expensive Monte Carlo simulations. Beyond the tool, I am building in the open: clear docs, demos, meetups, mentorship, and hackathons, aiming for emlint to become as essential "
+"to QEC as Clippy is to Rust. A preliminary version is already on GitHub: Try it, wire it into your CI, and send me your feedback."
+msgstr ""
+
+msgctxt "bio"
+msgid "Articles and publications are <a id=\"a1\">available on Google Scholar</a>."
+msgstr ""
+
+msgctxt "bio"
+msgid "Social media"
+msgstr ""
+
+msgctxt "bio"
+msgid "<a id=\"a1\">GitHub</a>"
+msgstr ""
+
+msgctxt "affiliation"
+msgid "Unitary Foundation"
+msgstr ""
+
+msgctxt "blurb"
+msgid "Mathys is a Mozilla Fellow building open-source tools to make quantum computing more accessible."
+msgstr ""
+
+msgctxt "quote"
+msgid "By dint of sacrificing the essential for the urgent, we end up forgetting the urgency of the essential."
+msgstr ""
+
+msgctxt "quote_attribution"
+msgid "Edgar Morin"
+msgstr ""
