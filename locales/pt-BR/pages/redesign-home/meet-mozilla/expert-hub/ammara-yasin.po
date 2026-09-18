@@ -50,14 +50,6 @@ msgstr ""
 "Ela é mestre em ciência, tecnologia e sociedade pela UCL, onde se formou com distinção e recebeu o prêmio de Melhor Dissertação, e bacharel em ciência da computação pela Lancaster University, onde "
 "obteve honras de primeira classe."
 
-msgctxt "bio"
-msgid "Social media"
-msgstr "Mídias sociais"
-
-msgctxt "bio"
-msgid "<a id=\"a1\">LinkedIn</a>"
-msgstr "<a id=\"a1\">LinkedIn</a>"
-
 msgctxt "affiliation"
 msgid "University College London"
 msgstr "University College London"
@@ -77,3 +69,11 @@ msgstr ""
 msgctxt "quote_attribution"
 msgid "Unnamed former guerrilla fighter in Colombia, interviewed by Dr. Débora de Castro Leal"
 msgstr "Ex-guerrilheiro não identificado na Colômbia, entrevistado pela Dra. Débora de Castro Leal"
+
+#~ msgctxt "bio"
+#~ msgid "Social media"
+#~ msgstr "Mídias sociais"
+
+#~ msgctxt "bio"
+#~ msgid "<a id=\"a1\">LinkedIn</a>"
+#~ msgstr "<a id=\"a1\">LinkedIn</a>"

@@ -50,14 +50,6 @@ msgstr ""
 "Tiene una maestría en Ciencia, Tecnología y Sociedad por la UCL —donde se graduó con honores y recibió el premio a la mejor tesis— y una licenciatura en Ciencias de la Computación de la Universidad "
 "de Lancaster, donde obtuvo la máxima calificación académica."
 
-msgctxt "bio"
-msgid "Social media"
-msgstr "Redes sociales"
-
-msgctxt "bio"
-msgid "<a id=\"a1\">LinkedIn</a>"
-msgstr "<a id=\"a1\">LinkedIn</a>"
-
 msgctxt "affiliation"
 msgid "University College London"
 msgstr "University College London"
@@ -77,3 +69,11 @@ msgstr ""
 msgctxt "quote_attribution"
 msgid "Unnamed former guerrilla fighter in Colombia, interviewed by Dr. Débora de Castro Leal"
 msgstr "Excombatiente guerrillero anónimo en Colombia, entrevistado por la Dra. Débora de Castro Leal"
+
+#~ msgctxt "bio"
+#~ msgid "Social media"
+#~ msgstr "Redes sociales"
+
+#~ msgctxt "bio"
+#~ msgid "<a id=\"a1\">LinkedIn</a>"
+#~ msgstr "<a id=\"a1\">LinkedIn</a>"
