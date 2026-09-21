@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: efa599b5-6ed8-4446-b424-6b0ee87259fa\n"
 
 msgctxt "seo_title"
 msgid "Arghya Bhattacharya, Mozilla Fellow"
@@ -150,28 +149,12 @@ msgstr "Paul Graham"
 
 msgctxt "body.1149a976-a4f8-42ed-9d65-9629e3dc0541.heading"
 msgid "Featured Talks"
-msgstr ""
+msgstr "Wyróżnione prelekcje"
 
 msgctxt "body.1149a976-a4f8-42ed-9d65-9629e3dc0541.rows.3a4131cf-f2d9-41fc-a821-e8a08c27c01f.title"
 msgid "UN AI for Good: Law Track Conference"
-msgstr ""
+msgstr "UN AI for Good: konferencja Law Track"
 
 msgctxt "body.1149a976-a4f8-42ed-9d65-9629e3dc0541.rows.33b13416-c0ad-4fb7-9556-bb01fa68eb8c.title"
 msgid "Adalat AI at Stanford CodeX"
-msgstr ""
-
-#~ msgctxt "bio"
-#~ msgid "Featured talks"
-#~ msgstr "Wyróżnione prelekcje"
-
-#~ msgctxt "bio"
-#~ msgid "<a id=\"a1\">UN AI for Good: Law Track Conference</a>"
-#~ msgstr "<a id=\"a1\">UN AI for Good: konferencja Law Track</a>"
-
-#~ msgctxt "bio"
-#~ msgid "<a id=\"a1\">Adalat AI at Stanford CodeX</a>"
-#~ msgstr "<a id=\"a1\">Adalat AI w Stanford CodeX</a>"
-
-#~ msgctxt "bio"
-#~ msgid "<a id=\"a1\">LinkedIn</a>"
-#~ msgstr "<a id=\"a1\">LinkedIn</a>"
+msgstr "Adalat AI w Stanford CodeX"
