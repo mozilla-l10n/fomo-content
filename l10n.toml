@@ -645,11 +645,6 @@ l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/47-2024-eoy-banner-
 locales = [ "de", "es", "fr", "nl", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/anti-surveillance-fashion-privacy-ai.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/anti-surveillance-fashion-privacy-ai.po"
-locales = [ "de", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.po"
 locales = [ "de", "es", "fr", "pt-BR",]
@@ -683,6 +678,11 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 reference = "templates/snippets/wagtailpages.DonationModal/116-trustworthy-ai-sign-on-2023-11.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/116-trustworthy-ai-sign-on-2023-11.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/nothing-personal/anti-surveillance-fashion-privacy-ai.pot"
+l10n = "locales/{locale}/pages/redesign-home/nothing-personal/anti-surveillance-fashion-privacy-ai.po"
+locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/50-2024-eoy-banner-headline-test-winner.pot"
