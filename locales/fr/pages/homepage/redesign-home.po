@@ -144,8 +144,8 @@ msgid "Be with community"
 msgstr "Rejoignez une communauté"
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.978f1d75-ad81-4dd2-b7e8-4fe97f24c584.title"
-msgid "Mozilla Festival 2026: Get your early bird badges"
-msgstr "Mozilla Festival 2026 : obtenez vos pass Early Bird"
+msgid "Mozilla Festival 2026: Get your badges now!"
+msgstr ""
 
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.978f1d75-ad81-4dd2-b7e8-4fe97f24c584.link.label"
 msgid "Join us: October 28th-30th in Barcelona"
@@ -178,22 +178,6 @@ msgstr "Nothing Personal : un magazine alternatif qui s’adresse aux esprits i
 msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.e32dad6b-cb7a-4140-bce3-fe7a660dd7f7.link.label"
 msgid "Read from the front lines of digital culture"
 msgstr "Découvrez les témoignages de celles et ceux qui vivent la culture numérique au premier plan"
-
-msgctxt "body.cada7f3f-5720-4177-ab83-68f5a8fb79e6.cards.b1652342-b1ea-4aa2-a82b-1a93a5507805.category"
-msgid "Creative Futures"
-msgstr "Creative Futures"
-
-msgctxt "body.cada7f3f-5720-4177-ab83-68f5a8fb79e6.cards.b1652342-b1ea-4aa2-a82b-1a93a5507805.title"
-msgid "Imagine Intel zine examines how artists and creative workers are approaching creative purpose at the Dawn of AI"
-msgstr "Le fanzine Imagine Intel examine la façon dont les artistes et les professionnels de la création abordent la finalité créative à l’aube de l’IA"
-
-msgctxt "body.cada7f3f-5720-4177-ab83-68f5a8fb79e6.cards.b1652342-b1ea-4aa2-a82b-1a93a5507805.image.alt_text"
-msgid "Imagine Intel zine - Front Cover Art - Creative Futures"
-msgstr "Fanzine Imagine Intel - Illustration de couverture - Creative Futures"
-
-msgctxt "body.cada7f3f-5720-4177-ab83-68f5a8fb79e6.cards.b1652342-b1ea-4aa2-a82b-1a93a5507805.link.label"
-msgid "Check out the digital zine"
-msgstr "Découvrez le fanzine en version numérique"
 
 msgctxt "body.8f2d4255-a778-41c7-9acb-f339b77635b3.title"
 msgid "Community Spotlight"
@@ -317,6 +301,10 @@ msgstr "?form=donate-feature"
 #~ "Merci de faire partie de cette communauté, que ce soit en donnant, en signant, en partageant, en développant des alternatives ou simplement en croyant en ce que nous faisons. Ensemble, terminons "
 #~ "2025 avec détermination et abordons 2026 prêts à imaginer et à construire l’avenir technologique que nous méritons toutes et tous."
 
+#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.978f1d75-ad81-4dd2-b7e8-4fe97f24c584.category"
+#~ msgid "Creative Futures"
+#~ msgstr "Creative Futures"
+
 #~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.978f1d75-ad81-4dd2-b7e8-4fe97f24c584.link.label"
 #~ msgid "Apply now"
 #~ msgstr "Postulez maintenant"
@@ -332,6 +320,22 @@ msgstr "?form=donate-feature"
 #~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.978f1d75-ad81-4dd2-b7e8-4fe97f24c584.image.alt_text"
 #~ msgid "A counterstructure prototyle for public exhibition. "
 #~ msgstr "Un prototype de contre-structure destiné à être présenté au public."
+
+#~ msgctxt "body.cada7f3f-5720-4177-ab83-68f5a8fb79e6.cards.b1652342-b1ea-4aa2-a82b-1a93a5507805.category"
+#~ msgid "Creative Futures"
+#~ msgstr "Creative Futures"
+
+#~ msgctxt "body.cada7f3f-5720-4177-ab83-68f5a8fb79e6.cards.b1652342-b1ea-4aa2-a82b-1a93a5507805.link.label"
+#~ msgid "Check out the digital zine"
+#~ msgstr "Découvrez le fanzine en version numérique"
+
+#~ msgctxt "body.cada7f3f-5720-4177-ab83-68f5a8fb79e6.cards.b1652342-b1ea-4aa2-a82b-1a93a5507805.title"
+#~ msgid "Imagine Intel zine examines how artists and creative workers are approaching creative purpose at the Dawn of AI"
+#~ msgstr "Le fanzine Imagine Intel examine la façon dont les artistes et les professionnels de la création abordent la finalité créative à l’aube de l’IA"
+
+#~ msgctxt "body.cada7f3f-5720-4177-ab83-68f5a8fb79e6.cards.b1652342-b1ea-4aa2-a82b-1a93a5507805.image.alt_text"
+#~ msgid "Imagine Intel zine - Front Cover Art - Creative Futures"
+#~ msgstr "Fanzine Imagine Intel - Illustration de couverture - Creative Futures"
 
 #~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.978f1d75-ad81-4dd2-b7e8-4fe97f24c584.category"
 #~ msgid "Incubator"
@@ -350,6 +354,10 @@ msgstr "?form=donate-feature"
 #~ msgstr ""
 #~ "Notre avenir technologique n’est pas une fatalité, mais plutôt une question de choix de conception. Ensemble, nous avons la possibilité de choisir une autre voie. Rejoignez-nous au Mozilla Festival "
 #~ "pour élaborer un avenir technologique, animé par des individus et conçu pour être ouvert."
+
+#~ msgctxt "body.96db549c-9e1e-4775-beee-7352fba3ed29.cards.978f1d75-ad81-4dd2-b7e8-4fe97f24c584.title"
+#~ msgid "Mozilla Festival 2026: Get your early bird badges"
+#~ msgstr "Mozilla Festival 2026 : obtenez vos pass Early Bird"
 
 #~ msgctxt "slug"
 #~ msgid "redesign-home"
