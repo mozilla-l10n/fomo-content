@@ -1,30 +1,31 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2026-10-01 08:22:23.353098+00:00\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 18b25882-baae-4c4a-bbfd-ef249de0328b\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "seo_title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Sposoby wsparcia"
 
 msgctxt "search_description"
 msgid "Donate to Mozilla. Credit, Debit and PayPal · Mail a Check · Wire Transfer · Stock · Employer Matching · QCD · DAF · Will Bequests"
-msgstr ""
+msgstr "Przekaż darowiznę na rzecz Mozilli. Kredyty, debety i PayPal · Wyślij czek · Przelew bankowy · Zapasy · Dopasowanie pracodawcy · QCD · DAF · Zapisy testamentowe"
 
 msgctxt "title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Sposoby wsparcia"
 
 msgctxt "hero_title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Sposoby wsparcia"
 
 msgctxt "hero_description"
 msgid "For 25 years, we’ve been working to keep the internet from being exploited by bad actors."
-msgstr ""
+msgstr "Od 25 lat pilnujemy, aby żadne podmioty nie wykorzystywały internetu w nieodpowiedni i szkodliwy sposób."
 
 msgctxt "hero_image_alt_text"
 msgid "Group of four people looking over a laptop"
@@ -32,11 +33,11 @@ msgstr ""
 
 msgctxt "hero_cta_link.10a125d3-3dd5-41d6-b852-57d3c24ad850.label"
 msgid "Donate Now"
-msgstr ""
+msgstr "Wpłać datek teraz"
 
 msgctxt "hero_cta_link.10a125d3-3dd5-41d6-b852-57d3c24ad850.relative_url"
 msgid "/donate/ways-to-give/?form=wtg&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG&amp;utm_content=wtg-button1"
-msgstr ""
+msgstr "/donate/ways-to-give/?form=wtg&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG&amp;utm_content=wtg-button1"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.30826825-8930-4c13-86c9-7f28c11fb3fb.image.alt_text"
 msgid "One TIme Donation Icon"
@@ -44,15 +45,15 @@ msgstr ""
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.30826825-8930-4c13-86c9-7f28c11fb3fb.caption"
 msgid "Donate Online"
-msgstr ""
+msgstr "Wpłać datek online"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.30826825-8930-4c13-86c9-7f28c11fb3fb.link.6b5a17c8-90a8-4a02-a48a-ad41b2f67d05.label"
 msgid "Donate Online"
-msgstr ""
+msgstr "Wpłać datek online"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.30826825-8930-4c13-86c9-7f28c11fb3fb.link.6b5a17c8-90a8-4a02-a48a-ad41b2f67d05.relative_url"
 msgid "/donate/ways-to-give#donate-online"
-msgstr ""
+msgstr "/donate/ways-to-give#donate-online"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.73365d8d-3b1f-45ea-8d1b-289029c3dd56.image.alt_text"
 msgid "Postal Donation Icon"
@@ -68,7 +69,7 @@ msgstr ""
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.73365d8d-3b1f-45ea-8d1b-289029c3dd56.link.76f6e512-4319-4e0f-a227-4a64793ec39f.relative_url"
 msgid "/donate/ways-to-give#postal-donation"
-msgstr ""
+msgstr "/donate/ways-to-give#postal-donation"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.ca0de274-e627-4070-adc4-f05d5074e0ff.image.alt_text"
 msgid "Wire Transfer Icon"
@@ -84,7 +85,7 @@ msgstr ""
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.ca0de274-e627-4070-adc4-f05d5074e0ff.link.81457ce8-4fc3-49b5-98df-a14692836339.relative_url"
 msgid "/donate/ways-to-give#wire-transfer"
-msgstr ""
+msgstr "/donate/ways-to-give#wire-transfer"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.398c3720-49c0-41cb-8d9f-1fb72fa55e0a.image.alt_text"
 msgid "Stocks &amp; Securities Icon"
@@ -100,7 +101,7 @@ msgstr ""
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.398c3720-49c0-41cb-8d9f-1fb72fa55e0a.link.972abb79-1637-4ff0-ab19-ba59e4b0fac2.relative_url"
 msgid "/donate/ways-to-give#stocks-securities"
-msgstr ""
+msgstr "/donate/ways-to-give#stocks-securities"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c1105067-e8d6-4827-b3c1-837aaac9ed29.image.alt_text"
 msgid "Employer Matching Icon"
@@ -108,15 +109,15 @@ msgstr ""
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c1105067-e8d6-4827-b3c1-837aaac9ed29.caption"
 msgid "Employer Matching"
-msgstr ""
+msgstr "Programy dopłat pracodawcy"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c1105067-e8d6-4827-b3c1-837aaac9ed29.link.85b11597-9486-4a0e-af73-7b0c6faad1fe.label"
 msgid "Employer Matching"
-msgstr ""
+msgstr "Programy dopłat pracodawcy"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c1105067-e8d6-4827-b3c1-837aaac9ed29.link.85b11597-9486-4a0e-af73-7b0c6faad1fe.relative_url"
 msgid "/donate/ways-to-give#employer-matching"
-msgstr ""
+msgstr "/donate/ways-to-give#employer-matching"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c37605ad-2c2c-4de3-b378-6fbf20a351f6.image.alt_text"
 msgid "Donor Advised Funds Icon"
@@ -124,15 +125,15 @@ msgstr ""
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c37605ad-2c2c-4de3-b378-6fbf20a351f6.caption"
 msgid "Donor Advised Funds"
-msgstr ""
+msgstr "Fundusze filantropijne"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c37605ad-2c2c-4de3-b378-6fbf20a351f6.link.9ec907f0-976a-4d6a-95c5-bb1e8322c6b8.label"
 msgid "Donor Advised Funds"
-msgstr ""
+msgstr "Fundusze filantropijne"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c37605ad-2c2c-4de3-b378-6fbf20a351f6.link.9ec907f0-976a-4d6a-95c5-bb1e8322c6b8.relative_url"
 msgid "/donate/ways-to-give#donor-advised-funds"
-msgstr ""
+msgstr "/donate/ways-to-give#donor-advised-funds"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.51d604b6-a41a-4936-8a66-ee0eb4bff32a.image.alt_text"
 msgid "Qualifiable Charitable Distribution Icon"
@@ -148,57 +149,60 @@ msgstr ""
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.51d604b6-a41a-4936-8a66-ee0eb4bff32a.link.94c7ef4f-b6e6-4476-8b86-09f7decf6f7e.relative_url"
 msgid "/donate/ways-to-give#qualified-charitable-distribution"
-msgstr ""
+msgstr "/donate/ways-to-give#qualified-charitable-distribution"
 
 msgctxt "body.0df0820e-1bdf-4686-80ae-e0d1ecb340f7.title"
 msgid "Donate Online"
-msgstr ""
+msgstr "Wpłać datek online"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid ""
 "You can <a id=\"a1\">donate one-time or on a recurring monthly basis</a>. Both are incredibly appreciated and crucial to our mission of keeping the web open and free. Monthly donations provide "
 "sustainable funding which helps us most effectively plan our long-term projects to transform the future of technology."
 msgstr ""
+"Możesz <a id=\"a1\">przekazać datek jednorazowy lub wpłacać datki cyklicznie co miesiąc</a>. Obie opcje są dla nas niesamowicie ważne i bardzo pomagają nam realizować naszą misję, czyli dbanie, aby "
+"internet był otwarty i wolny. Darowizny comiesięczne zapewniają nam stały dopływ środków, dzięki którym możemy w sposób najbardziej skuteczny planować projekty długoterminowe, które zmienią "
+"przyszłość technologii."
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "Make your donation online by:"
-msgstr ""
+msgstr "Wpłać datek online, korzystając z następujących opcji:"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "<a id=\"a1\">Credit card</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Karta kredytowa</a>"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "<a id=\"a1\">PayPal</a>"
-msgstr ""
+msgstr "<a id=\"a1\">PayPal</a>"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "<a id=\"a1\">Google Pay</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Google Pay</a>"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "<a id=\"a1\">ApplePay</a>"
-msgstr ""
+msgstr "<a id=\"a1\">ApplePay</a>"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "<a id=\"a1\">SEPA direct debit</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Przelew SEPA</a>"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "<a id=\"a1\">iDEAL</a>"
-msgstr ""
+msgstr "<a id=\"a1\">iDEAL</a>"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "<a id=\"a1\">Venmo</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Venmo</a>"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "<a id=\"a1\">ACH Bank Transfer</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Przelew bankowy ACH</a>"
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
 msgid "Some payment methods will only be available according to your currency or browser settings."
-msgstr ""
+msgstr "Dostępność niektórych metod płatności zależy od waluty lub ustawień przeglądarki."
 
 msgctxt "body.318de2c6-bc3d-42b6-8b42-1935da71ad1f.title"
 msgid "Postal Donation"
@@ -206,33 +210,34 @@ msgstr ""
 
 msgctxt "body.36b2e637-d4c4-4c79-bea5-29a1a90a30b9"
 msgid "The Mozilla Foundation can only accept checks in U.S. dollars drawn on a U.S. bank. Make checks out to Mozilla Foundation."
-msgstr ""
+msgstr "Fundacja Mozilla przyjmuje czeki jedynie w dolarach amerykańskich, które można zrealizować w banku w Stanach Zjednoczonych. Czek należy wystawić na Fundację Mozilla."
 
 msgctxt "body.36b2e637-d4c4-4c79-bea5-29a1a90a30b9"
 msgid "Remittances sent via first class mail should be addressed as follows:"
-msgstr ""
+msgstr "Przelewy wysyłane pocztą pierwszej klasy powinny być adresowane w następujący sposób:"
 
 msgctxt "body.36b2e637-d4c4-4c79-bea5-29a1a90a30b9"
 msgid "<i>Mozilla Foundation</i><br/><i>PO Box 25704</i><br/><i>Pasadena CA 91185-5704</i>"
-msgstr ""
+msgstr "<i>Mozilla Foundation</i><br/><i>PO Box 25704</i><br/><i>Pasadena CA 91185-5704</i>"
 
 msgctxt "body.36b2e637-d4c4-4c79-bea5-29a1a90a30b9"
 msgid "Remittances sent via overnight delivery (i.e. FedEx, Messenger, etc.) should be addressed as follows:"
-msgstr ""
+msgstr "Przelewy wysyłane za pośrednictwem dostawy nocnej (np. FedEx, Messenger itp.) powinny być adresowane w następujący sposób:"
 
 msgctxt "body.36b2e637-d4c4-4c79-bea5-29a1a90a30b9"
 msgid "<i>Mozilla Foundation</i><br/><i>25704</i><br/><i>605 E Huntington Dr.</i><br/><i>Monrovia, CA 91016</i>"
-msgstr ""
+msgstr "<i>Mozilla Foundation</i><br/><i>25704</i><br/><i>605 E Huntington Dr.</i><br/><i>Monrovia, CA 91016</i>"
 
 msgctxt "body.36b2e637-d4c4-4c79-bea5-29a1a90a30b9"
 msgid "Please include your email address on the memo line so we can provide a donation receipt."
-msgstr ""
+msgstr "Podaj swój adres w polu uwag, aby umożliwić nam wystawienie potwierdzenia wpłaty datku."
 
 msgctxt "body.36b2e637-d4c4-4c79-bea5-29a1a90a30b9"
 msgid ""
 "<i>Please also note that the Mozilla Foundation cannot accept contributions for Thunderbird. (Contributions to Thunderbird via check can be made by following</i> <a id=\"a1\"><i>these "
 "instructions</i></a><i>.)</i>"
 msgstr ""
+"<i>Uwaga: Fundacja Mozilla nie przyjmuje datków na rzecz Thunderbirda. (Darowizny na rzecz Thunderbirda w formie czeku można przekazywać zgodnie z </i> <a id=\"a1\"><i>tą instrukcją</i></a><i>).</i>"
 
 msgctxt "body.36168741-d555-4a7b-81a7-379ae1964ce8.title"
 msgid "Wire Transfer"
@@ -240,11 +245,11 @@ msgstr ""
 
 msgctxt "body.551983d5-2507-425f-895c-91a641f70a6f"
 msgid "We gladly accept wire transfers from donors who wish to donate offline. Please <a id=\"a1\">reach out to us</a> if you would like to make your gift by wire transfer."
-msgstr ""
+msgstr "Chętnie przyjmujemy przelewy bankowe od darczyńców, którzy chcą wpłacić datek offline. <a id=\"a1\">Skontaktuj się z nami</a>, jeśli chcesz przekazać darowiznę przelewem bankowym."
 
 msgctxt "body.551983d5-2507-425f-895c-91a641f70a6f"
 msgid "Please provide information on the gift amount, currency and country of the forwarding bank so that our Donor Care Team can provide you with the most accurate instructions."
-msgstr ""
+msgstr "Podaj kwotę darowizny, walutę oraz kraj banku przyjmującego zlecenie przelewu, aby otrzymać odpowiednie instrukcje od naszego zespołu ds. obsługi darczyńców."
 
 msgctxt "body.743d874f-8e76-4381-af01-2ff9d302dbf0.title"
 msgid "Stocks &amp; Securities"
@@ -255,44 +260,51 @@ msgid ""
 "The Mozilla Foundation is happy to accept your gift of publicly-traded stocks or bonds through our brokerage account at Northern Trust Securities. We may also consider gifts of other securities, so "
 "please reach out to us!"
 msgstr ""
+"Fundacja Mozilla przyjmuje darowizny w formie akcji i obligacji znajdujących się w obrocie publicznym za pośrednictwem naszego konta maklerskiego prowadzonego w Northern Trust Securities. Możemy "
+"również rozważyć przyjęcie darowizn w formie innych papierów wartościowych — skontaktuj się z nami!"
 
 msgctxt "body.220889aa-cbe5-4dc2-89f0-1e5a263716d7"
 msgid "You can contact us via <a id=\"a1\">this form</a> to initiate the process."
-msgstr ""
+msgstr "Możesz skontaktować się z nami za pośrednictwem <a id=\"a1\">tego formularza</a>, aby rozpocząć procedurę."
 
 msgctxt "body.5866fb22-d71e-49c2-995c-e598775d8203.title"
 msgid "Employer Matching"
-msgstr ""
+msgstr "Programy dopłat pracodawcy"
 
 msgctxt "body.562535c6-ffb6-47c6-b52c-712f450024f4"
 msgid ""
 "The Mozilla Foundation is registered with most major matching gift portal systems and would be happy to work with you to get your donation matched by your employer. Employers set their own policies "
 "for matching gifts; please confirm the details of your employer’s matching gift program with your employer. If you have any questions or need assistance, contact us via <a id=\"a1\">this form</a>."
 msgstr ""
+"Fundacja Mozilla jest zarejestrowana w większości głównych systemów pracowniczych do obsługi darowizn i chętnie przyjmuje datki w ramach programów dopłat pracodawcy. Firmy samodzielnie określają "
+"zasady dopłat do darowizn, dlatego szczegółowe informacje dotyczące programu uzyskasz u swojego pracodawcy. Jeśli masz jakieś pytania lub potrzebujesz pomocy, skontaktuj się z nami za pośrednictwem"
+"  <a id=\"a1\">tego formularza</a>."
 
 msgctxt "body.3c291a54-1a5b-4809-9162-4f487ab150d3.title"
 msgid "Donor Advised Funds"
-msgstr ""
+msgstr "Fundusze filantropijne"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "Donor Advised Funds are a simple and flexible way to support the causes you care about most, while also providing advantageous tax benefits. Our donors typically use:"
 msgstr ""
+"Fundusze filantropijne to prosty i elastyczny sposób, w jaki możesz wesprzeć ważną dla siebie inicjatywę, a jednocześnie odnieść korzyści podatkowe. Nasi darczyńcy zwykle korzystają z następujących "
+"funduszy:"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "<a id=\"a1\">DAF Direct</a> (Fidelity Charitable, Schwab Charitable)"
-msgstr ""
+msgstr "<a id=\"a1\">DAF Direct</a> (Fidelity Charitable, Schwab Charitable)"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "<a id=\"a1\">Vanguard Charitable</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Vanguard Charitable</a>"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "<a id=\"a1\">Renaissance Charitable</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Renaissance Charitable</a>"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "Please <a id=\"a1\">reach out to us</a> if you have any questions about making a contribution through your Donor Advised Fund."
-msgstr ""
+msgstr "<a id=\"a1\">Skontaktuj się z nami</a>, jeśli masz jakiekolwiek pytania dotyczące przekazania darowizny za pośrednictwem funduszu filantropijnego."
 
 msgctxt "body.435c3233-4471-487e-8ecf-a898675d2866.title"
 msgid "Qualified Charitable Distribution"
