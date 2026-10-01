@@ -1,26 +1,27 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2026-10-01 08:22:20.913139+00:00\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 0342a3d5-2cac-443c-815e-11245e87779b\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "seo_title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Donatiemethoden"
 
 msgctxt "search_description"
 msgid "Donate to Mozilla. Credit, Debit and PayPal · Mail a Check · Wire Transfer · Stock · Employer Matching · QCD · DAF · Will Bequests"
-msgstr ""
+msgstr "Doneren aan Mozilla. Creditcard, bankpas en PayPal · Een cheque versturen · Overschrijving · Voorraad · Werkgeversmatching · QCD · DAF · Nalatenschappen"
 
 msgctxt "title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Donatiemethoden"
 
 msgctxt "hero_title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Donatiemethoden"
 
 msgctxt "hero_description"
 msgid "For 25 years, we’ve been working to keep the internet from being exploited by bad actors."
@@ -28,15 +29,15 @@ msgstr ""
 
 msgctxt "hero_image_alt_text"
 msgid "Group of four people looking over a laptop"
-msgstr ""
+msgstr "Groep van vier personen die naar een laptop kijken"
 
 msgctxt "hero_cta_link.10a125d3-3dd5-41d6-b852-57d3c24ad850.label"
 msgid "Donate Now"
-msgstr ""
+msgstr "Nu doneren"
 
 msgctxt "hero_cta_link.10a125d3-3dd5-41d6-b852-57d3c24ad850.relative_url"
 msgid "/donate/ways-to-give/?form=wtg&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG&amp;utm_content=wtg-button1"
-msgstr ""
+msgstr "/donate/ways-to-give/?form=wtg&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG&amp;utm_content=wtg-button1"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.30826825-8930-4c13-86c9-7f28c11fb3fb.image.alt_text"
 msgid "One TIme Donation Icon"
@@ -44,15 +45,15 @@ msgstr ""
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.30826825-8930-4c13-86c9-7f28c11fb3fb.caption"
 msgid "Donate Online"
-msgstr ""
+msgstr "Online doneren"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.30826825-8930-4c13-86c9-7f28c11fb3fb.link.6b5a17c8-90a8-4a02-a48a-ad41b2f67d05.label"
 msgid "Donate Online"
-msgstr ""
+msgstr "Online doneren"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.30826825-8930-4c13-86c9-7f28c11fb3fb.link.6b5a17c8-90a8-4a02-a48a-ad41b2f67d05.relative_url"
 msgid "/donate/ways-to-give#donate-online"
-msgstr ""
+msgstr "/donate/ways-to-give#donate-online"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.73365d8d-3b1f-45ea-8d1b-289029c3dd56.image.alt_text"
 msgid "Postal Donation Icon"
@@ -68,7 +69,7 @@ msgstr ""
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.73365d8d-3b1f-45ea-8d1b-289029c3dd56.link.76f6e512-4319-4e0f-a227-4a64793ec39f.relative_url"
 msgid "/donate/ways-to-give#postal-donation"
-msgstr ""
+msgstr "/donate/ways-to-give#postal-donation"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.ca0de274-e627-4070-adc4-f05d5074e0ff.image.alt_text"
 msgid "Wire Transfer Icon"
