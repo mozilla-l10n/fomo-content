@@ -1,8 +1,23 @@
 locales = [ "ca", "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 [[paths]]
+reference = "templates/pages/redesign-home/festival/faq.pot"
+l10n = "locales/{locale}/pages/redesign-home/festival/faq.po"
+locales = [ "ca", "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/redesign-home/festival/tracks.pot"
 l10n = "locales/{locale}/pages/redesign-home/festival/tracks.po"
 locales = [ "ca", "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/footer.SiteFooter/1-default-english-footer.pot"
+l10n = "locales/{locale}/snippets/footer.SiteFooter/1-default-english-footer.po"
+locales = [ "ca", "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/festival/newsletter.pot"
+l10n = "locales/{locale}/pages/redesign-home/festival/newsletter.po"
+locales = [ "ca", "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/snippets.NewsletterSignup/34-main-newsletter-expanded-for-festival.pot"
@@ -15,6 +30,11 @@ l10n = "locales/{locale}/pages/redesign-home/festival/tracks/developers-wilding.
 locales = [ "ca", "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/redesign-home/festival.pot"
+l10n = "locales/{locale}/pages/redesign-home/festival.po"
+locales = [ "ca", "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
 reference = "templates/snippets/navigation.HorizontalLinkBlock/1-mozilla-festival-navigation-en.pot"
 l10n = "locales/{locale}/snippets/navigation.HorizontalLinkBlock/1-mozilla-festival-navigation-en.po"
 locales = [ "ca", "de", "es", "fr", "pl", "pt-BR",]
@@ -25,29 +45,49 @@ l10n = "locales/{locale}/pages/redesign-home/festival/volunteer.po"
 locales = [ "ca", "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/festival/faq.pot"
-l10n = "locales/{locale}/pages/redesign-home/festival/faq.po"
-locales = [ "ca", "de", "es", "fr",]
+reference = "templates/pages/redesign-home/nothing-personal/superficial-intelligence-employee-tracking-training-ai.pot"
+l10n = "locales/{locale}/pages/redesign-home/nothing-personal/superficial-intelligence-employee-tracking-training-ai.po"
+locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/festival/newsletter.pot"
-l10n = "locales/{locale}/pages/redesign-home/festival/newsletter.po"
-locales = [ "ca", "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/pages/homepage/campaigns/eu-misinformation/publisher-campaign.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/publisher-campaign.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/snippets/footer.SiteFooter/1-default-english-footer.pot"
-l10n = "locales/{locale}/snippets/footer.SiteFooter/1-default-english-footer.po"
-locales = [ "ca", "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+reference = "templates/pages/redesign-home/nothing-personal/superficial-intelligence-should-i-share-kids-photos-instagram-facebook.pot"
+l10n = "locales/{locale}/pages/redesign-home/nothing-personal/superficial-intelligence-should-i-share-kids-photos-instagram-facebook.po"
+locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/festival.pot"
-l10n = "locales/{locale}/pages/redesign-home/festival.po"
-locales = [ "ca", "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/pages/homepage/privacynotincluded/apple-watch-6.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/apple-watch-6.po"
+locales = [ "de", "es", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/marcelle-chagas-do-monte.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/marcelle-chagas-do-monte.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/pages/redesign-home/nothing-personal/oura-ring-privacy-review.pot"
+l10n = "locales/{locale}/pages/redesign-home/nothing-personal/oura-ring-privacy-review.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/privacy-thats-iphone-but-is-it.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/privacy-thats-iphone-but-is-it.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/snippets.DonateBanner/124-26my-banner-2-winner.pot"
+l10n = "locales/{locale}/snippets/snippets.DonateBanner/124-26my-banner-2-winner.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/new-technologies-like-ar-vr-and-ai-help-emerging-artists-in-africa-tell-original-stories.pot"
+l10n = "locales/{locale}/pages/homepage/blog/new-technologies-like-ar-vr-and-ai-help-emerging-artists-in-africa-tell-original-stories.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded/articles/what-does-giving-your-consent-really-mean.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/what-does-giving-your-consent-really-mean.po"
+locales = [ "de", "es", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/dating-apps-racist-tinder-hinge.pot"
@@ -65,6 +105,11 @@ l10n = "locales/{locale}/pages/homepage/campaigns/tell-amazon-connected-devices-
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/nada-kabbary-mousa.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/nada-kabbary-mousa.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/mozilla-research-watermarking-content-labeling-struggle-to-effectively-distinguish-ai-generated-content.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozilla-research-watermarking-content-labeling-struggle-to-effectively-distinguish-ai-generated-content.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
@@ -75,13 +120,18 @@ l10n = "locales/{locale}/pages/mozilla-festival/2025-highlights/why-satire-is-im
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/nada-kabbary-mousa.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/nada-kabbary-mousa.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/snippets/wagtailpages.Petition/24-apple-rotate-tracking-ids-on-iphone-each-month.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/24-apple-rotate-tracking-ids-on-iphone-each-month.po"
+locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/superficial-intelligence-employee-tracking-training-ai.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/superficial-intelligence-employee-tracking-training-ai.po"
+reference = "templates/snippets/donate_banner.DonateBanner/6-b2.pot"
+l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/6-b2.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/donate_banner.DonateBanner/7-b3.pot"
+l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/7-b3.po"
 locales = [ "de", "fr",]
 
 [[paths]]
@@ -105,6 +155,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/122-amazon-holiday-
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/homepage/campaigns/tell-us-what-you-think-big-tech-and-the-bundestag-election.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tell-us-what-you-think-big-tech-and-the-bundestag-election.po"
+locales = [ "de",]
+
+[[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/1-giving-tuesday.pot"
 l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/1-giving-tuesday.po"
 locales = [ "de", "es", "fr", "pt-BR",]
@@ -113,16 +168,6 @@ locales = [ "de", "es", "fr", "pt-BR",]
 reference = "templates/pages/homepage/campaigns/amazon-holiday-2023.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/amazon-holiday-2023.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/toys-with-camera-microphone-for-kids-security-privacy-setup.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/toys-with-camera-microphone-for-kids-security-privacy-setup.po"
-locales = [ "de", "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/tell-us-what-you-think-big-tech-and-the-bundestag-election.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tell-us-what-you-think-big-tech-and-the-bundestag-election.po"
-locales = [ "de",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/google-chromecast-with-google-tv.pot"
@@ -590,23 +635,13 @@ l10n = "locales/{locale}/pages/redesign-home/nothing-personal/the-real-drama-beh
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/meet-mozilla/expert-hub/delphine-nyaboke.pot"
-l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/delphine-nyaboke.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/redesign-home/nothing-personal/christopher-nolan-prefers-70mm-film-technology.pot"
 l10n = "locales/{locale}/pages/redesign-home/nothing-personal/christopher-nolan-prefers-70mm-film-technology.po"
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.pot"
-l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/mozilla-explains-what-does-ai-know-about-me.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozilla-explains-what-does-ai-know-about-me.po"
+reference = "templates/pages/redesign-home/meet-mozilla/expert-hub/delphine-nyaboke.pot"
+l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/delphine-nyaboke.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
@@ -615,9 +650,9 @@ l10n = "locales/{locale}/pages/redesign-home/nothing-personal/toys-data-security
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/newsletter/unsubscribe/success.pot"
-l10n = "locales/{locale}/pages/redesign-home/newsletter/unsubscribe/success.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+reference = "templates/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.pot"
+l10n = "locales/{locale}/snippets/snippets.NewsletterSignup/4-np-article-newsletter-signup.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/zoom-makes-right-call-encryption.pot"
@@ -625,14 +660,29 @@ l10n = "locales/{locale}/pages/homepage/blog/zoom-makes-right-call-encryption.po
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/12-facebook-and-european-parliament.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/12-facebook-and-european-parliament.po"
-locales = [ "de", "es", "fr", "pl",]
+reference = "templates/pages/homepage/blog/mozilla-explains-what-does-ai-know-about-me.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozilla-explains-what-does-ai-know-about-me.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/redesign-home/nothing-personal/superficial-intelligence-robot-laundry-mental-load.pot"
 l10n = "locales/{locale}/pages/redesign-home/nothing-personal/superficial-intelligence-robot-laundry-mental-load.po"
 locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/newsletter/unsubscribe/success.pot"
+l10n = "locales/{locale}/pages/redesign-home/newsletter/unsubscribe/success.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/video-call-apps-get-bit-more-secure.pot"
+l10n = "locales/{locale}/pages/homepage/blog/video-call-apps-get-bit-more-secure.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Petition/12-facebook-and-european-parliament.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/12-facebook-and-european-parliament.po"
+locales = [ "de", "es", "fr", "pl",]
 
 [[paths]]
 reference = "templates/pages/redesign-home/newsletter/unsubscribe.pot"
@@ -645,8 +695,8 @@ l10n = "locales/{locale}/pages/homepage/campaigns/facebook-and-european-parliame
 locales = [ "de", "es", "fr", "pl",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/video-call-apps-get-bit-more-secure.pot"
-l10n = "locales/{locale}/pages/homepage/blog/video-call-apps-get-bit-more-secure.po"
+reference = "templates/pages/homepage/campaigns/privacy-and-security-video-chat.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/privacy-and-security-video-chat.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
@@ -655,19 +705,14 @@ l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/valentina-a
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/snippets.NewsletterUnsubscribe/1-newsletter-unsubscribe.pot"
-l10n = "locales/{locale}/snippets/snippets.NewsletterUnsubscribe/1-newsletter-unsubscribe.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/privacy-and-security-video-chat.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/privacy-and-security-video-chat.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/which-video-call-apps-can-you-trust.pot"
 l10n = "locales/{locale}/pages/homepage/blog/which-video-call-apps-can-you-trust.po"
 locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/snippets/snippets.NewsletterUnsubscribe/1-newsletter-unsubscribe.pot"
+l10n = "locales/{locale}/snippets/snippets.NewsletterUnsubscribe/1-newsletter-unsubscribe.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/zoom.pot"
@@ -708,6 +753,11 @@ locales = [ "de",]
 reference = "templates/pages/homepage/campaigns/call-on-tiktok-to-follow-through-on-its-election-promises.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/call-on-tiktok-to-follow-through-on-its-election-promises.po"
 locales = [ "de",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.pot"
+l10n = "locales/{locale}/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/skype.pot"
@@ -770,9 +820,9 @@ l10n = "locales/{locale}/pages/homepage/campaigns/petition-slack-block-abuse.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.pot"
-l10n = "locales/{locale}/pages/homepage/blog/tips-make-your-zoom-gatherings-more-private.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/pages/redesign-home/nothing-personal/tepito-a-neighborhood-governs-itself.pot"
+l10n = "locales/{locale}/pages/redesign-home/nothing-personal/tepito-a-neighborhood-governs-itself.po"
+locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/slack.pot"
@@ -835,9 +885,14 @@ l10n = "locales/{locale}/pages/homepage/blog/can-my-boss-read-my-slack-dmsand-ot
 locales = [ "de", "es", "fr", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/tepito-a-neighborhood-governs-itself.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/tepito-a-neighborhood-governs-itself.po"
+reference = "templates/pages/homepage/blog/how-opt-out-human-review-your-voice-assistant-recordings.pot"
+l10n = "locales/{locale}/pages/homepage/blog/how-opt-out-human-review-your-voice-assistant-recordings.po"
 locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/meet-mozilla/expert-hub/rose-njeri-tunguru.pot"
+l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/rose-njeri-tunguru.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/is-my-facebook-activity-fcking-my-finances-mozilla-explains-data-brokers.pot"
@@ -860,19 +915,14 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/lovense-lush-2.po"
 locales = [ "de", "es", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/how-opt-out-human-review-your-voice-assistant-recordings.pot"
-l10n = "locales/{locale}/pages/homepage/blog/how-opt-out-human-review-your-voice-assistant-recordings.po"
-locales = [ "de", "fr",]
+reference = "templates/pages/homepage/blog/ring-2fa-and-win-consumers.pot"
+l10n = "locales/{locale}/pages/homepage/blog/ring-2fa-and-win-consumers.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/watch-and-share-why-slack-must-blockabuse.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/watch-and-share-why-slack-must-blockabuse.po"
 locales = [ "de", "es", "fr", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/redesign-home/meet-mozilla/expert-hub/rose-njeri-tunguru.pot"
-l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/rose-njeri-tunguru.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/redesign-home/what-we-do.pot"
@@ -890,11 +940,6 @@ l10n = "locales/{locale}/pages/homepage/campaigns/minimum-election-standards.po"
 locales = [ "de",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/ring-2fa-and-win-consumers.pot"
-l10n = "locales/{locale}/pages/homepage/blog/ring-2fa-and-win-consumers.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/redesign-home/nothing-personal/the-art-of-the-dataset-gathering.pot"
 l10n = "locales/{locale}/pages/redesign-home/nothing-personal/the-art-of-the-dataset-gathering.po"
 locales = [ "de", "fr",]
@@ -910,6 +955,11 @@ l10n = "locales/{locale}/pages/redesign-home/nothing-personal/creative-purpose-a
 locales = [ "de", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/basics-microtargeting-and-political-ads-facebook.pot"
+l10n = "locales/{locale}/pages/homepage/blog/basics-microtargeting-and-political-ads-facebook.po"
+locales = [ "de", "fr",]
+
+[[paths]]
 reference = "templates/snippets/snippets.DonateBanner/84-26my-banner-1-version-a.pot"
 l10n = "locales/{locale}/snippets/snippets.DonateBanner/84-26my-banner-1-version-a.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
@@ -920,9 +970,14 @@ l10n = "locales/{locale}/pages/redesign-home/what-we-do/grantmaking/incubator.po
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/basics-microtargeting-and-political-ads-facebook.pot"
-l10n = "locales/{locale}/pages/homepage/blog/basics-microtargeting-and-political-ads-facebook.po"
+reference = "templates/pages/redesign-home/nothing-personal/superficial-intelligence-cornered-at-every-gathering.pot"
+l10n = "locales/{locale}/pages/redesign-home/nothing-personal/superficial-intelligence-cornered-at-every-gathering.po"
 locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/we-asked-people-around-the-world-how-they-feel-about-artificial-intelligence-heres-what-we-learned.pot"
+l10n = "locales/{locale}/pages/homepage/blog/we-asked-people-around-the-world-how-they-feel-about-artificial-intelligence-heres-what-we-learned.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/372-2025-eu-chat-control.pot"
@@ -940,11 +995,6 @@ l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/all-experts
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/superficial-intelligence-cornered-at-every-gathering.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/superficial-intelligence-cornered-at-every-gathering.po"
-locales = [ "de", "fr",]
-
-[[paths]]
 reference = "templates/pages/redesign-home/what-we-do/make.pot"
 l10n = "locales/{locale}/pages/redesign-home/what-we-do/make.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
@@ -958,11 +1008,6 @@ locales = [ "de", "fr",]
 reference = "templates/pages/homepage/campaigns/strategies-for-studying-tiktok-during-the-german-election.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/strategies-for-studying-tiktok-during-the-german-election.po"
 locales = [ "de",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/we-asked-people-around-the-world-how-they-feel-about-artificial-intelligence-heres-what-we-learned.pot"
-l10n = "locales/{locale}/pages/homepage/blog/we-asked-people-around-the-world-how-they-feel-about-artificial-intelligence-heres-what-we-learned.po"
-locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/can-you-negotiate-with-a-computer-mozilla-explains-the-future-of-personal-ais-part-two.pot"
@@ -1017,6 +1062,11 @@ locales = [ "de", "es",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/amazon-echo-dot.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-dot.po"
+locales = [ "de", "es", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/youtube-regrets.pot"
+l10n = "locales/{locale}/pages/homepage/blog/youtube-regrets.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
@@ -1075,9 +1125,9 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/mario-kart-live-home-
 locales = [ "de", "es",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/youtube-regrets.pot"
-l10n = "locales/{locale}/pages/homepage/blog/youtube-regrets.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+reference = "templates/snippets/snippets.DonateBanner/85-26my-banner-1-version-b.pot"
+l10n = "locales/{locale}/snippets/snippets.DonateBanner/85-26my-banner-1-version-b.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/sennheiser-momentum-3.pot"
@@ -1170,9 +1220,9 @@ l10n = "locales/{locale}/pages/homepage/blog/how-to-shop-smart-for-internet-conn
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/snippets/snippets.DonateBanner/85-26my-banner-1-version-b.pot"
-l10n = "locales/{locale}/snippets/snippets.DonateBanner/85-26my-banner-1-version-b.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+reference = "templates/pages/homepage/blog/thank-you-apple-for-standing-strong-for-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/thank-you-apple-for-standing-strong-for-privacy.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/363-re-engagement.pot"
@@ -1200,11 +1250,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.Signup/548-nta-signup-snippet.po"
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/thank-you-apple-for-standing-strong-for-privacy.pot"
-l10n = "locales/{locale}/pages/homepage/blog/thank-you-apple-for-standing-strong-for-privacy.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/is-it-safe-to-shop-on-instagram-tiktok-facebook.pot"
 l10n = "locales/{locale}/pages/homepage/blog/is-it-safe-to-shop-on-instagram-tiktok-facebook.po"
 locales = [ "de", "es", "fr",]
@@ -1213,6 +1258,11 @@ locales = [ "de", "es", "fr",]
 reference = "templates/pages/redesign-home/newsletter-nta-3.pot"
 l10n = "locales/{locale}/pages/redesign-home/newsletter-nta-3.po"
 locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/new-iphone-update-how-to-opt-out-of-cross-app-tracking.pot"
+l10n = "locales/{locale}/pages/homepage/blog/new-iphone-update-how-to-opt-out-of-cross-app-tracking.po"
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/ps5-vs-xbox-series-x-vs-nintendo-switch-which-best-privacy.pot"
@@ -1230,9 +1280,9 @@ l10n = "locales/{locale}/pages/redesign-home/newsletter-nta.po"
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/new-iphone-update-how-to-opt-out-of-cross-app-tracking.pot"
-l10n = "locales/{locale}/pages/homepage/blog/new-iphone-update-how-to-opt-out-of-cross-app-tracking.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+reference = "templates/snippets/navigation.NavigationMenu/1-default-english-navigation.pot"
+l10n = "locales/{locale}/snippets/navigation.NavigationMenu/1-default-english-navigation.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
 reference = "templates/pages/redesign-home/nothing-personal/test-product-review.pot"
@@ -1285,11 +1335,6 @@ l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/109-2025-my-banner-
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/navigation.NavigationMenu/1-default-english-navigation.pot"
-l10n = "locales/{locale}/snippets/navigation.NavigationMenu/1-default-english-navigation.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
-
-[[paths]]
 reference = "templates/pages/redesign-home/meet-mozilla/ziyaad-bhorat.pot"
 l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/ziyaad-bhorat.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
@@ -1303,6 +1348,11 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 reference = "templates/pages/redesign-home/what-we-do/grantmaking/incubator/abeba-birhane.pot"
 l10n = "locales/{locale}/pages/redesign-home/what-we-do/grantmaking/incubator/abeba-birhane.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/privacynotincluded.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded.po"
+locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/108-2025-my-banner-date-test-a-no-date.pot"
@@ -1323,11 +1373,6 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 reference = "templates/pages/homepage/youtube.pot"
 l10n = "locales/{locale}/pages/homepage/youtube.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/111-2025-my-banner-color-test-a-green.pot"
@@ -1385,14 +1430,14 @@ l10n = "locales/{locale}/pages/redesign-home/what-we-do/grantmaking/incubator/da
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.DonationModal/274-2025-ai-action-summit-paris-new-nta-clone.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/274-2025-ai-action-summit-paris-new-nta-clone.po"
-locales = [ "de", "fr",]
-
-[[paths]]
 reference = "templates/pages/redesign-home/what-we-do/mobilize/angela-chukunzira.pot"
 l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/angela-chukunzira.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.DonationModal/274-2025-ai-action-summit-paris-new-nta-clone.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/274-2025-ai-action-summit-paris-new-nta-clone.po"
+locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns.pot"
@@ -1402,6 +1447,16 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 [[paths]]
 reference = "templates/pages/homepage/campaigns/eu-misinformation/action.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/action.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/christo-buschek.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/christo-buschek.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Petition/88-idfa-ty.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/88-idfa-ty.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
@@ -1463,11 +1518,6 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 reference = "templates/pages/homepage/privacynotincluded/my-calendar-period-tracker.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/my-calendar-period-tracker.po"
 locales = [ "de", "es", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/christo-buschek.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/christo-buschek.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/pregnancy.pot"
@@ -1565,11 +1615,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/1-mozilla-festival.
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/88-idfa-ty.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/88-idfa-ty.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/campaigns/sign-the-petition-and-support-mozillas-call-for-trustworthy-ai.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/sign-the-petition-and-support-mozillas-call-for-trustworthy-ai.po"
 locales = [ "de", "fr",]
@@ -1588,6 +1633,11 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 reference = "templates/snippets/wagtailpages.BlogPageTopic/2-open-leadership-events.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/2-open-leadership-events.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/apples-anti-tracking-plans-iphone.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/apples-anti-tracking-plans-iphone.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/amplifying-student-voices-in-shaping-south-africas-national-ai-policy.pot"
@@ -1625,9 +1675,9 @@ l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/zeina-abi-assy.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/apples-anti-tracking-plans-iphone.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/apples-anti-tracking-plans-iphone.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/pages/redesign-home/nothing-personal/this-sewing-machine-powers-ai.pot"
+l10n = "locales/{locale}/pages/redesign-home/nothing-personal/this-sewing-machine-powers-ai.po"
+locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.BlogPageTopic/111-ai.pot"
@@ -1643,6 +1693,11 @@ locales = [ "de", "fr",]
 reference = "templates/pages/redesign-home/nothing-personal/tapo-security-camera-privacy-review.pot"
 l10n = "locales/{locale}/pages/redesign-home/nothing-personal/tapo-security-camera-privacy-review.po"
 locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Petition/83-facebook-stop-group-recommendations.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/83-facebook-stop-group-recommendations.po"
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/49-2024-eoy-banner-headline-test-1-donate-to-mozillas-year-end-campaign.pot"
@@ -1665,11 +1720,6 @@ l10n = "locales/{locale}/pages/redesign-home/nothing-personal/stardust-privacy-r
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/this-sewing-machine-powers-ai.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/this-sewing-machine-powers-ai.po"
-locales = [ "de", "fr",]
-
-[[paths]]
 reference = "templates/pages/redesign-home/nothing-personal/euki-privacy-review.pot"
 l10n = "locales/{locale}/pages/redesign-home/nothing-personal/euki-privacy-review.po"
 locales = [ "de", "fr",]
@@ -1680,9 +1730,9 @@ l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/8-moz-news-beat.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/83-facebook-stop-group-recommendations.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/83-facebook-stop-group-recommendations.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+reference = "templates/pages/homepage/campaigns/eu-misinformation/resources.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/resources.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/51-2024-eoy-banner-pitch-test-1-time-is-running-out.pot"
@@ -1695,14 +1745,19 @@ l10n = "locales/{locale}/pages/redesign-home/nothing-personal/period-ovulation-t
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/eu-misinformation/resources.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/resources.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/iterating-dataset-access-on-common-voice.pot"
 l10n = "locales/{locale}/pages/homepage/blog/iterating-dataset-access-on-common-voice.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.DonationModal/2-facebook_donate_modal.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/2-facebook_donate_modal.po"
+locales = [ "de", "es", "fr", "nl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/facebook-stop-group-recommendations.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/facebook-stop-group-recommendations.po"
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/52-2024-eoy-banner-pitch-test-2-short-of-goal.pot"
@@ -1730,11 +1785,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/84-kiswahili.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.DonationModal/2-facebook_donate_modal.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/2-facebook_donate_modal.po"
-locales = [ "de", "es", "fr", "nl", "pt-BR",]
-
-[[paths]]
 reference = "templates/snippets/donate_banner.DonateBanner/46-2024-giving-tuesday-banner-cta-test-2-yes-ill-donate.pot"
 l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/46-2024-giving-tuesday-banner-cta-test-2-yes-ill-donate.po"
 locales = [ "de", "es", "fr", "nl", "pl", "pt-BR",]
@@ -1743,11 +1793,6 @@ locales = [ "de", "es", "fr", "nl", "pl", "pt-BR",]
 reference = "templates/snippets/donate_banner.DonateBanner/48-2024-giving-tuesday-banner-cta-test-winner.pot"
 l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/48-2024-giving-tuesday-banner-cta-test-winner.po"
 locales = [ "de", "es", "fr", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/facebook-stop-group-recommendations.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/facebook-stop-group-recommendations.po"
-locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/redesign-home/what-we-do/grantmaking/fellowship/2026-mozilla-fellows.pot"
@@ -1762,6 +1807,16 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.Petition/78-nextdoor-police-petition.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Petition/78-nextdoor-police-petition.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/eu-misinformation/publisher-campaign/thanks-guardian.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/publisher-campaign/thanks-guardian.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/nextdoor-pause-police-partnerships.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/nextdoor-pause-police-partnerships.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
@@ -1785,16 +1840,6 @@ l10n = "locales/{locale}/pages/homepage/campaigns/tell-microsoft-ai-shouldnt-fue
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/eu-misinformation/publisher-campaign/thanks-guardian.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/publisher-campaign/thanks-guardian.po"
-locales = [ "de", "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/nextdoor-pause-police-partnerships.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/nextdoor-pause-police-partnerships.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/campaigns/ai-training-transparency-welcome-2.pot"
 l10n = "locales/{locale}/pages/homepage/campaigns/ai-training-transparency-welcome-2.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
@@ -1808,6 +1853,11 @@ locales = [ "de", "es", "fr", "nl", "pt-BR",]
 reference = "templates/pages/redesign-home/what-we-do/grantmaking/incubator/chad-fowler.pot"
 l10n = "locales/{locale}/pages/redesign-home/what-we-do/grantmaking/incubator/chad-fowler.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Petition/75-zoom-end-to-end-encryption-for-everyone.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/75-zoom-end-to-end-encryption-for-everyone.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/209-2024-ai-training-data-transparency-welcome-2-use-this.pot"
@@ -1898,11 +1948,6 @@ locales = [ "de", "fr",]
 reference = "templates/pages/homepage/privacynotincluded/google-nest-protect.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/google-nest-protect.po"
 locales = [ "de", "es", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/new-technologies-like-ar-vr-and-ai-help-emerging-artists-in-africa-tell-original-stories.pot"
-l10n = "locales/{locale}/pages/homepage/blog/new-technologies-like-ar-vr-and-ai-help-emerging-artists-in-africa-tell-original-stories.po"
-locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/mozilla-technology-fund-awardee-airqo-announces-african-air-quality-prediction-challenge.pot"
@@ -2160,8 +2205,8 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/can-my-boss-
 locales = [ "de", "es", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/75-zoom-end-to-end-encryption-for-everyone.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/75-zoom-end-to-end-encryption-for-everyone.po"
+reference = "templates/pages/homepage/campaigns/eu-misinformation.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
@@ -2195,11 +2240,6 @@ l10n = "locales/{locale}/pages/redesign-home/what-we-do/grantmaking/incubator/ge
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/eu-misinformation.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/tracy-chou-privacy-party.pot"
 l10n = "locales/{locale}/pages/homepage/blog/tracy-chou-privacy-party.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
@@ -2225,6 +2265,11 @@ l10n = "locales/{locale}/pages/homepage/blog/thank-you.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/campaigns/tell-zoom-end-end-encryption-everyone.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tell-zoom-end-end-encryption-everyone.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/alexa-help-me-which-smart-speaker-has-the-best-privacy.pot"
 l10n = "locales/{locale}/pages/homepage/blog/alexa-help-me-which-smart-speaker-has-the-best-privacy.po"
 locales = [ "de", "es", "fr", "pt-BR",]
@@ -2240,9 +2285,9 @@ l10n = "locales/{locale}/pages/homepage/campaigns/crowdtangle-petition.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/tell-zoom-end-end-encryption-everyone.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tell-zoom-end-end-encryption-everyone.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/snippets/wagtailpages.Petition/11-facebook-update-petition.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/11-facebook-update-petition.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/articles/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading.pot"
@@ -2280,14 +2325,14 @@ l10n = "locales/{locale}/pages/homepage/blog/investigation-every-tech-giants-ad-
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/11-facebook-update-petition.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/11-facebook-update-petition.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/redesign-home/nothing-personal/friends-online-instagram-connection-bloat-ruby-justice-thelot.pot"
 l10n = "locales/{locale}/pages/redesign-home/nothing-personal/friends-online-instagram-connection-bloat-ruby-justice-thelot.po"
 locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/esraa-al-shafei.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/esraa-al-shafei.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/redesign-home/donate-help.pot"
@@ -2315,13 +2360,18 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/bumble.po"
 locales = [ "de", "es", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/esraa-al-shafei.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/esraa-al-shafei.po"
+reference = "templates/pages/homepage/campaigns/facebook-update.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/facebook-update.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/facebook-update.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/facebook-update.po"
+reference = "templates/pages/homepage/campaigns/eu-misinformation/thanks.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/thanks.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/khaled-koubaa.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/khaled-koubaa.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
@@ -2430,13 +2480,8 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/eufy-video-doorbells.
 locales = [ "de", "es", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/eu-misinformation/thanks.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/thanks.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/khaled-koubaa.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/khaled-koubaa.po"
+reference = "templates/pages/redesign-home/what-we-do/mobilize/kristophina-shilongo.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/kristophina-shilongo.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
@@ -2510,8 +2555,8 @@ l10n = "locales/{locale}/pages/homepage/blog/what-you-need-to-know-about-nintend
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/kristophina-shilongo.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/kristophina-shilongo.po"
+reference = "templates/snippets/wagtailpages.Petition/10-facebook-petition.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/10-facebook-petition.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
@@ -2535,14 +2580,14 @@ l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/press-center/the-pope-
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/10-facebook-petition.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/10-facebook-petition.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/homepage/research/library/accelerating-progress-toward-trustworthy-ai.pot"
 l10n = "locales/{locale}/pages/homepage/research/library/accelerating-progress-toward-trustworthy-ai.po"
 locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/louis-barclay.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/louis-barclay.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/twitter-x-phone-call-privacy.pot"
@@ -2560,8 +2605,8 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/blink-security-camera
 locales = [ "de", "es", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/louis-barclay.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/louis-barclay.po"
+reference = "templates/pages/homepage/campaigns/facebook.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/facebook.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
@@ -2585,11 +2630,6 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/wyze-cams.po"
 locales = [ "de", "es", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/facebook.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/facebook.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
 reference = "templates/snippets/navigation.HorizontalLinkBlock/41-2026-mozilla-fellows-en.pot"
 l10n = "locales/{locale}/snippets/navigation.HorizontalLinkBlock/41-2026-mozilla-fellows-en.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
@@ -2603,6 +2643,11 @@ locales = [ "de", "es", "fr", "pl", "pt-BR",]
 reference = "templates/snippets/wagtailpages.Petition/28-tell-amazon-require-privacy-policies-for-internet-connected-devices.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Petition/28-tell-amazon-require-privacy-policies-for-internet-connected-devices.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/snippets/wagtailpages.Petition/22-publishers_campaign_misinformation.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/22-publishers_campaign_misinformation.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/youtube/regretsreporter-dataset.pot"
@@ -2620,9 +2665,9 @@ l10n = "locales/{locale}/pages/homepage/campaigns/tell-openai-google-and-microso
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/22-publishers_campaign_misinformation.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/22-publishers_campaign_misinformation.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/marcelle-chagas-do-monte.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/marcelle-chagas-do-monte.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/how-to-tell-chat-gpt-generated-text.pot"
@@ -2640,41 +2685,6 @@ l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/129-2024-ai-trainin
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/privacynotincluded/articles/what-does-giving-your-consent-really-mean.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/what-does-giving-your-consent-really-mean.po"
-locales = [ "de", "es", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/superficial-intelligence-should-i-share-kids-photos-instagram-facebook.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/superficial-intelligence-should-i-share-kids-photos-instagram-facebook.po"
-locales = [ "de", "fr",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Petition/24-apple-rotate-tracking-ids-on-iphone-each-month.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/24-apple-rotate-tracking-ids-on-iphone-each-month.po"
-locales = [ "de", "fr",]
-
-[[paths]]
-reference = "templates/pages/redesign-home/nothing-personal/oura-ring-privacy-review.pot"
-l10n = "locales/{locale}/pages/redesign-home/nothing-personal/oura-ring-privacy-review.po"
-locales = [ "de", "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/eu-misinformation/publisher-campaign.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation/publisher-campaign.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
-reference = "templates/snippets/snippets.DonateBanner/124-26my-banner-2-winner.pot"
-l10n = "locales/{locale}/snippets/snippets.DonateBanner/124-26my-banner-2-winner.po"
-locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/privacynotincluded/apple-watch-6.pot"
-l10n = "locales/{locale}/pages/homepage/privacynotincluded/apple-watch-6.po"
-locales = [ "de", "es", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/mozilla-research-platforms-election-interventions-in-the-global-majority-are-ineffective.pot"
 l10n = "locales/{locale}/pages/homepage/blog/mozilla-research-platforms-election-interventions-in-the-global-majority-are-ineffective.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
@@ -2690,13 +2700,13 @@ l10n = "locales/{locale}/pages/redesign-home/nothing-personal/articles.po"
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/privacy-thats-iphone-but-is-it.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/privacy-thats-iphone-but-is-it.po"
+reference = "templates/snippets/wagtailpages.Petition/21-eu-misinformation-snippet.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/21-eu-misinformation-snippet.po"
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/21-eu-misinformation-snippet.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/21-eu-misinformation-snippet.po"
+reference = "templates/pages/homepage/campaigns/eu-misinformation-facebook.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation-facebook.po"
 locales = [ "de", "fr",]
 
 [[paths]]
@@ -2705,24 +2715,24 @@ l10n = "locales/{locale}/snippets/wagtailpages.BlogPageTopic/93-research.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/grantmaking.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/grantmaking.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/eu-misinformation-facebook.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/eu-misinformation-facebook.po"
-locales = [ "de", "fr",]
-
-[[paths]]
 reference = "templates/snippets/snippets.DonateBanner/108-26my-banner-2-version-a.pot"
 l10n = "locales/{locale}/snippets/snippets.DonateBanner/108-26my-banner-2-version-a.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
+reference = "templates/pages/redesign-home/what-we-do/grantmaking.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/grantmaking.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
 reference = "templates/snippets/wagtailpages.Petition/20-facebook-2fa.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Petition/20-facebook-2fa.po"
 locales = [ "de", "fr", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/petitions/keep-encryption-for-instagram.pot"
+l10n = "locales/{locale}/pages/redesign-home/petitions/keep-encryption-for-instagram.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/dacia.pot"
@@ -2735,9 +2745,9 @@ l10n = "locales/{locale}/pages/homepage/blog/slack-microsoft-teams-privacy.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/petitions/keep-encryption-for-instagram.pot"
-l10n = "locales/{locale}/pages/redesign-home/petitions/keep-encryption-for-instagram.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/pages/homepage/campaigns/enoughisenough.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/enoughisenough.po"
+locales = [ "de", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/snippets.DonateBanner/1-make-a-giving-tuesday-gift-pushdown-fall-2025.pot"
@@ -2750,6 +2760,11 @@ l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/46-youtube-feedback
 locales = [ "de", "es", "fr", "nl", "pt-BR",]
 
 [[paths]]
+reference = "templates/snippets/campaigns.CTA/2-sign-up-form.pot"
+l10n = "locales/{locale}/snippets/campaigns.CTA/2-sign-up-form.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/homepage/blog/ai-resume-builder-bias.pot"
 l10n = "locales/{locale}/pages/homepage/blog/ai-resume-builder-bias.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
@@ -2760,9 +2775,9 @@ l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/56-amazon-ring.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/enoughisenough.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/enoughisenough.po"
-locales = [ "de", "fr", "pt-BR",]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/priya-goswami.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/priya-goswami.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/research/library/accelerating-progress-toward-trustworthy-ai/whitepaper.pot"
@@ -2775,9 +2790,9 @@ l10n = "locales/{locale}/pages/homepage/campaigns/Amazon-Ring.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/snippets/campaigns.CTA/2-sign-up-form.pot"
-l10n = "locales/{locale}/snippets/campaigns.CTA/2-sign-up-form.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/snippets/wagtailpages.Petition/16-let-us-be-part-of-the-hearing-petition.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/16-let-us-be-part-of-the-hearing-petition.po"
+locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/sora-ai-video.pot"
@@ -2790,13 +2805,8 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/renault.po"
 locales = [ "de",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/priya-goswami.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/priya-goswami.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Petition/16-let-us-be-part-of-the-hearing-petition.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/16-let-us-be-part-of-the-hearing-petition.po"
+reference = "templates/pages/homepage/campaigns/let-us-be-part-hearing.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/let-us-be-part-hearing.po"
 locales = [ "de", "fr",]
 
 [[paths]]
@@ -2810,9 +2820,9 @@ l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/65-microsoft-ai-tra
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/let-us-be-part-hearing.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/let-us-be-part-hearing.po"
-locales = [ "de", "fr",]
+reference = "templates/snippets/wagtailpages.Petition/90-tiktok-petition.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Petition/90-tiktok-petition.po"
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/redesign-home/campaigns/demand-the-data-whats-really-going-viral.pot"
@@ -2965,9 +2975,9 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/what-data-do
 locales = [ "de",]
 
 [[paths]]
-reference = "templates/snippets/wagtailpages.Petition/90-tiktok-petition.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Petition/90-tiktok-petition.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+reference = "templates/snippets/campaigns.CTA/8-2026-instagram-encryption.pot"
+l10n = "locales/{locale}/snippets/campaigns.CTA/8-2026-instagram-encryption.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/articles/happy-valentines-day-romantic-ai-chatbots-dont-have-your-privacy-at-heart.pot"
@@ -2985,9 +2995,9 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/after-resear
 locales = [ "de",]
 
 [[paths]]
-reference = "templates/snippets/campaigns.CTA/8-2026-instagram-encryption.pot"
-l10n = "locales/{locale}/snippets/campaigns.CTA/8-2026-instagram-encryption.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/roya-pakzad.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/roya-pakzad.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/71-pni-cars-petition.pot"
@@ -3000,9 +3010,9 @@ l10n = "locales/{locale}/pages/homepage/blog/privacy-nightmare-on-wheels-every-c
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/roya-pakzad.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/roya-pakzad.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.po"
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/ai-photo-how-to-tell.pot"
@@ -3015,9 +3025,9 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/chai.po"
 locales = [ "de", "es", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.po"
-locales = [ "de", "es", "fr", "pt-BR",]
+reference = "templates/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/wyze-watch.pot"
@@ -3045,9 +3055,9 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/igirl-ai-girlfriend.p
 locales = [ "de", "es", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/sayash-kapoor.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/sayash-kapoor.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/wyze-bulb.pot"
@@ -3060,8 +3070,8 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-pop.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/sayash-kapoor.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/sayash-kapoor.po"
+reference = "templates/pages/redesign-home/meet-mozilla/expert-hub/rudy-fraser.pot"
+l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/rudy-fraser.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
@@ -3110,9 +3120,9 @@ l10n = "locales/{locale}/pages/homepage/privacynotincluded/amazon-echo-hub.po"
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/meet-mozilla/expert-hub/rudy-fraser.pot"
-l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/rudy-fraser.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/pages/homepage/campaigns/youtube-regrets-about.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/youtube-regrets-about.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/ring-security-cams.pot"
@@ -3230,11 +3240,6 @@ l10n = "locales/{locale}/pages/homepage/blog/a-nightmare-before-christmas-mozill
 locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/youtube-regrets-about.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/youtube-regrets-about.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/privacynotincluded/articles/our-longest-naughty-list-ever-the-2023-holiday-buyers-guide-is-here.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/articles/our-longest-naughty-list-ever-the-2023-holiday-buyers-guide-is-here.po"
 locales = [ "de", "es", "pt-BR",]
@@ -3248,6 +3253,11 @@ locales = [ "de", "es", "pt-BR",]
 reference = "templates/pages/homepage/donate.pot"
 l10n = "locales/{locale}/pages/homepage/donate.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/thank-you-for-your-response.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/thank-you-for-your-response.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/ios-17-personal-voice.pot"
@@ -3280,29 +3290,14 @@ l10n = "locales/{locale}/pages/homepage/donate/help.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/thank-you-for-your-response.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/thank-you-for-your-response.po"
-locales = [ "de", "es", "fr",]
+reference = "templates/pages/redesign-home/nothing-personal/toys-with-camera-microphone-for-kids-security-privacy-setup.pot"
+l10n = "locales/{locale}/pages/redesign-home/nothing-personal/toys-with-camera-microphone-for-kids-security-privacy-setup.po"
+locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/nvidia-shield-tv.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/nvidia-shield-tv.po"
 locales = [ "de", "es",]
-
-[[paths]]
-reference = "templates/snippets/donate_banner.DonateBanner/6-b2.pot"
-l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/6-b2.po"
-locales = [ "de", "fr",]
-
-[[paths]]
-reference = "templates/snippets/donate_banner.DonateBanner/7-b3.pot"
-l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/7-b3.po"
-locales = [ "de", "fr",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/networks-capitalism-addiction-disinformation-and-violence.pot"
-l10n = "locales/{locale}/pages/homepage/blog/networks-capitalism-addiction-disinformation-and-violence.po"
-locales = [ "es",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/strategies-for-language-inclusion-at-mozfest-2023.pot"
@@ -3320,13 +3315,13 @@ l10n = "locales/{locale}/pages/homepage/campaigns/exporting-disinformation-how-f
 locales = [ "es",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/making-voice-ai-work-better-for-the-languages-and-accents-of-mexico.pot"
-l10n = "locales/{locale}/pages/homepage/blog/making-voice-ai-work-better-for-the-languages-and-accents-of-mexico.po"
+reference = "templates/pages/homepage/blog/tune-into-the-sounds-of-the-internet-health-report.pot"
+l10n = "locales/{locale}/pages/homepage/blog/tune-into-the-sounds-of-the-internet-health-report.po"
 locales = [ "es",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/here-are-the-sessions-that-will-be-speaking-spanish-at-mozfest-2023.pot"
-l10n = "locales/{locale}/pages/homepage/blog/here-are-the-sessions-that-will-be-speaking-spanish-at-mozfest-2023.po"
+reference = "templates/pages/homepage/blog/making-voice-ai-work-better-for-the-languages-and-accents-of-mexico.pot"
+l10n = "locales/{locale}/pages/homepage/blog/making-voice-ai-work-better-for-the-languages-and-accents-of-mexico.po"
 locales = [ "es",]
 
 [[paths]]
@@ -3335,19 +3330,19 @@ l10n = "locales/{locale}/pages/homepage/blog/mozilla-unam-host-voice-technology-
 locales = [ "es",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/tune-into-the-sounds-of-the-internet-health-report.pot"
-l10n = "locales/{locale}/pages/homepage/blog/tune-into-the-sounds-of-the-internet-health-report.po"
+reference = "templates/pages/homepage/blog/here-are-the-sessions-that-will-be-speaking-spanish-at-mozfest-2023.pot"
+l10n = "locales/{locale}/pages/homepage/blog/here-are-the-sessions-that-will-be-speaking-spanish-at-mozfest-2023.po"
 locales = [ "es",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/deepfakes-election-2024.pot"
-l10n = "locales/{locale}/pages/homepage/blog/deepfakes-election-2024.po"
-locales = [ "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/what-ive-learned-from-the-internet-health-report-and-its-not-even-ready-yet.po"
 locales = [ "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/deepfakes-election-2024.pot"
+l10n = "locales/{locale}/pages/homepage/blog/deepfakes-election-2024.po"
+locales = [ "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/wysa.pot"
@@ -3465,6 +3460,11 @@ l10n = "locales/{locale}/pages/homepage/blog/mozillas-common-voice-dataset-reach
 locales = [ "es", "fr",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/networks-capitalism-addiction-disinformation-and-violence.pot"
+l10n = "locales/{locale}/pages/homepage/blog/networks-capitalism-addiction-disinformation-and-violence.po"
+locales = [ "es",]
+
+[[paths]]
 reference = "templates/pages/redesign-home/privacy-not-included.pot"
 l10n = "locales/{locale}/pages/redesign-home/privacy-not-included.po"
 locales = [ "fr",]
@@ -3472,6 +3472,16 @@ locales = [ "fr",]
 [[paths]]
 reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/donate.pot"
+l10n = "locales/{locale}/pages/redesign-home/donate.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/donate/ways-to-give.pot"
+l10n = "locales/{locale}/pages/redesign-home/donate/ways-to-give.po"
 locales = [ "fr",]
 
 [[paths]]
