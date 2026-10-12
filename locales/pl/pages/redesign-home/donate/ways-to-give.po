@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 18b25882-baae-4c4a-bbfd-ef249de0328b\n"
 
 msgctxt "seo_title"
 msgid "Ways to Give"
@@ -14,7 +13,7 @@ msgstr "Sposoby wsparcia"
 
 msgctxt "search_description"
 msgid "Donate to Mozilla. Credit, Debit and PayPal · Mail a Check · Wire Transfer · Stock · Employer Matching · QCD · DAF · Will Bequests"
-msgstr "Przekaż darowiznę na rzecz Mozilli. Kredyty, debety i PayPal · Wyślij czek · Przelew bankowy · Zapasy · Dopasowanie pracodawcy · QCD · DAF · Zapisy testamentowe"
+msgstr "Przekaż darowiznę na rzecz Mozilli. Karty kredytowe i debetowe oraz płatności PayPal · Wyślij czek · Przelew bankowy · Akcje · Programy dopłat pracodawcy · QCD · DAF · Zapisy testamentowe"
 
 msgctxt "title"
 msgid "Ways to Give"
@@ -106,7 +105,7 @@ msgstr "/donate/ways-to-give#stocks-securities"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c1105067-e8d6-4827-b3c1-837aaac9ed29.image.alt_text"
 msgid "Employer Matching Icon"
-msgstr "Programy dopłat pracodawcy"
+msgstr "Ikona programów dopłat pracodawcy"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c1105067-e8d6-4827-b3c1-837aaac9ed29.caption"
 msgid "Employer Matching"
@@ -161,8 +160,8 @@ msgid ""
 "You can <a id=\"a1\">donate one-time or on a recurring monthly basis</a>. Both are incredibly appreciated and crucial to our mission of keeping the web open and free. Monthly donations provide "
 "sustainable funding which helps us most effectively plan our long-term projects to transform the future of technology."
 msgstr ""
-"Możesz <a id=\"a1\">przekazać datek jednorazowy lub wpłacać datki cyklicznie co miesiąc</a>. Obie opcje są dla nas niesamowicie ważne i bardzo pomagają nam realizować naszą misję, czyli dbanie, aby "
-"internet był otwarty i wolny. Darowizny comiesięczne zapewniają nam stały dopływ środków, dzięki którym możemy w sposób najbardziej skuteczny planować projekty długoterminowe, które zmienią "
+"Możesz <a id=\"a1\">przekazać datek jednorazowy lub wpłacać datki cyklicznie co miesiąc</a>. Obie opcje są dla nas niesamowicie ważne i bardzo pomagają nam w realizowaniu naszej misji, czyli dbaniu "
+"o to, aby Internet był otwarty i wolny. Darowizny comiesięczne zapewniają nam stały dopływ środków, dzięki którym możemy w najbardziej skuteczny sposób planować długoterminowe projekty zmieniające "
 "przyszłość technologii."
 
 msgctxt "body.6a97d800-fc47-4677-b79d-914ca43066ae"
@@ -306,20 +305,24 @@ msgstr "<a id=\"a1\">Renaissance Charitable</a>"
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "If you have an account with a charitable sponsor, you can make a grant today using our Federal EIN: <b>20-0097189</b>. Distributions can be sent to:"
 msgstr ""
+"Jeśli masz konto u sponsora charytatywnego, możesz przekazać darowiznę już dziś, korzystając z naszego federalnego numeru identyfikacyjnego pracodawcy (EIN): <b>20-0097189</b>. Wpłaty można kierować"
+" pod adresem:"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "Mozilla Foundation<br/>PO Box 25704<br/>Pasadena, CA 91185-5704"
-msgstr ""
+msgstr "Mozilla Foundation<br/>PO Box 25704<br/>Pasadena, CA 91185-5704"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid ""
 "Please ask your DAF sponsor to include your name and email address with the distribution. That way, we can thank you for your generosity and keep you posted on everything your support makes "
 "possible."
 msgstr ""
+"Należy poprosić sponsora DAF o podanie Twojego imienia i nazwiska oraz adresu e-mail przy przekazywaniu darowizny. W ten sposób będziemy mogli podziękować za hojność i informować o wszystkim, co "
+"staje się możliwe dzięki przekazanemu wsparciu."
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "<a id=\"a1\">Reach out to us</a> if you have any questions about making a contribution through your Donor Advised Fund."
-msgstr ""
+msgstr "<a id=\"a1\">Skontaktuj się z nami</a>, jeśli masz jakiekolwiek pytania dotyczące przekazania darowizny za pośrednictwem funduszu filantropijnego."
 
 msgctxt "body.435c3233-4471-487e-8ecf-a898675d2866.title"
 msgid "Qualified Charitable Distribution"
@@ -347,7 +350,7 @@ msgstr "Podaj adres e-mail lub adres zwrotny, pod który będziemy mogli przesł
 
 msgctxt "body.f6f6c04d-42f5-42d2-b48b-a2321bf64671.heading"
 msgid "Contact Us"
-msgstr "Kontakt z nami"
+msgstr "Kontakt"
 
 msgctxt "body.f6f6c04d-42f5-42d2-b48b-a2321bf64671.subheading"
 msgid "Questions about your donation? Get in touch with our team by using the form below."
@@ -355,12 +358,4 @@ msgstr "Masz pytania dotyczące darowizny? Skontaktuj się z naszym zespołem, k
 
 msgctxt "body.f6f6c04d-42f5-42d2-b48b-a2321bf64671.image.alt_text"
 msgid "Group high fiving each other"
-msgstr "Grupa osób przybijających sobie „piątkę”"
-
-#~ msgctxt "hero_description"
-#~ msgid "For 25 years, we’ve been working to keep the internet from being exploited by bad actors."
-#~ msgstr "Od 25 lat pilnujemy, aby żadne podmioty nie wykorzystywały internetu w nieodpowiedni i szkodliwy sposób."
-
-#~ msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
-#~ msgid "Please <a id=\"a1\">reach out to us</a> if you have any questions about making a contribution through your Donor Advised Fund."
-#~ msgstr "<a id=\"a1\">Skontaktuj się z nami</a>, jeśli masz jakiekolwiek pytania dotyczące przekazania darowizny za pośrednictwem funduszu filantropijnego."
+msgstr "Grupa osób przybijających sobie piątkę"

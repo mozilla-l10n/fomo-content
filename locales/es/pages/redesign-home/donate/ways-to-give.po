@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: ae446053-480c-4f27-a683-f253819b0ecb\n"
 
 msgctxt "seo_title"
 msgid "Ways to Give"
@@ -112,11 +111,11 @@ msgstr "Icono de aporte equivalente del empleador"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c1105067-e8d6-4827-b3c1-837aaac9ed29.caption"
 msgid "Employer Matching"
-msgstr "Igualación por parte del empleador"
+msgstr "Aporte equivalente del empleador"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c1105067-e8d6-4827-b3c1-837aaac9ed29.link.85b11597-9486-4a0e-af73-7b0c6faad1fe.label"
 msgid "Employer Matching"
-msgstr "Igualación por parte del empleador"
+msgstr "Aporte equivalente del empleador"
 
 msgctxt "body.cead3305-1427-4ede-a620-e3fd3fca22db.sections.bebf1d1a-f7a4-4ac3-92ed-b1f2cb521845.items.c1105067-e8d6-4827-b3c1-837aaac9ed29.link.85b11597-9486-4a0e-af73-7b0c6faad1fe.relative_url"
 msgid "/donate/ways-to-give#employer-matching"
@@ -274,7 +273,7 @@ msgstr "Puedes contáctarnos mediante <a id=\"a1\">este formulario</a> para inic
 
 msgctxt "body.5866fb22-d71e-49c2-995c-e598775d8203.title"
 msgid "Employer Matching"
-msgstr "Igualación por parte del empleador"
+msgstr "Aporte equivalente del empleador"
 
 msgctxt "body.562535c6-ffb6-47c6-b52c-712f450024f4"
 msgid ""
@@ -309,21 +308,23 @@ msgstr "<a id=\"a1\">Renaissance Charitable</a>"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "If you have an account with a charitable sponsor, you can make a grant today using our Federal EIN: <b>20-0097189</b>. Distributions can be sent to:"
-msgstr ""
+msgstr "Si tienes una cuenta con un patrocinador benéfico, puedes hacer una donación hoy mismo utilizando nuestro EIN federal: <b>20-0097189</b>. Las distribuciones pueden enviarse a:"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "Mozilla Foundation<br/>PO Box 25704<br/>Pasadena, CA 91185-5704"
-msgstr ""
+msgstr "Mozilla Foundation<br/>PO Box 25704<br/>Pasadena, CA 91185-5704"
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid ""
 "Please ask your DAF sponsor to include your name and email address with the distribution. That way, we can thank you for your generosity and keep you posted on everything your support makes "
 "possible."
 msgstr ""
+"Pide a tu patrocinador de DAF que incluya su nombre y dirección de correo electrónico junto con la distribución. Así podremos agradecerle su generosidad y mantenerlo informado de todo lo que se hace"
+" posible gracias a su apoyo."
 
 msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
 msgid "<a id=\"a1\">Reach out to us</a> if you have any questions about making a contribution through your Donor Advised Fund."
-msgstr ""
+msgstr "<a id=\"a1\">Ponte en contacto con nosotros</a> si tienes alguna pregunta sobre cómo hacer una contribución a través de su fondo asesorado por donantes."
 
 msgctxt "body.435c3233-4471-487e-8ecf-a898675d2866.title"
 msgid "Qualified Charitable Distribution"
@@ -360,11 +361,3 @@ msgstr "¿Tienes alguna pregunta sobre tu donación? Ponte en contacto con nuest
 msgctxt "body.f6f6c04d-42f5-42d2-b48b-a2321bf64671.image.alt_text"
 msgid "Group high fiving each other"
 msgstr "Un grupo de personas chocando las manos"
-
-#~ msgctxt "hero_description"
-#~ msgid "For 25 years, we’ve been working to keep the internet from being exploited by bad actors."
-#~ msgstr "Llevamos 25 años trabajando en impedir que agentes maliciosos exploten el Internet."
-
-#~ msgctxt "body.4d1c0b6f-f6d5-4c95-a32a-b056ca603c15"
-#~ msgid "Please <a id=\"a1\">reach out to us</a> if you have any questions about making a contribution through your Donor Advised Fund."
-#~ msgstr "Si tienes preguntas sobre cómo donar mediante un fondo asesorado por donantes, <a id=\"a1\">contáctanos</a>."
