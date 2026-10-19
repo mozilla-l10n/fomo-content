@@ -40,6 +40,10 @@ msgctxt "body.64ac5baf-b0da-457a-a53b-49b8df8f68e6.left_column.07356319-8d71-45b
 msgid "Join us at MozFest<br/><br/> Barcelona, Spain<br/> October 28-30, 2026"
 msgstr "Rejoignez-nous au MozFest<br/><br/>Barcelone, Espagne<br/> 28-30 octobre 2026"
 
+msgctxt "body.64ac5baf-b0da-457a-a53b-49b8df8f68e6.left_column.1e61a86b-8e2f-45c0-8763-b31e9b606513.label"
+msgid "Learn more about MozFest"
+msgstr ""
+
 msgctxt "body.64ac5baf-b0da-457a-a53b-49b8df8f68e6.right_column.8d8d8f93-9c28-44b0-b5fd-5ad599809edf"
 msgid "Mozilla Festival, aka MozFest, is three days of bold conversations, hands-on building, and ideas worth traveling for."
 msgstr "Le Mozilla Festival, aussi appelé MozFest, c’est trois journées de discussions stimulantes, d’ateliers interactifs et d’idées qui méritent le déplacement."
@@ -55,8 +59,8 @@ msgstr ""
 "numérique."
 
 msgctxt "body.64ac5baf-b0da-457a-a53b-49b8df8f68e6.right_column.8d8d8f93-9c28-44b0-b5fd-5ad599809edf"
-msgid "<a id=\"a1\">Get your badge</a> today. Then get all the info to <a id=\"a2\">plan your trip here</a>!"
-msgstr "<a id=\"a1\">Obtenez votre pass</a> dès maintenant. Puis consultez toutes les informations pour <a id=\"a2\">préparer votre voyage ici</a> !"
+msgid "<a id=\"a1\">Get your badge</a> today. Then explore what you can attend on <a id=\"a2\">the schedule</a> and at <a id=\"a3\">community side events</a>."
+msgstr ""
 
 msgctxt "body.fae4137e-963d-4e02-bac0-3dd20d79553e.title"
 msgid "We gather to make a better future"
@@ -299,6 +303,14 @@ msgctxt "body.74c33f1e-47b0-4d79-9827-d710ea00169b.items.32b57de3-16a6-446d-b227
 msgid "Get your badge"
 msgstr "Obtenez votre pass"
 
+msgctxt "body.74c33f1e-47b0-4d79-9827-d710ea00169b.items.2d064017-bb6e-40c9-95e4-ac601a6a3fbb.label"
+msgid "Explore the schedule"
+msgstr ""
+
+msgctxt "body.74c33f1e-47b0-4d79-9827-d710ea00169b.items.d51d58a7-bca6-4ba7-b41e-28c384a21eec.label"
+msgid "Discover MozFest side events"
+msgstr ""
+
 msgctxt "body.74c33f1e-47b0-4d79-9827-d710ea00169b.items.78c40d84-f85e-4717-b4e7-77fcb8983fb3.label"
 msgid "Plan your trip"
 msgstr "Planifiez votre voyage"
@@ -451,6 +463,10 @@ msgstr "Des participants se déplacent en montant et descendant les escaliers du
 #~ msgctxt "button_url"
 #~ msgid "https://events.mozillafoundation.org/e/u/checkout/mozilla-festival-2026/tickets/order"
 #~ msgstr "https://events.mozillafoundation.org/e/u/checkout/mozilla-festival-2026/tickets/order?utm_medium=referral&utm_source=mofo&utm_campaign=26-mozfest&utm_content=link_buybutton&utm_term=fr"
+
+#~ msgctxt "body.64ac5baf-b0da-457a-a53b-49b8df8f68e6.right_column.8d8d8f93-9c28-44b0-b5fd-5ad599809edf"
+#~ msgid "<a id=\"a1\">Get your badge</a> today. Then get all the info to <a id=\"a2\">plan your trip here</a>!"
+#~ msgstr "<a id=\"a1\">Obtenez votre pass</a> dès maintenant. Puis consultez toutes les informations pour <a id=\"a2\">préparer votre voyage ici</a> !"
 
 #~ msgctxt "body.4357fc42-1799-427f-b6e8-f9ef89660c4b.left_column.1d2526c5-15dd-4f51-aaf8-541edf138362"
 #~ msgid "Check out the <a id=\"a1\">\"How To Mozfest\" book</a> for more about how our federated, co-curation model actually works."
