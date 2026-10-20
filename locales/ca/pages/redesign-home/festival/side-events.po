@@ -1,10 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2026-10-20 13:47:23.837523+00:00\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: e58eec5a-ec37-40c1-9645-d0f157549c83\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "seo_title"
 msgid "Side Events at Mozilla Festival 2026"
@@ -320,11 +321,3 @@ msgstr "Tres persones somriuen i xerren a l'aire lliure, amb les acreditacions d
 msgctxt "body.3335e5b8-47b3-48f9-bf86-408e14de818b.button.label"
 msgid "Submit your event"
 msgstr "Compartiu el vostre acte"
-
-#~ msgctxt "body.e52482be-7bd9-40ed-929e-3bf0d7a8df3c.right_column.718f3af8-16c3-4349-9174-a92880bb3c47"
-#~ msgid "6:00PM CEST"
-#~ msgstr "18:00 CEST"
-
-#~ msgctxt "body.ba8ef7cb-2cb3-4b63-99af-e3b5d4408e12.right_column.a44c4419-1683-4d30-9a21-c7b8ac1675a9"
-#~ msgid "9:00AM CEST"
-#~ msgstr "9:00 CEST"
