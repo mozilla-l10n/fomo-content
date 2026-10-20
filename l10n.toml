@@ -2060,9 +2060,9 @@ l10n = "locales/{locale}/pages/redesign-home/donate.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/let-us-be-part-hearing.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/let-us-be-part-hearing.po"
-locales = [ "de", "fr",]
+reference = "templates/pages/redesign-home/what-we-do/mobilize/thiane-neves-barros.pot"
+l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/thiane-neves-barros.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/alexa-doesnt-work-for-you-it-works-for-amazon-mozilla-explains-the-future-of-personal-ais-part-one.pot"
@@ -2080,9 +2080,9 @@ l10n = "locales/{locale}/snippets/donate_banner.DonateBanner/23-timebound-eoy-4.
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/what-we-do/mobilize/thiane-neves-barros.pot"
-l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/thiane-neves-barros.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
+reference = "templates/pages/homepage/campaigns/let-us-be-part-hearing.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/let-us-be-part-hearing.po"
+locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/basics-microtargeting-and-political-ads-facebook.pot"
