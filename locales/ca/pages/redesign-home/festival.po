@@ -1,10 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2026-10-20 13:47:23.571520+00:00\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 556478df-0b0e-4792-921f-a3276ecb76a8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "seo_title"
 msgid "Mozilla Festival"
@@ -40,7 +41,7 @@ msgstr "Veniu al MozFest<br/><br/> Barcelona, Espanya<br/> 28-30 d'octubre de 20
 
 msgctxt "body.64ac5baf-b0da-457a-a53b-49b8df8f68e6.left_column.1e61a86b-8e2f-45c0-8763-b31e9b606513.label"
 msgid "Learn more about MozFest"
-msgstr ""
+msgstr "Més informació sobre el MozFest"
 
 msgctxt "body.64ac5baf-b0da-457a-a53b-49b8df8f68e6.right_column.8d8d8f93-9c28-44b0-b5fd-5ad599809edf"
 msgid "Mozilla Festival, aka MozFest, is three days of bold conversations, hands-on building, and ideas worth traveling for."
@@ -58,7 +59,7 @@ msgstr "Col·laborem amb l'Ajuntament de Barcelona i participem a l'Open Tech We
 
 msgctxt "body.64ac5baf-b0da-457a-a53b-49b8df8f68e6.right_column.8d8d8f93-9c28-44b0-b5fd-5ad599809edf"
 msgid "<a id=\"a1\">Get your badge</a> today. Then explore what you can attend on <a id=\"a2\">the schedule</a> and at <a id=\"a3\">community side events</a>."
-msgstr ""
+msgstr "<a id=\"a1\">Aconseguiu la vostra acreditació</a> avui mateix. Després, descobriu què podeu fer consultant el <a id=\"a2\">programa</a> i els <a id=\"a3\">esdeveniments paral·lels de la comunitat</a>."
 
 msgctxt "body.fae4137e-963d-4e02-bac0-3dd20d79553e.title"
 msgid "We gather to make a better future"
@@ -303,11 +304,11 @@ msgstr "Aconseguiu la vostra acreditació"
 
 msgctxt "body.74c33f1e-47b0-4d79-9827-d710ea00169b.items.2d064017-bb6e-40c9-95e4-ac601a6a3fbb.label"
 msgid "Explore the schedule"
-msgstr ""
+msgstr "Exploreu el programa"
 
 msgctxt "body.74c33f1e-47b0-4d79-9827-d710ea00169b.items.d51d58a7-bca6-4ba7-b41e-28c384a21eec.label"
 msgid "Discover MozFest side events"
-msgstr ""
+msgstr "Descobriu els esdeveniments paral·lels del MozFest"
 
 msgctxt "body.74c33f1e-47b0-4d79-9827-d710ea00169b.items.78c40d84-f85e-4717-b4e7-77fcb8983fb3.label"
 msgid "Plan your trip"
@@ -368,7 +369,3 @@ msgstr "De vegades, els millors descobriments tenen lloc entre sessions."
 msgctxt "body.79c80884-883e-4948-aad0-f0c99858f80c.right_column.172a43b4-1e5d-4d35-b1b4-4a60db9c2873.image.alt_text"
 msgid "Pariticipants in motion going up and down stairs at Poble Espanyol during Mozilla Fesitval 2025"
 msgstr "Participants en moviment pujant i baixant escales al Poble Espanyol durant el Mozilla Festival 2025"
-
-#~ msgctxt "body.64ac5baf-b0da-457a-a53b-49b8df8f68e6.right_column.8d8d8f93-9c28-44b0-b5fd-5ad599809edf"
-#~ msgid "<a id=\"a1\">Get your badge</a> today. Then get all the info to <a id=\"a2\">plan your trip here</a>!"
-#~ msgstr "<a id=\"a1\">Aconseguiu la vostra acreditació</a> avui. Després obteniu tota la informació per <a id=\"a2\">planificar el vostre viatge aquí</a>!"
