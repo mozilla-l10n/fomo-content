@@ -1,0 +1,154 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-10-23 12:52:27.308380+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2c954382-6ea5-429a-99b6-778766c8f5df\n"
+
+msgctxt "seo_title"
+msgid "Human-Scale AI: Anchor projects"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Private AI on everyday devices, household memory no server can read, and renewably powered compute: meet Mozilla Foundation’s Human-Scale AI anchor projects."
+msgstr ""
+
+msgctxt "title"
+msgid "Anchor projects"
+msgstr ""
+
+msgctxt "hero_title"
+msgid "Anchor projects"
+msgstr ""
+
+msgctxt "body.2eee8070-3607-4156-a7c3-2e7b82d90829"
+msgid "Laying the foundations for Human-Scale AI"
+msgstr ""
+
+msgctxt "body.2eee8070-3607-4156-a7c3-2e7b82d90829"
+msgid ""
+"To seed our Human-Scale AI Incubator cohort with some great ideas and leading innovators, we've preselected three anchor teams we see as foundational thinkers and practitioners in Human Scale AI. "
+"All three of them will be working alongside the other members of the cohort during the 12 month term."
+msgstr ""
+
+msgctxt "body.2eee8070-3607-4156-a7c3-2e7b82d90829"
+msgid "Their projects are Tiles, Family Intelligence, and DAIR."
+msgstr ""
+
+msgctxt "body.8a9ed9d0-0ac5-4069-900c-82fafdd32369.left_column.c7cb3344-bd31-4cf6-a244-dc9aff198b84.image.alt_text"
+msgid "Tiles"
+msgstr ""
+
+msgctxt "body.8a9ed9d0-0ac5-4069-900c-82fafdd32369.right_column.7f0f21c8-9886-4aab-9259-4b65285f97eb"
+msgid "An open, private AI commons for education: offline learning tools, open learning materials, and a governance framework."
+msgstr ""
+
+msgctxt "body.67501510-f42a-4398-a52a-3155fd15f86a.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.title"
+msgid "More about Tiles"
+msgstr ""
+
+msgctxt "body.67501510-f42a-4398-a52a-3155fd15f86a.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.content.4b2af016-d324-43b2-92e7-b040c8e965b1"
+msgid "From Tiles Privacy Technologies:"
+msgstr ""
+
+msgctxt "body.67501510-f42a-4398-a52a-3155fd15f86a.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.content.4b2af016-d324-43b2-92e7-b040c8e965b1"
+msgid ""
+"Tiles is a decentralized AI assistant that uses small models that run locally on your machine. Tiles will pilot their technology with university students in India, giving learners and their "
+"institutions access to a private AI assistant that doesn’t depend on a fast internet connection, expensive hardware, or cloud services from big providers."
+msgstr ""
+
+msgctxt "body.67501510-f42a-4398-a52a-3155fd15f86a.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.content.4b2af016-d324-43b2-92e7-b040c8e965b1"
+msgid ""
+"Tiles anchors the cohort by showing what Human-Scale AI looks like in practice: small models running on hardware people already own, with learners deciding what the assistant remembers. The team "
+"will also publish an open governance framework for using AI in education, which other projects in the cohort can adapt for their own communities."
+msgstr ""
+
+msgctxt "body.67501510-f42a-4398-a52a-3155fd15f86a.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.content.4b2af016-d324-43b2-92e7-b040c8e965b1"
+msgid ""
+"Tiles runs quantized open-weight models through llama.cpp on everyday devices and shares inference across local networks using end-to-end encrypted peer-to-peer connections over Iroh. It manages "
+"identity on the device with DIDs and UCANs, and it ships offline installers so that it can be deployed in places without reliable internet."
+msgstr ""
+
+msgctxt "body.ebcf2ec4-657f-4c16-aae4-117b85a0811a.left_column.50307a45-aa89-40d8-890e-685e7fc49776.image.alt_text"
+msgid "Family Intelligence"
+msgstr ""
+
+msgctxt "body.ebcf2ec4-657f-4c16-aae4-117b85a0811a.right_column.bff02098-8600-404c-a805-c1d743ad093b"
+msgid "An open protocol lets a household build a shared AI memory that no outside server can read, tested through the Family Trunk smart home assistant."
+msgstr ""
+
+msgctxt "body.61c6167a-21fb-438c-ba82-b97bf96203c1.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.title"
+msgid "More about Private Shared Memory"
+msgstr ""
+
+msgctxt "body.61c6167a-21fb-438c-ba82-b97bf96203c1.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.content.0c544179-ce10-4ddb-b14d-3c21ddc32b79"
+msgid "From Family Intelligence, Inc.:"
+msgstr ""
+
+msgctxt "body.61c6167a-21fb-438c-ba82-b97bf96203c1.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.content.0c544179-ce10-4ddb-b14d-3c21ddc32b79"
+msgid ""
+"Developed by Family Intelligence, Inc., a venture incubated by the worker-owned New York studio garden3d, this project lets a household build a shared AI memory that no outside server can read, "
+"including the company’s own. Family Intelligence will be testing this protocol using the Family Trunk, a local-first smart home assistant that they are actively developing."
+msgstr ""
+
+msgctxt "body.61c6167a-21fb-438c-ba82-b97bf96203c1.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.content.0c544179-ce10-4ddb-b14d-3c21ddc32b79"
+msgid ""
+"Most AI memory today belongs to a single user and a single vendor. This project anchors the cohort by treating shared memory as an open protocol rather than a product, giving other cohort teams a "
+"private memory layer they can build on. The team will publish the specification, an Apache 2.0 reference implementation, a threat model, and the results of an independent security review, so that "
+"anyone can verify their privacy claims."
+msgstr ""
+
+msgctxt "body.61c6167a-21fb-438c-ba82-b97bf96203c1.accordion_items.0407852c-3813-4419-bd55-b0c23d95324f.content.0c544179-ce10-4ddb-b14d-3c21ddc32b79"
+msgid ""
+"The protocol is designed to be zero-knowledge and replicatable: the hub server stores only encrypted data, while the group’s own devices and agents decrypt, search, and reason over the archive "
+"locally. Because a group can export its full archive at any time, it can switch model providers or agent frameworks without losing its memory."
+msgstr ""
+
+msgctxt "body.3a5d0058-0391-4ccb-bdad-b39b3e8e84b3.left_column.bfeb90d6-fd1c-4b55-9af9-bface137739a.image.alt_text"
+msgid "dair-anchor-project-carousel-image"
+msgstr ""
+
+msgctxt "body.3a5d0058-0391-4ccb-bdad-b39b3e8e84b3.right_column.280b6103-c721-4f22-b982-d4bd16ebe177"
+msgid "Renewably powered shared compute so small, values-aligned organizations can run their own models without hyperscale cloud providers."
+msgstr ""
+
+msgctxt "body.f9cce096-2ad2-4750-8f16-455867a8600d.accordion_items.20d4cf23-62ff-41ee-9e90-0a9b28df2313.title"
+msgid "More about DAIR"
+msgstr ""
+
+msgctxt "body.f9cce096-2ad2-4750-8f16-455867a8600d.accordion_items.20d4cf23-62ff-41ee-9e90-0a9b28df2313.content.42c66855-2b66-48ae-a4a9-acff605dce27"
+msgid "From the Distributed AI Research Institute:"
+msgstr ""
+
+msgctxt "body.f9cce096-2ad2-4750-8f16-455867a8600d.accordion_items.20d4cf23-62ff-41ee-9e90-0a9b28df2313.content.42c66855-2b66-48ae-a4a9-acff605dce27"
+msgid ""
+"DAIR is building shared compute infrastructure for small, values-aligned organizations that cannot afford high-end hardware and do not want to depend on hyperscale cloud providers. The project pairs"
+" a renewably powered GPU cluster with open software that lets organizations run their own, ethical compute."
+msgstr ""
+
+msgctxt "body.f9cce096-2ad2-4750-8f16-455867a8600d.accordion_items.20d4cf23-62ff-41ee-9e90-0a9b28df2313.content.42c66855-2b66-48ae-a4a9-acff605dce27"
+msgid ""
+"DAIR anchors the cohort by providing access to values-aligned infrastructure. Selected teams will train and run small, task-specific models on DAIR’s cluster instead of renting from a hyperscaler, "
+"and their work will shape how the platform develops. DAIR will then publish operator guides so that other communities can set up and govern infrastructure of their own."
+msgstr ""
+
+msgctxt "body.f9cce096-2ad2-4750-8f16-455867a8600d.accordion_items.20d4cf23-62ff-41ee-9e90-0a9b28df2313.content.42c66855-2b66-48ae-a4a9-acff605dce27"
+msgid ""
+"The cluster uses NVIDIA B300 servers in a renewably powered data center in Wellington, New Zealand. It runs Kaskazi Foundry, a Kubernetes-based platform that schedules workspaces, batch jobs, and "
+"model services while keeping each organization’s work isolated and within its allocation. DAIR will release Foundry under Apache 2.0 after an independent security audit."
+msgstr ""
+
+msgctxt "body.cca75f01-b982-4f68-aef0-d66b9e4dbb63.title"
+msgid "Learn more about Incubator"
+msgstr ""
+
+msgctxt "body.cca75f01-b982-4f68-aef0-d66b9e4dbb63.description"
+msgid ""
+"The Mozilla Foundation Incubator backs ambitious builders creating alternatives to today’s dominant technologies. The goal is to give these alternatives the runway to grow, endure, and reshape the "
+"technology landscape for the better."
+msgstr ""
+
+msgctxt "body.cca75f01-b982-4f68-aef0-d66b9e4dbb63.items.38febdca-6a42-47e7-a28d-249514f95a02.label"
+msgid "Discover what Incubator makes possible"
+msgstr ""
