@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 6898b6e8-7ddf-4d70-8604-d2eb9f3af47d\n"
 
 msgctxt "seo_title"
 msgid "Human-Scale AI Incubator"
@@ -15,6 +14,8 @@ msgstr "Inkubator sztucznej inteligencji dostosowanej do potrzeb człowieka"
 msgctxt "search_description"
 msgid "AI doesn’t have to come in only extra, extra large. Mozilla Foundation is investing in an alternative trajectory: small, tailored, intentional tech built with communities."
 msgstr ""
+"Sztuczna inteligencja nie musi występować wyłącznie w wersji ekstra dużej. Fundacja Mozilla inwestuje w alternatywną ścieżkę rozwoju – niewielkie, dostosowane do konkretnych potrzeb i świadomie "
+"projektowane technologie tworzone wspólnie ze społecznościami."
 
 msgctxt "title"
 msgid "Human-Scale AI"
@@ -26,7 +27,7 @@ msgstr "Sztuczna inteligencja dostosowana do potrzeb człowieka"
 
 msgctxt "body.0c697fb6-80d4-47c5-9e8f-5a4c181d26d0.left_column.742a33af-5544-4b6d-bb01-7e2d3968bcff.image.alt_text"
 msgid "Illustrated hand holding a mini data center"
-msgstr ""
+msgstr "Ilustracja przedstawiająca dłoń trzymającą miniaturowe centrum danych"
 
 msgctxt "body.0c697fb6-80d4-47c5-9e8f-5a4c181d26d0.right_column.5570e6c3-93c1-487e-aa2d-19c8c5a1c6fb"
 msgid "One size doesn't fit all."
@@ -63,7 +64,7 @@ msgstr ""
 
 msgctxt "body.66c7bcc5-1fb5-4cfa-b2f2-65e40138944a.left_column.9a7373f7-98ca-417e-b725-7374c787a55c"
 msgid "We know bigger isn't always better."
-msgstr ""
+msgstr "Wiemy, że większe nie zawsze znaczy lepsze."
 
 msgctxt "body.66c7bcc5-1fb5-4cfa-b2f2-65e40138944a.left_column.9a7373f7-98ca-417e-b725-7374c787a55c"
 msgid "Real breakthroughs happen when we build out instead of up. When AI is created for someone, not for everyone. When it's built to solve a real problem, not to sell you new ones."
@@ -108,7 +109,7 @@ msgstr ""
 
 msgctxt "body.66c7bcc5-1fb5-4cfa-b2f2-65e40138944a.right_column.e8a73bd6-3ea3-4b8a-b503-d1c0698977f6.image.alt_text"
 msgid "Computer mouse hovering over a finger print."
-msgstr ""
+msgstr "Mysz komputerowa unosząca się nad odciskiem palca."
 
 msgctxt "body.3900050f-c3d2-4758-b4f9-87d0da7626f3"
 msgid "Another trajectory for AI is possible. We’re funding it."
@@ -144,54 +145,8 @@ msgstr "Co motywuje was do pracy?"
 
 msgctxt "body.3900050f-c3d2-4758-b4f9-87d0da7626f3"
 msgid "Applications for the Human-Scale AI Incubator cohort are open now. The deadline to apply is Friday, November 20, 2026, at 11:59 p.m. Pacific Standard Time (UTC-8)."
-msgstr ""
+msgstr "Nabór wniosków do programu Human-Scale AI Incubator jest już otwarty. Termin zgłoszeń upływa w piątek, 20 listopada 2026 roku, o godzinie 23:59 czasu standardowego pacyficznego (UTC-8)."
 
 msgctxt "body.ef47be56-19fa-4426-8aaf-0d1c64fbea88.label"
 msgid "Read the call for proposals"
 msgstr "Przeczytaj zaproszenie do składania wniosków"
-
-#~ msgctxt "search_description"
-#~ msgid "AI doesn’t have to come in extra, extra large. Mozilla Foundation is investing in an alternative trajectory: small, tailored, intentional tech built with communities."
-#~ msgstr ""
-#~ "Sztuczna inteligencja nie musi być w rozmiarze 4XL. Fundacja Mozilla inwestuje w alternatywną ścieżkę rozwoju: małe, dostosowane do potrzeb i przemyślane rozwiązania technologiczne tworzone z "
-#~ "udziałem zwykłych ludzi."
-
-#~ msgctxt "hero_title"
-#~ msgid "One size does not fit all."
-#~ msgstr "Nie ma uniwersalnych rozwiązań."
-
-#~ msgctxt "body.0c697fb6-80d4-47c5-9e8f-5a4c181d26d0.right_column.eef383cf-2541-473a-afb0-779d85b830b3.image.alt_text"
-#~ msgid "placeholder-square-with-transparent-bleed-1200x1200"
-#~ msgstr "placeholder-square-with-transparent-bleed-1200x1200"
-
-#~ msgctxt "body.88f6e628-1b36-48fd-a0d0-7227df80bcb6.left_column.68962e90-65ca-49eb-9d34-f2d6b443df78"
-#~ msgid "At Mozilla Foundation, we know bigger isn't better."
-#~ msgstr "W Fundacji Mozilla wiemy, że więcej nie znaczy lepiej."
-
-#~ msgctxt "body.88f6e628-1b36-48fd-a0d0-7227df80bcb6.right_column.bc337102-842a-4133-a88d-1e86f52b6492.title"
-#~ msgid "Building AI made to fit?"
-#~ msgstr "Budujesz sztuczną inteligencję dostosowaną do konkretnych potrzeb?"
-
-#~ msgctxt "body.88f6e628-1b36-48fd-a0d0-7227df80bcb6.right_column.bc337102-842a-4133-a88d-1e86f52b6492.description"
-#~ msgid ""
-#~ "Mozilla Foundation's Human-Scale AI Incubator is funding seven projects with up to $500,000 each over three years. Applications close Friday, November 20, 2026 at 11:59 PM Pacific Standard Time "
-#~ "(UTC-8)."
-#~ msgstr ""
-#~ "Inkubator sztucznej inteligencji dostosowanej do potrzeb człowieka Fundacji Mozilla sfinansuje siedem projektów. Na każdy z nich przeznaczy do 500 000 dolarów w ciągu trzech lat. Termin składania "
-#~ "wniosków upływa w piątek, 20 listopada 2026 r., o godz. 23:59 czasu pacyficznego (UTC-8)."
-
-#~ msgctxt "body.88f6e628-1b36-48fd-a0d0-7227df80bcb6.right_column.bc337102-842a-4133-a88d-1e86f52b6492.items.4d04558f-1f18-411c-af88-c06dbd24178e.label"
-#~ msgid "Get Started"
-#~ msgstr "Zacznij już teraz"
-
-#~ msgctxt "body.23e7730a-298b-44e2-904c-84d09e2100ac.left_column.9d53f874-d93a-4a94-b052-b19145f4e575"
-#~ msgid "<b>What keeps you building?</b> Applications open now."
-#~ msgstr "<b>Co motywuje was do pracy?</b> Nabór wniosków już trwa."
-
-#~ msgctxt "body.23e7730a-298b-44e2-904c-84d09e2100ac.right_column.a576d1ad-5a18-4f9f-9232-508ddae7c198.image.alt_text"
-#~ msgid "placeholder-square-with-transparent-bleed-1200x1200"
-#~ msgstr "placeholder-square-with-transparent-bleed-1200x1200"
-
-#~ msgctxt "body.2786cf8c-a454-452b-9ff1-d9348a99e3c9.label"
-#~ msgid "Read the Call for Proposals"
-#~ msgstr "Przeczytaj zaproszenie do składania wniosków"
