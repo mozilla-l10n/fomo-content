@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 2eceb5a5-039f-4779-a98d-021a8d08625d\n"
 
 msgctxt "seo_title"
 msgid "Human-Scale AI: Call for proposals FAQs"
@@ -14,7 +13,7 @@ msgstr "IA em Escala Humana: Perguntas frequentes sobre a chamada de propostas"
 
 msgctxt "search_description"
 msgid "Submitting a proposal for Human-Scale AI? Explore our frequently asked questions."
-msgstr ""
+msgstr "Vai submeter sua proposta à IA em Escala Humana? Confira nossas perguntas frequentes."
 
 msgctxt "title"
 msgid "Frequently asked questions"
@@ -62,30 +61,34 @@ msgstr "Perguntas gerais"
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.title"
 msgid "Should I apply to the Fellowship or the Incubator?"
-msgstr ""
+msgstr "Devo me candidatar ao Programa de bolsas ou à Incubadora?"
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid "It depends."
-msgstr ""
+msgstr "Depende."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid ""
 "The <a id=\"a1\">Fellowship</a> funds individuals. It backs ideas that are too early, too unexpected, or too ambitious for anyone else to fund, across this year’s focus areas. Working technology and"
 " users are welcome, but not required."
 msgstr ""
+"O <a id=\"a1\">Programa de bolsas</a> financia indivíduos. Ele apoia ideias que são pioneiras, inovadoras ou ambiciosas demais para obter financiamento de outras fontes, desde que se enquadrem nas "
+"áreas prioritárias deste ano. Soluções tecnológicas funcionais e usuários são bem-vindos, mas não são requisitos obrigatórios."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid "The <a id=\"a1\">Incubator</a> funds teams and projects. It backs products that already work, have users, and are ready to grow, within a single cohort theme."
-msgstr ""
+msgstr "A <a id=\"a1\">Incubadora</a> financia equipes e projetos. Ela apoia produtos que já estão funcionando, têm usuários e estão prontos para crescer, dentro de um único tema da turma."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid ""
 "If you are an individual with an idea in one of our Fellowship focus areas, apply to the Fellowship. If you are a team with a working product that fits this cohort’s theme, apply to the Incubator."
 msgstr ""
+"Se você tem uma ideia alinhada a uma das áreas prioritárias do nosso Programa de bolsas, inscreva-se no programa. Se você faz parte de uma equipe com um produto funcional que se enquadra no tema "
+"desta turma, inscreva-se na Incubadora."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid "You can also apply to both!"
-msgstr ""
+msgstr "Você também pode se candidatar para ambos!"
 
 msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.585282bb-2e40-4c3d-ab6b-1abfcc53b473.title"
 msgid "When will I hear back about my proposal? Can you give me an update on my application?"
@@ -293,7 +296,7 @@ msgstr ""
 
 msgctxt "body.0b9c5494-b0fd-4381-a3e6-e1fb5bf6dccf.accordion_items.a7463e08-bc86-4a35-a13d-9f1c2772ba78.title"
 msgid "What is \"product-community fit,\" and do I need to have achieved it already?"
-msgstr "O que é \"adequação do produto à comunidade\"? Eu preciso já ter alcançado esse estágio?"
+msgstr "O que é \"product-community fit\"? Eu preciso já ter alcançado esse estágio?"
 
 msgctxt "body.0b9c5494-b0fd-4381-a3e6-e1fb5bf6dccf.accordion_items.a7463e08-bc86-4a35-a13d-9f1c2772ba78.content.e83a1ee7-1488-44ef-ab3b-9f8cd52b241c"
 msgid ""
@@ -323,7 +326,3 @@ msgstr "As inscrições se encerram na sexta-feira, 20 de novembro de 2026, às 
 msgctxt "body.08a568ae-8732-40d0-865b-d51c33406f27.items.5657cdc7-74bc-4050-808f-a1878f144f88.label"
 msgid "Dive back in"
 msgstr "Voltar ao conteúdo"
-
-#~ msgctxt "search_description"
-#~ msgid "lorem-0x"
-#~ msgstr "lorem-0x"
