@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 88d5f525-7598-4435-b96c-aae07fae16bb\n"
 
 msgctxt "seo_title"
 msgid "Human-Scale AI: Call for proposals FAQs"
@@ -14,7 +13,7 @@ msgstr "IA a escala humana: preguntas frecuentes sobre la convocatoria de propue
 
 msgctxt "search_description"
 msgid "Submitting a proposal for Human-Scale AI? Explore our frequently asked questions."
-msgstr ""
+msgstr "¿Vas a presentar una propuesta sobre IA a escala humana? Consulta nuestras preguntas frecuentes."
 
 msgctxt "title"
 msgid "Frequently asked questions"
@@ -62,30 +61,34 @@ msgstr "Preguntas generales"
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.title"
 msgid "Should I apply to the Fellowship or the Incubator?"
-msgstr ""
+msgstr "¿Debería postularme para la beca o para la incubadora?"
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid "It depends."
-msgstr ""
+msgstr "Depende."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid ""
 "The <a id=\"a1\">Fellowship</a> funds individuals. It backs ideas that are too early, too unexpected, or too ambitious for anyone else to fund, across this year’s focus areas. Working technology and"
 " users are welcome, but not required."
 msgstr ""
+"La <a id=\"a1\">beca</a> financia a personas. Apoya ideas que son demasiado anticipadas, demasiado inesperadas o demasiado ambiciosas para que nadie más las financie, dentro de las áreas de interés "
+"de este año. Se aceptan tecnologías funcionales y con usuarios, pero esto no es obligatorio."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid "The <a id=\"a1\">Incubator</a> funds teams and projects. It backs products that already work, have users, and are ready to grow, within a single cohort theme."
-msgstr ""
+msgstr "La <a id=\"a1\">incubadora</a> financia a equipos y proyectos. Apoya productos que ya funcionan, tienen usuarios y están listos para crecer, dentro del tema de una única cohorte."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid ""
 "If you are an individual with an idea in one of our Fellowship focus areas, apply to the Fellowship. If you are a team with a working product that fits this cohort’s theme, apply to the Incubator."
 msgstr ""
+"Si eres una persona que tiene una idea dentro de una de las áreas de interés de la beca, postúlate a la beca. Si eres un equipo que tiene un producto funcional que encaja con el tema de esta "
+"cohorte, postúlate a la incubadora."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid "You can also apply to both!"
-msgstr ""
+msgstr "¡También puedes postularte para ambas!"
 
 msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.585282bb-2e40-4c3d-ab6b-1abfcc53b473.title"
 msgid "When will I hear back about my proposal? Can you give me an update on my application?"
@@ -327,7 +330,3 @@ msgstr "Las solicitudes se cierran el viernes 20 de noviembre de 2026 a las 11:5
 msgctxt "body.08a568ae-8732-40d0-865b-d51c33406f27.items.5657cdc7-74bc-4050-808f-a1878f144f88.label"
 msgid "Dive back in"
 msgstr "Sumérgete"
-
-#~ msgctxt "search_description"
-#~ msgid "lorem-0x"
-#~ msgstr "lorem-0x"

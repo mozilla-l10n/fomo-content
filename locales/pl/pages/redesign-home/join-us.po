@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: cb9dc675-aa21-4fff-a6bc-c8b02b58f5c7\n"
 
 msgctxt "seo_title"
 msgid "Join us: Apply, connect, and give"
@@ -27,7 +26,7 @@ msgstr "Lepsza przyszłość technologii wciąż jest w naszych rękach."
 
 msgctxt "hero_description"
 msgid "It starts with people rethinking what technology can be. Join us to take your ideas further."
-msgstr ""
+msgstr "Wszystko zaczyna się od przemyślenia na nowo, czym może być technologia. Dołącz do nas, aby rozwijać swoje pomysły."
 
 msgctxt "body.bfc201a1-922c-4045-bec9-b9ee3a6343ff"
 msgid "Funding opportunities"
@@ -47,7 +46,7 @@ msgstr "i dowiadywać się o nowych naborach, gdy tylko zostaną ogłoszone."
 
 msgctxt "body.5fe7d5d5-6283-445d-9a27-25c6801c1e64.left_column.ced6741c-30cd-482e-9a49-9027545b92c1"
 msgid "Human-Scale AI Incubator"
-msgstr "Human-Scale AI Incubator"
+msgstr "Inkubator sztucznej inteligencji zorientowanej na człowieka"
 
 msgctxt "body.5fe7d5d5-6283-445d-9a27-25c6801c1e64.left_column.ced6741c-30cd-482e-9a49-9027545b92c1"
 msgid "Mozilla Foundation is investing in an alternative trajectory for AI. We call it Human-Scale AI: bespoke, fit-for-purpose technology designed at the scale of the problem it’s meant to solve."
@@ -58,6 +57,8 @@ msgstr ""
 msgctxt "body.5fe7d5d5-6283-445d-9a27-25c6801c1e64.left_column.ced6741c-30cd-482e-9a49-9027545b92c1"
 msgid "We’ll fund seven projects with up to $500,000 each over three years. <b>Applications close Friday, November 20, 2026 at 11:59 PM Pacific (UTC-8).</b>"
 msgstr ""
+"Sfinansujemy siedem projektów kwotą do 500 000 USD na każdy z nich w okresie trzech lat. <b>Termin składania wniosków upływa w piątek, 20 listopada 2026 r., o godzinie 23:59 czasu pacyficznego "
+"(UTC-8).</b>"
 
 msgctxt "body.5fe7d5d5-6283-445d-9a27-25c6801c1e64.right_column.652bb4d9-d404-4d00-a920-5bf272cd72cd.label"
 msgid "Apply to the Incubator"
@@ -65,21 +66,25 @@ msgstr "Zgłoś projekt do programu Incubator"
 
 msgctxt "body.09ed29e2-1d64-4c36-a26a-f98491e541b7.left_column.f799c6b8-e0a0-448b-bfb1-bc94cd406d84"
 msgid "Fellowships"
-msgstr ""
+msgstr "Stypendia"
 
 msgctxt "body.09ed29e2-1d64-4c36-a26a-f98491e541b7.left_column.f799c6b8-e0a0-448b-bfb1-bc94cd406d84"
 msgid "Mozilla Foundation is backing extraordinary people at the edges of human imagination, working on technology that’s too early, too unexpected, or too ambitious for anyone else to fund."
 msgstr ""
+"Fundacja Mozilla wspiera niezwykłych ludzi, którzy przekraczają granice ludzkiej wyobraźni, pracując nad technologią, która jest zbyt wczesna, zbyt nieoczekiwana lub zbyt ambitna, aby ktokolwiek "
+"inny chciał ją finansować."
 
 msgctxt "body.09ed29e2-1d64-4c36-a26a-f98491e541b7.left_column.f799c6b8-e0a0-448b-bfb1-bc94cd406d84"
 msgid ""
 "We’ll fund 10 Fellows with up to $125,000 each over 12 months, plus access to a global network of more than 200 Fellows. <b>Applications close Applications close Thursday, December 17, 2026 at 11:59"
 " PM Pacific Standard Time (UTC-8).</b>"
 msgstr ""
+"Sfinansujemy 10 stypendystów kwotą do 125 000 USD na każdego z nich w ciągu 12 miesięcy, a także zapewnimy im dostęp do globalnej sieci liczącej ponad 200 stypendystów. <b>Termin składania zgłoszeń "
+"upływa w czwartek, 17 grudnia 2026 r., o godzinie 23:59 czasu pacyficznego (UTC-8).</b>"
 
 msgctxt "body.09ed29e2-1d64-4c36-a26a-f98491e541b7.right_column.c553fed4-b8f0-4227-b868-4edef2649c2c.label"
 msgid "Apply to Fellowships"
-msgstr ""
+msgstr "Zgłoś się do programu stypendialnego"
 
 msgctxt "body.638cb47c-36a3-4070-92d2-11b9c3cc2b8c"
 msgid "Opportunities to connect"
@@ -126,16 +131,8 @@ msgid "Bluesky"
 msgstr "Bluesky"
 
 msgctxt "body.01ff76de-8e7a-43b3-99f5-9e0a31c79df7.right_column.a1c537c0-1a98-4f06-b200-245eab07f3e0"
-msgid ","
-msgstr ","
-
-msgctxt "body.01ff76de-8e7a-43b3-99f5-9e0a31c79df7.right_column.a1c537c0-1a98-4f06-b200-245eab07f3e0"
 msgid "Instagram"
 msgstr "Instagramie"
-
-msgctxt "body.01ff76de-8e7a-43b3-99f5-9e0a31c79df7.right_column.a1c537c0-1a98-4f06-b200-245eab07f3e0"
-msgid ","
-msgstr ","
 
 msgctxt "body.01ff76de-8e7a-43b3-99f5-9e0a31c79df7.right_column.a1c537c0-1a98-4f06-b200-245eab07f3e0"
 msgid "LinkedIn"
@@ -206,150 +203,9 @@ msgid ""
 "A better future won’t just be built by billionaires. Mozilla Foundation Fellows start with a problem worth solving and build the alternative in the open. Where it goes next, a protocol, a public "
 "institution or a company, is theirs to decide. They’re already imagining what’s possible and making it happen."
 msgstr ""
+"Lepszej przyszłości nie zbudują sami miliarderzy. Stypendyści Fundacji Mozilli zaczynają od problemu, który warto rozwiązać, i tworzą alternatywę w sposób otwarty. To oni decydują, co będzie dalej –"
+" czy powstanie protokół, instytucja publiczna, czym może firma. Już teraz wyobrażają sobie, co jest możliwe, i realizują swoje wizje."
 
 msgctxt "body.658834ec-f591-4f1a-be8b-7699c7fee406.items.d9e0678a-f7e8-44f9-b4b6-c5c0b45f8c39.label"
 msgid "Imagine With Us"
 msgstr "Szukaj pomysłów razem z nami"
-
-#~ msgctxt "body.5fe7d5d5-6283-445d-9a27-25c6801c1e64.left_column.ced6741c-30cd-482e-9a49-9027545b92c1"
-#~ msgid "We’ll fund seven projects with up to $500,000 each over three years. <b>Applications close Friday, November 20, 2026 at 11:59 p.m. Pacific Standard Time (UTC-8).</b>"
-#~ msgstr ""
-#~ "Sfinansujemy siedem projektów, każdy kwotą do 500 000 dolarów, w okresie trzech lat. <b>Zgłoszenia przyjmujemy do piątku, 20 listopada 2026 roku, do godziny 23:59 czasu standardowego pacyficznego "
-#~ "(UTC-8).</b>"
-
-#~ msgctxt "body.658834ec-f591-4f1a-be8b-7699c7fee406.description"
-#~ msgid "A better future won’t just be built by billionaires. Mozilla Fellows start with a problem, not profit or an IPO. They’re already imagining what’s possible and making it happen."
-#~ msgstr ""
-#~ "Lepszej przyszłości nie zbudują sami miliarderzy. Stypendyści Mozilli zaczynają od problemu, a nie od zysku czy debiutu giełdowego. Już teraz wyobrażają sobie, co jest możliwe, i urzeczywistniają te"
-#~ " wizje."
-
-#~ msgctxt "seo_title"
-#~ msgid "Drive Change with Mozilla Foundation"
-#~ msgstr "Bądź motorem zmian razem z Fundacją Mozilla"
-
-#~ msgctxt "search_description"
-#~ msgid "The Internet is built by people like you. Join Mozilla Foundation and make technology a force for good."
-#~ msgstr "Internet tworzą ludzie tacy jak Ty. Dołącz do Fundacji Mozilla i twórz z nami technologię, która służy do dobrych celów."
-
-#~ msgctxt "title"
-#~ msgid "Join Us"
-#~ msgstr "Dołącz do nas"
-
-#~ msgctxt "hero_title"
-#~ msgid "Drive change with us"
-#~ msgstr "Bądź motorem zmian razem z nami"
-
-#~ msgctxt "hero_description"
-#~ msgid "The Internet is built by people like you. Join us."
-#~ msgstr "Internet tworzą ludzie tacy jak Ty. Dołącz do nas."
-
-#~ msgctxt "body.cdb6b990-dd96-4bcc-8ee7-6e940cfa3f2c.left_column.c1d07733-164c-4447-a921-f28138c278b0"
-#~ msgid "We’re not waiting for a better tech future. We’re building it—together."
-#~ msgstr "Nie czekamy na lepszą przyszłość technologii. My ją kształtujemy – wspólnie."
-
-#~ msgctxt "body.cdb6b990-dd96-4bcc-8ee7-6e940cfa3f2c.left_column.c1d07733-164c-4447-a921-f28138c278b0"
-#~ msgid "At Mozilla Foundation, we believe the Internet should lift us all. It should be safe, open, and shaped by the people who use it. That means people like you."
-#~ msgstr "Fundacja Mozilla jest przekonana, że Internet powinien dodawać nam wszystkim skrzydeł. Powinien być bezpieczny, otwarty i kształtowany przez użytkowników. Czyli osoby takie jak Ty."
-
-#~ msgctxt "body.cdb6b990-dd96-4bcc-8ee7-6e940cfa3f2c.left_column.c1d07733-164c-4447-a921-f28138c278b0"
-#~ msgid ""
-#~ "By joining our community, you’re adding your voice to a movement that’s making good the default. You’ll help advance digital rights, support trustworthy technology, and stand for an internet where "
-#~ "everyone can create, connect, and thrive."
-#~ msgstr ""
-#~ "Dołączając do naszej społeczności, opowiesz się po stronie ruchu, dla którego dobro jest „opcją domyślną”. Pomożesz nam promować prawa cyfrowe, wspierać godną zaufania technologię i stać na straży "
-#~ "Internetu, w którym każdy może tworzyć, nawiązywać kontakty i rozwijać się."
-
-#~ msgctxt "body.cdb6b990-dd96-4bcc-8ee7-6e940cfa3f2c.left_column.c1d07733-164c-4447-a921-f28138c278b0"
-#~ msgid "You don’t need to be a coder to make change. You just need to care about the future—and get involved."
-#~ msgstr "Nie musisz umieć kodować, aby coś zmienić. Wystarczy, że zależy Ci na przyszłości i zaczniesz działać."
-
-#~ msgctxt "body.cdb6b990-dd96-4bcc-8ee7-6e940cfa3f2c.left_column.c1d07733-164c-4447-a921-f28138c278b0"
-#~ msgid "Add your voice and take a stand on how technology should impact your life. Make good the new default."
-#~ msgstr "Zabierz głos w sprawie wpływu technologii na Twoje życie. Dobro powinno być „opcją domyślną”."
-
-#~ msgctxt "body.cdb6b990-dd96-4bcc-8ee7-6e940cfa3f2c.right_column.33d0ea27-8561-409a-8436-d0acacb60cdc.quote"
-#~ msgid "We’re building what’s next—with you. Let’s make sure technology serves people, not power."
-#~ msgstr "Kształtujemy przyszłość – razem z Tobą. Pomóż nam dopilnować, aby technologia służyła ludziom, a nie władzy."
-
-#~ msgctxt "body.cdb6b990-dd96-4bcc-8ee7-6e940cfa3f2c.right_column.33d0ea27-8561-409a-8436-d0acacb60cdc.attribution"
-#~ msgid "Nabiha Syed"
-#~ msgstr "Nabiha Syed"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.7a923e49-bc2d-43a1-83bc-901b0c4e17ef.title"
-#~ msgid "Defend Encryption"
-#~ msgstr "Na straży szyfrowania"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.7a923e49-bc2d-43a1-83bc-901b0c4e17ef.text"
-#~ msgid ""
-#~ "Our private conversations, personal data, and digital security, must be safeguarded. Across the globe, numerous governments are weakening encryption, the essential technology that secures all of our"
-#~ " information."
-#~ msgstr ""
-#~ "Nasze prywatne rozmowy, dane osobowe i bezpieczeństwo cyfrowe muszą być odpowiednio chronione. Rządy różnych krajów na całym świecie osłabiają działanie rozwiązań szyfrujących, czyli niezbędnej "
-#~ "technologii, która zabezpiecza wszystkie nasze dane."
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.7a923e49-bc2d-43a1-83bc-901b0c4e17ef.image.alt_text"
-#~ msgid "A person's silhoutte in front of a digital screen"
-#~ msgstr "Sylwetka postaci na tle cyfrowego ekranu"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.7a923e49-bc2d-43a1-83bc-901b0c4e17ef.link.label"
-#~ msgid "Add your name"
-#~ msgstr "Podpisz petycję"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.cf67c3b4-a483-4c3f-8dda-bf7db3ba1f72.title"
-#~ msgid "March 2026 | Meta: Don't Remove Encryption for Instagram DMs"
-#~ msgstr "Marzec 2026 r. | Meta: Nie usuwajcie szyfrowania wiadomości prywatnych na Instagramie"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.cf67c3b4-a483-4c3f-8dda-bf7db3ba1f72.title"
-#~ msgid "Tinder &amp; Duolingo: Stop Feeding Surveillance"
-#~ msgstr "Do Tindera i Duolingo: przestańcie zasilać technologie inwigilacyjne"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.cf67c3b4-a483-4c3f-8dda-bf7db3ba1f72.text"
-#~ msgid ""
-#~ "Meta has quietly said it will end support for encrypted messaging on Instagram by May 2026. Encryption helps ensure that your messages stay between you and the person with whom you're communicating."
-#~ msgstr ""
-#~ "Firma Meta po cichu ogłosiła, że do maja 2026 r. zaprzestanie obsługi szyfrowanych wiadomości na Instagramie. Dzięki szyfrowaniu masz pewność, że wiadomości prywatne będą widoczne tylko dla Ciebie i"
-#~ " Twojego rozmówcy."
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.cf67c3b4-a483-4c3f-8dda-bf7db3ba1f72.text"
-#~ msgid "The websites and services we trust for shopping, socializing, and learning shouldn’t be tools for surveillance."
-#~ msgstr "Witryny internetowe i usługi, którym ufamy i z których korzystamy na potrzeby zakupów, kontaktu z innymi oraz nauki, nie powinny służyć jako narzędzia do inwigilacji."
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.cf67c3b4-a483-4c3f-8dda-bf7db3ba1f72.image.alt_text"
-#~ msgid "A image of a video camera with a concrete background"
-#~ msgstr "Zdjęcie przedstawiające kamerę wideo namalowaną na betonowej ścianie"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.cf67c3b4-a483-4c3f-8dda-bf7db3ba1f72.link.label"
-#~ msgid "Speak up now"
-#~ msgstr "Zabierz głos teraz"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.7502ece9-3aa4-4a88-b871-9e441b57968e.title"
-#~ msgid "Car Companies: Stop Huge Data Collection"
-#~ msgstr "Do firm samochodowych: wstrzymajcie gromadzenie ogromnych ilości danych"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.7502ece9-3aa4-4a88-b871-9e441b57968e.text"
-#~ msgid "Your car might be collecting your deeply personal data."
-#~ msgstr "Możliwe, że Twój samochód gromadzi wyjątkowo osobiste informacje na Twój temat."
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.7502ece9-3aa4-4a88-b871-9e441b57968e.image.alt_text"
-#~ msgid "An image of the word data printed on a pane of glass"
-#~ msgstr "Zdjęcie przedstawiające napis „DATA” naklejony na szybę"
-
-#~ msgctxt "body.f324abcb-d03a-4975-bce7-5a3de9d34235.cards.7502ece9-3aa4-4a88-b871-9e441b57968e.link.label"
-#~ msgid "Read more"
-#~ msgstr "Czytaj więcej"
-
-#~ msgctxt "body.23e4ed41-23e6-4ff8-89dc-594e0955fc10.left_column.980f6aff-9fdd-4825-8c28-cc35450f742d.title"
-#~ msgid "Take Action"
-#~ msgstr "Działaj"
-
-#~ msgctxt "body.23e4ed41-23e6-4ff8-89dc-594e0955fc10.left_column.980f6aff-9fdd-4825-8c28-cc35450f742d.items.05b14d43-da6d-4105-8a44-a29a8802b29e.label"
-#~ msgid "Donate now"
-#~ msgstr "Wpłać datek teraz"
-
-#~ msgctxt "body.23e4ed41-23e6-4ff8-89dc-594e0955fc10.left_column.980f6aff-9fdd-4825-8c28-cc35450f742d.items.28dbab76-1a0e-44d5-893b-af15eb8dceb0.label"
-#~ msgid "Stay in the know"
-#~ msgstr "Bądź na bieżąco"
-
-#~ msgctxt "body.23e4ed41-23e6-4ff8-89dc-594e0955fc10.left_column.980f6aff-9fdd-4825-8c28-cc35450f742d.items.afbc154f-0e64-42f3-b48d-16790b674c1c.label"
-#~ msgid "Add your voice"
-#~ msgstr "Dodaj swój głos"
