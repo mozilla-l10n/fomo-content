@@ -6,7 +6,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
-"X-WagtailLocalize-TranslationID: ea6e084f-bdd4-47d7-a1c2-f7f70357497c\n"
 
 msgctxt "seo_title"
 msgid "Human-Scale AI: Call for proposals FAQs"
@@ -14,7 +13,7 @@ msgstr "Human-Scale AI: najczęściej zadawane pytania dotyczące naboru wniosk�
 
 msgctxt "search_description"
 msgid "Submitting a proposal for Human-Scale AI? Explore our frequently asked questions."
-msgstr ""
+msgstr "Chcesz przesłać propozycję dotyczącą sztucznej inteligencji zorientowanej na człowieka? Zapoznaj się z naszymi często zadawanymi pytaniami."
 
 msgctxt "title"
 msgid "Frequently asked questions"
@@ -62,30 +61,34 @@ msgstr "Pytania ogólne"
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.title"
 msgid "Should I apply to the Fellowship or the Incubator?"
-msgstr ""
+msgstr "Czy powinienem/powinnam ubiegać się o udział w programie stypendialnym czy w inkubatorze?"
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid "It depends."
-msgstr ""
+msgstr "To zależy."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid ""
 "The <a id=\"a1\">Fellowship</a> funds individuals. It backs ideas that are too early, too unexpected, or too ambitious for anyone else to fund, across this year’s focus areas. Working technology and"
 " users are welcome, but not required."
 msgstr ""
+"<a id=\"a1\">Program stypendialny</a> finansuje osoby fizyczne. Wspiera pomysły, które są zbyt wczesne, zbyt nieoczekiwane lub zbyt ambitne, aby ktokolwiek inny mógł je sfinansować, w obszarach "
+"priorytetowych na ten rok. Działająca technologia i użytkownicy są mile widziani, ale nie są wymagani."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid "The <a id=\"a1\">Incubator</a> funds teams and projects. It backs products that already work, have users, and are ready to grow, within a single cohort theme."
-msgstr ""
+msgstr "<a id=\"a1\">Inkubator</a> finansuje zespoły i projekty. Wspiera produkty, które już działają, mają użytkowników i są gotowe do rozwoju, w ramach jednego tematu grupy."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid ""
 "If you are an individual with an idea in one of our Fellowship focus areas, apply to the Fellowship. If you are a team with a working product that fits this cohort’s theme, apply to the Incubator."
 msgstr ""
+"Jeśli jesteś osobą, która ma pomysł związany z jednym z obszarów zainteresowania programu stypendialnego, zgłoś się do programu stypendialnego. Jeśli jesteście zespołem z działającym produktem, "
+"który pasuje do tematu danej grupy, zgłoście się do inkubatora."
 
 msgctxt "body.298e4691-6cd9-4269-92d4-1e8b2911449c.accordion_items.f74dad43-c64c-4483-b7ec-41c868e55841.content.f8ebfc0e-f949-46f9-ba81-6d8fb25322a8"
 msgid "You can also apply to both!"
-msgstr ""
+msgstr "Możesz też zgłosić się do obu!"
 
 msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.585282bb-2e40-4c3d-ab6b-1abfcc53b473.title"
 msgid "When will I hear back about my proposal? Can you give me an update on my application?"
@@ -262,7 +265,7 @@ msgstr "Wszystkie projekty powinny uwzględniać <b>wszystkie trzy</b> poniższe
 
 msgctxt "body.0b9c5494-b0fd-4381-a3e6-e1fb5bf6dccf.accordion_items.d8051aa9-b8a6-4ce7-a064-bf2dbbe81146.content.651e854b-336c-41d3-97ae-b21005db0155"
 msgid "Small"
-msgstr "Niewielki rozmiar"
+msgstr "Mała"
 
 msgctxt "body.0b9c5494-b0fd-4381-a3e6-e1fb5bf6dccf.accordion_items.d8051aa9-b8a6-4ce7-a064-bf2dbbe81146.content.651e854b-336c-41d3-97ae-b21005db0155"
 msgid ""
@@ -275,7 +278,7 @@ msgstr ""
 
 msgctxt "body.0b9c5494-b0fd-4381-a3e6-e1fb5bf6dccf.accordion_items.d8051aa9-b8a6-4ce7-a064-bf2dbbe81146.content.651e854b-336c-41d3-97ae-b21005db0155"
 msgid "Intentional"
-msgstr "Celowość"
+msgstr "Intencjonalna"
 
 msgctxt "body.0b9c5494-b0fd-4381-a3e6-e1fb5bf6dccf.accordion_items.d8051aa9-b8a6-4ce7-a064-bf2dbbe81146.content.651e854b-336c-41d3-97ae-b21005db0155"
 msgid "AI systems designed to give users, communities, and creators greater agency and more control over how their personal data and intellectual property are used."
@@ -284,7 +287,7 @@ msgstr ""
 
 msgctxt "body.0b9c5494-b0fd-4381-a3e6-e1fb5bf6dccf.accordion_items.d8051aa9-b8a6-4ce7-a064-bf2dbbe81146.content.651e854b-336c-41d3-97ae-b21005db0155"
 msgid "Tailored"
-msgstr "Dostosowanie do potrzeb"
+msgstr "Dopasowana"
 
 msgctxt "body.0b9c5494-b0fd-4381-a3e6-e1fb5bf6dccf.accordion_items.d8051aa9-b8a6-4ce7-a064-bf2dbbe81146.content.651e854b-336c-41d3-97ae-b21005db0155"
 msgid "AI systems that take a fit-for-purpose approach to design, addressing specific problems, communities, and contexts rather than trying to appeal to every possible user."
@@ -323,7 +326,3 @@ msgstr "Nabór wniosków kończy się w piątek, 20 listopada 2026 r., o godzini
 msgctxt "body.08a568ae-8732-40d0-865b-d51c33406f27.items.5657cdc7-74bc-4050-808f-a1878f144f88.label"
 msgid "Dive back in"
 msgstr "Wróć do tematu"
-
-#~ msgctxt "search_description"
-#~ msgid "lorem-0x"
-#~ msgstr "lorem-0x"
