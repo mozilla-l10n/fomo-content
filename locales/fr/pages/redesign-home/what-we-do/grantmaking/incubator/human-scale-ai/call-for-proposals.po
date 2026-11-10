@@ -317,8 +317,10 @@ msgid "Generic chatbot applications that apply existing AI capabilities to a new
 msgstr "Des applications de discussion automatisée génériques qui adaptent des capacités d’IA existantes à un nouveau sujet ou à un nouveau public."
 
 msgctxt "body.9ead5a3f-f999-4699-8957-29c812f9319e.accordion_items.4aba14a4-5852-454a-9475-02bd461d251c.content.d1ba635e-5c17-41cd-996b-1d3c38864d20"
-msgid "Projects whose core functionality depends on a frontier-model or a slimmed-down version of a frontier model (e.g.Llama 1B or 3B)."
-msgstr "Des projets dont les fonctionnalités principales reposent sur un modèle d’IA de pointe (frontier model) ou sur une version allégée d’un tel modèle (p. ex., Llama 1B ou 3B)."
+msgid ""
+"Projects that use a frontier-class model when a 7B model will do. We're looking for projects that make efficient use of compute, instead of just calling GPT-6/Claude or another large model. We "
+"expect your application to detail what model(s) you are using and why these are the right size for the problems you're aiming to solve."
+msgstr ""
 
 msgctxt "body.9ead5a3f-f999-4699-8957-29c812f9319e.accordion_items.39bf9905-4e98-447f-98fb-ac2d4c23edb8.title"
 msgid "What success looks like"
@@ -842,6 +844,10 @@ msgstr "Andrew Tergis, <a id=\"a1\">Current AI</a>"
 #~ msgctxt "body.df28a458-363e-467c-8ac3-35027628f085"
 #~ msgid "Building a different type of technology requires a different kind of funding with different incentives—that’s where we come in."
 #~ msgstr "Développer une autre vision de la technologie exige un modèle de financement différent, qui repose sur d’autres objectifs. C’est là que nous intervenons."
+
+#~ msgctxt "body.9ead5a3f-f999-4699-8957-29c812f9319e.accordion_items.4aba14a4-5852-454a-9475-02bd461d251c.content.d1ba635e-5c17-41cd-996b-1d3c38864d20"
+#~ msgid "Projects whose core functionality depends on a frontier-model or a slimmed-down version of a frontier model (e.g.Llama 1B or 3B)."
+#~ msgstr "Des projets dont les fonctionnalités principales reposent sur un modèle d’IA de pointe (frontier model) ou sur une version allégée d’un tel modèle (p. ex., Llama 1B ou 3B)."
 
 #~ msgctxt "body.9394499e-f0e0-4fda-b4a0-6af49f8a9139.right_column.d202cecc-ff42-445a-853c-2fac0c62a8c1"
 #~ msgid "Save the Date: Info Session"

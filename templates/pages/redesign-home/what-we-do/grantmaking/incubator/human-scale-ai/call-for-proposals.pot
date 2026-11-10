@@ -253,7 +253,9 @@ msgid "Generic chatbot applications that apply existing AI capabilities to a new
 msgstr ""
 
 msgctxt "body.9ead5a3f-f999-4699-8957-29c812f9319e.accordion_items.4aba14a4-5852-454a-9475-02bd461d251c.content.d1ba635e-5c17-41cd-996b-1d3c38864d20"
-msgid "Projects whose core functionality depends on a frontier-model or a slimmed-down version of a frontier model (e.g.Llama 1B or 3B)."
+msgid ""
+"Projects that use a frontier-class model when a 7B model will do. We're looking for projects that make efficient use of compute, instead of just calling GPT-6/Claude or another large model. We "
+"expect your application to detail what model(s) you are using and why these are the right size for the problems you're aiming to solve."
 msgstr ""
 
 msgctxt "body.9ead5a3f-f999-4699-8957-29c812f9319e.accordion_items.39bf9905-4e98-447f-98fb-ac2d4c23edb8.title"
