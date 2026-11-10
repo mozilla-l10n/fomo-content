@@ -1890,24 +1890,19 @@ l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/priya-goswami.p
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.pot"
-l10n = "locales/{locale}/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.po"
+reference = "templates/pages/homepage/blog/slack-microsoft-teams-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/slack-microsoft-teams-privacy.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/slack-microsoft-teams-privacy.pot"
-l10n = "locales/{locale}/pages/homepage/blog/slack-microsoft-teams-privacy.po"
+reference = "templates/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.pot"
+l10n = "locales/{locale}/pages/homepage/blog/mozillas-vision-for-trustworthy-ai.po"
 locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/46-youtube-feedback-controls.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/46-youtube-feedback-controls.po"
 locales = [ "de", "es", "fr", "nl", "pt-BR",]
-
-[[paths]]
-reference = "templates/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.po"
-locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/tracy-chou-privacy-party.pot"
@@ -1923,6 +1918,11 @@ locales = [ "de", "es", "fr", "pt-BR",]
 reference = "templates/snippets/wagtailpages.DonationModal/56-amazon-ring.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/56-amazon-ring.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/tiktok-bring-in-ad-transparency-now.po"
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/campaigns/crowdtangle-petition.pot"
@@ -1950,11 +1950,6 @@ l10n = "locales/{locale}/pages/redesign-home/what-we-do/mobilize/roya-pakzad.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/redesign-home/meet-mozilla/expert-hub/rudy-fraser.pot"
-l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/rudy-fraser.po"
-locales = [ "de", "es", "fr", "pl", "pt-BR",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/ai-internet-carbon-footprint.pot"
 l10n = "locales/{locale}/pages/homepage/blog/ai-internet-carbon-footprint.po"
 locales = [ "de", "es", "fr",]
@@ -1962,6 +1957,11 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/snippets/wagtailpages.DonationModal/65-microsoft-ai-training.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.DonationModal/65-microsoft-ai-training.po"
+locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/redesign-home/meet-mozilla/expert-hub/rudy-fraser.pot"
+l10n = "locales/{locale}/pages/redesign-home/meet-mozilla/expert-hub/rudy-fraser.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
@@ -1975,14 +1975,14 @@ l10n = "locales/{locale}/pages/homepage/campaigns/microsoft-ai.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
 
 [[paths]]
-reference = "templates/pages/homepage/campaigns/youtube-regrets-about.pot"
-l10n = "locales/{locale}/pages/homepage/campaigns/youtube-regrets-about.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/homepage/blog/investigation-every-tech-giants-ad-oversight-tools-fall-short-in-historic-election-year.pot"
 l10n = "locales/{locale}/pages/homepage/blog/investigation-every-tech-giants-ad-oversight-tools-fall-short-in-historic-election-year.po"
 locales = [ "de", "es", "fr", "pl", "pt-BR",]
+
+[[paths]]
+reference = "templates/pages/homepage/campaigns/youtube-regrets-about.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/youtube-regrets-about.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/common-voice-2024-roadmap.pot"
