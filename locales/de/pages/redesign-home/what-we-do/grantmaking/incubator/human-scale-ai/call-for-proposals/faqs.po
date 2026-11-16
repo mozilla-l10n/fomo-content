@@ -25,12 +25,16 @@ msgid "Frequently asked questions"
 msgstr "Häufig gestellte Fragen"
 
 msgctxt "hero_description"
-msgid "Last updated: October 15, 2026"
-msgstr "Zuletzt aktualisiert: 15. Oktober 2026"
+msgid "Last updated: November 16, 2026"
+msgstr ""
 
 msgctxt "body.71a07001-9208-4062-abcf-3c9a36d0a7dc"
 msgid "We update this FAQ regularly as new questions come in."
 msgstr "Wir aktualisieren dieses FAQ regelmäßig, sobald neue Fragen eingehen."
+
+msgctxt "body.71a07001-9208-4062-abcf-3c9a36d0a7dc"
+msgid "Interested applicants can also <a id=\"a1\">watch the recording of application information session</a>."
+msgstr ""
 
 msgctxt "body.71a07001-9208-4062-abcf-3c9a36d0a7dc"
 msgid "If neither this FAQ nor the call for proposals answers your question, email us at"
@@ -110,6 +114,14 @@ msgstr ""
 "Alle Bewerbungen müssen bis Freitag, den 20. November 2026, 23:59 Uhr Pacific Standard Time (UTC-8) eingereicht werden. Verspätete Einreichungen werden nicht akzeptiert, und wir können keine "
 "Fristverlängerungen gewähren."
 
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.c97487d3-0163-4c07-bc9a-ea78007d0e68.title"
+msgid "Q: Can I get a copy of the application questions?"
+msgstr ""
+
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.c97487d3-0163-4c07-bc9a-ea78007d0e68.content.39bdc2b5-44ff-459b-96fa-908c445175a5"
+msgid "You <a id=\"a1\">can preview the questions</a>. Applications are accepted only through the online application at <a id=\"a2\">mzl.la/humanscaleai</a>."
+msgstr ""
+
 msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.09b3335b-4bb2-4135-97bb-0b64d5cbc2f3.title"
 msgid "Is a project primarily grounded in philosophical reflection, academic exchange, cultural production, and community education—rather than technical development—eligible for this funding?"
 msgstr ""
@@ -162,6 +174,38 @@ msgstr ""
 "Ja, wir empfehlen fiskalisches Sponsoring häufig als hervorragende Option für Teams, die noch nicht als steuerbefreite Organisationen anerkannt sind. Hier finden Sie <a id=\"a1\">weitere "
 "Informationen zum fiskalischen Sponsoring</a>"
 
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.b7f03fed-597c-45ec-8473-1c8122b90144.title"
+msgid "What can the grant pay for? Can it cover overhead and/or indirect costs?"
+msgstr ""
+
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.b7f03fed-597c-45ec-8473-1c8122b90144.content.c09ae5cd-ba49-41b5-b1d6-f5334b08f28f"
+msgid ""
+"You can use the grant funds for direct project costs, including personnel and founder time, contractors, compute, and API costs. Applicants will have the opportunity to submit a detailed budget "
+"during the full application stage."
+msgstr ""
+
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.b7f03fed-597c-45ec-8473-1c8122b90144.content.c09ae5cd-ba49-41b5-b1d6-f5334b08f28f"
+msgid "For grants made to organizations, we will typically allow the grant to pay for indirect costs up to 10%. You can find <a id=\"a1\">more information on our indirect costs policies here</a>."
+msgstr ""
+
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.1b7f8512-793c-4068-aa44-f07c150d298c.title"
+msgid "Who owns the IP? What does “working in the open” mean? Do I need to open-source everything in the project?"
+msgstr ""
+
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.1b7f8512-793c-4068-aa44-f07c150d298c.content.fcefb1ed-2f63-41df-8e0a-f34a17fd647c"
+msgid "Grantees keep ownership of their IP. We ask you to work in the open as much as possible, which could mean open-source code, shared learnings, or other public resources."
+msgstr ""
+
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.52edfd26-1737-4d90-a82f-ee4439e55320.title"
+msgid "Can I submit more than one application if I have multiple projects?"
+msgstr ""
+
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.52edfd26-1737-4d90-a82f-ee4439e55320.content.1ea84a69-b41d-4512-a6ca-8c49ae827b09"
+msgid ""
+"Yes, but we strongly encourage you to submit only the project that best fits this call. Applicants who focus on one strong proposal tend to be the most successful. Larger institutions, such as "
+"universities, may submit more than one application as long as each project has a different lead or PI."
+msgstr ""
+
 msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.8e73f419-e92d-4352-9cf1-b307f66f7340.title"
 msgid "Does my project need to use AI?  Can I just add an AI feature to my project in order to become eligible?"
 msgstr "Muss mein Projekt KI verwenden? Kann ich meinem Projekt einfach eine KI-Funktion hinzufügen, um förderfähig zu werden?"
@@ -187,6 +231,17 @@ msgid ""
 msgstr ""
 "Wir verstehen KI weit gefasst: Dazu zählt alles von LLMs und agentischer KI bis hin zu kleinen Modellen und traditionellen Techniken des maschinellen Lernens. Für diese Ausschreibung interessieren "
 "wir uns jedoch speziell für kleinere, zweckmäßige Modelle; wenn Sie ein großes Modell verwenden, sollte Ihre Bewerbung klar begründen, warum dies für das zu lösende Problem notwendig ist."
+
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.907f0f7c-e9bc-4f0b-ab87-3c7f465578e8.title"
+msgid "My project currently uses a frontier/commercial model. Can I apply if the grant would fund the move to smaller models?"
+msgstr ""
+
+msgctxt "body.a1c124fe-d59b-40f9-831b-38fddf8918ec.accordion_items.907f0f7c-e9bc-4f0b-ab87-3c7f465578e8.content.a99f02c9-45a2-4a0f-91fe-9bc5677fbdc6"
+msgid ""
+"Yes, you can apply. But keep in mind that the projects that will be the most competitive are the ones that can tell a compelling story about what technologies they’re using and why those are the "
+"most efficient tools to solve the problems they’re tackling. We are expecting a high volume of applications for only seven slots so if your project doesn’t yet fit the Human-Scale criteria, you may "
+"want to consider waiting to apply in a future cycle."
+msgstr ""
 
 msgctxt "body.1d29bf7d-92f2-455f-a204-742e583d1fdf"
 msgid "Application form-related questions"
@@ -337,3 +392,7 @@ msgstr "Wieder einsteigen"
 #~ msgctxt "search_description"
 #~ msgid "lorem-0x"
 #~ msgstr "lorem-0x"
+
+#~ msgctxt "hero_description"
+#~ msgid "Last updated: October 15, 2026"
+#~ msgstr "Zuletzt aktualisiert: 15. Oktober 2026"
