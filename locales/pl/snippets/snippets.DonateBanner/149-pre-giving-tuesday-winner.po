@@ -1,10 +1,11 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2026-11-23 16:52:12.310369+00:00\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 8270ed4e-fee8-4818-ae63-8abf5fd0b378\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Generated-By: Pontoon\n"
 
 msgctxt "title"
 msgid "Make a Giving Tuesday gift"
